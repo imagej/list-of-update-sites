@@ -50,6 +50,11 @@ We know of the following update sites:
 |http://research.stowers.org/imagejplugins/updates/
 |The [http://research.stowers.org/imagejplugins/ Stowers ImageJ Plugins].
 |Jay Unruh
+|-
+|'''OpenSPIM'''
+|http://openspim.org/update/
+|The drivers and software to operate an [http://openspim.org/ OpenSPIM] (Open Access single plane light sheet microscope).
+|Luke Stuyvenberg and Johannes Schindelin
 |}
 
 You can add your own update site to this list by registering a wiki account and editing the table yourself. Alternately, you may [[Help:Contents|send a message to the fiji-devel mailing list]] about it.
