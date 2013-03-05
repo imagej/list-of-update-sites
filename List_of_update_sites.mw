@@ -1,0 +1,55 @@
+<div style="background:#ffd; padding: 10px 10px 0 10px; border: 1px solid black;">
+To '''download from someone else's update site''', see: [[How to follow a 3rd party update site]].
+
+To '''create your own update site''', see: [[How to set up and populate an update site]].
+</div>
+
+
+An '''update site''' is a website that extends ImageJ's capabilities. With update sites, you do not need to manually download and install anything; Fiji takes care of it for you.
+
+You can add support for an update site using the Help > Update Fiji command (or Help > Update in the case of ImageJ2) and clicking the "Advanced mode" button. For further details, see [[How to follow a 3rd party update site]].
+
+Anyone can create their own update site; see [[How to set up and populate an update site]] for instructions.
+
+We know of the following update sites:
+
+{| class="wikitable"
+!colspan="3"|ImageJ Update Sites
+|-
+|style="text-align: center; vertical-align: bottom;"|'''Name'''
+|style="text-align: center; vertical-align: bottom;"|'''Site'''
+|style="text-align: center; vertical-align: bottom;"|'''Description'''
+|style="text-align: center; vertical-align: bottom;"|'''Maintainer'''
+|-
+|'''ImageJ'''
+|http://update.imagej.net/
+|Base update site for [http://developer.imagej.net/ ImageJ2] & Fiji. No need to add this to your list of update sites; it is already included.
+|[http://developer.imagej.net/collaborators ImageJ developers]
+|-
+|'''Fiji'''
+|http://fiji.sc/update/
+|Base update site for [[:Category:Plugins|core Fiji plugins]]. If you [[Downloads|downloaded Fiji directly]], it is already included.
+|[[Contributors|Fiji developers]]
+|-
+|'''EPFL'''
+|http://biop.epfl.ch/Fiji-Update
+|The [http://biop.epfl.ch/ EPFL] update site for their Fiji plugins, including [http://imagejdocu.tudor.lu/doku.php?id=plugin:utilities:action_bar:start Action Bar] and HRM Manager.
+|Olivier Burri
+|-
+|'''FFMPEG'''
+|http://fiji.sc/~schindelin/ffmpeg-plugins/
+|Fiji plugins which allow reading and writing to [http://www.ffmpeg.org/ FFmpeg]-supported formats via native bindings.
+|Johannes Schindelin
+|-
+|'''LOCI'''
+|http://dev.loci.wisc.edu/fiji/
+|The [http://loci.wisc.edu/software/fiji-plugins LOCI] update site for [http://loci.wisc.edu/software/fiji-plugins their Fiji plugins], including [http://loci.wisc.edu/software/slim-plugin SLIM Plugin] and the [http://loci.wisc.edu/software/visbio-fiji-plugins VisBio Fiji plugins].
+|Curtis Rueden
+|-
+|'''Stowers'''
+|http://research.stowers.org/imagejplugins/updates/
+|The [http://research.stowers.org/imagejplugins/ Stowers ImageJ Plugins].
+|Jay Unruh
+|}
+
+You can add your own update site to this list by registering a wiki account and editing the table yourself. Alternately, you may [[Help:Contents|send a message to the fiji-devel mailing list]] about it.
