@@ -31,10 +31,10 @@ We know of the following update sites:
 |Base update site for [[:Category:Plugins|core Fiji plugins]]. If you [[Downloads|downloaded Fiji directly]], it is already included.
 |[[Contributors|Fiji developers]]
 |-
-|'''EPFL'''
+|'''PTBIOP'''
 |http://biop.epfl.ch/Fiji-Update
-|The [http://biop.epfl.ch/ EPFL] update site for their Fiji plugins, including [http://imagejdocu.tudor.lu/doku.php?id=plugin:utilities:action_bar:start Action Bar] and HRM Manager.
-|Olivier Burri
+|The [http://biop.epfl.ch/ EPFL - PTBIOP] (BioImaging & Optics Platform) Update Site, with Fiji plugins and macros, including [http://imagejdocu.tudor.lu/doku.php?id=plugin:utilities:action_bar:start Action Bars] (not the plugin) and HRM Manager.
+|[http://people.epfl.ch/olivier.burri?lang=en&cvlang=en Olivier Burri]
 |-
 |'''FFMPEG'''
 |http://fiji.sc/~schindelin/ffmpeg-plugins/
