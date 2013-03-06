@@ -21,6 +21,8 @@ We know of the following update sites:
 |style="text-align: center; vertical-align: bottom;"|'''Description'''
 |style="text-align: center; vertical-align: bottom;"|'''Maintainer'''
 |-
+|colspan="4" align="center"|''Default Update Sites''
+|-
 |'''ImageJ'''
 |http://update.imagej.net/
 |Base update site for [http://developer.imagej.net/ ImageJ2] & Fiji. No need to add this to your list of update sites; it is already included.
@@ -30,6 +32,8 @@ We know of the following update sites:
 |http://fiji.sc/update/
 |Base update site for [[:Category:Plugins|core Fiji plugins]]. If you [[Downloads|downloaded Fiji directly]], it is already included.
 |[[Contributors|Fiji developers]]
+|-
+|colspan="4" align="center"|''Optional Update Sites''
 |-
 |'''FFMPEG'''
 |http://fiji.sc/~schindelin/ffmpeg-plugins/
@@ -57,4 +61,4 @@ We know of the following update sites:
 |Jay Unruh
 |}
 
-You can add your own update site to this list by registering a wiki account and editing the table yourself. Alternately, you may [[Help:Contents|send a message to the fiji-devel mailing list]] about it.
+You can add your own update site to this list by registering a wiki account and editing the table yourself (please maintain alphabetical order). Alternately, you may [[Help:Contents|send a message to the fiji-devel mailing list]] about it.
