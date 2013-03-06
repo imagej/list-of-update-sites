@@ -39,17 +39,17 @@ We know of the following update sites:
 |'''FFMPEG'''
 |http://fiji.sc/~schindelin/ffmpeg-plugins/
 |Fiji plugins which allow reading and writing to [http://www.ffmpeg.org/ FFmpeg]-supported formats via native bindings.
-|Johannes Schindelin
+|[[:User:Schindelin|Johannes Schindelin]]
 |-
 |'''LOCI'''
 |http://dev.loci.wisc.edu/fiji/
 |The [http://loci.wisc.edu/software/fiji-plugins LOCI] update site for [http://loci.wisc.edu/software/fiji-plugins their Fiji plugins], including [http://loci.wisc.edu/software/slim-plugin SLIM Plugin] and the [http://loci.wisc.edu/software/visbio-fiji-plugins VisBio Fiji plugins].
-|Curtis Rueden
+|[[:User:Rueden|Curtis Rueden]]
 |-
 |'''OpenSPIM'''
 |http://openspim.org/update/
 |The drivers and software to operate an [http://openspim.org/ OpenSPIM] (Open Access single plane light sheet microscope).
-|Luke Stuyvenberg and Johannes Schindelin
+|[[:User:Stuyvenberg|Luke Stuyvenberg]] and [[:User:Schindelin|Johannes Schindelin]]
 |-
 |'''Stowers'''
 |http://research.stowers.org/imagejplugins/updates/
