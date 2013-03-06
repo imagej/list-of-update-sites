@@ -31,11 +31,6 @@ We know of the following update sites:
 |Base update site for [[:Category:Plugins|core Fiji plugins]]. If you [[Downloads|downloaded Fiji directly]], it is already included.
 |[[Contributors|Fiji developers]]
 |-
-|'''PTBIOP'''
-|http://biop.epfl.ch/Fiji-Update
-|The [http://biop.epfl.ch/ EPFL - PTBIOP] (BioImaging & Optics Platform) Update Site, with Fiji plugins and macros, including [http://imagejdocu.tudor.lu/doku.php?id=plugin:utilities:action_bar:start Action Bars] (not the plugin) and HRM Manager.
-|[http://people.epfl.ch/olivier.burri?lang=en&cvlang=en Olivier Burri]
-|-
 |'''FFMPEG'''
 |http://fiji.sc/~schindelin/ffmpeg-plugins/
 |Fiji plugins which allow reading and writing to [http://www.ffmpeg.org/ FFmpeg]-supported formats via native bindings.
@@ -50,6 +45,11 @@ We know of the following update sites:
 |http://openspim.org/update/
 |The drivers and software to operate an [http://openspim.org/ OpenSPIM] (Open Access single plane light sheet microscope).
 |[[:User:Stuyvenberg|Luke Stuyvenberg]] and [[:User:Schindelin|Johannes Schindelin]]
+|-
+|'''PTBIOP'''
+|http://biop.epfl.ch/Fiji-Update
+|The [http://biop.epfl.ch/ EPFL - PTBIOP] (BioImaging & Optics Platform) Update Site, with Fiji plugins and macros, including [http://imagejdocu.tudor.lu/doku.php?id=plugin:utilities:action_bar:start Action Bars] (not the plugin) and HRM Manager.
+|[http://people.epfl.ch/olivier.burri?lang=en&cvlang=en Olivier Burri]
 |-
 |'''Stowers'''
 |http://research.stowers.org/imagejplugins/updates/
