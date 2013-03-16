@@ -40,6 +40,11 @@ We know of the following update sites:
 |Fiji plugins which allow reading and writing to [http://www.ffmpeg.org/ FFmpeg]-supported formats via native bindings.
 |[[:User:Schindelin|Johannes Schindelin]]
 |-
+|'''IBMP-CNRS'''
+|http://www-ibmp.u-strasbg.fr/fijiupdates/
+|[http://imagejdocu.tudor.lu/doku.php?id=plugin:utilities:figurej:start FigureJ] (easy article figure creation), [http://imagejdocu.tudor.lu/doku.php?id=plugin:utilities:action_bar:start ActionBar] (macro-based buttons bars), [http://imagejdocu.tudor.lu/doku.php?id=plugin:utilities:droplet:start Droplet] (drag and drop file processor), [http://imagejdocu.tudor.lu/doku.php?id=plugin:inputoutput:lsm_reader:start LSM Reader], [http://imagejdocu.tudor.lu/doku.php?id=plugin:inputoutput:lsmtoolbox:start LSM Toolbox], [http://imagejdocu.tudor.lu/doku.php?id=plugin:utilities:ij_ed:start IJ_Ed] (jEdit link).
+|[[:User:Mutterer|Jerome Mutterer]]
+|-
 |'''LOCI'''
 |http://dev.loci.wisc.edu/fiji/
 |The [http://loci.wisc.edu/software/fiji-plugins LOCI] update site for [http://loci.wisc.edu/software/fiji-plugins their Fiji plugins], including [http://loci.wisc.edu/software/slim-plugin SLIM Plugin] and the [http://loci.wisc.edu/software/visbio-fiji-plugins VisBio Fiji plugins].
