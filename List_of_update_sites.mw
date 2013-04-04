@@ -50,7 +50,7 @@ We know of the following update sites:
 |The [http://loci.wisc.edu/software/fiji-plugins LOCI] update site for [http://loci.wisc.edu/software/fiji-plugins their Fiji plugins], including [http://loci.wisc.edu/software/slim-plugin SLIM Plugin] and the [http://loci.wisc.edu/software/visbio-fiji-plugins VisBio Fiji plugins].
 |[[:User:Rueden|Curtis Rueden]]
 |-
-|'''Mosaic Toolsuite'''
+|'''MOSAIC ToolSuite'''
 |http://mosaic.mpi-cbg.de/Downloads/update/Fiji/MosaicToolsuite
 |An integrated toolbox containing the following image-processing software from the
 MOSAIC Group:
@@ -58,7 +58,7 @@ MOSAIC Group:
 and 3D globally optimal two-region image segmentation, point-spread function
 estimation in 2D and 3D, background subtraction, Poisson noise simulator, microscope
 optics simulator, chromatic aberration correction.
-|MOSAIC Group, MPI-CBG, Dresden
+|[http://mosaic.mpi-cbg.de MOSAIC Group, MPI-CBG, Dresden]
 |-
 |'''OpenSPIM'''
 |http://openspim.org/update/
