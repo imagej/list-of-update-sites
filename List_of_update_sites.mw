@@ -14,14 +14,14 @@ Anyone can create their own update site; see [[How to set up and populate an upd
 We know of the following update sites:
 
 {| class="wikitable"
-!colspan="4"|ImageJ Update Sites
+!colspan="4" style="border-bottom: 1px solid gray"|ImageJ Update Sites
 |-
-|style="text-align: center; vertical-align: bottom;"|'''Name'''
-|style="text-align: center; vertical-align: bottom;"|'''Site'''
-|style="text-align: center; vertical-align: bottom;"|'''Description'''
-|style="text-align: center; vertical-align: bottom;"|'''Maintainer'''
+|style="vertical-align: bottom;"|'''Name'''
+|style="vertical-align: bottom;"|'''Site'''
+|style="vertical-align: bottom;"|'''Description'''
+|style="vertical-align: bottom;"|'''Maintainer'''
 |-
-|colspan="4" align="center"|''Default Update Sites''
+|colspan="4" style="background: #ddd; padding: 5px; text-align: center"|''Default Update Sites''
 |-
 |'''ImageJ'''
 |http://update.imagej.net/
@@ -33,7 +33,7 @@ We know of the following update sites:
 |Base update site for [[:Category:Plugins|core Fiji plugins]]. If you [[Downloads|downloaded Fiji directly]], it is already included.
 |[[Contributors|Fiji developers]]
 |-
-|colspan="4" align="center"|''Optional Update Sites''
+|colspan="4" style="background: #ddd; padding: 5px; text-align: center"|''Optional Update Sites''
 |-
 |'''FFMPEG'''
 |http://fiji.sc/~schindelin/ffmpeg-plugins/
@@ -74,6 +74,9 @@ optics simulator, chromatic aberration correction.
 |http://research.stowers.org/imagejplugins/updates/
 |The [http://research.stowers.org/imagejplugins/ Stowers ImageJ Plugins].
 |Jay Unruh
+|-
+|colspan="4" style="border-bottom: 1px solid gray"|
 |}
+
 
 You can add your own update site to this list by registering a wiki account and editing the table yourself (please maintain alphabetical order). Alternately, you may [[Help:Contents|send a message to the fiji-devel mailing list]] about it.
