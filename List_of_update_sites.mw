@@ -21,7 +21,7 @@ We know of the following update sites:
 |style="vertical-align: bottom;"|'''Description'''
 |style="vertical-align: bottom;"|'''Maintainer'''
 |-
-|colspan="4" style="background: #ddd; padding: 5px; text-align: center"|''Default Update Sites''
+|colspan="4" style="background: #ddd; border-top: 1px solid gray; padding: 5px; text-align: center"|''Default Update Sites''
 |-
 |'''ImageJ'''
 |http://update.imagej.net/
