@@ -52,12 +52,7 @@ We know of the following update sites:
 |-
 |'''MOSAIC ToolSuite'''
 |http://mosaic.mpi-cbg.de/Downloads/update/Fiji/MosaicToolsuite
-|An integrated toolbox containing the following image-processing software from the
-MOSAIC Group:
-2D and 3D single-particle tracking, 2D and 3D multi-region image segmentation, 2D
-and 3D globally optimal two-region image segmentation, point-spread function
-estimation in 2D and 3D, background subtraction, Poisson noise simulator, microscope
-optics simulator, chromatic aberration correction.
+|An integrated toolbox containing the following image-processing software from the MOSAIC Group: 2D and 3D single-particle tracking, 2D and 3D multi-region image segmentation, 2D and 3D globally optimal two-region image segmentation, point-spread function estimation in 2D and 3D, background subtraction, Poisson noise simulator, microscope optics simulator, chromatic aberration correction.
 |[http://mosaic.mpi-cbg.de MOSAIC Group, MPI-CBG, Dresden]
 |-
 |'''OpenSPIM'''
