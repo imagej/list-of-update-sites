@@ -35,6 +35,11 @@ We know of the following update sites:
 |-
 |colspan="4" style="background: #ddd; padding: 5px; text-align: center"|''Optional Update Sites''
 |-
+|'''BioVoxxel'''
+|http://sites.imagej.net/BioVoxxel/
+|A toolset with macros providing image filters, color coding of shape descriptors and several tools to process and analyze binary images. Documentation under: [http://www.biovoxxel.de/macros.html BioVoxxel]
+|[mailto:jan.brocher@biovoxxel.de Jan Brocher]
+|-
 |'''FFMPEG'''
 |http://fiji.sc/~schindelin/ffmpeg-plugins/
 |Fiji plugins which allow reading and writing to [http://www.ffmpeg.org/ FFmpeg]-supported formats via native bindings.
