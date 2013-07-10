@@ -35,6 +35,11 @@ We know of the following update sites:
 |-
 |colspan="4" style="background: #ddd; padding: 5px; text-align: center"|''Optional Update Sites''
 |-
+|'''BigDataViewer'''
+|http://sites.imagej.net/Pietzsch/
+|BigDataViewer allows interactive browsing of multi-terabyte datasets, arbitrarily re-slicing and zooming, overlaying data from multiple channels and angles, etc. It is designed for visualising SPIM time-lapse recordings (3D+time, multi-channel, multi-angle) and similar datasets. It is build using [http://imglib2.net imglib2] and a custom multi-resolution file format.
+|[[:User:Pietzsch|Tobias Pietzsch]]
+|-
 |'''BioVoxxel'''
 |http://sites.imagej.net/BioVoxxel/
 |A toolset with macros providing image filters, color coding of shape descriptors and several tools to process and analyze binary images. Documentation under: [http://www.biovoxxel.de/macros.html BioVoxxel]
@@ -79,11 +84,6 @@ We know of the following update sites:
 |http://research.stowers.org/imagejplugins/updates/
 |The [http://research.stowers.org/imagejplugins/ Stowers ImageJ Plugins].
 |Jay Unruh
-|-
-|'''BigDataViewer'''
-|http://sites.imagej.net/Pietzsch/
-|BigDataViewer allows interactive browsing of multi-terabyte datasets, arbitrarily re-slicing and zooming, overlaying data from multiple channels and angles, etc. It is designed for visualising SPIM time-lapse recordings (3D+time, multi-channel, multi-angle) and similar datasets. It is build using [http://imglib2.net imglib2] and a custom multi-resolution file format.
-|[[:User:Pietzsch|Tobias Pietzsch]]
 |-
 |colspan="4" style="border-bottom: 1px solid gray"|
 |}
