@@ -94,6 +94,11 @@ We know of the following update sites:
 |http://research.stowers.org/imagejplugins/updates/
 |The [http://research.stowers.org/imagejplugins/ Stowers ImageJ Plugins].
 |Jay Unruh
+|- valign="top"
+|'''TrackMate-dev'''
+|http://sites.imagej.net/TrackMate-dev/
+|The development version of [[TrackMate]].
+|Jean-Yves Tinevez, Johannes Schindelin
 |-
 |colspan="4" style="border-bottom: 1px solid gray"|
 |}
