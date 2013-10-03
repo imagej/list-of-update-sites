@@ -80,7 +80,7 @@ We know of the following update sites:
 |- valign="top"
 |'''LLTT'''
 |The [[Low_Light_Tracking_Tool | Low Light Tracking Tool]] can be used to track low-light sub-resolution objects in microscopy images and other applications.
-|[[:User:Alex-krull | Alexander Krull]] and [[:User:Damienrj|Damien Ramunno-Johnson]]
+|[[:User:Alex-krull | Alexander Krull]], [[:User:Damienrj|Damien Ramunno-Johnson]]
 |http://sites.imagej.net/Alex-krull/
 |- valign="top"
 |'''LOCI'''
@@ -90,12 +90,12 @@ We know of the following update sites:
 |- valign="top"
 |'''MOSAIC ToolSuite'''
 |An integrated toolbox containing the following image-processing software from the MOSAIC Group: 2D and 3D single-particle tracking, 2D and 3D multi-region image segmentation, 2D and 3D globally optimal two-region image segmentation, point-spread function estimation in 2D and 3D, background subtraction, Poisson noise simulator, microscope optics simulator, chromatic aberration correction.
-|[http://mosaic.mpi-cbg.de MOSAIC Group, MPI-CBG, Dresden]
+|[http://mosaic.mpi-cbg.de MPI-CBG MOSAIC Group]
 |http://mosaic.mpi-cbg.de/Downloads/update/Fiji/MosaicToolsuite
 |- valign="top"
 |'''OpenSPIM'''
 |The drivers and software to operate an [http://openspim.org/ OpenSPIM] (Open Access selective plane light sheet microscope).
-|[http://loci.wisc.edu/people/luke-stuyvenberg Luke Stuyvenberg] and [[:User:Schindelin|Johannes Schindelin]]
+|[http://loci.wisc.edu/people/luke-stuyvenberg Luke Stuyvenberg], [[:User:Schindelin|Johannes Schindelin]]
 |http://openspim.org/update/
 |- valign="top"
 |'''PTBIOP'''
@@ -110,12 +110,11 @@ We know of the following update sites:
 |- valign="top"
 |'''TrackMate-dev'''
 |The development version of [[TrackMate]].
-|Jean-Yves Tinevez, Johannes Schindelin
+|Jean-Yves Tinevez, [[:User:Schindelin|Johannes Schindelin]]
 |http://sites.imagej.net/TrackMate-dev/
 |-
 |colspan="4" style="border-bottom: 1px solid gray"|
 |}
-
 
 = Personal Update Sites =
 
