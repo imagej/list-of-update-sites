@@ -127,7 +127,7 @@ We know of the following update sites:
 !colspan="4" style="border-bottom: 1px solid gray"|
 |- valign="top"
 |'''Pariksheet Nanda'''
-|Esoteric MetaMorph 7 macros to post-process data:
+|Esoteric macros to post-process MetaMorph 7 data:
 * [http://imagejdocu.tudor.lu/doku.php?id=macro:import_metamorph_screen_acquisition_tile_data Import "Screen Acquisition" tile data]
 |http://sites.imagej.net/Omsai/
 |-
