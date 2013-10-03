@@ -9,99 +9,127 @@ An '''update site''' is a website that extends ImageJ's capabilities. With updat
 
 You can add support for an update site using the Help > Update Fiji command (or Help > Update in the case of ImageJ2) and clicking the "Advanced mode" button. For further details, see [[How to follow a 3rd party update site]].
 
-Anyone can create their own update site; see [[How to set up and populate an update site]] for instructions.
+Anyone can create their own update site; see [[How to set up and populate an update site]] for instructions.  You can add your own update site to this list by registering a wiki account and editing the table yourself (please maintain alphabetical order). Alternately, you may [[Help:Contents|send a message to the fiji-devel mailing list]] about it.
+
 
 We know of the following update sites:
 
+= Default Update Sites =
+
 {| class="wikitable"
-!colspan="4" style="border-bottom: 1px solid gray"|ImageJ Update Sites
+!align="left" width=15%|'''Name'''
+!align="left" width=50%|'''Description'''
+!align="left" width=15%|'''Maintainer'''
+!align="left"|'''Site'''
 |-
-|style="vertical-align: bottom;"|'''Name'''
-|style="vertical-align: bottom;"|'''Site'''
-|style="vertical-align: bottom;"|'''Description'''
-|style="vertical-align: bottom;"|'''Maintainer'''
-|-
-|colspan="4" style="background: #ddd; border-top: 1px solid gray; padding: 5px; text-align: center"|''Default Update Sites''
+!colspan="4" style="border-bottom: 1px solid gray"|
 |- valign="top"
 |'''ImageJ'''
-|http://update.imagej.net/
 |Base update site for [http://developer.imagej.net/ ImageJ2] & Fiji. No need to add this to your list of update sites; it is already included.
 |[http://developer.imagej.net/collaborators ImageJ developers]
+|http://update.imagej.net/
 |- valign="top"
 |'''Fiji'''
-|http://fiji.sc/update/
 |Base update site for [[:Category:Plugins|core Fiji plugins]]. If you [[Downloads|downloaded Fiji directly]], it is already included.
 |[[Contributors|Fiji developers]]
-|-
-|colspan="4" style="background: #ddd; padding: 5px; text-align: center"|''Optional Update Sites''
-|- valign="top"
-|'''BigDataViewer'''
-|http://sites.imagej.net/Pietzsch/
-|BigDataViewer allows interactive browsing of multi-terabyte datasets, arbitrarily re-slicing and zooming, overlaying data from multiple channels and angles, etc. It is designed for visualising SPIM time-lapse recordings (3D+time, multi-channel, multi-angle) and similar datasets. It is build using [http://imglib2.net imglib2] and a custom multi-resolution file format.
-|[[:User:Pietzsch|Tobias Pietzsch]]
-|- valign="top"
-|'''Bio-Formats daily builds'''
-|http://sites.imagej.net/Bio-Formats/
-|A version of [[Bio-Formats]] with the latest bugfixes from the [https://github.com/openmicroscopy/bioformats/tree/dev_4_4 stable development branch]. The [http://hudson.openmicroscopy.org.uk/job/BIOFORMATS-stable/lastSuccessfulBuild/ last successful build] is automatically uploaded daily.
-|[http://jenkins.imagej.net/job/Bio-Formats-ImageJ-daily/ ImageJ Jenkins]
-|- valign="top"
-|'''BioVoxxel'''
-|http://sites.imagej.net/BioVoxxel/
-|A toolset with macros providing image filters, a gaussian weighted median filter plugin, flat-field background subtraction, color coding of shape descriptors and several tools to process and analyze binary images such as the 'Speckle Inspector', 'Binary Feature Extractor' and an 'Advanced Particle Analyzer'. Documentation under: [http://www.biovoxxel.de/macros.html BioVoxxel]
-|[mailto:jan.brocher@biovoxxel.de Jan Brocher]
-|- valign="top"
-|'''FFMPEG'''
-|http://fiji.sc/~schindelin/ffmpeg-plugins/
-|Fiji plugins which allow reading and writing to [http://www.ffmpeg.org/ FFmpeg]-supported formats via native bindings.
-|[[:User:Schindelin|Johannes Schindelin]]
-|- valign="top"
-|'''IBMP-CNRS'''
-|http://www-ibmp.u-strasbg.fr/fijiupdates/
-|[http://imagejdocu.tudor.lu/doku.php?id=plugin:utilities:figurej:start FigureJ] (easy article figure creation), [http://imagejdocu.tudor.lu/doku.php?id=plugin:utilities:action_bar:start ActionBar] (macro-based buttons bars), [http://imagejdocu.tudor.lu/doku.php?id=plugin:utilities:droplet:start Droplet] (drag and drop file processor), [http://imagejdocu.tudor.lu/doku.php?id=plugin:inputoutput:lsm_reader:start LSM Reader], [http://imagejdocu.tudor.lu/doku.php?id=plugin:inputoutput:lsmtoolbox:start LSM Toolbox], [http://imagejdocu.tudor.lu/doku.php?id=plugin:utilities:ij_ed:start IJ_Ed] (jEdit link).
-|[mailto:jerome.mutterer@gmail.com Jerome Mutterer]
-|- valign="top"
-|'''ImageJ Latex'''
-|http://sites.imagej.net/Yul.liuyu/
-|Add math equations to an image using Latex.
-|Yu Liu
-|- valign="top"
-|'''LLTT'''
-|http://sites.imagej.net/Alex-krull/
-|The [[Low_Light_Tracking_Tool | Low Light Tracking Tool]] can be used to track low-light sub-resolution objects in microscopy images and other applications.
-|[[:User:Alex-krull | Alexander Krull]] and [[:User:Damienrj|Damien Ramunno-Johnson]]
-|- valign="top"
-|'''LOCI'''
-|http://dev.loci.wisc.edu/fiji/
-|The [http://loci.wisc.edu/software/fiji-plugins LOCI] update site for [http://loci.wisc.edu/software/fiji-plugins their Fiji plugins], including [http://loci.wisc.edu/software/slim-plugin SLIM Plugin] and the [http://loci.wisc.edu/software/visbio-fiji-plugins VisBio Fiji plugins].
-|[[:User:Rueden|Curtis Rueden]]
-|- valign="top"
-|'''MOSAIC ToolSuite'''
-|http://mosaic.mpi-cbg.de/Downloads/update/Fiji/MosaicToolsuite
-|An integrated toolbox containing the following image-processing software from the MOSAIC Group: 2D and 3D single-particle tracking, 2D and 3D multi-region image segmentation, 2D and 3D globally optimal two-region image segmentation, point-spread function estimation in 2D and 3D, background subtraction, Poisson noise simulator, microscope optics simulator, chromatic aberration correction.
-|[http://mosaic.mpi-cbg.de MOSAIC Group, MPI-CBG, Dresden]
-|- valign="top"
-|'''OpenSPIM'''
-|http://openspim.org/update/
-|The drivers and software to operate an [http://openspim.org/ OpenSPIM] (Open Access selective plane light sheet microscope).
-|[http://loci.wisc.edu/people/luke-stuyvenberg Luke Stuyvenberg] and [[:User:Schindelin|Johannes Schindelin]]
-|- valign="top"
-|'''PTBIOP'''
-|http://biop.epfl.ch/Fiji-Update
-|The [http://biop.epfl.ch/ EPFL - PTBIOP] (BioImaging & Optics Platform) Update Site, with Fiji plugins and macros, including [http://imagejdocu.tudor.lu/doku.php?id=plugin:utilities:action_bar:start Action Bars] (not the plugin) and HRM Manager.
-|[http://people.epfl.ch/olivier.burri?lang=en&cvlang=en Olivier Burri]
-|- valign="top"
-|'''Stowers'''
-|http://research.stowers.org/imagejplugins/updates/
-|The [http://research.stowers.org/imagejplugins/ Stowers ImageJ Plugins].
-|Jay Unruh
-|- valign="top"
-|'''TrackMate-dev'''
-|http://sites.imagej.net/TrackMate-dev/
-|The development version of [[TrackMate]].
-|Jean-Yves Tinevez, Johannes Schindelin
+|http://fiji.sc/update/
 |-
 |colspan="4" style="border-bottom: 1px solid gray"|
 |}
 
 
-You can add your own update site to this list by registering a wiki account and editing the table yourself (please maintain alphabetical order). Alternately, you may [[Help:Contents|send a message to the fiji-devel mailing list]] about it.
+= Group Update Sites =
+
+{| class="wikitable"
+!align="left" width=15%|'''Name'''
+!align="left" width=50%|'''Description'''
+!align="left" width=15%|'''Maintainer'''
+!align="left"|'''Site'''
+|-
+!colspan="4" style="border-bottom: 1px solid gray"|
+|- valign="top"
+|'''BigDataViewer'''
+|BigDataViewer allows interactive browsing of multi-terabyte datasets, arbitrarily re-slicing and zooming, overlaying data from multiple channels and angles, etc. It is designed for visualising SPIM time-lapse recordings (3D+time, multi-channel, multi-angle) and similar datasets. It is build using [http://imglib2.net imglib2] and a custom multi-resolution file format.
+|[[:User:Pietzsch|Tobias Pietzsch]]
+|http://sites.imagej.net/Pietzsch/
+|- valign="top"
+|'''Bio-Formats daily builds'''
+|A version of [[Bio-Formats]] with the latest bugfixes from the [https://github.com/openmicroscopy/bioformats/tree/dev_4_4 stable development branch]. The [http://hudson.openmicroscopy.org.uk/job/BIOFORMATS-stable/lastSuccessfulBuild/ last successful build] is automatically uploaded daily.
+|[http://jenkins.imagej.net/job/Bio-Formats-ImageJ-daily/ ImageJ Jenkins]
+|http://sites.imagej.net/Bio-Formats/
+|- valign="top"
+|'''BioVoxxel'''
+|A toolset with macros providing image filters, a gaussian weighted median filter plugin, flat-field background subtraction, color coding of shape descriptors and several tools to process and analyze binary images such as the 'Speckle Inspector', 'Binary Feature Extractor' and an 'Advanced Particle Analyzer'. Documentation under: [http://www.biovoxxel.de/macros.html BioVoxxel]
+|[mailto:jan.brocher@biovoxxel.de Jan Brocher]
+|http://sites.imagej.net/BioVoxxel/
+|- valign="top"
+|'''FFMPEG'''
+|Fiji plugins which allow reading and writing to [http://www.ffmpeg.org/ FFmpeg]-supported formats via native bindings.
+|[[:User:Schindelin|Johannes Schindelin]]
+|http://fiji.sc/~schindelin/ffmpeg-plugins/
+|- valign="top"
+|'''IBMP-CNRS'''
+|[http://imagejdocu.tudor.lu/doku.php?id=plugin:utilities:figurej:start FigureJ] (easy article figure creation), [http://imagejdocu.tudor.lu/doku.php?id=plugin:utilities:action_bar:start ActionBar] (macro-based buttons bars), [http://imagejdocu.tudor.lu/doku.php?id=plugin:utilities:droplet:start Droplet] (drag and drop file processor), [http://imagejdocu.tudor.lu/doku.php?id=plugin:inputoutput:lsm_reader:start LSM Reader], [http://imagejdocu.tudor.lu/doku.php?id=plugin:inputoutput:lsmtoolbox:start LSM Toolbox], [http://imagejdocu.tudor.lu/doku.php?id=plugin:utilities:ij_ed:start IJ_Ed] (jEdit link).
+|[mailto:jerome.mutterer@gmail.com Jerome Mutterer]
+|http://www-ibmp.u-strasbg.fr/fijiupdates/
+|- valign="top"
+|'''ImageJ Latex'''
+|Add math equations to an image using Latex.
+|Yu Liu
+|http://sites.imagej.net/Yul.liuyu/
+|- valign="top"
+|'''LLTT'''
+|The [[Low_Light_Tracking_Tool | Low Light Tracking Tool]] can be used to track low-light sub-resolution objects in microscopy images and other applications.
+|[[:User:Alex-krull | Alexander Krull]] and [[:User:Damienrj|Damien Ramunno-Johnson]]
+|http://sites.imagej.net/Alex-krull/
+|- valign="top"
+|'''LOCI'''
+|The [http://loci.wisc.edu/software/fiji-plugins LOCI] update site for [http://loci.wisc.edu/software/fiji-plugins their Fiji plugins], including [http://loci.wisc.edu/software/slim-plugin SLIM Plugin] and the [http://loci.wisc.edu/software/visbio-fiji-plugins VisBio Fiji plugins].
+|[[:User:Rueden|Curtis Rueden]]
+|http://dev.loci.wisc.edu/fiji/
+|- valign="top"
+|'''MOSAIC ToolSuite'''
+|An integrated toolbox containing the following image-processing software from the MOSAIC Group: 2D and 3D single-particle tracking, 2D and 3D multi-region image segmentation, 2D and 3D globally optimal two-region image segmentation, point-spread function estimation in 2D and 3D, background subtraction, Poisson noise simulator, microscope optics simulator, chromatic aberration correction.
+|[http://mosaic.mpi-cbg.de MOSAIC Group, MPI-CBG, Dresden]
+|http://mosaic.mpi-cbg.de/Downloads/update/Fiji/MosaicToolsuite
+|- valign="top"
+|'''OpenSPIM'''
+|The drivers and software to operate an [http://openspim.org/ OpenSPIM] (Open Access selective plane light sheet microscope).
+|[http://loci.wisc.edu/people/luke-stuyvenberg Luke Stuyvenberg] and [[:User:Schindelin|Johannes Schindelin]]
+|http://openspim.org/update/
+|- valign="top"
+|'''PTBIOP'''
+|The [http://biop.epfl.ch/ EPFL - PTBIOP] (BioImaging & Optics Platform) Update Site, with Fiji plugins and macros, including [http://imagejdocu.tudor.lu/doku.php?id=plugin:utilities:action_bar:start Action Bars] (not the plugin) and HRM Manager.
+|[http://people.epfl.ch/olivier.burri?lang=en&cvlang=en Olivier Burri]
+|http://biop.epfl.ch/Fiji-Update
+|- valign="top"
+|'''Stowers'''
+|The [http://research.stowers.org/imagejplugins/ Stowers ImageJ Plugins].
+|Jay Unruh
+|http://research.stowers.org/imagejplugins/updates/
+|- valign="top"
+|'''TrackMate-dev'''
+|The development version of [[TrackMate]].
+|Jean-Yves Tinevez, Johannes Schindelin
+|http://sites.imagej.net/TrackMate-dev/
+|-
+|colspan="4" style="border-bottom: 1px solid gray"|
+|}
+
+
+= Personal Update Sites =
+
+{| class="wikitable"
+!align="left" width=15%|'''Name'''
+!align="left" width=70%|'''Description'''
+!align="left"|'''Site'''
+|-
+!colspan="4" style="border-bottom: 1px solid gray"|
+|- valign="top"
+|'''Pariksheet Nanda'''
+|Esoteric MetaMorph 7 macros to post-process data:
+* [http://imagejdocu.tudor.lu/doku.php?id=macro:import_metamorph_screen_acquisition_tile_data Import "Screen Acquisition" tile data]
+|http://sites.imagej.net/Omsai/
+|-
+|colspan="4" style="border-bottom: 1px solid gray"|
+|}
