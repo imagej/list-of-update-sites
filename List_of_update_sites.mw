@@ -35,6 +35,11 @@ We know of the following update sites:
 |-
 |colspan="4" style="background: #ddd; padding: 5px; text-align: center"|''Optional Update Sites''
 |- valign="top"
+|'''3D ImageJ Suite'''
+|http://sites.imagej.net/Tboudier/
+|A [http://imagejdocu.tudor.lu/doku.php?id=plugin:stacks:3d_ij_suite:start suite of plugins] providing enhanced 3D capabilities in ImageJ.
+|Thomas Boudier
+|- valign="top"
 |'''BigDataViewer'''
 |http://sites.imagej.net/Pietzsch/
 |BigDataViewer allows interactive browsing of multi-terabyte datasets, arbitrarily re-slicing and zooming, overlaying data from multiple channels and angles, etc. It is designed for visualising SPIM time-lapse recordings (3D+time, multi-channel, multi-angle) and similar datasets. It is build using [http://imglib2.net imglib2] and a custom multi-resolution file format.
