@@ -95,6 +95,11 @@ We know of the following update sites:
 |The [http://biop.epfl.ch/ EPFL - PTBIOP] (BioImaging & Optics Platform) Update Site, with Fiji plugins and macros, including [http://imagejdocu.tudor.lu/doku.php?id=plugin:utilities:action_bar:start Action Bars] (not the plugin) and HRM Manager.
 |[http://people.epfl.ch/olivier.burri?lang=en&cvlang=en Olivier Burri]
 |- valign="top"
+|'''ScientiFig'''
+|http://sites.imagej.net/Aigouy/
+|ScientiFig is a tool to build publication-ready scientific figures.
+|[mailto:scientifig@gmail.com Benoit Aigouy]
+|- valign="top"
 |'''Stowers'''
 |http://research.stowers.org/imagejplugins/updates/
 |The [http://research.stowers.org/imagejplugins/ Stowers ImageJ Plugins].
