@@ -119,6 +119,11 @@ We know of the following update sites:
 |http://sites.imagej.net/TrackMate-dev/
 |The development version of [[TrackMate]].
 |Jean-Yves Tinevez, Johannes Schindelin
+|- valign="top"
+|'''CMP-BIA tools'''
+|http://sites.imagej.net/CMP-BIA/
+|The development version of [[CMP-BIA tools]].
+|[http://cmp.felk.cvut.cz/~borovji3/ Jiri Borovec]
 |-
 |colspan="4" style="border-bottom: 1px solid gray"|
 |}
