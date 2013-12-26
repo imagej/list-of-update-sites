@@ -65,6 +65,11 @@ We know of the following update sites:
 |Plugins from the [[Cookbook|Fiji Cookbook]].
 |[mailto:fiji@fiji.sc Fiii Cookbook Team]
 |- valign="top"
+|'''CMP-BIA tools'''
+|http://sites.imagej.net/CMP-BIA/
+|The development version of [[CMP-BIA tools]].
+|[http://cmp.felk.cvut.cz/~borovji3/ Jiri Borovec]
+|- valign="top"
 |'''FFMPEG'''
 |http://fiji.sc/~schindelin/ffmpeg-plugins/
 |Fiji plugins which allow reading and writing to [http://www.ffmpeg.org/ FFmpeg]-supported formats via native bindings.
@@ -119,11 +124,6 @@ We know of the following update sites:
 |http://sites.imagej.net/TrackMate-dev/
 |The development version of [[TrackMate]].
 |Jean-Yves Tinevez, Johannes Schindelin
-|- valign="top"
-|'''CMP-BIA tools'''
-|http://sites.imagej.net/CMP-BIA/
-|The development version of [[CMP-BIA tools]].
-|[http://cmp.felk.cvut.cz/~borovji3/ Jiri Borovec]
 |-
 |colspan="4" style="border-bottom: 1px solid gray"|
 |}
