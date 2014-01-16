@@ -120,6 +120,11 @@ We know of the following update sites:
 |ScientiFig is a tool to build publication-ready scientific figures similar to FigureJ from the IBMP-CNRS site.
 |[mailto:scientifig@gmail.com Benoit Aigouy]
 |- valign="top"
+|'''SCIFIO-dev'''
+|http://sites.imagej.net/SCIFIO/
+|Development version of [http://github.com/scifio/scifio SCIFIO].
+|Mark Hiner
+|- valign="top"
 |'''Stowers'''
 |http://research.stowers.org/imagejplugins/updates/
 |The [http://research.stowers.org/imagejplugins/ Stowers ImageJ Plugins].
