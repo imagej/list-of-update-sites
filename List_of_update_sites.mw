@@ -62,7 +62,7 @@ We know of the following update sites:
 |- valign="top"
 |'''BioVoxxel'''
 |http://sites.imagej.net/BioVoxxel/
-|A toolset providing a gaussian weighted median filter plugin, and macros for flat-field background correction, color coding of shape descriptors and several tools to process and analyze binary images such as the 'Speckle Inspector', 'Binary Feature Extractor' and an 'Advanced Particle Analyzer' and a qualitative and quantitative evaluation tool for Fijis' Auto Threshold methods. Documentation under: [http://www.biovoxxel.de/macros.html BioVoxxel] or the [http://fiji.sc/User:BioVoxxel BioVoxxel Fiji Wiki] page
+|A toolset providing a gaussian weighted median filter plugin, and macros for flat-field background correction, color coding of shape descriptors and several tools to process and analyze binary images such as the 'Speckle Inspector', 'Binary Feature Extractor' and an 'Advanced Particle Analyzer' and a qualitative and quantitative evaluation tool for Fijis' Auto Threshold methods. Documentation under: [http://www.biovoxxel.de/macros.html BioVoxxel] or the [http://fiji.sc/BioVoxxel_Toolbox BioVoxxel Fiji Wiki] page
 |[mailto:jan.brocher@biovoxxel.de Jan Brocher]
 |- valign="top"
 |'''Cookbook'''
