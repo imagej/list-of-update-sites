@@ -130,6 +130,11 @@ We know of the following update sites:
 |Development version of [http://github.com/scifio/scifio SCIFIO].
 |Mark Hiner
 |- valign="top"
+|'''SLIM Curve'''
+|http://sites.imagej.net/SLIM-Curve/
+|A [http://loci.wisc.edu/software/slim-plugin Spectral Lifetime Analysis] plugin suite.
+|[[:User:Rueden|Curtis Rueden]]
+|- valign="top"
 |'''Stowers'''
 |http://research.stowers.org/imagejplugins/updates/
 |The [http://research.stowers.org/imagejplugins/ Stowers ImageJ Plugins].
