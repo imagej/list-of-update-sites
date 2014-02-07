@@ -101,8 +101,8 @@ We know of the following update sites:
 |[[:User:Alex-krull | Alexander Krull]] and [[:User:Damienrj|Damien Ramunno-Johnson]]
 |- valign="top"
 |'''LOCI'''
-|http://dev.loci.wisc.edu/fiji/
-|The [http://loci.wisc.edu/software/fiji-plugins LOCI] update site for [http://loci.wisc.edu/software/fiji-plugins their Fiji plugins], including [http://loci.wisc.edu/software/slim-plugin SLIM Plugin] and the [http://loci.wisc.edu/software/visbio-fiji-plugins VisBio Fiji plugins].
+|http://sites.imagej.net/LOCI/
+|The [http://loci.wisc.edu/software/fiji-plugins LOCI] update site for [http://loci.wisc.edu/software/fiji-plugins their Fiji plugins], including [http://loci.wisc.edu/software/visbio-fiji-plugins VisBio Fiji plugins] and other miscellany.
 |[[:User:Rueden|Curtis Rueden]]
 |- valign="top"
 |'''MOSAIC ToolSuite'''
