@@ -120,6 +120,11 @@ We know of the following update sites:
 |The drivers and software to operate an [http://openspim.org/ OpenSPIM] (Open Access selective plane light sheet microscope).
 |[http://loci.wisc.edu/people/luke-stuyvenberg Luke Stuyvenberg] and [[:User:Schindelin|Johannes Schindelin]]
 |- valign="top"
+|'''PHANTAST'''
+|http://sites.imagej.net/Nicjac/
+|Update site for [https://code.google.com/p/phantast/ PHANTAST] (phase contrast microscopy segmentation toolbox), a collection of tools for the processing of phase contrast microscopy images
+|[http://www.nicjac.net Nicolas Jaccard]
+|- valign="top"
 |'''PTBIOP'''
 |http://biop.epfl.ch/Fiji-Update
 |The [http://biop.epfl.ch/ EPFL - PTBIOP] (BioImaging & Optics Platform) Update Site, with Fiji plugins and macros, including [http://imagejdocu.tudor.lu/doku.php?id=plugin:utilities:action_bar:start Action Bars] (not the plugin) and HRM Manager.
