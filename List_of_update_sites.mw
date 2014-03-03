@@ -100,6 +100,12 @@ We know of the following update sites:
 |Add math equations to an image using Latex.
 |Yu Liu
 |- valign="top"
+|'''IMCF Uni Basel'''
+|http://sites.imagej.net/UniBas-IMCF/
+|Various plugins (most notably the Stitching-Wrapper for FluoView OIF mosaics), macros and Action Bars (they require the IBMP-CNRS update site to be enabled).
+Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
+|[[:User:Ehrenfeu|Niko Ehrenfeuchter]]
+|- valign="top"
 |'''LLTT'''
 |http://sites.imagej.net/Alex-krull/
 |The [[Low_Light_Tracking_Tool | Low Light Tracking Tool]] can be used to track low-light sub-resolution objects in microscopy images and other applications.
