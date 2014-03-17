@@ -143,7 +143,7 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |- valign="top"
 |'''SLIM Curve'''
 |http://sites.imagej.net/SLIM-Curve/
-|A [http://loci.wisc.edu/software/slim-plugin Spectral Lifetime Analysis] plugin suite.
+|[[SLIM Curve]]: a plugin for combined spectral-lifetime image analysis.
 |[[:User:Rueden|Curtis Rueden]]
 |- valign="top"
 |'''Stowers'''
