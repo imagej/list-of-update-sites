@@ -40,6 +40,11 @@ We know of the following update sites:
 |A [http://imagejdocu.tudor.lu/doku.php?id=plugin:stacks:3d_ij_suite:start suite of plugins] providing enhanced 3D capabilities in ImageJ.
 |Thomas Boudier
 |- valign="top"
+|'''Angiogenesis'''
+|http://sites.imagej.net/Angiogenesis/
+|A plugin to quantify angiogenic sprout morphology.
+|Jan Eglinger
+|- valign="top"
 |'''Archipelago'''
 |http://sites.imagej.net/Lindsey/
 | A set of plugins that allow Fiji to be run in parallel on a cluster. Currently, [[Trainable_Weka_Segmentation|Trainable Weka Segmentation]] and [[Elastic_Alignment_and_Montage|Elastic Alignment]] are accelerated in this way.
