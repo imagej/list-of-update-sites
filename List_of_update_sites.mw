@@ -121,6 +121,11 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |An integrated toolbox containing the following image-processing software from the MOSAIC Group: 2D and 3D single-particle tracking, 2D and 3D multi-region image segmentation, 2D and 3D globally optimal two-region image segmentation, point-spread function estimation in 2D and 3D, background subtraction, Poisson noise simulator, microscope optics simulator, chromatic aberration correction.
 |[http://mosaic.mpi-cbg.de MOSAIC Group, MPI-CBG, Dresden]
 |- valign="top"
+|'''OMERO 5.0'''
+|http://sites.imagej.net/OMERO-5.0/
+|The [http://openmicroscopy.org/info/omero OMERO] update site for [https://github.com/imagej/imagej-omero bidirectional integration between ImageJ and OMERO 5.0.x].
+|[[:User:Rueden|Curtis Rueden]]
+|- valign="top"
 |'''OpenSPIM'''
 |http://openspim.org/update/
 |The drivers and software to operate an [http://openspim.org/ OpenSPIM] (Open Access selective plane light sheet microscope).
