@@ -50,6 +50,11 @@ We know of the following update sites:
 | A set of plugins that allow Fiji to be run in parallel on a cluster. Currently, [[Trainable_Weka_Segmentation|Trainable Weka Segmentation]] and [[Elastic_Alignment_and_Montage|Elastic Alignment]] are accelerated in this way.
 |Larry Lindsey
 |- valign="top"
+|'''BAR'''
+|http://sites.imagej.net/Tiago/
+|[[BAR|BAR]] (''Broadly Applicable Routines'') is a [https://github.com/tferr/Scripts GitHub-curated] collection of scripts that simplifies the daily usage of ImageJ. The collection is focused on Data Analysis, Image Annotation, Image Segmentation and Bitmap Morphometry.
+|[mailto:tiagoalvespedrosa_at_gmail_dot_com Tiago Ferreira]
+|- valign="top"
 |'''BigDataViewer'''
 |http://sites.imagej.net/Pietzsch/
 |BigDataViewer allows interactive browsing of multi-terabyte datasets, arbitrarily re-slicing and zooming, overlaying data from multiple channels and angles, etc. It is designed for visualising SPIM time-lapse recordings (3D+time, multi-channel, multi-angle) and similar datasets. It is build using [http://imglib2.net imglib2] and a custom multi-resolution file format.
