@@ -146,6 +146,11 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |The drivers and software to operate an [http://openspim.org/ OpenSPIM] (Open Access selective plane light sheet microscope).
 |[http://loci.wisc.edu/people/luke-stuyvenberg Luke Stuyvenberg] and [[:User:Schindelin|Johannes Schindelin]]
 |- valign="top"
+|'''PET-CT'''
+|http://sites.imagej.net/Ilan/
+|Update site for the Pet-Ct-Viewer
+|Ilan Tal
+|- valign="top"
 |'''PHANTAST'''
 |http://sites.imagej.net/Nicjac/
 |Update site for [https://code.google.com/p/phantast/ PHANTAST] (phase contrast microscopy segmentation toolbox), a collection of tools for the processing of phase contrast microscopy images
