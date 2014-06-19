@@ -95,6 +95,11 @@ We know of the following update sites:
 |Fiji plugins which allow reading and writing to [http://www.ffmpeg.org/ FFmpeg]-supported formats via native bindings.
 |[[:User:Schindelin|Johannes Schindelin]]
 |- valign="top"
+|'''GDSC'''
+|http://sites.imagej.net/GDSC/
+|The Genome Damage and Stability Centre (GDSC) plugins are a collection of analysis programs for microscopy images including colocalisation analysis and peak finding (FindFoci). See [http://www.sussex.ac.uk/gdsc/intranet/microscopy/imagej/gdsc_plugins GDSC Plugins] for details. 
+|[mailto:a.herbert@sussex.ac.uk Alex Herbert]
+|- valign="top"
 |'''GDSC-SMLM'''
 |http://sites.imagej.net/GDSC-SMLM/
 |The GDSC Single Molecule Light Microscopy (SMLM) plugins provide various tools for single molecule localisation analysis. This includes PALM, STORM and other single molecule microscopy methods. See [http://www.sussex.ac.uk/gdsc/intranet/microscopy/imagej/smlm_plugins SMLM Plugins] for details or read the [http://www.sussex.ac.uk/gdsc/intranet/pdfs/SMLM.pdf User Manual]. 
