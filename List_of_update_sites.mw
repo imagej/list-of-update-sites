@@ -63,7 +63,7 @@ We know of the following update sites:
 |'''Bio-Formats'''
 |http://sites.imagej.net/Bio-Formats/
 |A version of [[Bio-Formats]] with the latest bugfixes from the [https://github.com/openmicroscopy/bioformats/tree/dev_5_0 5.0.x development branch]. The [http://ci.openmicroscopy.org/job/BIOFORMATS-5.0-latest/lastSuccessfulBuild/ last successful build] is automatically uploaded daily.
-|[http://jenkins.imagej.net/job/Bio-Formats-Fiji/ ImageJ Jenkins]
+|[[:User:Rueden|Curtis Rueden]], [http://jenkins.imagej.net/job/Bio-Formats-Fiji/ ImageJ Jenkins]
 |- valign="top"
 |'''Biomedgroup'''
 |http://sites.imagej.net/Biomedgroup/
