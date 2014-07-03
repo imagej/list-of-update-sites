@@ -110,6 +110,11 @@ We know of the following update sites:
 |[http://imagejdocu.tudor.lu/doku.php?id=plugin:utilities:figurej:start FigureJ] (easy article figure creation), [http://imagejdocu.tudor.lu/doku.php?id=plugin:utilities:action_bar:start ActionBar] (macro-based buttons bars), [http://imagejdocu.tudor.lu/doku.php?id=plugin:utilities:droplet:start Droplet] (drag and drop file processor), [http://imagejdocu.tudor.lu/doku.php?id=plugin:inputoutput:lsm_reader:start LSM Reader], [http://imagejdocu.tudor.lu/doku.php?id=plugin:inputoutput:lsmtoolbox:start LSM Toolbox], [http://imagejdocu.tudor.lu/doku.php?id=plugin:utilities:ij_ed:start IJ_Ed] (jEdit link).
 |[mailto:jerome.mutterer@gmail.com Jerome Mutterer]
 |- valign="top"
+|'''IJPB-plugins'''
+|http://sites.imagej.net/IJPB-plugins/
+|Collection of plugins created at the INRA-IJPB Modeling and Digital Imaging lab to perform 2D/3D image segmentation, fast morphological operations and geometric analysis
+|[http://www-ijpb.versailles.inra.fr/en/bc/equipes/modelisation-imagerie/ Modeling and Digital Imaging lab, INRA-Versailles]
+|- valign="top"
 |'''ImageJ Latex'''
 |http://sites.imagej.net/Yul.liuyu/
 |Add math equations to an image using Latex.
