@@ -1,10 +1,6 @@
-<div style="background:#ffd; padding: 10px 10px 0 10px; border: 1px solid black;">
-To '''download from someone else's update site''', see: [[How to follow a 3rd party update site]].
-
-To '''create your own update site''', see: [[How to set up and populate an update site]].
-</div>
-
-
+{{Notice
+| message = To '''download from someone else's update site''', see: [[How to follow a 3rd party update site]].<br/>To '''create your own update site''', see: [[How to set up and populate an update site]].
+}}
 An '''update site''' is a website that extends ImageJ's capabilities. With update sites, you do not need to manually download and install anything; Fiji takes care of it for you.
 
 You can add support for an update site using the Help > Update Fiji command (or Help > Update in the case of ImageJ2) and clicking the "Advanced mode" button. For further details, see [[How to follow a 3rd party update site]].
