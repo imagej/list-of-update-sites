@@ -1,9 +1,6 @@
-{{UpdateSites}}
-{{Notice
+{{UpdateSites}}{{Notice
 | message = To '''download from someone else's update site''', see: [[How to follow a 3rd party update site]].<br/>To '''create your own update site''', see: [[How to set up and populate an update site]].
-}}
-
-An '''update site''' is web space used by the [[Updater]] which enables users to share their [[macros]], [[scripts]] and [[plugins]] with other researchers. With update sites, you do not need to manually download and install anything; ImageJ takes care of it for you.
+}}An '''update site''' is web space used by the [[Updater]] which enables users to share their [[macros]], [[scripts]] and [[plugins]] with other researchers. With update sites, you do not need to manually download and install anything; ImageJ takes care of it for you.
 
 You can add support for an update site using the Help > Update command and clicking the "Advanced mode" button. For further details, see [[How to follow a 3rd party update site]].
 
