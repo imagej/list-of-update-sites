@@ -20,7 +20,7 @@ Anyone can create their own update site; see [[How to set up and populate an upd
 |'''ImageJ'''
 |http://update.imagej.net/
 |Base update site for [[ImageJ2]]. No need to add this to your list of update sites; it is already included.
-|[http://developer.imagej.net/collaborators ImageJ developers]
+|[[Contributors|ImageJ developers]]
 |- valign="top"
 |'''Fiji'''
 |http://fiji.sc/update/
