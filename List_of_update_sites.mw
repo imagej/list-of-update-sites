@@ -46,7 +46,7 @@ Anyone can create their own update site; see [[How to set up and populate an upd
 |- valign="top"
 |'''BAR'''
 |http://sites.imagej.net/Tiago/
-|[[BAR|BAR]] (''Broadly Applicable Routines'') is a [https://github.com/tferr/Scripts GitHub-curated] collection of scripts that simplifies the daily usage of ImageJ. The collection is focused on Data Analysis, Image Annotation, Image Segmentation and Bitmap Morphometry.
+|[[BAR|BAR]] (''Broadly Applicable Routines'') is a {{GitHub|org=tferr|repo=Scripts|label=GitHub-curated}} collection of scripts that simplifies the daily usage of ImageJ. The collection is focused on Data Analysis, Image Annotation, Image Segmentation and Bitmap Morphometry.
 |[mailto:tiagoalvespedrosa_at_gmail_dot_com Tiago Ferreira]
 |- valign="top"
 |'''BigDataViewer'''
@@ -142,7 +142,7 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |- valign="top"
 |'''OMERO 5.0'''
 |http://sites.imagej.net/OMERO-5.0/
-|The [http://openmicroscopy.org/info/omero OMERO] update site for [https://github.com/imagej/imagej-omero bidirectional integration between ImageJ and OMERO 5.0.x].
+|The [http://openmicroscopy.org/info/omero OMERO] update site for {{GitHub|org=imagej|repo=imagej-omero|label=bidirectional integration between ImageJ and OMERO 5.0.x}}.
 |[[:User:Rueden|Curtis Rueden]]
 |- valign="top"
 |'''OpenSPIM'''
@@ -172,7 +172,7 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |- valign="top"
 |'''SCIFIO-dev'''
 |http://sites.imagej.net/SCIFIO/
-|Development version of [http://github.com/scifio/scifio SCIFIO].
+|Development version of {{GitHub|org=scifio|repo=scifio|label=SCIFIO}}.
 |Mark Hiner
 |- valign="top"
 |'''SLIM Curve'''
@@ -192,7 +192,7 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |- valign="top"
 |'''WormSizer'''
 |http://sites.imagej.net/Bradtmoore/
-|The update site for [https://github.com/bradtmoore/wormsizer WormSizer], a tool for measuring volume, length, and surface area of nematodes off of a dissection microscope.
+|The update site for {{GitHub|org=bradtmoore|repo=wormsizer|label=WormSizer}}, a tool for measuring volume, length, and surface area of nematodes off of a dissection microscope.
 |[mailto:brad.t.moore@duke.edu Brad T. Moore]
 |-
 |colspan="4" style="border-bottom: 1px solid gray"|
