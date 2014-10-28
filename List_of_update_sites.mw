@@ -145,6 +145,11 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |An integrated toolbox containing the following image-processing software from the MOSAIC Group: 2D and 3D single-particle tracking, 2D and 3D multi-region image segmentation, 2D and 3D globally optimal two-region image segmentation, point-spread function estimation in 2D and 3D, background subtraction, Poisson noise simulator, microscope optics simulator, chromatic aberration correction.
 |[http://mosaic.mpi-cbg.de MOSAIC Group, MPI-CBG, Dresden]
 |- valign="top"
+|'''NucleusJ'''
+|http://sites.imagej.net/PouletAxel/
+|This plugin is dedicated to researchers interested in nuclear shape and chromatin organization. Starting from image stacks, the nuclear boundary as well as nuclear bodies are segmented. As output, NucleusJ automatically measures 15 parameters quantifying shape and size of nuclei as well as intra-nuclear objects and the positioning of the objects within the nuclear volume.
+|Axel Poulet, Genetic Reproduction and Development lab, Clermont-Ferrand, France
+|- valign="top"
 |'''OMERO 5.0'''
 |http://sites.imagej.net/OMERO-5.0/
 |The [http://openmicroscopy.org/info/omero OMERO] update site for {{GitHub|org=imagej|repo=imagej-omero|label=bidirectional integration between ImageJ and OMERO 5.0.x}}.
