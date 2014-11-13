@@ -1,7 +1,7 @@
 {{UpdateSites}}
 == Introduction ==
 
-You can add support for an update site using the Help > Update command and clicking the "Advanced mode" button. For further details, see [[How to follow a 3rd party update site]].
+You can add support for an update site using the Help > Update command and clicking the "Manage update sites" button. For further details, see [[How to follow a 3rd party update site]].
 
 Anyone can create their own update site; see [[How to set up and populate an update site]] for instructions. See notes below the table how to add your update site to the ''Manage update sites''' dialog.
 
