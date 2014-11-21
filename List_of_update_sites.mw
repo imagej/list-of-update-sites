@@ -195,6 +195,11 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |The [http://research.stowers.org/imagejplugins/ Stowers ImageJ Plugins].
 |Jay Unruh
 |- valign="top"
+|'''Tango'''
+|http://sites.imagej.net/Tango/
+|Tools for Analysis of Nuclear Genome Organization.
+|[[:User:Tango|Jean Ollion, Julien Cochennec]]
+|- valign="top"
 |'''TrackMate-dev'''
 |http://sites.imagej.net/TrackMate-dev/
 |The development version of [[TrackMate]].
