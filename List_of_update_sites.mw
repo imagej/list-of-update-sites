@@ -209,6 +209,4 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |http://sites.imagej.net/Bradtmoore/
 |The update site for {{GitHub|org=bradtmoore|repo=wormsizer|label=WormSizer}}, a tool for measuring volume, length, and surface area of nematodes off of a dissection microscope.
 |[mailto:brad.t.moore@duke.edu Brad T. Moore]
-|-
-|colspan="4" style="border-bottom: 1px solid gray"|
 |}
