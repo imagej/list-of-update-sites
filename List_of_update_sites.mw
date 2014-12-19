@@ -1,9 +1,9 @@
 {{UpdateSites}}
 == Introduction ==
 
-You can add support for an update site using the Help > Update command and clicking the "Manage update sites" button. For further details, see [[How to follow a 3rd party update site]].
-
-Anyone can create their own update site; see [[How to set up and populate an update site]] for instructions. See notes below the table how to add your update site to the ''Manage update sites'' dialog.
+The [[Updater]] has a convenient ''Manage update sites'' dialog that is populated by this wiki page.
+* '''Users:''' You can [[How to follow a 3rd party update site|enable an update site]] using the Help > Update command and clicking the "Manage update sites" button.
+* '''Developers:''' You can add [[How to set up and populate an update site|your own update site]] to this list by registering a wiki account and editing the table yourself. Please maintain alphabetical order, but please do <b>not</b> change the format of the table—you will most likely break the [[updater]] if you do.
 
 == Available update sites ==
 
@@ -61,7 +61,7 @@ Anyone can create their own update site; see [[How to set up and populate an upd
 |- valign="top"
 |'''Biomedgroup'''
 |http://sites.imagej.net/Biomedgroup/
-|A set of plugins developed by the biomedical imaging group of the dortmund university of applied sciences and arts:  [https://code.google.com/p/ijblob/ Shape Filter] (Filter binary images by shape), [https://code.google.com/p/ij-shape-smoothing/ Shape Smoothing] (Smooth objects via Fourier descriptors), [https://code.google.com/p/ij-non-local-means/  Non local means filter] (edge preserving noise filter), [http://sourceforge.net/projects/nanotrackj/  NanoTrackJ] (Size characterization of freely diffusing nanoparticles by particle tracking), [http://fiji.sc/Ridge_Detection  Ridge Detection] (Line / Ridge detection plugin).
+|A set of plugins developed by the biomedical imaging group of the dortmund university of applied sciences and arts:  [https://code.google.com/p/ijblob/ Shape Filter] (Filter binary images by shape), [https://code.google.com/p/ij-shape-smoothing/ Shape Smoothing] (Smooth objects via Fourier descriptors), [https://code.google.com/p/ij-non-local-means/  Non local means filter] (edge preserving noise filter), [http://sourceforge.net/projects/nanotrackj/  NanoTrackJ] (Size characterization of freely diffusing nanoparticles by particle tracking), [[Ridge Detection]] (Line / Ridge detection plugin).
 |[mailto:wagner@biomedical-imaging.de Thorsten Wagner]
 |- valign="top"
 |'''BioVoxxel'''
@@ -212,9 +212,3 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |-
 |colspan="4" style="border-bottom: 1px solid gray"|
 |}
-
-== Adding your own update site to this list ==
-
-The [[Update Fiji|updater]] has a convenient ''Manage update sites'' dialog that is populated by this wiki page. You can add your own update site to this list by registering a wiki account and editing the table yourself (please maintain alphabetical order, but please do <b>not</b> change the format of the table: you will most likely break the [[Update Fiji|updater]] if you do).
-
-Alternately, you may [[Mailing Lists|send a message to the mailing list]] about it.
