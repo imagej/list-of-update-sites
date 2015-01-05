@@ -135,6 +135,11 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |The [http://loci.wisc.edu/software/fiji-plugins LOCI] update site for [http://loci.wisc.edu/software/fiji-plugins their Fiji plugins], including [http://loci.wisc.edu/software/visbio-fiji-plugins VisBio Fiji plugins] and other miscellany.
 |[[:User:Rueden|Curtis Rueden]]
 |- valign="top"
+|'''MaMuT'''
+|http://sites.imagej.net/MaMuT/
+|[[MaMuT]], a plugin for the annotation of massive, multi-view data.
+|[[:User:JeanYvesTinevez|Jean-Yves Tinevez]]
+|- valign="top"
 |'''Morphology'''
 |http://sites.imagej.net/Landini/
 |The update site for the [http://www.mecourse.com/landinig/software/software.html Mathematical Morphology Collection] of plugins and macros.
