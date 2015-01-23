@@ -86,7 +86,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign="top"
 |'''DiameterJ'''
 |http://sites.imagej.net/DiameterJ/
-|Macros for quantitative analysis of nanofiber images.  DiameterJ is able to analyze any any network of connecting lines (validated for SEM micrographs of micro- and nanofibers) and produce metrics such as mean diameter, histograms of fiber diameter, mean pore size, histogram of all pore areas, percent porosity, etc.  See [] for a publication describing how it works and its limitations.
+|Macros for quantitative analysis of nanofiber images.  DiameterJ is able to analyze any network of connecting lines (validated for SEM micrographs of micro- and nanofibers) and produce metrics such as mean diameter, histograms of fiber diameter, mean pore size, histogram of all pore areas, percent porosity, etc.  See [coming soon] for more information and the publication describing how DiameterJ works and its limitations.
 |[[:User:DiameterJ|Nathan Hotaling]]
 |- valign="top"
 |'''FFMPEG'''
