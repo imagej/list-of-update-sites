@@ -84,6 +84,11 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |The development version of [[CMP-BIA tools]].
 |[http://cmp.felk.cvut.cz/~borovji3/ Jiri Borovec]
 |- valign="top"
+|'''DiameterJ'''
+|http://sites.imagej.net/DiameterJ/
+|Macros for quantitative analysis of nanofiber images.  DiameterJ is able to analyze any any network of connecting lines (validated for SEM micrographs of micro- and nanofibers) and produce metrics such as mean diameter, histograms of fiber diameter, mean pore size, histogram of all pore areas, percent porosity, etc.  See [] for a publication describing how it works and its limitations.
+|[[:User:DiameterJ|Nathan Hotaling]]
+|- valign="top"
 |'''FFMPEG'''
 |http://fiji.sc/~schindelin/ffmpeg-plugins/
 |Fiji plugins which allow reading and writing to [http://www.ffmpeg.org/ FFmpeg]-supported formats via native bindings.
