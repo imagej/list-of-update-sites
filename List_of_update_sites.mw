@@ -74,6 +74,11 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Plugins from the [[Cookbook|Fiji Cookbook]].
 |[[Cookbook#Credits|Fiji Cookbook Team]]
 |- valign="top"
+|'''ClearVolume'''
+|http://sites.imagej.net/ClearVolume/
+|ClearVolume is a fast 3D viewer, for more information see also [https://bitbucket.org/clearvolume/clearvolume/wiki/Home ClearVolumeWiki]. Note: current version is in alpha!
+|[[:User:ClearVolume|ClearVolume]]
+|- valign="top"
 |'''CMCI-EMBL'''
 |http://sites.imagej.net/Miura/
 |A plugin for loading sample images and misc functionality for CMCI ImageJ course. See [http://cmci.embl.de/mainpages/courses CMCI course]. Eventually more plugins will be added. 
