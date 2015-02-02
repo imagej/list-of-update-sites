@@ -39,7 +39,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |A plugin to quantify angiogenic sprout morphology.
 |Jan Eglinger
 |- valign="top"
-|''' Anomalous Diffusion Filters'''
+|'''Anomalous Diffusion Filters'''
 |http://sites.imagej.net/Acsenrafilho/
 |A plugin to filter images with the both types of anomalous diffusion filter: anisotropic and isotropic methods. Please, see the [http://imagej.net/Acsenrafilho wiki page] to find out how the methods works.
 |Antonio Carlos da S. Senra Filho
