@@ -134,6 +134,11 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Add math equations to an image using Latex.
 |Yu Liu
 |- valign="top"
+|'''ImagingBook'''
+|http://sites.imagej.net/ImagingBook/
+|Supplementary Java source code for the Digital Imaging books by Wilhelm Burger and Mark J. Burge (see http://www.imagingbook.com).
+|Wilhelm Burger
+|- valign="top"
 |'''IMCF Uni Basel'''
 |http://sites.imagej.net/UniBas-IMCF/
 |Various plugins (most notably the Stitching-Wrapper for FluoView OIF mosaics), macros and Action Bars (they require the IBMP-CNRS update site to be enabled).
