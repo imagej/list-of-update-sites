@@ -39,11 +39,6 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |A plugin to quantify angiogenic sprout morphology.
 |Jan Eglinger
 |- valign="top"
-|'''CSIM Laboratory'''
-|http://sites.imagej.net/Acsenrafilho/
-|A set of plugins, macros and scripts developed by the CSIM (Computing in Signal and Images in Medicine) research group. One of the methods available are [http://imagej.net/AnomalousDiffusionFilters Anomalous Diffusion Filters], [http://imagej.net/NoiseGenerator Noise Generator] and the [http://imagej.net/MRIPerfusion MRI Perfusion]. Please, see the  [http://imagej.net/User:Acsenrafilho CSIM group page] to find out how the methods works and more information about us.
-|Antonio Carlos da S. Senra Filho
-|- valign="top"
 |'''Archipelago'''
 |http://sites.imagej.net/Lindsey/
 | A set of plugins that allow Fiji to be run in parallel on a cluster. Currently, [[Trainable_Weka_Segmentation|Trainable Weka Segmentation]] and [[Elastic_Alignment_and_Montage|Elastic Alignment]] are accelerated in this way.
@@ -93,6 +88,11 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |http://sites.imagej.net/CMP-BIA/
 |The development version of [[CMP-BIA tools]].
 |[http://cmp.felk.cvut.cz/~borovji3/ Jiri Borovec]
+|- valign="top"
+|'''CSIM Laboratory'''
+|http://sites.imagej.net/Acsenrafilho/
+|A set of plugins, macros and scripts developed by the CSIM (Computing in Signal and Images in Medicine) research group. One of the methods available are [http://imagej.net/AnomalousDiffusionFilters Anomalous Diffusion Filters], [http://imagej.net/NoiseGenerator Noise Generator] and the [http://imagej.net/MRIPerfusion MRI Perfusion]. Please, see the  [http://imagej.net/User:Acsenrafilho CSIM group page] to find out how the methods works and more information about us.
+|[mailto:acsenrafilho@gmail.com Antonio Carlos da S. Senra Filho]
 |- valign="top"
 |'''DiameterJ'''
 |http://sites.imagej.net/DiameterJ/
