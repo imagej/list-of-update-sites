@@ -134,9 +134,9 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Add math equations to an image using Latex.
 |Yu Liu
 |- valign="top"
-|'''ImagingBook (Common)'''
+|'''ImagingBook'''
 |http://sites.imagej.net/ImagingBook/
-|Common ImageJ/Java source code for the Digital Imaging books by Wilhelm Burger and Mark J. Burge (see http://www.imagingbook.com). This update site provides the common “imagingbook” library plus required third-parts JAR files. Specific sets of demo plugins are available for each book edition; choose ONE of the update sites listed below. Find the online documentation and additional materials at http://sourceforge.net/projects/imagingbook/
+|Common ImageJ/Java source code for the Digital Imaging books by Wilhelm Burger and Mark J. Burge (see http://www.imagingbook.com). This update site only provides the common “imagingbook” library plus required third-parts JAR files. Specific sets of demo plugins are available for each book edition; choose ONE of the update sites listed below. Find the online documentation and additional materials at http://sourceforge.net/projects/imagingbook/
 |Wilhelm Burger
 |- valign="top"
 |'''ImagingBookEn1'''
