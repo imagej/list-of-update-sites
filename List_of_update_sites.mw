@@ -91,7 +91,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign="top"
 |'''CSIM Laboratory'''
 |http://sites.imagej.net/Acsenrafilho/
-|A set of plugins, macros and scripts developed by the CSIM (Computing in Signal and Images in Medicine) research group. One of the methods available are [http://imagej.net/AnomalousDiffusionFilters Anomalous Diffusion Filters], [http://imagej.net/NoiseGenerator Noise Generator] and the [http://imagej.net/MRIPerfusion MRI Perfusion]. Please, see the  [http://imagej.net/CSIMLab CSIM group web page] to find out how the methods works and more information about us.
+|A set of plugins, macros and scripts developed by the CSIM (Computing in Signal and Images in Medicine) research group. One of the methods available are [http://imagej.net/AnomalousDiffusionFilters Anomalous Diffusion Filters], [http://imagej.net/NoiseGenerator Noise Generator], [http://imagej.net/MRIPerfusion MRI Perfusion] and the [http://imagej.net/SampEn2D Sample Entropy for Images]. Please, see the  [http://imagej.net/CSIMLab CSIM group web page] to find out how the methods works and more information about us.
 |[mailto:acsenrafilho@gmail.com Antonio Carlos da S. Senra Filho]
 |- valign="top"
 |'''DiameterJ'''
