@@ -200,11 +200,6 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |The [http://openmicroscopy.org/info/omero OMERO] update site for {{GitHub|org=imagej|repo=imagej-omero|label=bidirectional integration between ImageJ and OMERO 5.0.x}}.
 |[[:User:Rueden|Curtis Rueden]]
 |- valign="top"
-|'''OpenHiCAMM'''
-|http://sites.imagej.net/OpenHiCAMM/
-|Open High-content acquisition workflow plugin for Micro-Manager. Note: Requires [https://www.micro-manager.org/ Micro-Manager] to be installed as a Fiji plugin. See [https://github.com/bdgp/OpenHiCAMM GitHub Page] for more instructions.
-|[http://www.fruitfly.org BDGP]
-|- valign="top"
 |'''OpenSPIM'''
 |http://openspim.org/update/
 |The drivers and software to operate an [http://openspim.org/ OpenSPIM] (Open Access selective plane light sheet microscope).
