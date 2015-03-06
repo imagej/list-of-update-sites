@@ -232,7 +232,7 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |- valign="top"
 |'''SCIFIO-dev'''
 |http://sites.imagej.net/SCIFIO/
-|Development version of {{GitHub|org=scifio|repo=scifio|label=SCIFIO}}.
+|Development version of {{GitHub|org=scifio|repo=scifio|label=SCIFIO}} components.
 |[[:User:Hinerm|Mark Hiner]]
 |- valign="top"
 |'''SLIM Curve'''
