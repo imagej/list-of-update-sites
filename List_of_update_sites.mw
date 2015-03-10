@@ -217,7 +217,7 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |- valign="top"
 |'''PHANTAST'''
 |http://sites.imagej.net/Nicjac/
-|Update site for [https://code.google.com/p/phantast/ PHANTAST] (phase contrast microscopy segmentation toolbox), a collection of tools for the processing of phase contrast microscopy images
+|Update site for [https://github.com/nicjac/PHANTAST-FIJI/ PHANTAST] (phase contrast microscopy segmentation toolbox), a collection of tools for the processing of phase contrast microscopy images
 |[http://www.nicjac.net Nicolas Jaccard]
 |- valign="top"
 |'''PTBIOP'''
