@@ -69,6 +69,11 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |A toolset providing a plugins and macros for flat-field background corrections, image filters, color coding of shape descriptors and several tools to process and analyze binary images such as the 'Speckle Inspector', 'Binary Feature Extractor' and an 'Extended Particle Analyzer' and a qualitative and quantitative evaluation tool for Fijis' Auto Threshold methods. More information under: [http://www.biovoxxel.de BioVoxxel] or the [http://fiji.sc/BioVoxxel_Toolbox BioVoxxel Fiji Wiki] page
 |[mailto:jan.brocher@biovoxxel.de Jan Brocher]
 |- valign="top"
+|'''CellMotility'''
+|http://sites.imagej.net/CellMotility/
+|Plugins from the [https://www.crick.ac.uk/research/a-z-researchers/researchers-v-y/michael-way Cellular Signalling and Cytoskeletal Function Lab] at [https://www.crick.ac.uk The Francis Crick Institute], including [http://dx.doi.org/10.1083/jcb.201501081 ADAPT].
+|[mailto:david.barry@crick.ac.uk David Barry]
+|- valign="top"
 |'''Cookbook'''
 |http://sites.imagej.net/Cookbook/
 |Plugins from the [[Cookbook|Fiji Cookbook]].
