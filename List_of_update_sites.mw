@@ -200,6 +200,11 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |An integrated toolbox containing the following image-processing software from the MOSAIC Group: 2D and 3D single-particle tracking, 2D and 3D multi-region image segmentation, 2D and 3D globally optimal two-region image segmentation, point-spread function estimation in 2D and 3D, background subtraction, Poisson noise simulator, microscope optics simulator, chromatic aberration correction.
 |[http://mosaic.mpi-cbg.de MOSAIC Group, MPI-CBG, Dresden]
 |- valign="top"
+|'''MIST'''
+|http://sites.imagej.net/NIST-ISG-MIST/
+|Microscopy Image Stitching Tool (MIST), is a stitching algorithm for small and large two dimensional image grid collections. We developed a new and novel method for optimizing the translations computed by the phase-correlation method using the Fourier transform approach. This new method estimates the microscope stage repeatability from the computed translations of a gridded image tiles. It then optimizes all translation computation using the Hill Climbing algorithm bounded to four times the stage repeatability. This minimizes the maximum uncertainty related to the translation computation for any pair of images.
+|[https://isg.nist.gov/deepzoomweb/resources/csmet/pages/image_stitching/image_stitching.html NIST ISG]
+|- valign="top"
 |'''NucleusJ'''
 |http://sites.imagej.net/PouletAxel/
 |This plugin is dedicated to researchers interested in nuclear shape and chromatin organization. Starting from image stacks, the nuclear boundary as well as nuclear bodies are segmented. As output, NucleusJ automatically measures 15 parameters quantifying shape and size of nuclei as well as intra-nuclear objects and the positioning of the objects within the nuclear volume.
