@@ -84,6 +84,11 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |A plugin for loading sample images and misc functionality for CMCI ImageJ course. See [http://cmci.embl.de/mainpages/courses CMCI course]. Eventually more plugins will be added. 
 |[mailto:miura@embl.de Kota Miura]
 |- valign="top"
+|'''CMTK Registration'''
+|http://sites.imagej.net/Jefferis/
+|CMTK Registration GUI.
+|[https://github.com/jefferis/fiji-cmtk-gui fiji-cmtk-gui on github]
+|- valign="top"
 |'''CMP-BIA tools'''
 |http://sites.imagej.net/CMP-BIA/
 |The development version of [[CMP-BIA tools]].
