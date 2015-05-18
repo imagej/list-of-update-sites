@@ -245,6 +245,11 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |Development version of {{GitHub|org=scifio|repo=scifio|label=SCIFIO}} components.
 |[[:User:Hinerm|Mark Hiner]]
 |- valign="top"
+|'''SIMcheck'''
+|http://downloads.micron.ox.ac.uk/fiji_update/SIMcheck/
+|[http://www.micron.ox.ac.uk/microngroup/software/SIMcheck.html SIMcheck]:  a package of ImageJ tools for assessing the quality and reliability of Structured Illumination Microscopy (SIM) data.
+|[http://www.micron.ox.ac.uk/home.php Micron Oxford]
+|- valign="top"
 |'''SLIM Curve'''
 |http://sites.imagej.net/SLIM-Curve/
 |[[SLIM Curve]]: a plugin for combined spectral-lifetime image analysis.
