@@ -222,7 +222,7 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |- valign="top"
 |'''OMERO 5.1'''
 |http://sites.imagej.net/OMERO-5.1/
-|The [http://openmicroscopy.org/info/omero OMERO] update site for {{GitHub|org=imagej|repo=imagej-omero|label=bidirectional integration between ImageJ and OMERO 5.1.x}}. '''Requires Java 7.'''
+|The [http://openmicroscopy.org/info/omero OMERO] update site for {{GitHub|org=imagej|repo=imagej-omero|label=bidirectional integration between ImageJ and OMERO 5.1.x}}.
 |[[:User:Rueden|Curtis Rueden]]
 |- valign="top"
 |'''OpenSPIM'''
