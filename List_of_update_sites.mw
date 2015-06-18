@@ -190,6 +190,11 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |[[MaMuT]], a plugin for the annotation of massive, multi-view data.
 |[[:User:JeanYvesTinevez|Jean-Yves Tinevez]]
 |- valign="top"
+|'''MiToBo'''
+|http://sites.imagej.net/MiToBo/
+|MiToBo ([http://www.informatik.uni-halle.de/mitobo http://www.informatik.uni-halle.de/mitobo]) is a collection of basic image processing operators (filtering, morphology, labeling, etc.), advanced analysis algorithms (wavelets, snakes, levelsets, etc.), and special applications mainly dedicated to microscopy image analysis (nuclei detection, scratch assay analysis, neurite image segmentation, etc.).
+|[http://informatik.uni-halle.de/mitobo The MiToBo Team, Halle, Germany]
+|- valign="top"
 |'''Morphology'''
 |http://sites.imagej.net/Landini/
 |The update site for the [http://www.mecourse.com/landinig/software/software.html Mathematical Morphology Collection] of plugins and macros.
