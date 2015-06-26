@@ -46,7 +46,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign="top"
 |'''Astartes91'''
 |http://sites.imagej.net/Astartes91/
-| A set of various plugins. Currently fuzzy edge detection plugin realised.
+| A set of various plugins. Currently fuzzy edge detection plugin realised. Source code on Github: https://github.com/astartes91/imagej-neural-fuzzy-plugins.
 |[mailto:astartes91@gmail.com Vladimir Nizamutdinov]
 |- valign="top"
 |'''BAR'''
