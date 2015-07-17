@@ -290,6 +290,11 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |Tools for Analysis of Nuclear Genome Organization.
 |[[:User:Tango|Jean Ollion, Julien Cochennec]]
 |- valign="top"
+|'''Vale lab plugins'''
+|http://sites.imagej.net/Nico/
+|Utilities useful to our lab members: spot counter plugin,
+|[mailto:nico.stuurman@ucsf.edu Nico Stuurman]
+|- valign="top"
 |'''WormSizer'''
 |http://sites.imagej.net/Bradtmoore/
 |The update site for {{GitHub|org=bradtmoore|repo=wormsizer|label=WormSizer}}, a tool for measuring volume, length, and surface area of nematodes off of a dissection microscope.
