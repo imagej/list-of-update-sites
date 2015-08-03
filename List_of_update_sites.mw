@@ -275,6 +275,11 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |[http://www.micron.ox.ac.uk/microngroup/software/SIMcheck.html SIMcheck]:  a package of ImageJ tools for assessing the quality and reliability of Structured Illumination Microscopy (SIM) data.
 |[http://www.micron.ox.ac.uk/home.php Micron Oxford]
 |- valign="top"
+|'''SiMView'''
+|http://sites.imagej.net/SiMView/
+|Tools developed by the Keller Lab at the Janelia Research Campus, most notably the [https://bitbucket.org/fernandoamat/keller-lab-block-filetype KLB] file format.
+|[mailto:hoeckendorfb@janelia.hhmi.org Burkhard Hoeckendorf]
+|- valign="top"
 |'''SLIM Curve'''
 |http://sites.imagej.net/SLIM-Curve/
 |[[SLIM Curve]]: a plugin for combined spectral-lifetime image analysis.
