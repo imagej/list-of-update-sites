@@ -23,7 +23,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |[[Contributors|ImageJ developers]]
 |- valign="top"
 |'''Fiji'''
-|http://fiji.sc/update/
+|http://update.fiji.sc/
 |Base update site for [[Fiji]] and [[:Category:Plugins|core Fiji plugins]]. If you [[Downloads|downloaded Fiji directly]], it is already included.
 |[[Contributors|Fiji developers]]
 |-
