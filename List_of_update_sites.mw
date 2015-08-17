@@ -311,7 +311,7 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |[mailto:brad.t.moore@duke.edu Brad T. Moore]
 |- valign="top"
 |'''Xlib'''
-|ftp://ftp.empa.ch
+|ftp://ftp.empa.ch/pub/empa/outgoing/BeatsRamsch/lib/xlib_.jar
 |[http://wiki.imagej.net/Xlib Xlib] is a set of prospective ImageJ plugins: automated imaging tools for filtering, data reconstruction, quantitative data evaluation and data import, tools for interactive segmentation, visualization and management of image data. 
 |[mailto:beat.muench@empa.ch Beat Münch]
 |}
