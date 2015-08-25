@@ -149,6 +149,11 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Development version of {{GitHub|org=imagej|repo=imagej|label=ImageJ}} components.
 |[[:User:Rueden|Curtis Rueden]],[[:User:Hinerm|Mark Hiner]]
 |- valign="top"
+|'''ImageJ-MATLAB'''
+|http://sites.imagej.net/MATLAB/
+|Adds support for MATLAB {{GitHub|org=scijava|repo=scripting-matlab|label=scripting}} and converting between MATLAB arrays and {{GitHub|org=imagej|repo=imagej-matlab|label=ImageJ}} components. See the [[MATLAB|scripting tutorial]] for more information.
+|[[:User:Hinerm|Mark Hiner]]
+|- valign="top"
 |'''ImagingBook'''
 |http://sites.imagej.net/ImagingBook/
 |Common ImageJ/Java source code for the Digital Imaging books by Wilhelm Burger and Mark J. Burge (see http://www.imagingbook.com). This update site only provides the common “imagingbook” LIBRARY plus required third-parts JAR files. Specific sets of demo plugins are available for each book edition; choose ONE of the update sites listed below. Find the online documentation and additional materials at http://sourceforge.net/projects/imagingbook/
