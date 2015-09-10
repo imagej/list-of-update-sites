@@ -154,6 +154,11 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Development version of {{GitHub|org=imagej|repo=imagej|label=ImageJ}} components.
 |[[:User:Rueden|Curtis Rueden]],[[:User:Hinerm|Mark Hiner]]
 |- valign="top"
+|'''ImageJ-ITK'''
+|http://sites.imagej.net/ImageJ-ITK/
+|Adds {{GitHub|org=imagej|repo=imagej-itk|label=ITK integration}} including conversion between [http://www.simpleitk.org/ ITK] and {{GitHub|org=imagej|repo=imagej|label=ImageJ}} images. See the [[ITK|ITK page]] for more information.
+|[[:User:Hinerm|Mark Hiner]]
+|- valign="top"
 |'''ImageJ-MATLAB'''
 |http://sites.imagej.net/MATLAB/
 |Adds support for MATLAB {{GitHub|org=scijava|repo=scripting-matlab|label=scripting}} and converting between MATLAB arrays and {{GitHub|org=imagej|repo=imagej-matlab|label=ImageJ}} components. See the [[MATLAB|scripting tutorial]] for more information.
