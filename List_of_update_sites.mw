@@ -2,7 +2,7 @@
 == Introduction ==
 
 The [[Updater]] has a convenient ''Manage update sites'' dialog that is populated by this wiki page.
-* '''Users:''' You can [[How to follow a 3rd party update site|enable an update site]] using the Help {{arrow}} Update command and clicking the "Manage update sites" button.
+* '''Users:''' You can [[How to follow a 3rd party update site|enable an update site]] using the {{bc | Help | Update...}} command and clicking the "Manage update sites" button.
 * '''Developers:''' You can add [[How to set up and populate an update site|your own update site]] to this list by [[Help#New_accounts|registering a wiki account]] and editing the table yourself. Please maintain alphabetical order, but please do <b>not</b> change the format of the table—you will most likely break the [[updater]] if you do this.
 
 == Available update sites ==
