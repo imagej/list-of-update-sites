@@ -82,7 +82,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |'''ClearVolume'''
 |http://sites.imagej.net/ClearVolume/
 |ClearVolume is a fast 3D viewer, for more information see also [https://bitbucket.org/clearvolume/clearvolume/wiki/Home ClearVolumeWiki].
-|[[:User:ClearVolume|ClearVolume]]
+|[[User:ClearVolume|ClearVolume]]
 |- valign="top"
 |'''CMCI-EMBL'''
 |http://sites.imagej.net/Miura/
@@ -228,7 +228,7 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |'''MS-ECS-2D'''
 |http://sites.imagej.net/MS-ECS-2D/
 |MembraneStained EpithelialCellSegmentation 2D, for more information see also [http://dress.bioimagecomputing.com/projects/membrane-stained-epithelial-cell-segmentation this page].
-|[[:User:MS-ECS-2D|MS-ECS-2D]]
+|[[User:MS-ECS-2D|MS-ECS-2D]]
 |- valign="top"
 |'''MIST'''
 |http://sites.imagej.net/NIST-ISG-MIST/
@@ -313,7 +313,7 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |'''Tango'''
 |http://sites.imagej.net/Tango/
 |Tools for Analysis of Nuclear Genome Organization.
-|[[:User:Tango|Jean Ollion, Julien Cochennec]]
+|[[User:Tango|Jean Ollion, Julien Cochennec]]
 |- valign="top"
 |'''Vale lab plugins'''
 |http://sites.imagej.net/Nico/
