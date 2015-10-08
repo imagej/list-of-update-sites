@@ -52,7 +52,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |'''BAR'''
 |http://sites.imagej.net/Tiago/
 |[[BAR|BAR]] (''Broadly Applicable Routines'') is a {{GitHub|org=tferr|repo=Scripts|label=GitHub-curated}} collection of scripts that simplifies the daily usage of ImageJ. The collection is focused on Data Analysis, Image Annotation, Image Segmentation and Bitmap Morphometry.
-|[mailto:tiagoalvespedrosa_at_gmail_dot_com Tiago Ferreira]
+|{{Person|Tiago}}
 |- valign="top"
 |'''Bio-Formats'''
 |http://sites.imagej.net/Bio-Formats/
@@ -102,7 +102,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |'''CSIM Laboratory'''
 |http://sites.imagej.net/Acsenrafilho/
 |A set of plugins, macros and scripts developed by the CSIM (Computing in Signal and Images in Medicine) research group. One of the methods available are [http://imagej.net/AnomalousDiffusionFilters Anomalous Diffusion Filters], [http://imagej.net/NoiseGenerator Noise Generator], [http://imagej.net/MRIPerfusion MRI Perfusion] and the [http://imagej.net/SampEn2D Sample Entropy for Images]. Please, see the  [http://imagej.net/CSIMLab CSIM group web page] to find out how the methods works and more information about us.
-|[mailto:acsenrafilho@gmail.com Antonio Carlos da S. Senra Filho]
+|{{Person|Acsenrafilho}}
 |- valign="top"
 |'''DiameterJ'''
 |http://sites.imagej.net/DiameterJ/
@@ -318,7 +318,7 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |'''Vale lab plugins'''
 |http://sites.imagej.net/Nico/
 |Utilities useful to our lab members: spot counter plugin,
-|[mailto:nico.stuurman@ucsf.edu Nico Stuurman]
+|{{Person|Nico}}
 |- valign="top"
 |'''WormSizer'''
 |http://sites.imagej.net/Bradtmoore/
