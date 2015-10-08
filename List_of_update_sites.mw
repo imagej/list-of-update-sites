@@ -37,7 +37,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |'''2015-Conference'''
 |http://sites.imagej.net/2015-Conference/
 |A collection of plugins highlighting the latest features of ImageJ. As seen in Wayne Rasband's opening talk at the [[Conference_2015|2015 conference]]!
-|[[:User:Hinerm|Mark Hiner]]
+|{{Person|Hinerm}}
 |- valign="top"
 |'''Angiogenesis'''
 |http://sites.imagej.net/Angiogenesis/
@@ -57,7 +57,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |'''Bio-Formats'''
 |http://sites.imagej.net/Bio-Formats/
 |A version of [[Bio-Formats]] with the latest bugfixes from the [https://github.com/openmicroscopy/bioformats/tree/develop 5.1.x development branch]. The [http://ci.openmicroscopy.org/job/BIOFORMATS-5.1-latest/lastSuccessfulBuild/ last successful build] is automatically uploaded daily.
-|[[:User:Rueden|Curtis Rueden]], [http://jenkins.imagej.net/job/Bio-Formats-Fiji/ ImageJ Jenkins]
+|{{Person|Rueden}}, [http://jenkins.imagej.net/job/Bio-Formats-Fiji/ ImageJ Jenkins]
 |- valign="top"
 |'''Biomedgroup'''
 |http://sites.imagej.net/Biomedgroup/
@@ -107,12 +107,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |'''DiameterJ'''
 |http://sites.imagej.net/DiameterJ/
 |Macros for quantitative analysis of nanofiber images.  DiameterJ is able to analyze any network of connecting lines (validated for SEM micrographs of micro- and nanofibers) and produce metrics such as mean diameter, histograms of fiber diameter, mean pore size, histogram of all pore areas, percent porosity, etc.  See [coming soon] for more information and the publication describing how DiameterJ works and its limitations.
-|[[:User:DiameterJ|Nathan Hotaling]]
+|{{Person|DiameterJ}}
 |- valign="top"
 |'''FFMPEG'''
 |http://fiji.sc/~schindelin/ffmpeg-plugins/
 |Fiji plugins which allow reading and writing to [http://www.ffmpeg.org/ FFmpeg]-supported formats via native bindings.
-|[[:User:Schindelin|Johannes Schindelin]]
+|{{Person|Schindelin}}
 |- valign="top"
 |'''Fuzzy logic and artificial neural networks image processing toolbox for ImageJ'''
 |http://sites.imagej.net/Astartes91/
@@ -152,17 +152,17 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |'''ImageJ-dev'''
 |http://sites.imagej.net/ImageJ-dev/
 |Development version of {{GitHub|org=imagej|repo=imagej|label=ImageJ}} components.
-|[[:User:Rueden|Curtis Rueden]],[[:User:Hinerm|Mark Hiner]]
+|{{Person|Rueden}},{{Person|Hinerm}}
 |- valign="top"
 |'''ImageJ-ITK'''
 |http://sites.imagej.net/ImageJ-ITK/
 |Adds {{GitHub|org=imagej|repo=imagej-itk|label=ITK integration}} including conversion between [http://www.simpleitk.org/ ITK] and {{GitHub|org=imagej|repo=imagej|label=ImageJ}} images. See the [[ITK|ITK page]] for more information.
-|[[:User:Hinerm|Mark Hiner]]
+|{{Person|Hinerm}}
 |- valign="top"
 |'''ImageJ-MATLAB'''
 |http://sites.imagej.net/MATLAB/
 |Adds support for MATLAB {{GitHub|org=scijava|repo=scripting-matlab|label=scripting}} and converting between MATLAB arrays and {{GitHub|org=imagej|repo=imagej-matlab|label=ImageJ}} components. See the [[MATLAB|scripting tutorial]] for more information.
-|[[:User:Hinerm|Mark Hiner]]
+|{{Person|Hinerm}}
 |- valign="top"
 |'''ImagingBook'''
 |http://sites.imagej.net/ImagingBook/
@@ -193,22 +193,22 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |http://sites.imagej.net/UniBas-IMCF/
 |Various plugins (most notably the Stitching-Wrapper for FluoView OIF mosaics), macros and Action Bars (they require the IBMP-CNRS update site to be enabled).
 Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
-|[[:User:Ehrenfeu|Niko Ehrenfeuchter]]
+|{{Person|Ehrenfeu}}
 |- valign="top"
 |'''LLTT'''
 |http://sites.imagej.net/Alex-krull/
 |The [[Low_Light_Tracking_Tool | Low Light Tracking Tool]] can be used to track low-light sub-resolution objects in microscopy images and other applications.
-|[[:User:Alex-krull | Alexander Krull]] and [[:User:Damienrj|Damien Ramunno-Johnson]]
+|{{Person|Alex-krull}} and {{Person|Damienrj}}
 |- valign="top"
 |'''LOCI'''
 |http://sites.imagej.net/LOCI/
 |The [http://loci.wisc.edu/software/fiji-plugins LOCI] update site for [http://loci.wisc.edu/software/fiji-plugins their Fiji plugins], including [http://loci.wisc.edu/software/visbio-fiji-plugins VisBio Fiji plugins] and other miscellany.
-|[[:User:Rueden|Curtis Rueden]],[[:User:Hinerm|Mark Hiner]]
+|{{Person|Rueden}},{{Person|Hinerm}}
 |- valign="top"
 |'''MaMuT'''
 |http://sites.imagej.net/MaMuT/
 |[[MaMuT]], a plugin for the annotation of massive, multi-view data.
-|[[:User:JeanYvesTinevez|Jean-Yves Tinevez]]
+|{{Person|JeanYvesTinevez}}
 |- valign="top"
 |'''MiToBo'''
 |http://sites.imagej.net/MiToBo/
@@ -218,7 +218,7 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |'''Morphology'''
 |http://sites.imagej.net/Landini/
 |The update site for the [http://www.mecourse.com/landinig/software/software.html Mathematical Morphology Collection] of plugins and macros.
-|[[:User:Landini|Gabriel Landini]]
+|{{Person|Landini}}
 |- valign="top"
 |'''MOSAIC ToolSuite'''
 |http://mosaic.mpi-cbg.de/Downloads/update/Fiji/MosaicToolsuite
@@ -243,22 +243,22 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |'''OMERO 5.0'''
 |http://sites.imagej.net/OMERO-5.0/
 |The [http://openmicroscopy.org/info/omero OMERO] update site for {{GitHub|org=imagej|repo=imagej-omero|label=bidirectional integration between ImageJ and OMERO 5.0.x}}.
-|[[:User:Rueden|Curtis Rueden]]
+|{{Person|Rueden}}
 |- valign="top"
 |'''OMERO 5.1'''
 |http://sites.imagej.net/OMERO-5.1/
 |The [http://openmicroscopy.org/info/omero OMERO] update site for {{GitHub|org=imagej|repo=imagej-omero|label=bidirectional integration between ImageJ and OMERO 5.1.x}}.
-|[[:User:Rueden|Curtis Rueden]]
+|{{Person|Rueden}}
 |- valign="top"
 |'''OpenSPIM'''
 |http://openspim.org/update/
 |The drivers and software to operate an [http://openspim.org/ OpenSPIM] (Open Access selective plane light sheet microscope).
-|[http://loci.wisc.edu/people/luke-stuyvenberg Luke Stuyvenberg] and [[:User:Schindelin|Johannes Schindelin]]
+|[http://loci.wisc.edu/people/luke-stuyvenberg Luke Stuyvenberg] and {{Person|Schindelin}}
 |- valign="top"
 |'''PET-CT'''
 |http://sites.imagej.net/Ilan/
 |Update site for the Pet-Ct-Viewer and other Nuclear Medicine software in use at Beth Israel Hospital, see [http://sourceforge.net/p/bifijiplugins/wiki/Pet-Ct%20Viewer/ Help]
-|[[:User:Ilan|Ilan Tal]]
+|{{Person|Ilan}}
 |- valign="top"
 |'''PHANTAST'''
 |http://sites.imagej.net/Nicjac/
@@ -283,7 +283,7 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |'''SCIFIO-dev'''
 |http://sites.imagej.net/SCIFIO/
 |Development version of {{GitHub|org=scifio|repo=scifio|label=SCIFIO}} components.
-|[[:User:Hinerm|Mark Hiner]]
+|{{Person|Hinerm}}
 |- valign="top"
 |'''SIMcheck'''
 |http://downloads.micron.ox.ac.uk/fiji_update/SIMcheck/
@@ -303,7 +303,7 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |'''SLIM Curve'''
 |http://sites.imagej.net/SLIM-Curve/
 |[[SLIM Curve]]: a plugin for combined spectral-lifetime image analysis.
-|[[:User:Rueden|Curtis Rueden]]
+|{{Person|Rueden}}
 |- valign="top"
 |'''Stowers'''
 |http://research.stowers.org/imagejplugins/updates/
