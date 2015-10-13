@@ -36,7 +36,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign="top"
 |'''2015-Conference'''
 |http://sites.imagej.net/2015-Conference/
-|A collection of plugins highlighting the latest features of ImageJ. As seen in Wayne Rasband's opening talk at the [[Conference_2015|2015 conference]]!
+|A collection of plugins highlighting the latest features of ImageJ. As seen in {{Person|Rasband}}'s opening talk at the [[Conference_2015|2015 conference]]!
 |{{Person|Hinerm}}
 |- valign="top"
 |'''Angiogenesis'''
