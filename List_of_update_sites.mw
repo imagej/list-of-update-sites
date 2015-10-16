@@ -62,7 +62,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |'''Biomedgroup'''
 |http://sites.imagej.net/Biomedgroup/
 |A set of plugins developed by the biomedical imaging group of the dortmund university of applied sciences and arts:  [https://code.google.com/p/ijblob/ Shape Filter] (Filter binary images by shape), [https://code.google.com/p/ij-shape-smoothing/ Shape Smoothing] (Smooth objects via Fourier descriptors), [https://code.google.com/p/ij-non-local-means/  Non local means filter] (edge preserving noise filter), [http://sourceforge.net/projects/nanotrackj/  NanoTrackJ] (Size characterization of freely diffusing nanoparticles by particle tracking), [[Ridge Detection]] (Line / Ridge detection plugin).
-|[mailto:wagner@biomedical-imaging.de Thorsten Wagner]
+|{{Person|Biomedgroup}}
 |- valign="top"
 |'''BioVoxxel'''
 |http://sites.imagej.net/BioVoxxel/
