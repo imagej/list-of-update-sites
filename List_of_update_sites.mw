@@ -42,12 +42,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |'''Angiogenesis'''
 |http://sites.imagej.net/Angiogenesis/
 |A plugin to quantify angiogenic sprout morphology.
-|Jan Eglinger
+|{{Person|Eglinger}}
 |- valign="top"
 |'''Archipelago'''
 |http://sites.imagej.net/Lindsey/
 | A set of plugins that allow Fiji to be run in parallel on a cluster. Currently, [[Trainable_Weka_Segmentation|Trainable Weka Segmentation]] and [[Elastic_Alignment_and_Montage|Elastic Alignment]] are accelerated in this way.
-|Larry Lindsey
+|{{Person|Lindsey}}
 |- valign="top"
 |'''BAR'''
 |http://sites.imagej.net/Tiago/
@@ -67,7 +67,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |'''BioVoxxel'''
 |http://sites.imagej.net/BioVoxxel/
 |A toolset providing a plugins and macros for flat-field background corrections, image filters, color coding of shape descriptors and several tools to process and analyze binary images such as the 'Speckle Inspector', 'Binary Feature Extractor' and an 'Extended Particle Analyzer' and a qualitative and quantitative evaluation tool for Fijis' Auto Threshold methods. More information under: [http://www.biovoxxel.de BioVoxxel] or the [http://fiji.sc/BioVoxxel_Toolbox BioVoxxel Fiji Wiki] page
-|[mailto:jan.brocher@biovoxxel.de Jan Brocher]
+|{{Person|BioVoxxel}}
 |- valign="top"
 |'''CellMotility'''
 |http://sites.imagej.net/CellMotility/
@@ -87,7 +87,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |'''CMCI-EMBL'''
 |http://sites.imagej.net/Miura/
 |A plugin for loading sample images and misc functionality for CMCI ImageJ course. See [http://cmci.embl.de/mainpages/courses CMCI course]. Eventually more plugins will be added. 
-|[mailto:miura@embl.de Kota Miura]
+|{{Person|Miura}}
 |- valign="top"
 |'''CMTK Registration'''
 |http://sites.imagej.net/Jefferis/
@@ -273,7 +273,7 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |'''RT-Multiview-Deconvolution'''
 |http://sites.imagej.net/RT-Multiview-Deconvolution/
 |Plugins for plane-wise GPU-accelerated multi-view deconvolution of SPIM data.
-|[mailto:bene.schmid@gmail.com Benjamin Schmid]
+|{{Person|Bene}}
 |- valign="top"
 |'''ScientiFig'''
 |http://sites.imagej.net/Aigouy/
