@@ -37,7 +37,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |'''3D ImageJ Suite'''
 |http://sites.imagej.net/Tboudier/
 |A [http://imagejdocu.tudor.lu/doku.php?id=plugin:stacks:3d_ij_suite:start suite of plugins] providing enhanced 3D capabilities in ImageJ.
-|Thomas Boudier
+|{{Person|Tboudier}}
 |- valign="top"
 |'''Angiogenesis'''
 |http://sites.imagej.net/Angiogenesis/
@@ -92,7 +92,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |'''CMTK Registration'''
 |http://sites.imagej.net/Jefferis/
 |CMTK Registration GUI.
-|[https://github.com/jefferis/fiji-cmtk-gui fiji-cmtk-gui on github]
+|{{Person|Jefferis}}
 |- valign="top"
 |'''CMP-BIA tools'''
 |http://sites.imagej.net/CMP-BIA/
@@ -298,7 +298,7 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |'''Slide Set'''
 |http://cellbio.emory.edu/bnanes/slideset/update/
 |[http://cellbio.emory.edu/bnanes/slideset/ Slide Set]: Reproducible image analysis and batch processing.
-|Benjamin Nanes
+|{{Person|Bnanes}}
 |- valign="top"
 |'''SLIM Curve'''
 |http://sites.imagej.net/SLIM-Curve/
