@@ -66,7 +66,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign="top"
 |'''BioVoxxel'''
 |http://sites.imagej.net/BioVoxxel/
-|A toolset providing a plugins and macros for flat-field background corrections, image filters, color coding of shape descriptors and several tools to process and analyze binary images such as the 'Speckle Inspector', 'Binary Feature Extractor' and an 'Extended Particle Analyzer' and a qualitative and quantitative evaluation tool for Fijis' Auto Threshold methods. More information under: [http://www.biovoxxel.de BioVoxxel] or the [http://fiji.sc/BioVoxxel_Toolbox BioVoxxel Fiji Wiki] page
+|A toolset providing a plugins and macros for flat-field background corrections, image filters, color coding of shape descriptors and several tools to process and analyze binary images such as the 'Speckle Inspector', 'Binary Feature Extractor' and an 'Extended Particle Analyzer' and a qualitative and quantitative evaluation tool for Fijis' Auto Threshold methods. More information under: [http://www.biovoxxel.de BioVoxxel] or the [http://imagej.net/BioVoxxel_Toolbox BioVoxxel Wiki] page
 |{{Person|BioVoxxel}}
 |- valign="top"
 |'''CellMotility'''
