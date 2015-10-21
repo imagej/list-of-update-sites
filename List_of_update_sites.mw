@@ -1,4 +1,4 @@
-{{UpdateSites}}
+{{UpdateSites}}{{UpdateSitesWarning}}
 == Introduction ==
 
 The [[Updater]] has a convenient ''Manage update sites'' dialog that is populated by this wiki page.
