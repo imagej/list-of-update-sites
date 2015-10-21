@@ -114,6 +114,11 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Fiji plugins which allow reading and writing to [http://www.ffmpeg.org/ FFmpeg]-supported formats via native bindings.
 |{{Person|Schindelin}}
 |- valign="top"
+|'''Funimage'''
+|http://sites.imagej.net/Funimage/
+|Fiji plugin that provides Clojure wrappings of many commonly used functions from ImageJ and ImgLib2. Works with SciJava scripting for Clojure, and Funimage scripts can be converted into standalone ImageJ/FIJI-based programs. Code available {{GitHub | org=funimage | repo=funimage}}.
+|{{Person|Kharrington}}
+|- valign="top"
 |'''Fuzzy logic and artificial neural networks image processing toolbox for ImageJ'''
 |http://sites.imagej.net/Astartes91/
 | Toolbox includes fuzzy edge detection plugin, fuzzy contrast enhancement plugin and ann edge detection plugin. Source code on Github: https://github.com/astartes91/imagej-neural-fuzzy-plugins.
