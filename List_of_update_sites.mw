@@ -66,7 +66,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign="top"
 |'''BioVoxxel'''
 |http://sites.imagej.net/BioVoxxel/
-|A toolset providing a plugins and macros for flat-field background corrections, image filters, color coding of shape descriptors and several tools to process and analyze binary images such as the 'Speckle Inspector', 'Binary Feature Extractor' and an 'Extended Particle Analyzer' and a qualitative and quantitative evaluation tool for Fijis' Auto Threshold methods. More information under: [http://www.biovoxxel.de BioVoxxel] or the [http://imagej.net/BioVoxxel_Toolbox BioVoxxel Wiki] page
+|A toolset providing a plugins and macros for flat-field background corrections, image filters, color coding of shape descriptors and several tools to process and analyze binary images such as the 'Speckle Inspector', 'Binary Feature Extractor' and an 'Extended Particle Analyzer' and a qualitative and quantitative evaluation tool for Fijis' Auto Threshold methods. More information at the [[BioVoxxel Toolbox]] page and the [http://www.biovoxxel.de BioVoxxel web site].
 |{{Person|BioVoxxel}}
 |- valign="top"
 |'''CellMotility'''
@@ -101,7 +101,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign="top"
 |'''CSIM Laboratory'''
 |http://sites.imagej.net/Acsenrafilho/
-|A set of plugins, macros and scripts developed by the CSIM (Computing in Signal and Images in Medicine) research group. One of the methods available are [http://imagej.net/AnomalousDiffusionFilters Anomalous Diffusion Filters], [http://imagej.net/NoiseGenerator Noise Generator], [http://imagej.net/MRIPerfusion MRI Perfusion] and the [http://imagej.net/SampEn2D Sample Entropy for Images]. Please, see the  [http://imagej.net/CSIMLab CSIM group web page] to find out how the methods works and more information about us.
+|A set of plugins, macros and scripts developed by the CSIM (Computing in Signal and Images in Medicine) research group. One of the methods available are [[Anomalous Diffusion Filters]], [[Noise Generator]], [[MRI Perfusion]] and the [[SampEn2D|Sample Entropy for Images]]. Please, see the  [[CSIMLab|CSIM group web page]] to find out how the methods works and more information about us.
 |{{Person|Acsenrafilho}}
 |- valign="top"
 |'''DiameterJ'''
@@ -113,11 +113,6 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |http://fiji.sc/~schindelin/ffmpeg-plugins/
 |Fiji plugins which allow reading and writing to [http://www.ffmpeg.org/ FFmpeg]-supported formats via native bindings.
 |{{Person|Schindelin}}
-|- valign="top"
-|'''Funimage'''
-|http://sites.imagej.net/Funimage/
-|Fiji plugin that provides Clojure wrappings of many commonly used functions from ImageJ and ImgLib2. Works with SciJava scripting for Clojure, and Funimage scripts can be converted into standalone ImageJ/FIJI-based programs. Code available via Github: [https://github.com/funimage/funimage](https://github.com/funimage/funimage).
-|{{Person|Kharrington}}
 |- valign="top"
 |'''Fuzzy logic and artificial neural networks image processing toolbox for ImageJ'''
 |http://sites.imagej.net/Astartes91/
