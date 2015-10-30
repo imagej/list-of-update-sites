@@ -260,6 +260,11 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |The drivers and software to operate an [http://openspim.org/ OpenSPIM] (Open Access selective plane light sheet microscope).
 |[http://loci.wisc.edu/people/luke-stuyvenberg Luke Stuyvenberg] and {{Person|Schindelin}}
 |- valign="top"
+|'''Pendent Drop'''
+|http://sites.imagej.net/Daerr/
+|A [http://fiji.sc/Pendent_Drop plugin for capillary length measurement] through the pendent drop method.
+|[http://www.msc.univ-paris-diderot.fr/~daerr/ Adrian Daerr]
+|- valign="top"
 |'''PET-CT'''
 |http://sites.imagej.net/Ilan/
 |Update site for the Pet-Ct-Viewer and other Nuclear Medicine software in use at Beth Israel Hospital, see [http://sourceforge.net/p/bifijiplugins/wiki/Pet-Ct%20Viewer/ Help]
