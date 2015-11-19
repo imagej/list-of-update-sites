@@ -280,6 +280,11 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |The [http://biop.epfl.ch/ EPFL - PTBIOP] (BioImaging & Optics Platform) Update Site, with Fiji plugins and macros, including [http://imagejdocu.tudor.lu/doku.php?id=plugin:utilities:action_bar:start Action Bars] (not the plugin) and HRM Manager.
 |[http://people.epfl.ch/olivier.burri?lang=en&cvlang=en Olivier Burri]
 |- valign="top"
+|'''ResultsToExcel'''
+|http://sites.imagej.net/ResultsToExcel/
+|This plugin extracts data from the Results Table and adds it to a new or existing .xlsx Excel file on the user's desktop. It works well with batching as data is not overwritten. A similar plugin exists by another developer but that one didn't work well for me. I did not consult their source code.
+|Anthony Sinadinos {{Person|ResultsToExcel}}
+|- valign="top"
 |'''RT-Multiview-Deconvolution'''
 |http://sites.imagej.net/RT-Multiview-Deconvolution/
 |Plugins for plane-wise GPU-accelerated multi-view deconvolution of SPIM data.
