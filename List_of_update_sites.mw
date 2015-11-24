@@ -215,6 +215,11 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |[[MaMuT]], a plugin for the annotation of massive, multi-view data.
 |{{Person|JeanYvesTinevez}}
 |- valign="top"
+|'''Micro-Magellan'''
+|http://sites.imagej.net/Hpinkard/
+|Micro-Magellan (https://micro-manager.org/wiki/MicroMagellan) is a plugin based on Micro-Manager for high throughput microscopy. This update site is used to enable reading of Micro-Magellan datasets by the BigDataViewer (http://fiji.sc/BigDataViewer).
+|Henry Pinkard
+|- valign="top"
 |'''MiToBo'''
 |http://sites.imagej.net/MiToBo/
 |MiToBo ([http://www.informatik.uni-halle.de/mitobo http://www.informatik.uni-halle.de/mitobo]) is a collection of basic image processing operators (filtering, morphology, labeling, etc.), advanced analysis algorithms (wavelets, snakes, levelsets, etc.), and special applications mainly dedicated to microscopy image analysis (nuclei detection, scratch assay analysis, neurite image segmentation, etc.).
