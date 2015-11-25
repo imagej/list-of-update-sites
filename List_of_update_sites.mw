@@ -292,7 +292,7 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |- valign="top"
 |'''ResultsToExcel'''
 |http://sites.imagej.net/ResultsToExcel/
-|This plugin extracts data from the Results Table and adds it to a new or existing .xlsx Excel file on the user's desktop. It works well with batching as data is not overwritten. A similar plugin exists by another developer but that one didn't work well for me. I did not consult their source code.
+|This plugin extracts data from the Results Table and adds it to a new or existing .xlsx Excel file on the user's desktop. It works well with batching as data is not overwritten. A similar plugin exists by another developer but that one didn't work well for me. I did not consult their source code. [https://www.youtube.com/watch?v=79rzUae-7N8/ YouTube tutorial].
 |Anthony Sinadinos {{Person|ResultsToExcel}}
 |- valign="top"
 |'''RT-Multiview-Deconvolution'''
