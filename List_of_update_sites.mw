@@ -300,6 +300,11 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |Plugins for plane-wise GPU-accelerated multi-view deconvolution of SPIM data.
 |{{Person|Bene}}
 |- valign="top"
+|'''Sceptical Physiologist'''
+|http://sites.imagej.net/Scepticalphysiologist/
+|FFT (spectra + filtering); ROI class management; density plotting; etc.
+|[http://scepticalphysiologist.com/code/code.html scepticalphysiologist.com]
+|- valign="top"
 |'''ScientiFig'''
 |http://sites.imagej.net/Aigouy/
 |ScientiFig is a tool to build publication-ready scientific figures similar to FigureJ from the IBMP-CNRS site.
