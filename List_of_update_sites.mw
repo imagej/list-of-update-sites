@@ -26,6 +26,11 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |http://update.fiji.sc/
 |Base update site for [[Fiji]] and [[:Category:Plugins|core Fiji plugins]]. If you [[Downloads|downloaded Fiji directly]], it is already included.
 |[[Contributors|Fiji developers]]
+|- valign="top"
+|'''Java-8'''
+|http://sites.imagej.net/Java-8/
+|Base update site for [[ImageJ2]] and [[Fiji]] components (e.g., [[ImageJ Ops]] and the [[3D Viewer]]) which have migrated to Java 7 or Java 8. '''Will not work with Java 6 or 7.'''
+|[[Contributors|ImageJ and Fiji developers]]
 |-
 |colspan="4" style="background: #ddd; padding: 5px; text-align: center"|''Optional Update Sites''
 |- valign="top"
@@ -33,11 +38,6 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |http://sites.imagej.net/2015-Conference/
 |A collection of plugins highlighting the latest features of ImageJ. As seen in {{Person|Rasband}}'s [https://vimeo.com/140929691 opening talk] at the [[Conference_2015|2015 conference]]!
 |{{Person|Hinerm}}
-|- valign="top"
-|'''3D'''
-|http://sites.imagej.net/3D/
-|[[3D Viewer]] and related plugins built on [[wikipedia:Java 3D|Java 3D]] version 1.6, enabling them to work with Java 7 and Java 8. '''Will not work with Java 6.'''
-||{{Person|Rueden}}
 |- valign="top"
 |'''3D ImageJ Suite'''
 |http://sites.imagej.net/Tboudier/
