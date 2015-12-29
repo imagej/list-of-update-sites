@@ -205,6 +205,11 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |{{Person|Ehrenfeu}}
 |- valign="top"
+|'''LinearDistance'''
+|http://sites.imagej.net/SimonKlein/
+|This plugin measures distances between binary inversions of an binary image in x and y direction in pixel or units. Used to measure free mean path in a two phased metal.
+|{{Person|SimonKlein}}
+|- valign="top"
 |'''LLTT'''
 |http://sites.imagej.net/Alex-krull/
 |The [[Low_Light_Tracking_Tool | Low Light Tracking Tool]] can be used to track low-light sub-resolution objects in microscopy images and other applications.
