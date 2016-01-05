@@ -176,7 +176,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign="top"
 |'''ImageScience'''
 |http://sites.imagej.net/ImageScience/
-|Base update site for all [https://github.com/imagescience/ ImageScience] related ImageJ plugins.
+|Base update site for all [[ImageScience]] related ImageJ plugins.
 |[http://www.imagescience.org/meijering/ Erik Meijering]
 |- valign="top"
 |'''ImagingBook'''
