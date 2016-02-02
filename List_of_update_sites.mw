@@ -181,28 +181,28 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign="top"
 |'''ImagingBook'''
 |http://sites.imagej.net/ImagingBook/
-|Common ImageJ/Java source code for the Digital Imaging books by Wilhelm Burger and Mark J. Burge (see http://www.imagingbook.com). This update site only provides the common “imagingbook” LIBRARY plus required third-parts JAR files. Specific sets of demo plugins are available for each book edition; choose ONE of the update sites listed below. Find the online documentation and additional materials at http://sourceforge.net/projects/imagingbook/
-|Wilhelm Burger
+|Common ImageJ/Java source code for the Digital Imaging books by {{Person|ImagingBook}} and Mark J. Burge (see http://www.imagingbook.com). This update site only provides the common “imagingbook” LIBRARY plus required third-parts JAR files. Specific sets of demo plugins are available for each book edition; choose ONE of the update sites listed below. Find the online documentation and additional materials at http://sourceforge.net/projects/imagingbook/
+|{{Person|ImagingBook}}
 |- valign="top"
 |'''ImagingBookEn1'''
 |http://sites.imagej.net/ImagingBookEn1/
 |ImageJ PLUGINS (only) for “Digital Image Processing – An Algorithmic Introduction using Java” by W. Burger & M. Burge, Springer (2008).
-|Wilhelm Burger
+|{{Person|ImagingBook}}
 |- valign="top"
 |'''ImagingBookEn2'''
 |http://sites.imagej.net/ImagingBookEn2/
 |ImageJ PLUGINS (only) for “Principles of Digital Image Processing” (Vols. 1–3) by W. Burger & M. Burge, Springer (2009–2013).
-|Wilhelm Burger
+|{{Person|ImagingBook}}
 |- valign="top"
 |'''ImagingBookDe2'''
 |http://sites.imagej.net/ImagingBookDe2/
 |ImageJ PLUGINS (only) for “Digitale Bildverarbeitung – Eine Einführung mit Java und ImageJ” by W. Burger & M. Burge, Springer (2006).
-|Wilhelm Burger
+|{{Person|ImagingBook}}
 |- valign="top"
 |'''ImagingBookDe3'''
 |http://sites.imagej.net/ImagingBookDe3/
 |ImageJ PLUGINS (only) for “Digitale Bildverarbeitung – Eine algorithmische Einführung mit Java” by W. Burger & M. Burge, Springer (2015).
-|Wilhelm Burger
+|{{Person|ImagingBook}}
 |- valign="top"
 |'''IMCF Uni Basel'''
 |http://sites.imagej.net/UniBas-IMCF/
