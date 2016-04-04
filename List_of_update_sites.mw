@@ -365,6 +365,11 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |Fiji-Tools-for-HCS is a collection of macros useful for high-content screening data developed by TDS members at MPI-CBG Dresden. [https://github.com/stoeter/Fiji-Tools-for-HCS/wiki Wiki]
 |[mailto:stoeter@mpi-cbg.de Martin Stoeter]
 |- valign="top"
+|'''U-Net Segmentation'''
+|http://sites.imagej.net/Falk/
+|The U-Net segmentation plugin interfaces caffe on a remote Linux host to segment images using artificial neural networks. 
+|[mailto:falk@informatik.uni-freiburg.de Thorsten Falk]
+|- valign="top"
 |'''Vale lab plugins'''
 |http://sites.imagej.net/Nico/
 |Utilities useful to our lab members: spot counter plugin,
