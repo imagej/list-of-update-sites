@@ -56,7 +56,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign="top"
 |'''BAR'''
 |http://sites.imagej.net/Tiago/
-|[[BAR|BAR]] (''Broadly Applicable Routines'') is a {{GitHub|org=tferr|repo=Scripts|label=GitHub-curated}} collection of scripts that simplifies the daily usage of ImageJ. The collection is focused on Data Analysis, Image Annotation, Image Segmentation and Bitmap Morphometry.
+|[[BAR|BAR]] (''Broadly Applicable Routines'') is a {{GitHub|org=tferr|repo=Scripts|label=GitHub-curated}} collection of scripts that simplifies the daily usage of ImageJ. The collection is focused on Data Analysis, Image Annotation and Segmentation.
 |{{Person|Tiago}}
 |- valign="top"
 |'''Bio-Formats'''
@@ -269,6 +269,11 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |http://sites.imagej.net/NIST-ISG-MIST/
 |Microscopy Image Stitching Tool (MIST), is a stitching algorithm for small and large two dimensional image grid collections. We developed a new and novel method for optimizing the translations computed by the phase-correlation method using the Fourier transform approach. This new method estimates the microscope stage repeatability from the computed translations of a gridded image tiles. It then optimizes all translation computation using the Hill Climbing algorithm bounded to four times the stage repeatability. This minimizes the maximum uncertainty related to the translation computation for any pair of images.
 |[https://isg.nist.gov/deepzoomweb/resources/csmet/pages/image_stitching/image_stitching.html NIST ISG]
+|- valign="top"
+|'''Neuroanatomy'''
+|http://sites.imagej.net/Neuroanatomy/
+|Image Processing Tools for Neuroanatomy and Tree-like structures ([[User: Neuroanatomy|list]]).
+|{{Person|Tiago}}
 |- valign="top"
 |'''NucleusJ'''
 |http://sites.imagej.net/PouletAxel/
