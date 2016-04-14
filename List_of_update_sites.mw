@@ -352,7 +352,7 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |- valign="top"
 |'''SlideBook'''
 |http://sites.imagej.net/SlideBook/
-|This Bio-Formats plugin enables the import of [http://intelligent-imaging.com/bioformats SlideBook] SLD files.
+|This Bio-Formats plugin enables the import of [http://www.intelligent-imaging.com/slidebook.php SlideBook] SLD files.
 |[http://www.intelligent-imaging.com/contact.php 3i Support]
 |- valign="top"
 |'''Slide Set'''
