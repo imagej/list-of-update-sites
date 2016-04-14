@@ -350,6 +350,11 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |Tools developed by the Keller Lab at the Janelia Research Campus, most notably the [https://bitbucket.org/fernandoamat/keller-lab-block-filetype KLB] file format.
 |[mailto:hoeckendorfb@janelia.hhmi.org Burkhard Hoeckendorf]
 |- valign="top"
+|'''SlideBook'''
+|http://sites.imagej.net/SlideBook/
+|This Bio-Formats plugin enables the import of [http://intelligent-imaging.com/bioformats SlideBook] SLD files.
+|[http://www.intelligent-imaging.com/contact.php 3i Support]
+|- valign="top"
 |'''Slide Set'''
 |http://b.nanes.org/slideset/update/
 |[http://b.nanes.org/slideset/ Slide Set]: Reproducible image analysis and batch processing.
