@@ -191,12 +191,17 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign="top"
 |'''ImagingBookEn1'''
 |http://sites.imagej.net/ImagingBookEn1/
-|ImageJ PLUGINS (only) for “Digital Image Processing – An Algorithmic Introduction using Java” by W. Burger & M. Burge, Springer (2008).
+|ImageJ PLUGINS (only) for “Digital Image Processing – An Algorithmic Introduction Using Java” by W. Burger & M. Burge, Springer (2008).
 |{{Person|ImagingBook}}
 |- valign="top"
 |'''ImagingBookEn2'''
 |http://sites.imagej.net/ImagingBookEn2/
 |ImageJ PLUGINS (only) for “Principles of Digital Image Processing” (Vols. 1–3) by W. Burger & M. Burge, Springer (2009–2013).
+|{{Person|ImagingBook}}
+|- valign="top"
+|'''ImagingBookEn3'''
+|http://sites.imagej.net/ImagingBookEn3/
+|ImageJ PLUGINS (only) for “Digital Image Processing – An Algorithmic Introduction Using Java” by W. Burger & M. Burge, 2nd ed., Springer (2016).
 |{{Person|ImagingBook}}
 |- valign="top"
 |'''ImagingBookDe2'''
