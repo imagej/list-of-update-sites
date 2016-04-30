@@ -225,6 +225,11 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |Update site for scale space filters and other INCF projects from GSOC 2014, 2015, 2016.
 |[mailto:dimiterpp@gmail.com Dimiter Prodanov]
 |- valign="top"
+|'''JAX Eye'''
+|http://sites.imagej.net/JAXEye/
+|Macro for processing brightfield fundus images of the mouse eye.
+|[mailto:mark.krebs@jax.org Mark Krebs]
+|- valign="top"
 |'''LinearDistance'''
 |http://sites.imagej.net/SimonKlein/
 |This plugin measures distances between binary inversions of an binary image in x and y direction in pixel or units. Used to measure free mean path in a two phased metal.
