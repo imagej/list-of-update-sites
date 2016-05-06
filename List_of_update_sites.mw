@@ -151,12 +151,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign="top"
 |'''HistoJ'''
 |http://sites.imagej.net/Pathomation/
-|Plugin to interface with [http://www.pathomation.com/ Pathomation's digital slide viewer]
+|Plugin to interface with [http://www.pathomation.com/ Pathomation's digital slide viewer] which can open Olympus VSI (.vsi), Ventana / Roche BIF (.bif), Hamamatsu NDPI (.ndpi), 3DHistech MRXS (.mrxs), Aperio / Leica SVS (.svs), Leica SCN (.scn), Carl Zeiss ZVI (.zvi), Carl Zeiss CZI (.czi), Nikon ND2 (.nd2), Sakura SVSlide (.svslide)
 |[mailto:info@pathomation.com Pathomation]
 |- valign="top"
 |'''HistoJ Lite'''
 |http://sites.imagej.net/Pathomation/
-|Plugin to interface with [http://free.pathomation.com/ Pathomation's free digital slide viewer]
+|Plugin to interface with [http://free.pathomation.com/ Pathomation's free digital slide viewer] which can open Olympus VSI (.vsi), Ventana / Roche BIF (.bif), Hamamatsu NDPI (.ndpi), 3DHistech MRXS (.mrxs), Aperio / Leica SVS (.svs), Leica SCN (.scn), Carl Zeiss ZVI (.zvi), Carl Zeiss CZI (.czi), Nikon ND2 (.nd2), Sakura SVSlide (.svslide)
 |[mailto:info@pathomation.com Pathomation]
 |- valign="top"
 |'''IBMP-CNRS'''
