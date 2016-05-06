@@ -156,7 +156,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign="top"
 |'''HistoJ Lite'''
 |http://sites.imagej.net/Pathomation/
-|Plugin to interface with [http://free.pathomation.com/ Pathomation's Free digital slide viewer]
+|Plugin to interface with [http://free.pathomation.com/ Pathomation's free digital slide viewer]
 |[mailto:info@pathomation.com Pathomation]
 |- valign="top"
 |'''IBMP-CNRS'''
