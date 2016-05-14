@@ -237,7 +237,7 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |- valign="top"
 |'''JAX Eye'''
 |http://sites.imagej.net/MarkKrebs/
-|Macro for processing brightfield fundus images of the mouse eye.
+|Macro for processing brightfield fundus images of the mouse eye and plugin for averaging replicate OCT volume scans.
 |[mailto:mark.krebs@jax.org Mark Krebs]
 |- valign="top"
 |'''LinearDistance'''
