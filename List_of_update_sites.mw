@@ -119,6 +119,11 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Fiji plugins which allow reading and writing to [http://www.ffmpeg.org/ FFmpeg]-supported formats via native bindings.
 |{{Person|Schindelin}}
 |- valign="top"
+|'''FibrilJ'''
+|http://sites.imagej.net/FibrilJ/
+|Macros developed to measure the diameters and persistence lengths if amyloids fibrils by AFM, EM, STM etc. iamges. It provides histogram distribution of the average fibril diameter and average fibril persistence length. Was validated for AFM, SEM and TEM images of Sup35NM fibrils on mica, silicon, gold surfaces and formvar film.
+|{{Person|Petr Sokolov}}
+|- valign="top"
 |'''FracLac Suite'''
 |http://sites.imagej.net/Akarperien/
 |Fractal Analysis and Modelling tools for neuroscience and other disciplines. '''Analysis:''' <abbr title="Box Counting Fractal Dimension">D<sub>B</sub></abbr>, <abbr title="Fixed Grid and Sliding Box">lacunarity</abbr>, multifractal spectra, <abbr title="Local Connected Fractal Dimension">D<sub>LC</sub></abbr>, <abbr title="Mass vs Distance Dimension">D<sub>MvD</sub></abbr>, subscanning, and graphical wave analysis for binary and gray scale images, with inline and [http://rsbweb.nih.gov/ij/plugins/fraclac/FLHelp/Introduction.htm online] theoretical and practical help. '''Outputs:''' detailed analyses, raw data, plots, colour-coding, and settings (*.fl) files. '''Modelling:''' benchmark fractals, natural structures (e.g., neurons), megadata to graphical wave images. Code in jar. See [http://rsbweb.nih.gov/ij/plugins/fraclac/FLHelp/FLCitations.htm citations].
