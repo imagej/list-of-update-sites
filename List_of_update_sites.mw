@@ -405,7 +405,7 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |[mailto:stoeter@mpi-cbg.de Martin Stoeter]
 |- valign="top"
 |'''U-Net Segmentation'''
-|http://sites.imagej.net/Falk/
+|http://cia.informatik.uni-freiburg.de/ImageJ/
 |The U-Net segmentation plugin interfaces caffe on a remote Linux host to segment images using artificial neural networks. 
 |[mailto:falk@informatik.uni-freiburg.de Thorsten Falk]
 |- valign="top"
