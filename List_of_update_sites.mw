@@ -334,6 +334,11 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |Update site for [https://github.com/nicjac/PHANTAST-FIJI/ PHANTAST] (phase contrast microscopy segmentation toolbox), a collection of tools for the processing of phase contrast microscopy images
 |[http://www.nicjac.net Nicolas Jaccard]
 |- valign="top"
+|'''PhotonImaging'''
+|http://sites.imagej.net/PhotonImaging/
+|The [http://imagej.net/User:PhotonImaging PhotonImaging] plug-in for ImageJ is able to process single photon event data, by locating the center point of each photon and create a combined greyscale image with all found photons per pixel mapped to the correct pixel value. 
+|[mailto:wout.van.helvoirt@gmail.com W. van Helvoirt], [mailto:lonsch96@live.nl L. Scheffer]
+|- valign="top"
 |'''PTBIOP'''
 |http://biop.epfl.ch/Fiji-Update
 |The [http://biop.epfl.ch/ EPFL - PTBIOP] (BioImaging & Optics Platform) Update Site, with Fiji plugins and macros, including [http://imagejdocu.tudor.lu/doku.php?id=plugin:utilities:action_bar:start Action Bars] (not the plugin) and HRM Manager.
