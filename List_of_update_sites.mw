@@ -337,7 +337,7 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |'''PhotonImaging'''
 |http://sites.imagej.net/PhotonImaging/
 |The [http://imagej.net/User:PhotonImaging PhotonImaging] plug-in for ImageJ is able to process single photon event data, by locating the center point of each photon and create a combined greyscale image with all found photons per pixel mapped to the correct pixel value. 
-|[mailto:wout.van.helvoirt@gmail.com W. van Helvoirt], [mailto:lonsch96@live.nl L. Scheffer]
+|[mailto:lonsch96@live.nl Lonneke Scheffer] & [mailto:wout.van.helvoirt@gmail.com Wout van Helvoirt]
 |- valign="top"
 |'''PTBIOP'''
 |http://biop.epfl.ch/Fiji-Update
