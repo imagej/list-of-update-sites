@@ -66,7 +66,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |'''Biomedgroup'''
 |http://sites.imagej.net/Biomedgroup/
 |A set of plugins developed by the biomedical imaging group of the dortmund university of applied sciences and arts:  [[Shape Filter]] (Filter binary images by shape), [[Shape Smoothing]] (Smooth objects via Fourier descriptors), [[Non Local Means Denoise]] (edge preserving noise filter), [[NanoTrackJ]] (Size characterization of freely diffusing nanoparticles by particle tracking), [[Ridge Detection]] (Line / Ridge detection plugin).
-|{{Person|Biomedgroup}}
+|{{Person|twagner}}
 |- valign="top"
 |'''BioVoxxel'''
 |http://sites.imagej.net/BioVoxxel/
@@ -319,11 +319,19 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |The drivers and software to operate an [http://openspim.org/ OpenSPIM] (Open Access selective plane light sheet microscope).
 |[http://loci.wisc.edu/people/luke-stuyvenberg Luke Stuyvenberg] and {{Person|Schindelin}}
 |- valign="top"
+
 |'''Pendent Drop'''
 |http://sites.imagej.net/Daerr/
 |A [http://fiji.sc/Pendent_Drop plugin for capillary length measurement] through the pendent drop method.
 |[http://www.msc.univ-paris-diderot.fr/~daerr/ Adrian Daerr]
 |- valign="top"
+
+|'''ParticleSizer'''
+|http://sites.imagej.net/psizer/
+|A [http://imagej.net/ParticleSizer plugin to derive number based size distributions] from TEM.
+|{{Person|twagner}}
+|- valign="top"
+
 |'''PET-CT'''
 |http://sites.imagej.net/Ilan/
 |Update site for the Pet-Ct-Viewer and other Nuclear Medicine software in use at Beth Israel Hospital, see [http://sourceforge.net/p/bifijiplugins/wiki/Pet-Ct%20Viewer/ Help]
