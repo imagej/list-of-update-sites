@@ -328,7 +328,7 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 
 |'''ParticleSizer'''
 |http://sites.imagej.net/psizer/
-|A [http://imagej.net/ParticleSizer plugin to derive number based size distributions] from TEM.
+|A [http://imagej.net/ParticleSizer plugin to derive number based size distributions] from TEM images.
 |{{Person|twagner}}
 |- valign="top"
 
