@@ -108,6 +108,11 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |A set of plugins, macros and scripts developed by the CSIM (Computing in Signal and Images in Medicine) research group. One of the methods available are [[Anomalous Diffusion Filters]], [[Noise Generator]], [[MRI Perfusion]] and the [[SampEn2D|Sample Entropy for Images]]. Please, see the  [[CSIMLab|CSIM group web page]] to find out how the methods works and more information about us.
 |{{Person|Acsenrafilho}}
 |- valign="top"
+|'''CWNS dense nuclei segmenter'''
+|http://sites.imagej.net/CWNS/
+|The Fiji implementation of the CWNS dense nuclei segmenter, presented in [http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0150853 "Object Segmentation and Ground Truth in 3D Embryonic Imaging"], by B. Rajasekaran et al., Plos ONE, 2016.
+|{{Person|JeanYvesTinevez}}
+|- valign="top"
 |'''DiameterJ'''
 |http://sites.imagej.net/DiameterJ/
 |Macros for quantitative analysis of nanofiber images.  DiameterJ is able to analyze any network of connecting lines (validated for SEM micrographs of micro- and nanofibers) and produce metrics such as mean diameter, histograms of fiber diameter, mean pore size, histogram of all pore areas, percent porosity, etc.  See [coming soon] for more information and the publication describing how DiameterJ works and its limitations.
