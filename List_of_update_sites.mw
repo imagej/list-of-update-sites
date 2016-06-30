@@ -299,6 +299,21 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |Microscopy Image Stitching Tool (MIST), is a stitching algorithm for small and large two dimensional image grid collections. We developed a new and novel method for optimizing the translations computed by the phase-correlation method using the Fourier transform approach. This new method estimates the microscope stage repeatability from the computed translations of a gridded image tiles. It then optimizes all translation computation using the Hill Climbing algorithm bounded to four times the stage repeatability. This minimizes the maximum uncertainty related to the translation computation for any pair of images.
 |[https://isg.nist.gov/deepzoomweb/resources/csmet/pages/image_stitching/image_stitching.html NIST ISG]
 |- valign="top"
+|'''NanoJ-Core'''
+|http://sites.imagej.net/NanoJ/
+|The update site providing NanoJ's core functionality.  [https://bitbucket.org/rhenriqueslab/nanoj-core NanoJ] is a set of high-performance libraries for GPU enabled super-resolution data analysis.
+|[http://www.ucl.ac.uk/lmcb/users/ricardo-henriques The Henriques Team, UCL, UK]
+|- valign="top"
+|'''NanoJ-SRRF'''
+|http://sites.imagej.net/NanoJ-SRRF/
+|[https://bitbucket.org/rhenriqueslab/nanoj-srrf NanoJ-SRRF] is a high-performance analytical approach for Live-cell Super-Resolution Microscopy, provided as a fast GPU-enabled ImageJ plugin.
+|[http://www.ucl.ac.uk/lmcb/users/ricardo-henriques The Henriques Team, UCL, UK]
+|- valign="top"
+|'''NanoJ-VirusMapper'''
+|http://sites.imagej.net/NanoJ-VirusMapper/
+|[https://bitbucket.org/rhenriqueslab/nanoj-virusmapper NanoJ-VirusMapper] is a high-throughput ImageJ plugin for single-particle analysis in fluorescence microscopy, particularly super-resolution microscopy. 
+|[http://www.ucl.ac.uk/lmcb/users/ricardo-henriques The Henriques Team, UCL, UK]
+|- valign="top"
 |'''Neuroanatomy'''
 |http://sites.imagej.net/Neuroanatomy/
 |Image Processing Tools for Neuroanatomy and Tree-like structures ([[User: Neuroanatomy|list]]).
