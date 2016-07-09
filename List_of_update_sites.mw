@@ -135,7 +135,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign="top"
 |'''Funimage'''
 |http://sites.imagej.net/Funimage/
-|Fiji plugin that provides Clojure wrappings of many commonly used functions from ImageJ and ImgLib2. Works with SciJava scripting for Clojure, and Funimage scripts can be converted into standalone ImageJ/FIJI-based programs. Code available {{GitHub | org=funimage | repo=funimage}}.
+|Fiji plugin that provides Clojure wrappings of many commonly used functions from ImageJ and ImgLib2. Works with SciJava scripting for Clojure, and Funimage scripts can be converted into standalone ImageJ/Fiji-based programs. Code available {{GitHub | org=funimage | repo=funimage}}.
 |{{Person|Kharrington}}
 |- valign="top"
 |'''Fuzzy logic and artificial neural networks image processing toolbox for ImageJ'''
