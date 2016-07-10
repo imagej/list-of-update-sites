@@ -436,6 +436,13 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |http://sites.imagej.net/TDS/
 |Fiji-Tools-for-HCS is a collection of macros useful for high-content screening data developed by TDS members at MPI-CBG Dresden. [https://github.com/stoeter/Fiji-Tools-for-HCS/wiki Wiki]
 |[mailto:stoeter@mpi-cbg.de Martin Stoeter]
+
+|- valign="top"
+|'''TraJClassifier'''
+|http://sites.imagej.net/TraJClassifier/
+|This plugin loads trajectories from TrackMate, characterize them using TraJ and classificate them into normal diffusion, subdiffusion, confined diffusion and directed/active motion by a random forest approach.[https://github.com/thorstenwagner/ij-trajectory-classifier]
+|{{Person|twagner}}
+
 |- valign="top"
 |'''U-Net Segmentation'''
 |http://sites.imagej.net/Falk/
