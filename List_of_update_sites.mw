@@ -249,6 +249,11 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |Macro for processing brightfield fundus images of the mouse eye and plugin for averaging replicate OCT volume scans.
 |[mailto:mark.krebs@jax.org Mark Krebs]
 |- valign="top"
+|'''Lineage-Mapper'''
+|http://sites.imagej.net/NIST-ISG-LineageMapper/
+|Lineage Mapper is an open-source, overlap-based cell tracking system for time-lapse images of biological cells, colonies, and particles. Lineage Mapper tracks objects independently of the segmentation method, detects mitosis in confluence, separates cell clumps mistakenly segmented as a single cell, provides accuracy and scalability even on terabyte-sized datasets, and creates division and/or fusion lineages.
+|[https://isg.nist.gov/deepzoomweb/resources/csmet/pages/cell_tracking/cell_tracking.html NIST ISG]
+|- valign="top"
 |'''LinearDistance'''
 |http://sites.imagej.net/SimonKlein/
 |This plugin measures distances between binary inversions of an binary image in x and y direction in pixel or units. Used to measure free mean path in a two phased metal.
