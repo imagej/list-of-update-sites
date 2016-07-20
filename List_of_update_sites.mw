@@ -66,7 +66,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |'''Biomedgroup'''
 |http://sites.imagej.net/Biomedgroup/
 |A set of plugins developed by the biomedical imaging group of the dortmund university of applied sciences and arts:  [[Shape Filter]] (Filter binary images by shape), [[Shape Smoothing]] (Smooth objects via Fourier descriptors), [[Non Local Means Denoise]] (edge preserving noise filter), [[NanoTrackJ]] (Size characterization of freely diffusing nanoparticles by particle tracking), [[Ridge Detection]] (Line / Ridge detection plugin).
-|{{Person|twagner}}
+|{{Person|Twagner}}
 |- valign="top"
 |'''BioVoxxel'''
 |http://sites.imagej.net/BioVoxxel/
@@ -354,7 +354,7 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |'''ParticleSizer'''
 |http://sites.imagej.net/Ndef-psizer/
 |A [http://imagej.net/ParticleSizer plugin to derive number based size distributions] from TEM images.
-|{{Person|twagner}}
+|{{Person|Twagner}}
 |- valign="top"
 
 |'''PET-CT'''
@@ -441,7 +441,7 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |'''TraJClassifier'''
 |http://sites.imagej.net/TraJClassifier/
 |This plugin loads trajectories from TrackMate, characterize them using TraJ and classificate them into normal diffusion, subdiffusion, confined diffusion and directed/active motion by a random forest approach.[https://github.com/thorstenwagner/ij-trajectory-classifier]
-|{{Person|twagner}}
+|{{Person|Twagner}}
 
 |- valign="top"
 |'''U-Net Segmentation'''
