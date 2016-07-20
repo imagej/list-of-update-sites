@@ -36,7 +36,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |'''2015-Conference'''
 |http://sites.imagej.net/2015-Conference/
 |A collection of plugins highlighting the latest features of ImageJ. As seen in {{Person|Rasband}}'s [https://vimeo.com/140929691 opening talk] at the [[Conference_2015|2015 conference]]!
-|{{Person|Hinerm}}
+|{{Person|Rueden}}
 |- valign="top"
 |'''3D ImageJ Suite'''
 |http://sites.imagej.net/Tboudier/
@@ -186,12 +186,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |'''ImageJ-dev'''
 |http://sites.imagej.net/ImageJ-dev/
 |Development version of {{GitHub|org=imagej|repo=imagej|label=ImageJ}} components.
-|{{Person|Rueden}},{{Person|Hinerm}}
+|{{Person|Rueden}}
 |- valign="top"
 |'''ImageJ-ITK'''
 |http://sites.imagej.net/ImageJ-ITK/
 |Adds {{GitHub|org=imagej|repo=imagej-itk|label=ITK integration}} including conversion between [http://www.simpleitk.org/ ITK] and {{GitHub|org=imagej|repo=imagej|label=ImageJ}} images. See the [[ITK|ITK page]] for more information.
-|{{Person|Hinerm}}
+|{{Person|Rueden}}
 |- valign="top"
 |'''ImageJ-MATLAB'''
 |http://sites.imagej.net/MATLAB/
@@ -267,7 +267,7 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |'''LOCI'''
 |http://sites.imagej.net/LOCI/
 |The [http://loci.wisc.edu/software/fiji-plugins LOCI] update site for [http://loci.wisc.edu/software/fiji-plugins their Fiji plugins], including [http://loci.wisc.edu/software/visbio-fiji-plugins VisBio Fiji plugins] and other miscellany.
-|{{Person|Rueden}},{{Person|Hinerm}}
+|{{Person|Rueden}}
 |- valign="top"
 |'''MaMuT'''
 |http://sites.imagej.net/MaMuT/
@@ -396,11 +396,6 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |http://sites.imagej.net/Aigouy/
 |ScientiFig is a tool to build publication-ready scientific figures similar to FigureJ from the IBMP-CNRS site.
 |[mailto:scientifig@gmail.com Benoit Aigouy]
-|- valign="top"
-|'''SCIFIO-dev'''
-|http://sites.imagej.net/SCIFIO/
-|Development version of {{GitHub|org=scifio|repo=scifio|label=SCIFIO}} components.
-|{{Person|Hinerm}}
 |- valign="top"
 |'''SIMcheck'''
 |http://downloads.micron.ox.ac.uk/fiji_update/SIMcheck/
