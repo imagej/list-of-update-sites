@@ -449,11 +449,6 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |{{Person|Twagner}}
 
 |- valign="top"
-|'''tr2d'''
-|http://sites.imagej.net/tr2d/
-|Tracking in 2d. 
-|[mailto:jug@mpi-cbg.de Florian Jug]
-|- valign="top"
 |'''U-Net Segmentation'''
 |http://sites.imagej.net/Falk/
 |The U-Net segmentation plugin interfaces caffe on a remote Linux host to segment images using artificial neural networks. 
