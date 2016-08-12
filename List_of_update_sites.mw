@@ -394,7 +394,7 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |- valign="top"
 |'''Sceptical Physiologist'''
 |http://sites.imagej.net/Scepticalphysiologist/
-|FFT (spectra + filtering); ROI class management; density plotting; etc.
+|FFT (spectra + filtering); ROI class management; Image Linker; Tight Montage; Ca2+ imaging tools; etc.
 |Sean Parsons at [http://scepticalphysiologist.com/code/code.html scepticalphysiologist.com]
 |- valign="top"
 |'''ScientiFig'''
