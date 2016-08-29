@@ -445,7 +445,7 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |- valign="top"
 |'''TraJClassifier'''
 |http://sites.imagej.net/TraJClassifier/
-|This plugin loads trajectories from TrackMate, characterize them using TraJ and classificate them into normal diffusion, subdiffusion, confined diffusion and directed/active motion by a random forest approach.[https://github.com/thorstenwagner/ij-trajectory-classifier]
+|The [http://imagej.net/TraJClassifier TraJClassifier] loads trajectories from TrackMate, characterize them using TraJ and classificate them into normal diffusion, subdiffusion, confined diffusion and directed/active motion by a random forest approach.
 |{{Person|Twagner}}
 
 |- valign="top"
