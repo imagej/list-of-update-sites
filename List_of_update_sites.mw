@@ -397,6 +397,11 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |FFT (spectra + filtering); ROI class management; Image Linker; Tight Montage; Ca2+ imaging tools; etc.
 |Sean Parsons at [http://scepticalphysiologist.com/code/code.html scepticalphysiologist.com]
 |- valign="top"
+|'''SCF MPI CBG'''
+|http://sites.imagej.net/SCF-MPI-CBG/
+|Common image processing tools from the Scientific Computing Facility at MPI CBG Dresden
+|[http://imagej.net/User:Benoit Benoit Lombardot] and [http://imagej.net/User:Haesleinhuepf Robert Haase]
+|- valign="top"
 |'''ScientiFig'''
 |http://sites.imagej.net/Aigouy/
 |ScientiFig is a tool to build publication-ready scientific figures similar to FigureJ from the IBMP-CNRS site.
