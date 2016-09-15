@@ -344,6 +344,11 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |The [http://openmicroscopy.org/info/omero OMERO] update site for {{GitHub|org=imagej|repo=imagej-omero|label=bidirectional integration between ImageJ and OMERO 5.1.x}}.
 |{{Person|Rueden}}
 |- valign="top"
+|'''OMERO 5.2'''
+|http://sites.imagej.net/OMERO-5.2/
+|The [http://openmicroscopy.org/info/omero OMERO] update site for {{GitHub|org=imagej|repo=imagej-omero|label=bidirectional integration between ImageJ and OMERO 5.2.x}}.
+|{{Person|Rueden}}
+|- valign="top"
 |'''OpenSPIM'''
 |http://openspim.org/update/
 |The drivers and software to operate an [http://openspim.org/ OpenSPIM] (Open Access selective plane light sheet microscope).
