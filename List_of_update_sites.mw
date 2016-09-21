@@ -466,7 +466,7 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |- valign="top"
 |'''U-Net Segmentation'''
 |http://sites.imagej.net/Falk/
-|The U-Net segmentation plugin interfaces caffe on a remote Linux host to segment images using artificial neural networks. 
+|The U-Net segmentation plugin interfaces caffe on a remote Linux host to segment images using artificial neural networks. The Plugin requires a special extended version of caffe that will be available soon. It does not work with currently available versions of caffe with U-Net extensions.
 |[mailto:falk@informatik.uni-freiburg.de Thorsten Falk]
 |- valign="top"
 |'''Vale lab plugins'''
