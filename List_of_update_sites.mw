@@ -451,7 +451,11 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |http://sites.imagej.net/TDS/
 |Fiji-Tools-for-HCS is a collection of macros useful for high-content screening data developed by TDS members at MPI-CBG Dresden. [https://github.com/stoeter/Fiji-Tools-for-HCS/wiki Wiki]
 |[mailto:stoeter@mpi-cbg.de Martin Stoeter]
-
+|- valign="top"
+|'''Tissue Analyzer'''
+|http://sites.imagej.net/TA/
+|Tissue Analyzer is a free tool to segment epithelial tissues.
+|[mailto:tissue.analyser@gmail.com Benoit Aigouy]
 |- valign="top"
 |'''TraJClassifier'''
 |http://sites.imagej.net/TraJClassifier/
