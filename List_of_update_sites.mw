@@ -158,6 +158,11 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |The HDF5 plugin allows to load and save data in HDF5 format. For details see [http://lmb.informatik.uni-freiburg.de/resources/opensource/imagej_plugins/hdf5.html HDF5 plugin]. 
 |[mailto:ronneber@informatik.uni-freiburg.de Olaf Ronneberger]
 |- valign="top"
+|'''Hadim'''
+|http://sites.imagej.net/Hadim/
+|Contains the ij2-python-lib package. For details see [https://github.com/hadim/ij2-python-lib the GitHub page]. 
+|{{Person|Hadim}}
+|- valign="top"
 |'''HistoJ'''
 |http://sites.imagej.net/Pathomation/
 |Plugin to interface with [http://www.pathomation.com/ Pathomation's digital slide viewer] which can open Olympus VSI (.vsi), Ventana / Roche BIF (.bif), Hamamatsu NDPI (.ndpi), 3DHistech MRXS (.mrxs), Aperio / Leica SVS (.svs), Leica SCN (.scn), Carl Zeiss ZVI (.zvi), Carl Zeiss CZI (.czi), Nikon ND2 (.nd2), Sakura SVSlide (.svslide)
