@@ -48,6 +48,11 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |A plugin to quantify angiogenic sprout morphology.
 |{{Person|Eglinger}}
 |- valign="top"
+|'''AngioTool'''
+|http://sites.imagej.net/AngioTool/
+|The [https://ccrod.cancer.gov/confluence/display/ROB2/Home AngioTool] software converted to a Fiji plugin.
+|{{Person|Eglinger}}
+|- valign="top"
 |'''Archipelago'''
 |http://sites.imagej.net/Lindsey/
 | A set of plugins that allow Fiji to be run in parallel on a cluster. Currently, [[Trainable_Weka_Segmentation|Trainable Weka Segmentation]] and [[Elastic_Alignment_and_Montage|Elastic Alignment]] are accelerated in this way.
