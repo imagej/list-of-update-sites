@@ -397,6 +397,11 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |The [http://biop.epfl.ch/ EPFL - PTBIOP] (BioImaging & Optics Platform) Update Site, with Fiji plugins and macros, including [http://imagejdocu.tudor.lu/doku.php?id=plugin:utilities:action_bar:start Action Bars] (not the plugin) and HRM Manager.
 |[http://people.epfl.ch/olivier.burri?lang=en&cvlang=en Olivier Burri]
 |- valign="top"
+|'''Quantixed'''
+|http://sites.imagej.net/Quantixed/
+|FIJI/ImageJ macros for making figures, blind analysis and more. Maintenance and issues [http://github.com/quantixed/imagej-macros/ here].
+|[http://mechanochemistry.org/royle Stephen Royle]
+|- valign="top"
 |'''ResultsToExcel'''
 |http://sites.imagej.net/ResultsToExcel/
 |This plugin extracts data from the Results Table and adds it to a new or existing .xlsx Excel file on the user's desktop. It works well with batching as data is not overwritten. A similar plugin exists by another developer but that one didn't work well for me. I did not consult their source code. [https://www.youtube.com/watch?v=79rzUae-7N8/ YouTube tutorial].
