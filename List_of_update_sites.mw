@@ -264,11 +264,6 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |Lineage Mapper is an open-source, overlap-based cell tracking system for time-lapse images of biological cells, colonies, and particles. Lineage Mapper tracks objects independently of the segmentation method, detects mitosis in confluence, separates cell clumps mistakenly segmented as a single cell, provides accuracy and scalability even on terabyte-sized datasets, and creates division and/or fusion lineages.
 |[https://isg.nist.gov/deepzoomweb/resources/csmet/pages/cell_tracking/cell_tracking.html NIST ISG]
 |- valign="top"
-|'''SimonKlein'''
-|http://sites.imagej.net/SimonKlein/
-|Provides the plugins LinearDistance and PointAnalysis
-|{{Person|SimonKlein}}
-|- valign="top"
 |'''LLTT'''
 |http://sites.imagej.net/Alex-krull/
 |The [[Low_Light_Tracking_Tool | Low Light Tracking Tool]] can be used to track low-light sub-resolution objects in microscopy images and other applications.
@@ -436,6 +431,11 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |http://sites.imagej.net/SiMView/
 |Tools developed by the Keller Lab at the Janelia Research Campus, most notably the [https://bitbucket.org/fernandoamat/keller-lab-block-filetype KLB] file format.
 |[mailto:hoeckendorfb@janelia.hhmi.org Burkhard Hoeckendorf]
+|- valign="top"
+|'''SimonKlein'''
+|http://sites.imagej.net/SimonKlein/
+|Provides the plugins [https://github.com/kleinsimon/LinearDistance LinearDistance] and [https://github.com/kleinsimon/PointAnalysis PointAnalysis]
+|{{Person|SimonKlein}}
 |- valign="top"
 |'''SlideBook'''
 |http://sites.imagej.net/SlideBook/
