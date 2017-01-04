@@ -28,7 +28,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign="top"
 |'''Java-8'''
 |http://sites.imagej.net/Java-8/
-|Base update site for [[ImageJ2]] and [[Fiji]] components (e.g., [[ImageJ Ops]] and the [[3D Viewer]]) which have migrated to Java 7 or Java 8. '''Will not work with Java 6 or 7.''' See [[2016-05-10 - ImageJ HOWTO - Java 8, Java 6, Java 3D|this page]] for details.
+|Temporary base update site for [[ImageJ2]] and [[Fiji]] components as everything migrates to Java 8. '''Will not work with Java 6 or 7.''' See [[2016-05-10 - ImageJ HOWTO - Java 8, Java 6, Java 3D|this page]] for details.
 |[[Contributors|ImageJ and Fiji developers]]
 |-
 |colspan="4" style="background: #ddd; padding: 5px; text-align: center"|''Optional Update Sites''
