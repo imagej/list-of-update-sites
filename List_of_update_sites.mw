@@ -399,7 +399,7 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |- valign="top"
 |'''Quantixed'''
 |http://sites.imagej.net/Quantixed/
-|FIJI/ImageJ macros for making figures, blind analysis and more. Maintenance and issues [http://github.com/quantixed/imagej-macros/ here].
+|ImageJ macros for making figures, blind analysis and more. Maintenance and issues [http://github.com/quantixed/imagej-macros/ here].
 |[http://mechanochemistry.org/royle Stephen Royle]
 |- valign="top"
 |'''ResultsToExcel'''
