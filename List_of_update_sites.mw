@@ -65,7 +65,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign="top"
 |'''BaSiC'''
 |http://sites.imagej.net/BaSiC/
-|[https://www.helmholtz-muenchen.de/icb/research/groups/quantitative-single-cell-dynamics/software/basic/index.html BaSiC] is a retrospective image correction method for optical microscopy, available as a Fiji/ImageJ Plugin. It is based on low rank and sparse decomposition, which corrects both shading in space and background bleaching in time.
+|[https://www.helmholtz-muenchen.de/icb/research/groups/quantitative-single-cell-dynamics/software/basic/index.html BaSiC] is a retrospective image correction method for optical microscopy, available as a Fiji/ImageJ Plugin. It is based on low rank and sparse decomposition, which corrects both shading (uneven illumination) in space and background bleaching in time.
 |[mailto:tingying.peng@tum.de Tingying Peng]
 |- valign="top"
 |'''Bio-Formats'''
