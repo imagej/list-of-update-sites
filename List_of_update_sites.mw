@@ -63,6 +63,11 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |[[BAR|BAR]] (''Broadly Applicable Routines'') is a {{GitHub|org=tferr|repo=Scripts|label=GitHub-curated}} collection of scripts that simplifies the daily usage of ImageJ. The collection is focused on Data Analysis, Image Annotation and Segmentation.
 |{{Person|Tiago}}
 |- valign="top"
+|'''BaSiC'''
+|http://sites.imagej.net/BaSiC/
+|[https://www.helmholtz-muenchen.de/icb/research/groups/quantitative-single-cell-dynamics/software/basic/index.html BaSiC] is a retrospective image correction method for optical microscopy, available as a Fiji/ImageJ Plugin. It is based on low rank and sparse decomposition, which corrects both shading in space and background bleaching in time.
+|[mailto:tingying.peng@tum.de Tingying Peng]
+|- valign="top"
 |'''Bio-Formats'''
 |http://sites.imagej.net/Bio-Formats/
 |A version of [[Bio-Formats]] with the latest bugfixes from the [https://github.com/openmicroscopy/bioformats/tree/develop development branch]. The [https://ci.openmicroscopy.org/job/BIOFORMATS-DEV-latest/lastSuccessfulBuild/ last successful build] is automatically uploaded daily.
