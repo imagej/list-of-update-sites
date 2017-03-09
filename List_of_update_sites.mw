@@ -271,7 +271,7 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |- valign="top"
 
 |'''Kappa'''
-|http://sites.imagej.net/Kappa_site/
+|http://sites.imagej.net/Kappa-curvature/
 |Kappa is A Fiji plugin for Curvature Analysis.
 It allows a user to measure curvature in images in a convenient way. You can trace an initial shape with a B-Spline curve in just a few clicks and then fit that curve to image data with a minimization algorithm. It’s fast and robust.
 |[mailto:hadrien.mary@gmail.com Hadrien Mary]
