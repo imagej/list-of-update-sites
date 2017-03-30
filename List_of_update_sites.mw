@@ -88,6 +88,11 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Plugins from the [https://www.crick.ac.uk/research/a-z-researchers/researchers-v-y/michael-way Cellular Signalling and Cytoskeletal Function Lab] at [https://www.crick.ac.uk The Francis Crick Institute], including [http://dx.doi.org/10.1083/jcb.201501081 ADAPT].
 |[mailto:david.barry@crick.ac.uk David Barry]
 |- valign="top"
+|'''CircleSkinner'''
+|http://sites.imagej.net/CircleSkinner/
+|A Fiji plugin for the automated detection and quantification of circular structures in images.
+|{{Person|JeanYvesTinevez}}
+|- valign="top"
 |'''Cookbook'''
 |http://sites.imagej.net/Cookbook/
 |Plugins from the [[Cookbook]].
