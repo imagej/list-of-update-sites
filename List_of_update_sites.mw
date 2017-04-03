@@ -1,4 +1,4 @@
-{{UpdateSitesWarning}}{{UpdateSites}}== Introduction ==
+{{UpdateSitesWarning}}{{UpdateSitesMenu}}== Introduction ==
 
 The [[Updater]] has a convenient ''Manage update sites'' dialog that is populated by this wiki page.
 * '''Users:''' You can [[How to follow a 3rd party update site|enable an update site]] using the {{bc | Help | Update...}} command and clicking the "Manage update sites" button.
