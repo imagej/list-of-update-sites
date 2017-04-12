@@ -528,6 +528,11 @@ It allows a user to measure curvature in images in a convenient way. You can tra
 |The U-Net segmentation plugin interfaces caffe on a remote Linux host to segment images using artificial neural networks. The Plugin requires a special extended version of caffe that will be available soon. It does not work with currently available versions of caffe with U-Net extensions.
 |[mailto:falk@informatik.uni-freiburg.de Thorsten Falk]
 |- valign="top"
+|'''UCB Vision Sciences'''
+|http://sites.imagej.net/Llamero/
+|This is a suite of tools that were developed as part of the University of California, Berkeley Vision Sciences core grant NIH P30EY003176.  These tools include a Hough Circle Transform and a Quiver Plot tool.
+|[mailto:benjamin.smith@berkeley.edu Ben Smith]
+|- valign="top"
 |'''Vale lab plugins'''
 |http://sites.imagej.net/Nico/
 |Utilities useful to our lab members: spot counter plugin,
