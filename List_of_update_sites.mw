@@ -208,6 +208,11 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Collection of plugins created at the INRA-IJPB Modeling and Digital Imaging lab to perform 2D/3D image segmentation, fast morphological operations and geometric analysis
 |[http://www-ijpb.versailles.inra.fr/en/bc/equipes/modelisation-imagerie/ Modeling and Digital Imaging lab, INRA-Versailles]
 |- valign="top"
+|'''ilastik Import Export'''
+|http://sites.imagej.net/Ilastik/
+|Plugin for importing/exporting the hdf5 fileformat from ilastik
+|[mailto:jonas.massa@iwr.uni-heidelberg.de Jonas Massa]
+|- valign="top"
 |'''ImageJ Latex'''
 |http://sites.imagej.net/Yul.liuyu/
 |Add math equations to an image using Latex.
