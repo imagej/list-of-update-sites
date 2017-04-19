@@ -270,7 +270,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign="top"
 |'''IMCF Uni Basel'''
 |http://sites.imagej.net/UniBas-IMCF/
-|Various plugins (most notably the Stitching-Wrapper for FluoView OIF mosaics), macros and Action Bars (they require the IBMP-CNRS update site to be enabled).
+|Various plugins (most notably the Stitching-Wrapper for FluoView OIF mosaics), macros and Action Bars.
 Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |{{Person|Ehrenfeu}}
 |- valign="top"
