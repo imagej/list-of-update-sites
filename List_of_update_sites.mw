@@ -327,6 +327,11 @@ It allows a user to measure curvature in images in a convenient way. You can tra
 |Script for Evaluation of Molographic Data
 |{{Person|Volker Gatterdam}}
 |- valign="top"
+|'''MoMA'''
+|http://sites.imagej.net/MoMA/
+|Mother Machine Analyser [https://github.com/fjug/MoMA/wiki]
+|{{Person|Jug}}
+|- valign="top"
 |'''Morphology'''
 |http://sites.imagej.net/Landini/
 |The update site for the [http://www.mecourse.com/landinig/software/software.html Mathematical Morphology Collection] of plugins and macros.
