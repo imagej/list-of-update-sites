@@ -68,6 +68,11 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |[https://www.helmholtz-muenchen.de/icb/research/groups/quantitative-single-cell-dynamics/software/basic/index.html BaSiC] is a retrospective image correction method for optical microscopy, available as a Fiji/ImageJ Plugin. It is based on low rank and sparse decomposition, which corrects both shading (uneven illumination) in space and background bleaching in time.
 |[mailto:tingying.peng@tum.de Tingying Peng]
 |- valign="top"
+|'''BIG-EPFL'''
+|http://sites.imagej.net/BIG-EPFL/
+|ImageJ plugins from [[BIG|EPFL's Biomedical Imaging Group (BIG)]].
+|{{Person|Rueden}}
+|- valign="top"
 |'''Bio-Formats'''
 |http://sites.imagej.net/Bio-Formats/
 |A version of [[Bio-Formats]] with the latest bugfixes from the [https://github.com/openmicroscopy/bioformats/tree/develop development branch]. The [https://ci.openmicroscopy.org/job/BIOFORMATS-DEV-latest/lastSuccessfulBuild/ last successful build] is automatically uploaded daily.
