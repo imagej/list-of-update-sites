@@ -75,8 +75,8 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign="top"
 |'''Bio-Formats'''
 |http://sites.imagej.net/Bio-Formats/
-|A version of [[Bio-Formats]] with the latest bugfixes from the [https://github.com/openmicroscopy/bioformats/tree/develop development branch]. The [https://ci.openmicroscopy.org/job/BIOFORMATS-DEV-latest/lastSuccessfulBuild/ last successful build] is automatically uploaded daily.
-|{{Person|Rueden}}, [http://jenkins.imagej.net/job/Bio-Formats-Fiji/ ImageJ Jenkins]
+|A version of [[Bio-Formats]] with the latest bugfixes from the [https://github.com/openmicroscopy/bioformats/tree/develop development branch]. The last SNAPSHOTS are automatically uploaded daily.
+|[http://www.openmicroscopy.org  OME development team]
 |- valign="top"
 |'''Biomedgroup'''
 |http://sites.imagej.net/Biomedgroup/
