@@ -572,4 +572,9 @@ It allows a user to measure curvature in images in a convenient way. You can tra
 |http://sites.imagej.net/Xlib/
 |[http://wiki.imagej.net/Xlib Xlib] is a set of prospective ImageJ plugins: automated imaging tools for filtering, data reconstruction, quantitative data evaluation and data import, tools for interactive segmentation, visualization and management of image data. 
 |[mailto:beat.muench@empa.ch Beat Münch]
+|- valign="top"
+|'''Fuzzy Set'''
+|http://sites.imagej.net/Rerger/
+|[http://google.com Fuzzy Set] is an ImageJ plugin: to transform the intensity of the image using Fuzzy Sets.
+|[mailto:rerger@leomail.tamuc.edu Robert Erger]
 |}
