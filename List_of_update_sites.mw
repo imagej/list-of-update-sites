@@ -575,6 +575,6 @@ It allows a user to measure curvature in images in a convenient way. You can tra
 |- valign="top"
 |'''Fuzzy Set'''
 |http://sites.imagej.net/Rerger/
-|[http://google.com Fuzzy Set] is an ImageJ plugin: to transform the intensity of the image using Fuzzy Sets.
+|[http://google.com Fuzzy Set] is an ImageJ plugin, to transform the intensity of the image using Fuzzy Sets.
 |[mailto:rerger@leomail.tamuc.edu Robert Erger]
 |}
