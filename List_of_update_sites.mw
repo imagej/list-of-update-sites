@@ -405,7 +405,7 @@ It allows a user to measure curvature in images in a convenient way. You can tra
 |{{Person|Rueden}}
 |- valign="top"
 |'''OPTIMISME'''
-|http://sites.imagej.net/Dbenielli/update/
+|http://sites.imagej.net/Dbenielli/plugins/
 |Description: Optimism is a deconvolution method based on the Majorization
 minimization algorithm, devoted to bi-photon 3d microscopic images.
 |https://www.i2m.univ-amu.fr/ Dominique Benielli, Caroline Chaux Moulin, Sandrine Anthoine, Labex Archimede , I2M, Marseille
