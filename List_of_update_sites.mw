@@ -404,6 +404,12 @@ It allows a user to measure curvature in images in a convenient way. You can tra
 |The [http://openmicroscopy.org/info/omero OMERO] update site for {{GitHub|org=imagej|repo=imagej-omero|label=bidirectional integration between ImageJ and OMERO 5.2.x}}.
 |{{Person|Rueden}}
 |- valign="top"
+|'''OPTIMISME'''
+|http://sites.imagej.net/Dbenielli/update/
+|Description: Optimism is a deconvolution method based on the Majorization
+minimization algorithm, devoted to bi-photon 3d microscopic images.
+|https://www.i2m.univ-amu.fr/ Dominique Benielli, Caroline Chaux Moulin, Sandrine Anthoine, Labex Archimede , I2M, Marseille
+|- valign="top"
 |'''OpenSPIM'''
 |http://openspim.org/update/
 |The drivers and software to operate an [http://openspim.org/ OpenSPIM] (Open Access selective plane light sheet microscope).
