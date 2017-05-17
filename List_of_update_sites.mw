@@ -193,7 +193,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Plugin to interface with [http://www.pathomation.com/ Pathomation's digital slide viewer] which can open Olympus VSI (.vsi), Ventana / Roche BIF (.bif), Hamamatsu NDPI (.ndpi), 3DHistech MRXS (.mrxs), Aperio / Leica SVS (.svs), Leica SCN (.scn), Carl Zeiss ZVI (.zvi), Carl Zeiss CZI (.czi), Nikon ND2 (.nd2), Sakura SVSlide (.svslide)
 |[mailto:info@pathomation.com Pathomation]
 |- valign="top"
-|'''HistoJ Lite'''
+|'''HistoJ Lite''' 
 |http://sites.imagej.net/Pathomation/
 |Plugin to interface with [http://free.pathomation.com/ Pathomation's free digital slide viewer] which can open Olympus VSI (.vsi), Ventana / Roche BIF (.bif), Hamamatsu NDPI (.ndpi), 3DHistech MRXS (.mrxs), Aperio / Leica SVS (.svs), Leica SCN (.scn), Carl Zeiss ZVI (.zvi), Carl Zeiss CZI (.czi), Nikon ND2 (.nd2), Sakura SVSlide (.svslide)
 |[mailto:info@pathomation.com Pathomation]
@@ -472,6 +472,11 @@ minimization algorithm, devoted to bi-photon 3d microscopic images.
 |http://sites.imagej.net/Scepticalphysiologist/
 |FFT (spectra + filtering); ROI class management; Image Linker; Tight Montage; Ca2+ imaging tools; etc.
 |Sean Parsons at [http://scepticalphysiologist.com/code/code.html scepticalphysiologist.com]
+|- valign="top"
+|'''Scijava Jupyter Kernel'''
+|http://sites.imagej.net/Scijava-jupyter-kernel/
+|A Java kernel for Jupyter. See https://github.com/hadim/scijava-jupyter-kernel
+|Hadrien Mary
 |- valign="top"
 |'''SCF MPI CBG'''
 |http://sites.imagej.net/SCF-MPI-CBG/
