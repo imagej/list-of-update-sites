@@ -476,7 +476,7 @@ minimization algorithm, devoted to bi-photon 3d microscopic images.
 |'''Scijava Jupyter Kernel'''
 |http://sites.imagej.net/Scijava-jupyter-kernel/
 |A Java kernel for Jupyter. See https://github.com/hadim/scijava-jupyter-kernel
-|Hadrien Mary
+|{{Person|Hadim}}
 |- valign="top"
 |'''SCF MPI CBG'''
 |http://sites.imagej.net/SCF-MPI-CBG/
