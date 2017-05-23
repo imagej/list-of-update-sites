@@ -113,15 +113,15 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |A plugin for loading sample images and misc functionality for CMCI ImageJ course. See [http://cmci.embl.de/mainpages/courses CMCI course]. Eventually more plugins will be added. 
 |{{Person|Miura}}
 |- valign="top"
-|'''CMTK Registration'''
-|http://sites.imagej.net/Jefferis/
-|CMTK Registration GUI.
-|{{Person|Jefferis}}
-|- valign="top"
 |'''CMP-BIA tools'''
 |http://sites.imagej.net/CMP-BIA/
 |The development version of [[CMP-BIA tools]].
 |[http://cmp.felk.cvut.cz/~borovji3/ Jiri Borovec]
+|- valign="top"
+|'''CMTK Registration'''
+|http://sites.imagej.net/Jefferis/
+|CMTK Registration GUI.
+|{{Person|Jefferis}}
 |- valign="top"
 |'''CSIM Laboratory'''
 |http://sites.imagej.net/Acsenrafilho/
@@ -168,6 +168,11 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 | Toolbox includes fuzzy edge detection plugin, fuzzy contrast enhancement plugin and ann edge detection plugin. Source code on Github: https://github.com/astartes91/imagej-neural-fuzzy-plugins.
 |[mailto:astartes91@gmail.com Vladimir Nizamutdinov]
 |- valign="top"
+|'''Fuzzy Set'''
+|http://sites.imagej.net/Rerger/
+|[http://google.com Fuzzy Set] is an ImageJ plugin, to transform the intensity of the image using Fuzzy Sets.
+|[mailto:rerger@leomail.tamuc.edu Robert Erger]
+|- valign="top"
 |'''GDSC'''
 |http://sites.imagej.net/GDSC/
 |The Genome Damage and Stability Centre (GDSC) plugins are a collection of analysis programs for microscopy images including colocalisation analysis and peak finding (FindFoci). See [http://www.sussex.ac.uk/gdsc/intranet/microscopy/imagej/gdsc_plugins GDSC Plugins] for details. 
@@ -178,15 +183,15 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |The GDSC Single Molecule Light Microscopy (SMLM) plugins provide various tools for single molecule localisation analysis. This includes PALM, STORM and other single molecule microscopy methods. See [http://www.sussex.ac.uk/gdsc/intranet/microscopy/imagej/smlm_plugins SMLM Plugins] for details or read the [http://www.sussex.ac.uk/gdsc/intranet/pdfs/SMLM.pdf User Manual]. 
 |[mailto:a.herbert@sussex.ac.uk Alex Herbert]
 |- valign="top"
-|'''HDF5'''
-|http://sites.imagej.net/Ronneber/
-|The HDF5 plugin allows to load and save data in HDF5 format. For details see [http://lmb.informatik.uni-freiburg.de/resources/opensource/imagej_plugins/hdf5.html HDF5 plugin]. 
-|[mailto:ronneber@informatik.uni-freiburg.de Olaf Ronneberger]
-|- valign="top"
 |'''Hadim'''
 |http://sites.imagej.net/Hadim/
 |Contains the ij2-python-lib package. For details see [https://github.com/hadim/ij2-python-lib the GitHub page]. 
 |{{Person|Hadim}}
+|- valign="top"
+|'''HDF5'''
+|http://sites.imagej.net/Ronneber/
+|The HDF5 plugin allows to load and save data in HDF5 format. For details see [http://lmb.informatik.uni-freiburg.de/resources/opensource/imagej_plugins/hdf5.html HDF5 plugin]. 
+|[mailto:ronneber@informatik.uni-freiburg.de Olaf Ronneberger]
 |- valign="top"
 |'''HistoJ'''
 |http://sites.imagej.net/Pathomation/
@@ -289,14 +294,12 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 |Macro for processing brightfield fundus images of the mouse eye and plugin for averaging replicate OCT volume scans.
 |[mailto:mark.krebs@jax.org Mark Krebs]
 |- valign="top"
-
 |'''Kappa'''
 |http://sites.imagej.net/Kappa-curvature/
 |Kappa is A Fiji plugin for Curvature Analysis.
 It allows a user to measure curvature in images in a convenient way. You can trace an initial shape with a B-Spline curve in just a few clicks and then fit that curve to image data with a minimization algorithm. It’s fast and robust.
 |[mailto:hadrien.mary@gmail.com Hadrien Mary]
 |- valign="top"
-
 |'''Lineage-Mapper'''
 |http://sites.imagej.net/NIST-ISG-LineageMapper/
 |Lineage Mapper is an open-source, overlap-based cell tracking system for time-lapse images of biological cells, colonies, and particles. Lineage Mapper tracks objects independently of the segmentation method, detects mitosis in confluence, separates cell clumps mistakenly segmented as a single cell, provides accuracy and scalability even on terabyte-sized datasets, and creates division and/or fusion lineages.
@@ -321,6 +324,11 @@ It allows a user to measure curvature in images in a convenient way. You can tra
 |http://sites.imagej.net/Hpinkard/
 |Micro-Magellan (https://micro-manager.org/wiki/MicroMagellan) is a plugin based on Micro-Manager for high throughput microscopy. This update site is used to enable reading of Micro-Magellan datasets by the BigDataViewer (http://fiji.sc/BigDataViewer).
 |Henry Pinkard
+|- valign="top"
+|'''MIST'''
+|http://sites.imagej.net/NIST-ISG-MIST/
+|Microscopy Image Stitching Tool (MIST), is a stitching algorithm for small and large two dimensional image grid collections. We developed a new and novel method for optimizing the translations computed by the phase-correlation method using the Fourier transform approach. This new method estimates the microscope stage repeatability from the computed translations of a gridded image tiles. It then optimizes all translation computation using the Hill Climbing algorithm bounded to four times the stage repeatability. This minimizes the maximum uncertainty related to the translation computation for any pair of images.
+|[https://isg.nist.gov/deepzoomweb/resources/csmet/pages/image_stitching/image_stitching.html NIST ISG]
 |- valign="top"
 |'''MiToBo'''
 |http://sites.imagej.net/MiToBo/
@@ -352,11 +360,6 @@ It allows a user to measure curvature in images in a convenient way. You can tra
 |MembraneStained EpithelialCellSegmentation 2D, for more information see also the [[MS-ECS-2D update site|update site page]].
 |[[User:MS-ECS-2D|MS-ECS-2D]]
 |- valign="top"
-|'''MIST'''
-|http://sites.imagej.net/NIST-ISG-MIST/
-|Microscopy Image Stitching Tool (MIST), is a stitching algorithm for small and large two dimensional image grid collections. We developed a new and novel method for optimizing the translations computed by the phase-correlation method using the Fourier transform approach. This new method estimates the microscope stage repeatability from the computed translations of a gridded image tiles. It then optimizes all translation computation using the Hill Climbing algorithm bounded to four times the stage repeatability. This minimizes the maximum uncertainty related to the translation computation for any pair of images.
-|[https://isg.nist.gov/deepzoomweb/resources/csmet/pages/image_stitching/image_stitching.html NIST ISG]
-|- valign="top"
 |'''NanoJ-Core'''
 |http://sites.imagej.net/NanoJ/
 |The update site providing NanoJ's core functionality.  [https://bitbucket.org/rhenriqueslab/nanoj-core NanoJ] is a set of high-performance libraries for GPU enabled super-resolution data analysis.
@@ -376,13 +379,11 @@ It allows a user to measure curvature in images in a convenient way. You can tra
 |http://sites.imagej.net/Neuroanatomy/
 |Image Processing Tools for Neuroanatomy and Tree-like structures ([[User: Neuroanatomy|list]]).
 |{{Person|Tiago}}
-
 |- valign="top"
 |'''NeuroCyto Lab'''
 |http://sites.imagej.net/Christopheleterrier/
 |Various tools from the NeuroCyto Lab in Marseille for image processing and quantification, including SMLM scripts. Centered on the analysis of fluorescence in neuronal cultures.
 |http://www.neurocytolab.org Christophe Leterrier, NeuroCyto Lab, NICN, Marseille
-
 |- valign="top"
 |'''NucleusJ'''
 |http://sites.imagej.net/PouletAxel/
@@ -404,30 +405,27 @@ It allows a user to measure curvature in images in a convenient way. You can tra
 |The [http://openmicroscopy.org/info/omero OMERO] update site for {{GitHub|org=imagej|repo=imagej-omero|label=bidirectional integration between ImageJ and OMERO 5.2.x}}.
 |{{Person|Rueden}}
 |- valign="top"
+|'''OpenSPIM'''
+|http://openspim.org/update/
+|The drivers and software to operate an [http://openspim.org/ OpenSPIM] (Open Access selective plane light sheet microscope).
+|[http://loci.wisc.edu/people/luke-stuyvenberg Luke Stuyvenberg] and {{Person|Schindelin}}
+|- valign="top"
 |'''OPTIMISME'''
 |http://sites.imagej.net/Dbenielli/plugins/
 |Description: Optimism is ImageJ pluggin,  which implement  a deconvolution method based on the Majorization
 minimization algorithm, devoted to bi-photon 3d microscopic images.
 |https://www.i2m.univ-amu.fr/ Dominique Benielli, Caroline Chaux Moulin, Sandrine Anthoine, Labex Archimede , I2M, Marseille
 |- valign="top"
-|'''OpenSPIM'''
-|http://openspim.org/update/
-|The drivers and software to operate an [http://openspim.org/ OpenSPIM] (Open Access selective plane light sheet microscope).
-|[http://loci.wisc.edu/people/luke-stuyvenberg Luke Stuyvenberg] and {{Person|Schindelin}}
-|- valign="top"
-
-|'''Pendent Drop'''
-|http://sites.imagej.net/Daerr/
-|A [http://fiji.sc/Pendent_Drop plugin for capillary length measurement] through the pendent drop method.
-|[http://www.msc.univ-paris-diderot.fr/~daerr/ Adrian Daerr]
-|- valign="top"
-
 |'''ParticleSizer'''
 |http://sites.imagej.net/Ndef-psizer/
 |A [http://imagej.net/ParticleSizer plugin to derive number based size distributions] from TEM images.
 |{{Person|Twagner}}
 |- valign="top"
-
+|'''Pendent Drop'''
+|http://sites.imagej.net/Daerr/
+|A [http://fiji.sc/Pendent_Drop plugin for capillary length measurement] through the pendent drop method.
+|[http://www.msc.univ-paris-diderot.fr/~daerr/ Adrian Daerr]
+|- valign="top"
 |'''PET-CT'''
 |http://sites.imagej.net/Ilan/
 |Update site for the Pet-Ct-Viewer and other Nuclear Medicine software in use at Beth Israel Hospital, see [http://sourceforge.net/p/bifijiplugins/wiki/Pet-Ct%20Viewer/ Help]
@@ -473,11 +471,6 @@ minimization algorithm, devoted to bi-photon 3d microscopic images.
 |FFT (spectra + filtering); ROI class management; Image Linker; Tight Montage; Ca2+ imaging tools; etc.
 |Sean Parsons at [http://scepticalphysiologist.com/code/code.html scepticalphysiologist.com]
 |- valign="top"
-|'''Scijava Jupyter Kernel'''
-|http://sites.imagej.net/Scijava-jupyter-kernel/
-|A Java kernel for Jupyter. See https://github.com/hadim/scijava-jupyter-kernel
-|{{Person|Hadim}}
-|- valign="top"
 |'''SCF MPI CBG'''
 |http://sites.imagej.net/SCF-MPI-CBG/
 |Common image processing tools from the Scientific Computing Facility at MPI CBG Dresden
@@ -487,6 +480,11 @@ minimization algorithm, devoted to bi-photon 3d microscopic images.
 |http://sites.imagej.net/Aigouy/
 |ScientiFig is a tool to build publication-ready scientific figures similar to FigureJ from the IBMP-CNRS site.
 |[mailto:scientifig@gmail.com Benoit Aigouy]
+|- valign="top"
+|'''Scijava Jupyter Kernel'''
+|http://sites.imagej.net/Scijava-jupyter-kernel/
+|A Java kernel for Jupyter. See https://github.com/hadim/scijava-jupyter-kernel
+|{{Person|Hadim}}
 |- valign="top"
 |'''SIMcheck'''
 |http://downloads.micron.ox.ac.uk/fiji_update/SIMcheck/
@@ -542,7 +540,6 @@ minimization algorithm, devoted to bi-photon 3d microscopic images.
 |http://sites.imagej.net/TraJClassifier/
 |The [http://imagej.net/TraJClassifier TraJClassifier] loads trajectories from TrackMate, characterize them using TraJ and classificate them into normal diffusion, subdiffusion, confined diffusion and directed/active motion by a random forest approach.
 |{{Person|Twagner}}
-
 |- valign="top"
 |'''Tr2d'''
 |http://sites.imagej.net/Tr2d/
@@ -583,9 +580,4 @@ minimization algorithm, devoted to bi-photon 3d microscopic images.
 |http://sites.imagej.net/Xlib/
 |[http://wiki.imagej.net/Xlib Xlib] is a set of prospective ImageJ plugins: automated imaging tools for filtering, data reconstruction, quantitative data evaluation and data import, tools for interactive segmentation, visualization and management of image data. 
 |[mailto:beat.muench@empa.ch Beat Münch]
-|- valign="top"
-|'''Fuzzy Set'''
-|http://sites.imagej.net/Rerger/
-|[http://google.com Fuzzy Set] is an ImageJ plugin, to transform the intensity of the image using Fuzzy Sets.
-|[mailto:rerger@leomail.tamuc.edu Robert Erger]
 |}
