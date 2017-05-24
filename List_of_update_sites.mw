@@ -300,6 +300,11 @@ Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
 It allows a user to measure curvature in images in a convenient way. You can trace an initial shape with a B-Spline curve in just a few clicks and then fit that curve to image data with a minimization algorithm. It’s fast and robust.
 |[mailto:hadrien.mary@gmail.com Hadrien Mary]
 |- valign="top"
+|'''Leiden University'''
+|http://sites.imagej.net/Willemsejj/
+|At [https://www.universiteitleiden.nl/ Leiden University] we develop user demanded plugins for general use, which could be applicable in your experiments as well. Most questions arise from experiments done in the [https://www.universiteitleiden.nl/en/research/research-facilities/science/cell-observatory#tab-1 Cell Observatory]. 
+|[mailto:jwillemse@biology.leidenuniv.nl Joost Willemse]
+|- valign="top"
 |'''Lineage-Mapper'''
 |http://sites.imagej.net/NIST-ISG-LineageMapper/
 |Lineage Mapper is an open-source, overlap-based cell tracking system for time-lapse images of biological cells, colonies, and particles. Lineage Mapper tracks objects independently of the segmentation method, detects mitosis in confluence, separates cell clumps mistakenly segmented as a single cell, provides accuracy and scalability even on terabyte-sized datasets, and creates division and/or fusion lineages.
