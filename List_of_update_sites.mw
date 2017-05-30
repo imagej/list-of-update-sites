@@ -148,6 +148,11 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Macros developed to measure the diameters and persistence lengths if amyloids fibrils by AFM, EM, STM etc. iamges. It provides histogram distribution of the average fibril diameter and average fibril persistence length. Was validated for AFM, SEM and TEM images of Sup35NM fibrils on mica, silicon, gold surfaces and formvar film.
 |{{Person|Petr Sokolov}}
 |- valign="top"
+|'''Fiji-Legacy'''
+|http://sites.imagej.net/Fiji-Legacy/
+|Restores old Fiji plugins which never made the transition to Maven, as well as obsolete libraries no longer used by current Fiji installations.
+|UNSUPPORTED
+|- valign="top"
 |'''FiloQuant'''
 |http://sites.imagej.net/FiloQuant/
 |[http://imagej.net/User:FiloQuant FiloQuant] is a user friendly and modifiable tool for automated detection and quantification of filopodia properties such as length and density. FiloQuant can also track filopodia.
