@@ -488,7 +488,7 @@ minimization algorithm, devoted to bi-photon 3d microscopic images.
 |- valign="top"
 |'''Scijava Jupyter Kernel'''
 |http://sites.imagej.net/Scijava-jupyter-kernel/
-|A Java kernel for Jupyter. See https://github.com/hadim/scijava-jupyter-kernel
+|A Java kernel for Jupyter. See https://github.com/scijava/scijava-jupyter-kernel
 |{{Person|Hadim}}
 |- valign="top"
 |'''SIMcheck'''
