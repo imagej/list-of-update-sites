@@ -370,6 +370,11 @@ It allows a user to measure curvature in images in a convenient way. You can tra
 |The update site providing NanoJ's core functionality.  [https://bitbucket.org/rhenriqueslab/nanoj-core NanoJ] is a set of high-performance libraries for GPU enabled super-resolution data analysis.
 |[http://www.ucl.ac.uk/lmcb/users/ricardo-henriques The Henriques Team, UCL, UK]
 |- valign="top"
+|'''NanoJ-SQUIRREL'''
+|http://sites.imagej.net/NanoJ-SQUIRREL/
+|[https://bitbucket.org/rhenriqueslab/nanoj-squirrel NanoJ-SQUIRREL] is an analytical toolbox to measure super-resolution image quality and quantitatively map defects, it also provides methods to aid in improving super-resolution images.
+|[http://www.ucl.ac.uk/lmcb/users/ricardo-henriques The Henriques Team, UCL, UK]
+|- valign="top"
 |'''NanoJ-SRRF'''
 |http://sites.imagej.net/NanoJ-SRRF/
 |[https://bitbucket.org/rhenriqueslab/nanoj-srrf NanoJ-SRRF] is a high-performance analytical approach for Live-cell Super-Resolution Microscopy, provided as a fast GPU-enabled ImageJ plugin.
