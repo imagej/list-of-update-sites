@@ -73,6 +73,11 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |ImageJ plugins from [[BIG|EPFL's Biomedical Imaging Group (BIG)]].
 |{{Person|Rueden}}
 |- valign="top"
+|'''BigStitcher'''
+|http://sites.imagej.net/BigStitcher/
+|Based on the HDF5 multi-resolution datastructures of the BigDataViewer the BigStitcher uses globally optimal registration that is capable of aligning large multi-tile datasets with high precision and automatic error detection within just a few minutes while at the same time allowing for additional user interaction. 
+|{{Person|StephanP}}
+|- valign="top"
 |'''Bio-Formats'''
 |http://sites.imagej.net/Bio-Formats/
 |A version of [[Bio-Formats]] with the latest bugfixes from the [https://github.com/openmicroscopy/bioformats/tree/develop development branch]. The last SNAPSHOTS are automatically uploaded daily.
