@@ -76,7 +76,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |'''BigStitcher'''
 |http://sites.imagej.net/BigStitcher/
 |Based on the HDF5 multi-resolution datastructures of the BigDataViewer the BigStitcher uses globally optimal registration that is capable of aligning large multi-tile datasets with high precision and automatic error detection within just a few minutes while at the same time allowing for additional user interaction. 
-|{{Person|StephanP}}
+|{{Person|StephanP}} and {{Person|Hoerldavid}}
 |- valign="top"
 |'''Bio-Formats'''
 |http://sites.imagej.net/Bio-Formats/
