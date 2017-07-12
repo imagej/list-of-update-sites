@@ -576,6 +576,11 @@ minimization algorithm, devoted to bi-photon 3d microscopic images.
 |Utilities useful to our lab members: spot counter plugin,
 |{{Person|Nico}}
 |- valign="top"
+|'''VersiLab plugins'''
+|http://sites.imagej.net/Sweeneyian/
+|Testing plugins for VersiLab,
+|{{Person|Sweeneyian}}
+|- valign="top"
 |'''Volumetric Tissue Exploration and Analysis'''
 |http://sites.imagej.net/ICBM-IUPUI/
 |[http://wiki.imagej.net/VTEA VTEA] is an interactive tool for 3D tissue cytometry built on ImageJ.
