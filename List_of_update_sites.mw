@@ -175,7 +175,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign="top"
 |'''Fuzzy logic and artificial neural networks image processing toolbox for ImageJ'''
 |http://sites.imagej.net/Astartes91/
-| Toolbox includes fuzzy edge detection plugin, fuzzy contrast enhancement plugin and ann edge detection plugin. Source code on Github: https://github.com/astartes91/imagej-neural-fuzzy-plugins.
+| Toolbox includes fuzzy edge detection plugin, fuzzy contrast enhancement plugin and ann edge detection plugin. Source code {{GitHub | org=astartes91 | repo=imagej-neural-fuzzy-plugins}}.
 |[mailto:astartes91@gmail.com Vladimir Nizamutdinov]
 |- valign="top"
 |'''Fuzzy Set'''
@@ -195,7 +195,8 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign="top"
 |'''Hadim'''
 |http://sites.imagej.net/Hadim/
-|Contains the ij2-python-lib package. For details see [https://github.com/hadim/ij2-python-lib the GitHub page]. 
+|Contains the ij2-python-lib package. For details see {{GitHub |
+ hadim | repo=ij2-python-lib | label=the GitHub page}}. 
 |{{Person|Hadim}}
 |- valign="top"
 |'''HDF5'''
@@ -220,7 +221,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign="top"
 |'''IJ-OpenCV-plugins'''
 |http://sites.imagej.net/IJ-OpenCV/
-|Collection of plugins created using the [https://github.com/joheras/IJ-OpenCV IJ-OpenCV library] -- a library that allows the connection of ImageJ and OpenCV.
+|Collection of plugins created using the {{GitHub | org=joheras | repo=IJ-OpenCV | label=IJ-OpenCV library}} -- a library that allows the connection of ImageJ and OpenCV.
 |[mailto:joheras@gmail.com Jónathan Heras]
 |- valign="top"
 |'''IJPB-plugins'''
@@ -448,7 +449,7 @@ minimization algorithm, devoted to bi-photon 3d microscopic images.
 |- valign="top"
 |'''PHANTAST'''
 |http://sites.imagej.net/Nicjac/
-|Update site for [https://github.com/nicjac/PHANTAST-FIJI/ PHANTAST] (phase contrast microscopy segmentation toolbox), a collection of tools for the processing of phase contrast microscopy images
+|Update site for {{GitHub | org=nicjac | repo=PHANTAST-FIJI | label=PHANTAST}} (phase contrast microscopy segmentation toolbox), a collection of tools for the processing of phase contrast microscopy images
 |[http://www.nicjac.net Nicolas Jaccard]
 |- valign="top"
 |'''PhotonImaging'''
@@ -498,7 +499,7 @@ minimization algorithm, devoted to bi-photon 3d microscopic images.
 |- valign="top"
 |'''Scijava Jupyter Kernel'''
 |http://sites.imagej.net/Scijava-jupyter-kernel/
-|A Java kernel for Jupyter. See https://github.com/scijava/scijava-jupyter-kernel
+|A Java kernel for Jupyter. See source {{GitHub | org=scijava | repo=scijava-jupyter-kernel}}
 |{{Person|Hadim}}
 |- valign="top"
 |'''SIMcheck'''
@@ -513,7 +514,7 @@ minimization algorithm, devoted to bi-photon 3d microscopic images.
 |- valign="top"
 |'''SimonKlein'''
 |http://sites.imagej.net/SimonKlein/
-|Provides the plugins [https://github.com/kleinsimon/LinearDistance LinearDistance] and [https://github.com/kleinsimon/PointAnalysis PointAnalysis]
+|Provides the plugins {{GitHub | org=kleinsimon | repo=LinearDistance | label=LinearDistance}} and {{GitHub | org=kleinsimon | repo=PointAnalysis | label=PointAnalysis}}
 |{{Person|SimonKlein}}
 |- valign="top"
 |'''SlideBook'''
