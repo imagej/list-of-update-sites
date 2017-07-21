@@ -472,6 +472,11 @@ minimization algorithm, devoted to bi-photon 3d microscopic images.
 |[http://warwick.ac.uk/quimp QuimP] is software for tracking cellular shape changes and dynamic distributions of fluorescent reporters at the cell membrane.
 |Piotr Baniukiewicz, Till Bretschneider ({{Person|CellDynamics}})
 |- valign="top"
+|'''RadialIntensityProfile'''
+|http://sites.imagej.net/PTschaikner/
+|RadialIntensityProfile is a simple macro to analyse the radial distribution of a fluorescent signal of interest in relation to a cell's nucleus.
+|{{Person|PTschaikner}}
+|- valign="top"
 |'''ResultsToExcel'''
 |http://sites.imagej.net/ResultsToExcel/
 |This plugin extracts data from the Results Table and adds it to a new or existing .xlsx Excel file on the user's desktop. It works well with batching as data is not overwritten. A similar plugin exists by another developer but that one didn't work well for me. I did not consult their source code. [https://www.youtube.com/watch?v=79rzUae-7N8/ YouTube tutorial].
