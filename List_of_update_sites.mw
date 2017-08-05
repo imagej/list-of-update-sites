@@ -542,6 +542,11 @@ minimization algorithm, devoted to bi-photon 3d microscopic images.
 |[[SLIM Curve]]: a plugin for combined spectral-lifetime image analysis.
 |{{Person|Rueden}}
 |- valign="top"
+|'''Stereoscopic 3D Projection'''
+|http://sites.imagej.net/JoeNapoli/
+|Allows users to create 3-D anaglyph and Google Cardboard compatible projections from image stacks. 
+|Joe Napoli and [https://visikol.com Visikol, Inc].
+|- valign="top"
 |'''Stowers'''
 |http://research.stowers.org/imagejplugins/updates/
 |The [http://research.stowers.org/imagejplugins/ Stowers ImageJ Plugins].
