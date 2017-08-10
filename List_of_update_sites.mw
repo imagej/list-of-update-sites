@@ -459,8 +459,8 @@ minimization algorithm, devoted to bi-photon 3d microscopic images.
 |- valign="top"
 |'''PillarTracker'''
 |https://sites.imagej.net/PillarTracker/
-|The [https://imagej.net/PillarTracker] plug-in enables user to track the pillars and visualize the tracks and deflections.
-|[mailto:mbixxc@nus.edu.sg MR XU Xiaochun] & [mailto:mbifmm@nus.edu.sg DR Felix Martin Margadant]
+|The [https://imagej.net/PillarTracker PillarTracker] plug-in enables user to track the pillars and visualize the tracks and deflections.
+|[mailto:mbixxc@nus.edu.sg XU Xiaochun] & [mailto:mbifmm@nus.edu.sg Felix Martin Margadant]
 |- valign="top"
 |'''PTBIOP'''
 |http://biop.epfl.ch/Fiji-Update
