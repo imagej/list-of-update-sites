@@ -599,7 +599,7 @@ minimization algorithm, devoted to bi-photon 3d microscopic images.
 |- valign="top"
 |'''VersiLab plugins'''
 |http://sites.imagej.net/Sweeneyian/
-|Testing plugins for VersiLab,
+|VersiLab_Plugin Code available {{GitHub | org=Sweeneyian| repo=VersiLab_Plugin}},
 |{{Person|Sweeneyian}}
 |- valign="top"
 |'''Volumetric Tissue Exploration and Analysis'''
