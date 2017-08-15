@@ -567,6 +567,11 @@ minimization algorithm, devoted to bi-photon 3d microscopic images.
 |Fiji-Tools-for-HCS is a collection of macros useful for high-content screening data developed by TDS members at MPI-CBG Dresden. [https://github.com/stoeter/Fiji-Tools-for-HCS/wiki Wiki]
 |[mailto:stoeter@mpi-cbg.de Martin Stoeter]
 |- valign="top"
+|'''TensorFlow'''
+|http://sites.imagej.net/TensorFlow/
+|[[TensorFlow]] integration for ImageJ, including a microscope image focus quality classifier and a demo [https://arxiv.org/abs/1512.00567 Inception] image classifier.
+|{{Person|Rueden}}
+|- valign="top"
 |'''Tissue Analyzer'''
 |http://sites.imagej.net/TA/
 |Tissue Analyzer is a free tool to segment epithelial tissues.
