@@ -93,6 +93,11 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |A toolset providing a plugins and macros for flat-field background corrections, image filters, color coding of shape descriptors and several tools to process and analyze binary images such as the 'Speckle Inspector', 'Binary Feature Extractor' and an 'Extended Particle Analyzer' and a qualitative and quantitative evaluation tool for Fijis' Auto Threshold methods. More information at the [[BioVoxxel Toolbox]] page and the [http://www.biovoxxel.de BioVoxxel web site].
 |{{Person|BioVoxxel}}
 |- valign="top"
+|'''CALM'''
+|http://sites.imagej.net/CALM/
+|Plugins from the Crick Advanced Light Microscopy Facility at [https://www.crick.ac.uk The Francis Crick Institute].
+|[mailto:david.barry@crick.ac.uk David Barry]
+|- valign="top"
 |'''CellMotility'''
 |http://sites.imagej.net/CellMotility/
 |Plugins from the [https://www.crick.ac.uk/research/a-z-researchers/researchers-v-y/michael-way Cellular Signalling and Cytoskeletal Function Lab] at [https://www.crick.ac.uk The Francis Crick Institute], including [http://dx.doi.org/10.1083/jcb.201501081 ADAPT].
