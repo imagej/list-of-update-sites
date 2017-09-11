@@ -487,6 +487,11 @@ minimization algorithm, devoted to bi-photon 3d microscopic images.
 |[http://warwick.ac.uk/quimp QuimP] is software for tracking cellular shape changes and dynamic distributions of fluorescent reporters at the cell membrane.
 |Piotr Baniukiewicz, Till Bretschneider ({{Person|CellDynamics}})
 |- valign="top"
+|'''Radial Symmetry'''
+|http://sites.imagej.net/Milkyklim/
+|A plugin for radial symmetry localization on smFISH (and other) images.
+|{{Person|Milkyklim}}
+|- valign="top"
 |'''RadialIntensityProfile'''
 |http://sites.imagej.net/PTschaikner/
 |RadialIntensityProfile is a simple macro to analyse the radial distribution of a fluorescent signal of interest in relation to a cell's nucleus.
