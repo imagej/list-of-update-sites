@@ -432,9 +432,8 @@ It allows a user to measure curvature in images in a convenient way. You can tra
 |[http://loci.wisc.edu/people/luke-stuyvenberg Luke Stuyvenberg] and {{Person|Schindelin}}
 |- valign="top"
 |'''OPTIMISME'''
-|http://sites.imagej.net/Dbenielli/plugins/
-|Description: Optimism is ImageJ pluggin,  which implement  a deconvolution method based on the Majorization
-minimization algorithm, devoted to bi-photon 3d microscopic images.
+|http://sites.imagej.net/Dbenielli/
+|Description: Optimism is an ImageJ plugin that implements  a deconvolution method based on the Majorization minimization algorithm, devoted to two-photon 3d microscopic images.
 |https://www.i2m.univ-amu.fr/ Dominique Benielli, Caroline Chaux Moulin, Sandrine Anthoine, Labex Archimede , I2M, Marseille
 |- valign="top"
 |'''Oxford Oncology'''
