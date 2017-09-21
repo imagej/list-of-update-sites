@@ -291,8 +291,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign="top"
 |'''IMCF Uni Basel'''
 |http://sites.imagej.net/UniBas-IMCF/
-|Various plugins (most notably the Stitching-Wrapper for FluoView OIF mosaics), macros and Action Bars.
-Will update your [http://www.jython.org Jython] version to '''2.7-beta1'''.
+|Various plugins (most notably the Stitching-Wrapper for FluoView OIF / OIB mosaics), macros and Action Bars, including a LUT selection bar that lets you click on a visual representation of the LUT.
 |{{Person|Ehrenfeu}}
 |- valign="top"
 |'''INCF test site'''
