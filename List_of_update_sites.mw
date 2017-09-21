@@ -396,6 +396,11 @@ It allows a user to measure curvature in images in a convenient way. You can tra
 |[https://bitbucket.org/rhenriqueslab/nanoj-virusmapper NanoJ-VirusMapper] is a high-throughput ImageJ plugin for single-particle analysis in fluorescence microscopy, particularly super-resolution microscopy. 
 |[http://www.ucl.ac.uk/lmcb/users/ricardo-henriques The Henriques Team, UCL, UK]
 |- valign="top"
+|'''NEUBIAS'''
+|http://sites.imagej.net/Neubias/
+|Plugins and scripts developed in the context of [http://neubias.org NEUBIAS]. 
+|[http://neubias.org NEUBIAS members]
+|- valign="top"
 |'''Neuroanatomy'''
 |http://sites.imagej.net/Neuroanatomy/
 |Image Processing Tools for Neuroanatomy and Tree-like structures ([[User: Neuroanatomy|list]]).
