@@ -634,6 +634,11 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |The update site for {{GitHub|org=bradtmoore|repo=wormsizer|label=WormSizer}}, a tool for measuring volume, length, and surface area of nematodes off of a dissection microscope.
 |[mailto:brad.t.moore@duke.edu Brad T. Moore]
 |- valign="top"
+|'''XitoSBML'''
+|http://sites.imagej.net/XitoSBML/
+|{{GitHub|org= spatialsimulator|repo=XitoSBML|label=XitoSBML}} is an ImageJ plugin which creates a [http://sbml.org/Documents/Specifications/SBML_Level_3/Packages/spatial Spatial SBML] model from segmented images. XitoSBML is not just a converter, but also a spatial model editor so that users can add molecules(species), reactions and advection/diffusion coefficients to the converted Spatial SBML model.
+|[mailto:spatial@fun.bio.keio.ac.jp Kaito Ii and Akira Funahashi]
+|- valign="top"
 |'''Xlib'''
 |http://sites.imagej.net/Xlib/
 |[http://wiki.imagej.net/Xlib Xlib] is a set of prospective ImageJ plugins: automated imaging tools for filtering, data reconstruction, quantitative data evaluation and data import, tools for interactive segmentation, visualization and management of image data. 
