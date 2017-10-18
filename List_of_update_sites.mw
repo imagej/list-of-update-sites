@@ -619,15 +619,15 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Utilities useful to our lab members: spot counter plugin,
 |{{Person|Nico}}
 |- valign="top"
-|'''Virtual Cell'''
-|http://sites.imagej.net/VCell/
-|Plugins for using [[Virtual Cell]] with ImageJ.
-|{{Person|Jcschaff}}
-|- valign="top"
 |'''VersiLab plugins'''
 |http://sites.imagej.net/Sweeneyian/
 |VersiLab_Plugin, aiming to do real-time image acquisition and processing for Optical Endo-Microscopy (OEM), development phase, code available {{GitHub | org=Sweeneyian| repo=VersiLab_Plugin}},
 |{{Person|Sweeneyian}}
+|- valign="top"
+|'''Virtual Cell'''
+|http://sites.imagej.net/VCell/
+|Plugins for using [[Virtual Cell]] with ImageJ.
+|{{Person|Jcschaff}}
 |- valign="top"
 |'''Volumetric Tissue Exploration and Analysis'''
 |http://sites.imagej.net/ICBM-IUPUI/
