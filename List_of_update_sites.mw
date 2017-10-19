@@ -294,6 +294,11 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |ImageJ PLUGINS (only) for “Digitale Bildverarbeitung – Eine algorithmische Einführung mit Java” by W. Burger & M. Burge, Springer (2015).
 |{{Person|ImagingBook}}
 |- valign="top"
+|'''ImagingFCS'''
+|http://sites.imagej.net/ImagingFCS/
+|Imaging_FCS 1.491 is a basic ImageJ plugin to calculate and view spatio-temporal correlation functions from 16 bit gray tiff stack files. It was written under FIJI (ImageJ 1.51f; Java 1.8.0_102) and requires Imagescience for statistics (simulator) and Apache Poi for file reading and writing.
+|[http://www.dbs.nus.edu.sg/lab/BFL/imfcs_image_j_plugin.html Thorsten Wohland]
+|- valign="top"
 |'''IMCF Uni Basel'''
 |http://sites.imagej.net/UniBas-IMCF/
 |Various plugins (most notably the Stitching-Wrapper for Olympus FluoView OIF / OIB mosaics), macros and Action Bars, including a LUT selection bar that lets you click on a visual representation of the LUT. Also ships the [https://github.com/miura/MultiStackRegistration MultiStackRegistration] plugin (the version modified by Kota Miura that is usable from scripts).
