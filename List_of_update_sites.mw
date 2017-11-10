@@ -319,6 +319,11 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Macro for processing brightfield fundus images of the mouse eye and plugin for averaging replicate OCT volume scans.
 |[mailto:mark.krebs@jax.org Mark Krebs]
 |- valign="top"
+|'''Kappa'''
+|http://sites.imagej.net/Kappa/
+|A Fiji plugin for Curvature Analysis.
+|[mailto:hadrien.mary@gmail.com Hadrien Mary]
+|- valign="top"
 |'''Leiden University'''
 |http://sites.imagej.net/Willemsejj/
 |At [https://www.universiteitleiden.nl/ Leiden University] we develop user demanded plugins for general use, which could be applicable in your experiments as well. Most questions arise from experiments done in the [https://www.universiteitleiden.nl/en/research/research-facilities/science/cell-observatory#tab-1 Cell Observatory]. 
