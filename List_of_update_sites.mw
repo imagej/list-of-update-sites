@@ -572,7 +572,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign="top"
 |'''SIMcheck'''
 |http://downloads.micron.ox.ac.uk/fiji_update/SIMcheck/
-|[http://www.micron.ox.ac.uk/microngroup/software/SIMcheck.html SIMcheck]:  a package of ImageJ tools for assessing the quality and reliability of Structured Illumination Microscopy (SIM) data.
+|[http://www.micron.ox.ac.uk/microngroup/software/SIMCheck.php SIMcheck]:  a package of ImageJ tools for assessing the quality and reliability of Structured Illumination Microscopy (SIM) data.
 |[http://www.micron.ox.ac.uk/home.php Micron Oxford]
 |- valign="top"
 |'''SiMView'''
