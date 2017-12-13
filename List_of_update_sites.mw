@@ -155,9 +155,10 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign="top"
 |'''EMBL-CBA'''
 |http://sites.imagej.net/EMBL-CBA/
-Collection of image analysis tools.
+|Collection of image analysis tools.
 - Image Registration: N-dimensional image registration
-|[mailto:image-analysis-support@embl.de Christian Tischer]
+|[mailto:image-analysis-support@embl.de EMBL-CBA] or
+[mailto:christian.tischer@embl.de Christian Tischer]
 |- valign="top"
 |'''EpiGraph'''
 |http://sites.imagej.net/Pedgomgal1/
