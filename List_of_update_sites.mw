@@ -26,15 +26,15 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Base update site for [[Fiji]] and [[:Category:Plugins|core Fiji plugins]]. If you [[Downloads|downloaded Fiji directly]], it is already included.
 |[[Contributors|Fiji developers]]
 |- valign="top"
-|'''Java-8'''
-|http://sites.imagej.net/Java-8/
-|Temporary base update site for [[ImageJ2]] and [[Fiji]] components as everything migrates to Java 8. '''Will not work with Java 6 or 7.''' See [[2016-05-10 - ImageJ HOWTO - Java 8, Java 6, Java 3D|this page]] for details.
-|[[Contributors|ImageJ and Fiji developers]]
-|- valign="top"
 |'''Fiji-Legacy'''
 |http://sites.imagej.net/Fiji-Legacy/
 |Restores old Fiji plugins which never made the transition to Maven, as well as obsolete libraries no longer used by current Fiji installations.
 |UNSUPPORTED
+|- valign="top"
+|'''Java-8'''
+|http://sites.imagej.net/Java-8/
+|Temporary base update site for [[ImageJ2]] and [[Fiji]] components as everything migrates to Java 8. '''Will not work with Java 6 or 7.''' See [[2016-05-10 - ImageJ HOWTO - Java 8, Java 6, Java 3D|this page]] for details.
+|[[Contributors|ImageJ and Fiji developers]]
 |-
 |colspan="4" style="background: #ddd; padding: 5px; text-align: center"|''Optional Update Sites''
 |- valign="top"
