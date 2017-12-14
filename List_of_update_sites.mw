@@ -184,6 +184,11 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |A Fiji plugin that allows easy, fast and accurate detection and tracking of biological filaments.
 |[mailto:hadrien.mary@gmail.com Hadrien Mary]
 |- valign="top"
+|'''Filopodyan'''
+|http://sites.imagej.net/Rb7777/
+|Filopodia dynamics analysis. See [https://github.com/gurdon-institute/Filopodyan GitHub] for the user guide, source code and R scripts for downstream analysis.
+|{{Person|Richard Butler and Vasja Urbančič}}
+|- valign="top"
 |'''FiloQuant'''
 |http://sites.imagej.net/FiloQuant/
 |[http://imagej.net/User:FiloQuant FiloQuant] is a user friendly and modifiable tool for automated detection and quantification of filopodia properties such as length and density. FiloQuant can also track filopodia.
