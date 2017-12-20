@@ -113,6 +113,11 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Implementation of measures and front-end plugins used in and related to the [http://www.celltrackingchallenge.net Cell Tracking Challenge].
 |[mailto:ulman@mpi-cbg.de Vladimír Ulman]
 |- valign="top"
+|'''CIP'''
+|http://sites.imagej.net/CIP/
+|[[CIP|An image procesing toolbox focused on scripting]].
+|{{Person|Benoit}}
+|- valign="top"
 |'''CircleSkinner'''
 |http://sites.imagej.net/CircleSkinner/
 |A Fiji plugin for the automated detection and quantification of circular structures in images.
