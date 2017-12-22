@@ -330,6 +330,11 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Various plugins (most notably the Stitching-Wrapper for Olympus FluoView OIF / OIB mosaics), macros and Action Bars, including a LUT selection bar that lets you click on a visual representation of the LUT. Also ships the [https://github.com/miura/MultiStackRegistration MultiStackRegistration] plugin (the version modified by Kota Miura that is usable from scripts).
 |{{Person|Ehrenfeu}}
 |- valign="top"
+|'''IMOD-ZOLA'''
+|http://sites.imagej.net/IMOD-ZOLA/
+|Zernike Optimized Localization Algorithm for 3D single molecule localizations  [https://github.com/imodpasteur/ZOLA-3D ZOLA-3D] developed in Institut Pasteur, group IMOD  -- a CUDA-enabled localization algorithm for extended PSF single-molecule localization microscopy. Paper is under review.
+|[mailto:aaristov@pasteur.fr Andrey Aristov] and [mailto:benoit.lelandais@pasteur.fr Benoit Lelandais]
+|- valign="top"
 |'''INCF test site'''
 |http://sites.imagej.net/Dimiterpp/
 |Update site for scale space filters and other INCF projects from GSOC 2014, 2015, 2016.
