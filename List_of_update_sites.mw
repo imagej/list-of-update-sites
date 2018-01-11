@@ -415,6 +415,11 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |An integrated toolbox containing the following image-processing software from the MOSAIC Group: 2D and 3D single-particle tracking, 2D and 3D multi-region image segmentation, 2D and 3D globally optimal two-region image segmentation, point-spread function estimation in 2D and 3D, background subtraction, Poisson noise simulator, microscope optics simulator, chromatic aberration correction.
 |[http://mosaic.mpi-cbg.de MOSAIC Group, MPI-CBG, Dresden]
 |- valign="top"
+|'''MPIBPC'''
+|http://sites.imagej.net/MPIBPC/
+|MPIBPC stands for Max Planck Institute for Biophysical Chemistry. We provide the Imspector OBF reader for the Bio-Formats plugin.
+|[https://www.mpibpc.mpg.de/en MPIBPC], [https://www.mpibpc.mpg.de/person/11861/102807 Bjoern Thiel]
+|- valign="top"
 |'''MS-ECS-2D'''
 |http://sites.imagej.net/MS-ECS-2D/
 |MembraneStained EpithelialCellSegmentation 2D, for more information see also the [[MS-ECS-2D update site|update site page]].
