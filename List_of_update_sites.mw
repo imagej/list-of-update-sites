@@ -357,7 +357,8 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign="top"
 |'''LimeSeg'''
 |http://sites.imagej.net/LimeSeg/
-|Revisited active contour method for 3D segmentation. Preprint and [http://imagej.net/LimeSeg/ documentation] expected Jan 2018.
+|Revisited active contour method for 3D segmentation. Documentation:
+ http://imagej.net/LimeSeg/.
 |[mailto:nicolas.chiaruttini@unige.ch Nicolas Chiaruttini] & Sarah Machado
 |- valign="top"
 |'''Lineage-Mapper'''
