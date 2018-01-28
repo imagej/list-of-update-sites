@@ -340,6 +340,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Update site for scale space filters and other INCF projects from GSOC 2014, 2015, 2016.
 |[mailto:dimiterpp@gmail.com Dimiter Prodanov]
 |- valign="top"
+|'''IsletJ'''
+|http://sites.imagej.net/IsletJ/
+|Plugin for evaluation of microscopy images of Langerhans islets. Provides estimate of area and count of islets, and an estimate of purity (endocrine-to-exocrine tissue ratio).
+|[mailto:schier@utia.cas.cz Jan Schier] and
+[mailto:Jan.Svihlik@vscht.cz Jan Švihlík]
+|- valign="top"
 |'''JAX Eye'''
 |http://sites.imagej.net/MarkKrebs/
 |Macro for processing brightfield fundus images of the mouse eye and plugin for averaging replicate OCT volume scans.
