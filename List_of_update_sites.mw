@@ -498,7 +498,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |{{Person|Rueden}}
 |- valign="top"
 |'''OpenMIMS'''
-|http://sites.imagej.net/OpemMIMS2/
+|http://sites.imagej.net/OpenMIMS2/
 |OpenMIMS is an ImageJ plugin to open, process and analyze images captured with NanoSIMS 50 & 50L secondary ion mass spectrometers (Cameca). 
 |[mailto:cni@partners.org Matt Steinhauser] and
 [mailto:wrtaylor@partners.org Walter Taylor]
