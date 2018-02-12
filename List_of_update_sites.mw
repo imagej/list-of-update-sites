@@ -548,6 +548,11 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |The [https://imagej.net/PillarTracker PillarTracker] plug-in enables user to track the pillars and visualize the tracks and deflections.
 |[mailto:mbixxc@nus.edu.sg XU Xiaochun] & [mailto:mbifmm@nus.edu.sg Felix Martin Margadant]
 |- valign="top"
+|'''PQCT'''
+|http://sites.imagej.net/PQCT/
+|Tools for Stratec [https://imagej.net/PQCT pQCT] bone and soft tissue images.
+|Timo Rantalainen, [mailto:rdomander@rvc.ac.uk Richard Domander], [mailto:mdoube@rvc.ac.uk Michael Doube]
+|- valign="top"
 |'''PTBIOP'''
 |https://biop.epfl.ch/Fiji-Update
 |The [https://biop.epfl.ch/ EPFL - PTBIOP] (BioImaging & Optics Platform) Update Site, with Fiji plugins and macros, including [http://imagejdocu.tudor.lu/doku.php?id=plugin:utilities:action_bar:start Action Bars] (not the plugin) and HRM Manager.
