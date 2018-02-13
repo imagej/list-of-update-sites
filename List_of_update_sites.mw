@@ -734,7 +734,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |[mailto:beat.muench@empa.ch Beat Münch]
 |- valign="top"
 |'''Zoom-in-movie'''
-|http://sites.imagej.net/Zoom-in-movie/
+|http://sites.imagej.net/ZOOM-in-movie/
 |[http://wiki.imagej.net/Zoom-in-movie Zoom-in-movie] is a simple tool for creating zoom-in movies with logarithmic approach and dynamic scalebar. Simply select ROI on your image and select Plugins/Zoom-in movie to run the plugin. Thanks to Eugene Katrukha for the initial implementation.
 |[mailto:aaristov@pasteur.fr Andrey Aristov]
 |}
