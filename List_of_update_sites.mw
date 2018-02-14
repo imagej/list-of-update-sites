@@ -643,6 +643,11 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |[[SLIM Curve]]: a plugin for combined spectral-lifetime image analysis.
 |{{Person|Rueden}}
 |- valign="top"
+|'''Steerable3D'''
+|http://sites.imagej.net/Pam66/
+|[http://imagej.net/User:Pam66 Steerable3D] is a plugin implementing a "steerable" filter for the enhancement of tubular structures in 3D image stack.
+|[mailto:paolo.miocchi-at-gmail.com Paolo Miocchi]
+|- valign="top"
 |'''Stereoscopic 3D Projection'''
 |http://sites.imagej.net/JoeNapoli/
 |Allows users to create 3-D anaglyph and Google Cardboard compatible projections from image stacks. 
@@ -737,9 +742,4 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |http://sites.imagej.net/ZOOM-in-movie/
 |[http://wiki.imagej.net/Zoom-in-movie Zoom-in-movie] is a simple tool for creating zoom-in movies with logarithmic approach and dynamic scalebar. Simply select ROI on your image and select Plugins/Zoom-in movie to run the plugin. Thanks to Eugene Katrukha for the initial implementation.
 |[mailto:aaristov@pasteur.fr Andrey Aristov]
-|- valign="top"
-|'''Steerable3D'''
-|http://sites.imagej.net/Pam66/
-|[http://imagej.net/User:Pam66 Steerable3D] is a plugin implementing a "steerable" filter for the enhancement of tubular structures in 3D image stack.
-|[mailto:paolo.miocchi-at-gmail.com Paolo Miocchi]
-|}
+}
