@@ -199,6 +199,11 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |[http://imagej.net/User:FiloQuant FiloQuant] is a user friendly and modifiable tool for automated detection and quantification of filopodia properties such as length and density. FiloQuant can also track filopodia.
 |{{Person|Guillaume Jacquemet & Alexandre Carisey}}
 |- valign="top"
+|'''FPBioimage'''
+|http://sites.imagej.net/Fpbioimage/
+|A plugin to prepare and upload data for [http://fpb.ceb.cam.ac.uk FPBioimage].
+|[[User:Fpbioimage|FPBioimage]]
+|- valign="top"
 |'''FracLac Suite'''
 |http://sites.imagej.net/Akarperien/
 |Fractal Analysis and Modelling tools for neuroscience and other disciplines. '''Analysis:''' <abbr title="Box Counting Fractal Dimension">D<sub>B</sub></abbr>, <abbr title="Fixed Grid and Sliding Box">lacunarity</abbr>, multifractal spectra, <abbr title="Local Connected Fractal Dimension">D<sub>LC</sub></abbr>, <abbr title="Mass vs Distance Dimension">D<sub>MvD</sub></abbr>, subscanning, and graphical wave analysis for binary and gray scale images, with inline and [http://rsbweb.nih.gov/ij/plugins/fraclac/FLHelp/Introduction.htm online] theoretical and practical help. '''Outputs:''' detailed analyses, raw data, plots, colour-coding, and settings (*.fl) files. '''Modelling:''' benchmark fractals, natural structures (e.g., neurons), megadata to graphical wave images. Code in jar. See [http://rsbweb.nih.gov/ij/plugins/fraclac/FLHelp/FLCitations.htm citations].
