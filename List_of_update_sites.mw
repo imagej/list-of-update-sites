@@ -201,7 +201,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign="top"
 |'''FPBioimage'''
 |http://sites.imagej.net/Fpbioimage/
-|A plugin to prepare and upload data for [http://fpb.ceb.cam.ac.uk FPBioimage].
+|A plugin to prepare and upload data for [https://imagej.net/Fpbioimage FPBioimage].
 |[[User:Fpbioimage|FPBioimage]]
 |- valign="top"
 |'''FracLac Suite'''
