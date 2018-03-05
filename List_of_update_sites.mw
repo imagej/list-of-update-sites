@@ -369,7 +369,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |'''LAG SIM'''
 |http://sites.imagej.net/LagSIM/
 |A plugin and set of macro tools to help with reconstructing SIM data. This has been specifically developed for the Laser Analytics Group SIM in the University of Cambridge - but please download and/or modify for your own needs.
-|[User:LagSIM|LagSIM]
+|[[User:LagSIM|LagSIM]]
 |- valign="top"
 |'''Leiden University'''
 |http://sites.imagej.net/Willemsejj/
