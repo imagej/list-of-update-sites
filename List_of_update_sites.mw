@@ -653,11 +653,6 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |[[SLIM Curve]]: a plugin for combined spectral-lifetime image analysis.
 |{{Person|Rueden}}
 |- valign="top"
-|'''Steerable3D'''
-|http://sites.imagej.net/Pam66/
-|[http://imagej.net/User:Pam66 Steerable3D] is a plugin implementing a "steerable" filter for the enhancement of tubular structures in 3D image stack.
-|[mailto:paolo.miocchi-at-gmail.com Paolo Miocchi]
-|- valign="top"
 |'''Stereoscopic 3D Projection'''
 |http://sites.imagej.net/JoeNapoli/
 |Allows users to create 3-D anaglyph and Google Cardboard compatible projections from image stacks. 
