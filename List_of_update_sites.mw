@@ -163,6 +163,11 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Macros for quantitative analysis of nanofiber images.  DiameterJ is able to analyze any network of connecting lines (validated for SEM micrographs of micro- and nanofibers) and produce metrics such as mean diameter, histograms of fiber diameter, mean pore size, histogram of all pore areas, percent porosity, etc.  See [coming soon] for more information and the publication describing how DiameterJ works and its limitations.
 |{{Person|DiameterJ}}
 |- valign="top"
+|'''DiversePathsJ'''
+|http://sites.imagej.net/Vuhlmann/
+|DiversePathsJ implements a dynamic programming approach for the general task of finding diverse shortest paths between two end-points. It is not linked to a specific biological problem and can be applied to a large variety of images. More informations can be found at http://bigwww.epfl.ch/algorithms/diversepathsj/
+|{{Person|vuhlmann}}
+|- valign="top"
 |'''EMBL-CBA'''
 |http://sites.imagej.net/EMBL-CBA/
 |Collection of image analysis tools.
