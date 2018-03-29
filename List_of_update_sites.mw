@@ -263,7 +263,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |'''IamMM'''
 |http://sites.imagej.net/IamMM/
 |[http://wiki.imagej.net/Image_Synthesizer Image Synthesizer] (plugin to generate images from mathematical functions and conditional statements in a coordinate system independent from the aspect ratio or image size), 
-[https://github.com/IamMM/Spheroid_RGB Speroid RGB] (plugin to analyze microscopy RGB images with fluorescent stained cells)
+[https://github.com/IamMM/Spheroid_RGB Spheroid RGB] (plugin to analyze microscopy RGB images with fluorescent stained cells)
 |[mailto:m.maske@posteo.de Maximilian Maske]
 |- valign="top"
 |'''IBMP-CNRS'''
