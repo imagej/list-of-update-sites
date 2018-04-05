@@ -130,7 +130,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign="top"
 |'''ClearVolume'''
 |http://sites.imagej.net/ClearVolume/
-|ClearVolume is a fast 3D viewer, for more information see also [https://bitbucket.org/clearvolume/clearvolume/wiki/Home ClearVolumeWiki].
+|ClearVolume is a fast 3D viewer, for more information see also the [https://github.com/ClearVolume/ClearVolume/wiki ClearVolume wiki].
 |[[User:ClearVolume|ClearVolume]]
 |- valign="top"
 |'''CMCI-EMBL'''
