@@ -500,7 +500,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign="top"
 |'''NoiSee'''
 |http://sites.imagej.net/NoiSee/
-|An easy-to-use macro for measuring and analyzing SNR (signal-to-noise ratio) of light microscopes.
+|An easy-to-use macro for measuring and analyzing SNR (signal-to-noise ratio) of light microscopes. See the [[NoiSee]] page for more details.
 |{{Person|Ehrenfeu}}
 |- valign="top"
 |'''NucleusJ'''
