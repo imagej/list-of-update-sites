@@ -679,6 +679,11 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |[[SLIM Curve]]: a plugin for combined spectral-lifetime image analysis.
 |{{Person|Rueden}}
 |- valign="top"
+|'''SLIM-Notts'''
+|http://sites.imagej.net/SLIM-Notts/
+|Plugins and macros from the School of Life Sciences Imaging (SLIM) at the University of Nottingham
+|Chris Gell
+|- valign="top"
 |'''Stereoscopic 3D Projection'''
 |http://sites.imagej.net/JoeNapoli/
 |Allows users to create 3-D anaglyph and Google Cardboard compatible projections from image stacks. 
