@@ -701,7 +701,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign="top"
 |'''TEM suite'''
 |http://sites.imagej.net/Makoten/
-|This is a set of easy to use and useful plugins designed for analyzing and presenting TEM data and images. It includes: [[calc dSpace|calc dSpace]], which calculates the d-spacing from manual measurements made by the user in their electron diffraction patterns; a more advanced d-spacing calculator called [[get dSpace|get dSpace]]; and a quality montaging plugin called [[pub Montage|pub Montage]].
+|[[TEM suite|TEM suite]] is a set of easy to use and useful plugins designed for analyzing and presenting TEM data and images. It includes: [[calc dSpace|calc dSpace]], which calculates the d-spacing from manual measurements made by the user in their electron diffraction patterns; a more advanced d-spacing calculator called [[get dSpace|get dSpace]]; and a quality montaging plugin called [[pub Montage|pub Montage]].
 |[mailto:mark.koten@gmail.com Mak Koten]
 |- valign="top"
 |'''TensorFlow'''
