@@ -98,11 +98,6 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |A toolset providing a plugins and macros for flat-field background corrections, image filters, color coding of shape descriptors and several tools to process and analyze binary images such as the 'Speckle Inspector', 'Binary Feature Extractor' and an 'Extended Particle Analyzer' and a qualitative and quantitative evaluation tool for Fijis' Auto Threshold methods. More information at the [[BioVoxxel Toolbox]] page and the [http://www.biovoxxel.de BioVoxxel web site].
 |{{Person|BioVoxxel}}
 |- valign="top"
-|'''calc dSpace'''
-|http://sites.imagej.net/Makoten/
-|[[calc dSpace|calc dSpace]] is a Fiji plugin that quickly calculates the d-spacing (distance between parallel planes of atoms on a lattice) from manual measurements made by the user in a calibrated TEM diffraction pattern. It works best with .dm3 files, and it performs very well on both single crystalline and polycrystalline (ring) patterns.
-|[mailto:mark.koten@gmail.com Mak Koten]
-|- valign="top"
 |'''CALM'''
 |http://sites.imagej.net/CALM/
 |Plugins from the Crick Advanced Light Microscopy Facility at [https://www.crick.ac.uk The Francis Crick Institute].
@@ -703,6 +698,11 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |http://sites.imagej.net/TDS/
 |Fiji-Tools-for-HCS is a collection of macros useful for high-content screening data developed by TDS members at MPI-CBG Dresden. [https://github.com/stoeter/Fiji-Tools-for-HCS/wiki Wiki]
 |[mailto:stoeter@mpi-cbg.de Martin Stoeter]
+|- valign="top"
+|'''TEM suite'''
+|http://sites.imagej.net/Makoten/
+|This is a set of easy to use and useful plugins designed for analyzing and presenting TEM data and images. It includes: [[calc dSpace|calc dSpace]], which calculates the d-spacing from manual measurements made by the user in their electron diffraction patterns; a more advanced d-spacing calculator called [[get dSpace|get dSpace]]; and a quality montaging plugin called [[pub Montage|pub Montage]].
+|[mailto:mark.koten@gmail.com Mak Koten]
 |- valign="top"
 |'''TensorFlow'''
 |http://sites.imagej.net/TensorFlow/
