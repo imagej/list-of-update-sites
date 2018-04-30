@@ -644,6 +644,11 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |SciView 3D/VR/AR visualization package for ImageJ. See source {{GitHub | org=scenerygraphics | repo=SciView}}
 |{{Person|Kharrington}} and many more
 |- valign="top"
+|'''Server'''
+|http://sites.imagej.net/Server/
+|ImageJ-server update site. See source {{GitHub | org=imagej | repo=imagej-server}}
+|{{Person|ctrueden}}
+|- valign="top"
 |'''SIMcheck'''
 |http://downloads.micron.ox.ac.uk/fiji_update/SIMcheck/
 |[http://www.micron.ox.ac.uk/microngroup/software/SIMCheck.php SIMcheck]:  a package of ImageJ tools for assessing the quality and reliability of Structured Illumination Microscopy (SIM) data.
