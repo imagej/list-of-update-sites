@@ -179,6 +179,11 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |EpiGraph: an open-source method to quantify epithelial organization. EpiGraph is a Fiji plugin that combines computational geometry and graph theory to measure organization in any computational or natural tessellation image.
 |[mailto:pgomez-ibis@us.es Pedro J. Gómez Gálvez] and [https://github.com/Pablo1990 Pablo Vicente Munuera]
 |- valign="top"
+|'''EZFig'''
+|http://sites.imagej.net/EZF/
+|EZFig is a tool to build publication-ready scientific figures based on ScientiFig but simpler to use. It must be used in combination with the 'Java-8' update site.
+|[mailto:scientifig@gmail.com Benoit Aigouy]
+|- valign="top"
 |'''FFMPEG'''
 |http://fiji.sc/~schindelin/ffmpeg-plugins/
 |Fiji plugins which allow reading and writing to [http://www.ffmpeg.org/ FFmpeg]-supported formats via native bindings.
@@ -626,7 +631,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign="top"
 |'''ScientiFig'''
 |http://sites.imagej.net/Aigouy/
-|ScientiFig is a tool to build publication-ready scientific figures similar to FigureJ from the IBMP-CNRS site. It must be used in combination with the 'Java-8' update site.
+|ScientiFig is a tool to build publication-ready scientific figures similar to FigureJ from the IBMP-CNRS site. It must be used in combination with the 'Java-8' update site. ScientiFig is deprecated please use EZFig instead.
 |[mailto:scientifig@gmail.com Benoit Aigouy]
 |- valign="top"
 |'''Scientifig-deprecated'''
