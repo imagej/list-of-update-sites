@@ -194,7 +194,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Macros developed to measure the diameters and persistence lengths if amyloids fibrils by AFM, EM, STM etc. iamges. It provides histogram distribution of the average fibril diameter and average fibril persistence length. Was validated for AFM, SEM and TEM images of Sup35NM fibrils on mica, silicon, gold surfaces and formvar film.
 |{{Person|Petr Sokolov}}
 |- valign="top"
-'''Fiji MaskRCNN'''
+|'''Fiji MaskRCNN'''
 |http://sites.imagej.net/Fiji_MaskRCNN/
 |A Fiji plugin that allows easy, fast and accurate detection and tracking of biological filaments.
 |[mailto:hadrien.mary@gmail.com Hadrien Mary]
