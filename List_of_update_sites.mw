@@ -533,6 +533,11 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |The [http://openmicroscopy.org/info/omero OMERO] update site for {{GitHub|org=imagej|repo=imagej-omero|label=bidirectional integration between ImageJ and OMERO 5.2.x}}.
 |{{Person|Rueden}}
 |- valign="top"
+|'''OMERO 5.4'''
+|http://sites.imagej.net/OMERO-5.4/
+|The [http://openmicroscopy.org/info/omero OMERO] update site for {{GitHub|org=imagej|repo=imagej-omero|label=bidirectional integration between ImageJ and OMERO 5.4.x}}.
+|{{Person|Rueden}}
+|- valign="top"
 |'''OpenMIMS'''
 |http://sites.imagej.net/OpenMIMS2/
 |OpenMIMS is an ImageJ plugin to open, process and analyze images captured with NanoSIMS 50 & 50L secondary ion mass spectrometers (Cameca). 
