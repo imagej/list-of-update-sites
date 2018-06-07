@@ -779,6 +779,11 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Plugins for using [[Virtual Cell]] with ImageJ.
 |{{Person|Jcschaff}}
 |- valign="top"
+|'''Void Whizzard'''
+|http://imagej.net/VezinaLab/
+|[http://imagej.net/void_whizzard Void Whizzard] is a tool for analyzing void spot assay (VSA) images.
+|[mailto:soakes@wisc.edu Royal Oakes]
+|- valign="top"
 |'''Volumetric Tissue Exploration and Analysis'''
 |http://sites.imagej.net/ICBM-IUPUI/
 |[http://wiki.imagej.net/VTEA VTEA] is an interactive tool for 3D tissue cytometry built on ImageJ.
