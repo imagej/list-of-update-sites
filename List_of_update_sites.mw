@@ -98,6 +98,11 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |A toolset providing a plugins and macros for flat-field background corrections, image filters, color coding of shape descriptors and several tools to process and analyze binary images such as the 'Speckle Inspector', 'Binary Feature Extractor' and an 'Extended Particle Analyzer' and a qualitative and quantitative evaluation tool for Fijis' Auto Threshold methods. More information at the [[BioVoxxel Toolbox]] page and the [http://www.biovoxxel.de BioVoxxel web site].
 |{{Person|BioVoxxel}}
 |- valign="top"
+|'''BoneJ experimental'''
+|http://sites.imagej.net/BoneJ/
+|A collection tools for trabecular geometry and whole bone shape analysis. This update site hosts the new experimental, modernized version of BoneJ that works with the latest Fiji. Enabling the update site creates the menu entries Plugins > BoneJ and Plugins > BoneJ Legacy. The pQCT tools are now hosted on their own update site (see below).
+|{{Person|Rdom}}
+|- valign="top"
 |'''CALM'''
 |http://sites.imagej.net/CALM/
 |Plugins from the Crick Advanced Light Microscopy Facility at [https://www.crick.ac.uk The Francis Crick Institute].
