@@ -744,6 +744,11 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Tissue Analyzer is a free tool to segment epithelial tissues.
 |[mailto:tissue.analyser@gmail.com Benoit Aigouy]
 |- valign="top"
+|'''TomancakLab'''
+|http://sites.imagej.net/Ulman2/
+|A couple of Fiji scripts to ease daily evo-devo image analysis life, from Tomancak lab.
+|[mailto:ulman@mpi-cbg.de Vladimír Ulman]
+|- valign="top"
 |'''TrackMateCSVImporter'''
 |http://sites.imagej.net/TrackMateCSVImporter/
 |The [http://imagej.net/TrackMateCSVImporter TrackMateCSVImporter] is a Fiji plugin that can import CSV files into TrackMate. It can create TrackMate files out of a csv file and an image. A script also permits its use in headless mode.
