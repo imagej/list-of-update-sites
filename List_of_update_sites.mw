@@ -392,6 +392,11 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |A Fiji plugin for Curvature Analysis.
 |[mailto:hadrien.mary@gmail.com Hadrien Mary]
 |- valign="top"
+|'''Lab-utility-plugins'''
+|http://sites.imagej.net/Georgenm/
+|A collection of plugins for file blinding, batch image conversion of proprietary formats to tif, and other common helper functions. Source and docs: https://github.com/Macklin-Lab/imagej-microscopy-scripts 
+|[mailto:nicholas.m.george@ucdenver.edu Nick George]
+|-valign="top" 
 |'''Labkit'''
 |http://sites.imagej.net/Labkit/
 |An advanced plugin for labeling and automatic segmentaion of Images.
