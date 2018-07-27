@@ -63,6 +63,11 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 | A set of plugins that allow Fiji to be run in parallel on a cluster. Currently, [[Trainable_Weka_Segmentation|Trainable Weka Segmentation]] and [[Elastic_Alignment_and_Montage|Elastic Alignment]] are accelerated in this way.
 |{{Person|Lindsey}}
 |- valign="top"
+|'''BACMMAN'''
+|http://sites.imagej.net/Ljp/
+| BACteria in Mother Machine ANalyzer: a plugin for high-throughput analysis of mother machine data.
+|{{Person|Jean Ollion}}
+|- valign="top"
 |'''BAR'''
 |http://sites.imagej.net/Tiago/
 |[[BAR|BAR]] (''Broadly Applicable Routines'') is a {{GitHub|org=tferr|repo=Scripts|label=GitHub-curated}} collection of scripts that simplifies the daily usage of ImageJ. The collection is focused on Data Analysis, Image Annotation and Segmentation.
