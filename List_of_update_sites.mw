@@ -199,6 +199,11 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |EZFig is a tool to build publication-ready scientific figures based on ScientiFig but simpler to use. It must be used in combination with the 'Java-8' update site.
 |[mailto:scientifig@gmail.com Benoit Aigouy]
 |- valign="top"
+|'''FAST'''
+|http://imagej.net/FAST/
+|Fluorescence image AnalysiS Tool automates tasks to process a set of single-channel fluorescence images.
+|[http://imagej.net/User:C.TURIÈS C.TURIÈS]
+|- valign="top"
 |'''FFMPEG'''
 |http://fiji.sc/~schindelin/ffmpeg-plugins/
 |Fiji plugins which allow reading and writing to [http://www.ffmpeg.org/ FFmpeg]-supported formats via native bindings.
