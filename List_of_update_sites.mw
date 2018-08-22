@@ -443,6 +443,11 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |The [http://loci.wisc.edu/software/fiji-plugins LOCI] update site for [http://loci.wisc.edu/software/fiji-plugins their Fiji plugins], including [http://loci.wisc.edu/software/visbio-fiji-plugins VisBio Fiji plugins] and other miscellany.
 |{{Person|Rueden}}
 |- valign="top"
+|'''LSM-W2'''
+|https://imagej.net/LSM_Worker
+|The plugin can work with multi-channel multi-frame 3D images in *.lsm format obtained from a laser scanning microscope. Has a wide functionality for working with a similar type of image. For more information [https://imagej.net/LSM_Worker see documentation]. Source code [https://github.com/JmanJ/LSM_Worker here].
+|Verman Pavel
+|- valign="top"
 |'''MaMuT'''
 |http://sites.imagej.net/MaMuT/
 |[[MaMuT]], a plugin for the annotation of massive, multi-view data.
