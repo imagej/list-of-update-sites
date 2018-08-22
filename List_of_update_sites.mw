@@ -446,7 +446,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |'''LSM-W2'''
 |http://sites.imagej.net/Bionet.nsc/ 
 |The plugin can work with multi-channel multi-frame 3D images in *.lsm format obtained from a laser scanning microscope. Has a wide functionality for working with a similar type of image. For more information [https://imagej.net/LSM_Worker see documentation]. Source code [https://github.com/JmanJ/LSM_Worker here].
-|{{Person|Bionet.nsc}}
+|Verman Pavel
 |- valign="top"
 |'''MaMuT'''
 |http://sites.imagej.net/MaMuT/
