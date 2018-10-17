@@ -744,6 +744,11 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |The [http://research.stowers.org/imagejplugins/ Stowers ImageJ Plugins].
 |Jay Unruh
 |- valign="top"
+|'''StuartLab'''
+|http://sites.imagej.net/StuartLab/
+|Tools developed and used in the labs of Dr. Stuart and Dr. Necakov at Brock University.
+|[[User:StuartLab|Andrew Valente]]
+|- valign="top"
 |'''Tango'''
 |http://sites.imagej.net/Tango/
 |Tools for Analysis of Nuclear Genome Organization.
