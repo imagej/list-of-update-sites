@@ -202,7 +202,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |'''FAST'''
 |http://sites.imagej.net/FAST/
 |Fluorescence image AnalysiS Tool automates tasks to process a set of single-channel fluorescence images.
-|[http://imagej.net/User:C.TURIÈS C.TURIÈS]
+|[[User:C.TURIÈS|C.TURIÈS]]
 |- valign="top"
 |'''FFMPEG'''
 |http://fiji.sc/~schindelin/ffmpeg-plugins/
@@ -226,12 +226,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign="top"
 |'''FiloQuant'''
 |http://sites.imagej.net/FiloQuant/
-|[http://imagej.net/User:FiloQuant FiloQuant] is a user friendly and modifiable tool for automated detection and quantification of filopodia properties such as length and density. FiloQuant can also track filopodia.
+|[[User:FiloQuant|FiloQuant]] is a user friendly and modifiable tool for automated detection and quantification of filopodia properties such as length and density. FiloQuant can also track filopodia.
 |{{Person|Guillaume Jacquemet & Alexandre Carisey}}
 |- valign="top"
 |'''FPBioimage'''
 |http://sites.imagej.net/Fpbioimage/
-|A plugin to prepare and upload data for [https://imagej.net/Fpbioimage FPBioimage].
+|A plugin to prepare and upload data for [[Fpbioimage]].
 |[[User:Fpbioimage|FPBioimage]]
 |- valign="top"
 |'''FracLac Suite'''
@@ -251,7 +251,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign="top"
 |'''Fuzzy Set'''
 |http://sites.imagej.net/Rerger/
-|[http://imagej.net/User:Rerger Fuzzy Set] is an ImageJ plugin, to transform the intensity of the image using Fuzzy Sets.
+|[[User:Rerger|Fuzzy Set]] is an ImageJ plugin, to transform the intensity of the image using Fuzzy Sets.
 |[mailto:rerger@leomail.tamuc.edu Robert Erger]
 |- valign="top"
 |'''GDSC'''
@@ -287,7 +287,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign="top"
 |'''IamMM'''
 |http://sites.imagej.net/IamMM/
-|[http://wiki.imagej.net/Image_Synthesizer Image Synthesizer] (plugin to generate images from mathematical functions and conditional statements in a coordinate system independent from the aspect ratio or image size), 
+|[[Image Synthesizer]] (plugin to generate images from mathematical functions and conditional statements in a coordinate system independent from the aspect ratio or image size), 
 [https://github.com/IamMM/Spheroid_RGB Spheroid RGB] (plugin to analyze microscopy RGB images with fluorescent stained cells)
 |[mailto:m.maske@posteo.de Maximilian Maske]
 |- valign="top"
@@ -420,7 +420,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |'''LimeSeg'''
 |http://sites.imagej.net/LimeSeg/
 |Revisited active contour method for 3D segmentation. Documentation:
- http://imagej.net/LimeSeg/.
+ [[LimeSeg]].
 |[mailto:nicolas.chiaruttini@unige.ch Nicolas Chiaruttini] & Sarah Machado
 |- valign="top"
 |'''Lineage-Mapper'''
@@ -440,7 +440,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign="top"
 |'''LSM-W2'''
 |http://sites.imagej.net/Bionet.nsc/ 
-|Plugin extracts Leaf Surface Morphology from Laser Scanning Microscopy images. The plugin can work with multi-channel multi-frame 3D images in *.lsm format obtained from a laser scanning microscope. Has a wide functionality for working with a similar type of image. For more information [https://imagej.net/LSM_Worker see documentation]. Source code [https://github.com/JmanJ/LSM_Worker here].
+|Plugin extracts Leaf Surface Morphology from Laser Scanning Microscopy images. The plugin can work with multi-channel multi-frame 3D images in *.lsm format obtained from a laser scanning microscope. Has a wide functionality for working with a similar type of image. For more information [[LSM Worker|see documentation]]. Source code [https://github.com/JmanJ/LSM_Worker here].
 |Verman Pavel
 |- valign="top"
 |'''MaMuT'''
@@ -596,7 +596,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign="top"
 |'''ParticleSizer'''
 |http://sites.imagej.net/Ndef-psizer/
-|A [http://imagej.net/ParticleSizer plugin to derive number based size distributions] from TEM images.
+|A [[ParticleSizer|plugin to derive number based size distributions]] from TEM images.
 |{{Person|Twagner}}
 |- valign="top"
 |'''Pendent Drop'''
@@ -616,17 +616,17 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign="top"
 |'''PhotonImaging'''
 |http://sites.imagej.net/PhotonImaging/
-|The [http://imagej.net/User:PhotonImaging PhotonImaging] plug-in for ImageJ is able to process single photon event data, by locating the center point of each photon and create a combined greyscale image with all found photons per pixel mapped to the correct pixel value. 
+|The [[User:PhotonImaging|PhotonImaging]] plug-in for ImageJ is able to process single photon event data, by locating the center point of each photon and create a combined greyscale image with all found photons per pixel mapped to the correct pixel value. 
 |[mailto:lonsch96@live.nl Lonneke Scheffer] & [mailto:wout.van.helvoirt@gmail.com Wout van Helvoirt]
 |- valign="top"
 |'''PillarTracker'''
 |http://sites.imagej.net/PillarTracker/
-|The [https://imagej.net/PillarTracker PillarTracker] plug-in enables user to track the pillars and visualize the tracks and deflections.
+|The [[PillarTracker]] plug-in enables user to track the pillars and visualize the tracks and deflections.
 |[mailto:mbixxc@nus.edu.sg XU Xiaochun] & [mailto:mbifmm@nus.edu.sg Felix Martin Margadant]
 |- valign="top"
 |'''PQCT'''
 |http://sites.imagej.net/PQCT/
-|Tools for Stratec [https://imagej.net/PQCT pQCT] bone and soft tissue images.
+|Tools for Stratec [[pQCT]] bone and soft tissue images.
 |Timo Rantalainen, {{Person|Rdom}}, {{Person|Michaeldoube}}
 |- valign="top"
 |'''PTBIOP'''
@@ -672,7 +672,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |'''SCF MPI CBG'''
 |http://sites.imagej.net/SCF-MPI-CBG/
 |Common image processing tools from the Scientific Computing Facility at MPI CBG Dresden
-|[http://imagej.net/User:Benoit Benoit Lombardot] and [http://imagej.net/User:Haesleinhuepf Robert Haase]
+|[[User:Benoit|Benoit Lombardot]] and [[User:Haesleinhuepf|Robert Haase]]
 |- valign="top"
 |'''ScientiFig'''
 |http://sites.imagej.net/Aigouy/
@@ -781,12 +781,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign="top"
 |'''TrackMateCSVImporter'''
 |http://sites.imagej.net/TrackMateCSVImporter/
-|The [http://imagej.net/TrackMateCSVImporter TrackMateCSVImporter] is a Fiji plugin that can import CSV files into TrackMate. It can create TrackMate files out of a csv file and an image. A script also permits its use in headless mode.
+|The [[TrackMateCSVImporter]] is a Fiji plugin that can import CSV files into TrackMate. It can create TrackMate files out of a csv file and an image. A script also permits its use in headless mode.
 |{{Person|JeanYvesTinevez}}
 |- valign="top"
 |'''TraJClassifier'''
 |http://sites.imagej.net/TraJClassifier/
-|The [http://imagej.net/TraJClassifier TraJClassifier] loads trajectories from TrackMate, characterize them using TraJ and classificate them into normal diffusion, subdiffusion, confined diffusion and directed/active motion by a random forest approach.
+|The [[TraJClassifier]] loads trajectories from TrackMate, characterize them using TraJ and classificate them into normal diffusion, subdiffusion, confined diffusion and directed/active motion by a random forest approach.
 |{{Person|Twagner}}
 |- valign="top"
 |'''Tr2d'''
@@ -820,13 +820,13 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |{{Person|Jcschaff}}
 |- valign="top"
 |'''Void Whizzard'''
-|http://imagej.net/VezinaLab/
-|[http://imagej.net/void_whizzard Void Whizzard] is a tool for analyzing void spot assay (VSA) images.
+|http://sites.imagej.net/VezinaLab/
+|[[Void Whizzard]] is a tool for analyzing void spot assay (VSA) images.
 |[mailto:soakes@wisc.edu Royal Oakes]
 |- valign="top"
 |'''Volumetric Tissue Exploration and Analysis'''
 |http://sites.imagej.net/ICBM-IUPUI/
-|[http://wiki.imagej.net/VTEA VTEA] is an interactive tool for 3D tissue cytometry built on ImageJ.
+|[[VTEA]] is an interactive tool for 3D tissue cytometry built on ImageJ.
 |[mailto:winfrees@iu.edu Seth Winfree]
 |- valign="top"
 |'''WhiskerTracking'''
@@ -846,11 +846,11 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign="top"
 |'''Xlib'''
 |http://sites.imagej.net/Xlib/
-|[http://wiki.imagej.net/Xlib Xlib] is a set of prospective ImageJ plugins: automated imaging tools for filtering, data reconstruction, quantitative data evaluation and data import, tools for interactive segmentation, visualization and management of image data. 
+|[[Xlib]] is a set of prospective ImageJ plugins: automated imaging tools for filtering, data reconstruction, quantitative data evaluation and data import, tools for interactive segmentation, visualization and management of image data. 
 |[mailto:beat.muench@empa.ch Beat Münch]
 |- valign="top"
 |'''Zoom-in-movie'''
 |http://sites.imagej.net/ZOOM-in-movie/
-|[http://wiki.imagej.net/Zoom-in-movie Zoom-in-movie] is a simple tool for creating zoom-in movies with logarithmic approach and dynamic scalebar. Simply select ROI on your image and select Plugins/Zoom-in movie to run the plugin. Thanks to Eugene Katrukha for the initial implementation.
+|[[Zoom-in-movie]] is a simple tool for creating zoom-in movies with logarithmic approach and dynamic scalebar. Simply select ROI on your image and select Plugins/Zoom-in movie to run the plugin. Thanks to Eugene Katrukha for the initial implementation.
 |[mailto:aaristov@pasteur.fr Andrey Aristov]
 }
