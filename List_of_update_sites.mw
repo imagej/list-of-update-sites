@@ -640,7 +640,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |[http://mechanochemistry.org/royle Stephen Royle]
 |- valign="top"
 |'''QuimP'''
-|https://pilip.lnx.warwick.ac.uk/quimp-update-site/
+|http://pilip.lnx.warwick.ac.uk/quimp-update-site/
 |[http://warwick.ac.uk/quimp QuimP] is software for tracking cellular shape changes and dynamic distributions of fluorescent reporters at the cell membrane.
 |Piotr Baniukiewicz, Till Bretschneider ({{Person|CellDynamics}})
 |- valign="top"
