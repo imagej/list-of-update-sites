@@ -627,7 +627,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |'''PQCT'''
 |http://sites.imagej.net/PQCT/
 |Tools for Stratec [[pQCT]] bone and soft tissue images.
-|Timo Rantalainen, {{Person|Rdom}}, {{Person|Michaeldoube}}
+|Timo Rantalainen
 |- valign="top"
 |'''PTBIOP'''
 |https://biop.epfl.ch/Fiji-Update
