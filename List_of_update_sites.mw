@@ -453,6 +453,11 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |A Fiji plugin for Mask RCNN semantic segmentation.
 |{{Person|Hadim}}
 |- valign="top"
+|'''Mastodon'''
+|http://sites.imagej.net/Mastodon/
+|[[Mastodon]], a plugin for tracking in massive, multi-view data. Mastodon is the successor to MaMuT and TrackMate. It is still incomplete and in-development.
+|{{Person|Pietzsch}}
+|- valign="top"
 |'''Micro-Magellan'''
 |http://sites.imagej.net/Hpinkard/
 |Micro-Magellan (https://micro-manager.org/wiki/MicroMagellan) is a plugin based on Micro-Manager for high throughput microscopy. This update site is used to enable reading of Micro-Magellan datasets by the BigDataViewer (http://fiji.sc/BigDataViewer).
