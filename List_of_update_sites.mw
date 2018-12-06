@@ -454,7 +454,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |{{Person|Hadim}}
 |- valign="top"
 |'''Mastodon'''
-|http://sites.imagej.net/Mastodon/
+|http://sites.imagej.net/Mastodonpreview/
 |[https://github.com/fiji/TrackMate3 Mastodon] is a plugin for tracking in massive, multi-view data. It is the successor to MaMuT and TrackMate. It is still incomplete and in-development.
 |{{Person|Pietzsch}}
 |- valign="top"
