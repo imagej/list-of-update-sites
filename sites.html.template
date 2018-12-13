@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8"/>
+<title>List of update sites - ImageJ</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"List_of_update_sites","wgTitle":"List of update sites","wgCurRevisionId":38812,"wgRevisionId":38812,"wgArticleId":1690,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"List_of_update_sites","wgRelevantArticleId":1690,"wgRequestId":"a4912561488a08ed90e2f539","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgPreferredVariant":"en","fancytree_path":"/extensions/TreeAndMenu/fancytree"});mw.loader.implement("user.options",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup"]);});</script>
+<link rel="stylesheet" href="https://imagej.net/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cskins.erudite&amp;only=styles&amp;skin=erudite"/>
+<link rel="stylesheet" href="https://imagej.net/extensions/TreeAndMenu/fancytree/fancytree.css"/><link rel="stylesheet" href="https://imagej.net/extensions/TreeAndMenu/suckerfish/suckerfish.css"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="https://imagej.net/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=erudite"/>
+<script async="" src="https://imagej.net/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=erudite"></script>
+<meta name="generator" content="MediaWiki 1.28.0-alpha"/>
+<meta name="description" content="The Updater has a convenient Manage update sites dialog that is populated by this wiki page."/>
+<link rel="shortcut icon" href="https://imagej.net/skins/ij2.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="https://imagej.net/opensearch_desc.php" title="ImageJ (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://imagej.net/api.php?action=rsd"/>
+<link rel="alternate" type="application/atom+xml" title="ImageJ Atom feed" href="https://imagej.net/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+	<meta property="og:type" content="article"/>
+
+	<meta property="og:site_name" content="ImageJ"/>
+
+	<meta property="og:title" content="List of update sites"/>
+
+	<meta property="og:description" content="The Updater has a convenient Manage update sites dialog that is populated by this wiki page."/>
+
+	<meta property="og:url" content="https://imagej.net/List_of_update_sites"/>
+
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-List_of_update_sites rootpage-List_of_update_sites skin-erudite action-view">
+
+		<div class="mw-jump">
+			<a href="#bodyContent">Skip to content</a>, 			<a href="#search">Skip to search</a>
+		</div>
+
+		<div id="top-wrap" role="banner">
+			<h1><a href="https://imagej.net/Welcome" title="ImageJ" rel="home">ImageJ</a></h1>
+			<div id="tagline">From ImageJ</div>
+
+			<a id="menubutton" href="#menu">Menu</a>
+			<div id="nav" role="navigation">
+			<ul id='menu'>
+<li id="menu-item-n-About"><a href="https://imagej.net/ImageJ">About</a></li>
+<li id="menu-item-n-Downloads"><a href="https://imagej.net/Downloads">Downloads</a></li>
+<li id="menu-item-n-Learn"><a href="https://imagej.net/Learn">Learn</a></li>
+<li id="menu-item-n-Develop"><a href="https://imagej.net/Development">Develop</a></li>
+<li id="menu-item-n-News"><a href="https://imagej.net/News">News</a></li>
+<li id="menu-item-n-Events"><a href="https://imagej.net/Events">Events</a></li>
+<li id="menu-item-n-Status"><a href="https://imagej.net/Status">Status</a></li>
+<li id="menu-item-n-Help"><a href="https://imagej.net/Help">Help</a></li>
+</ul>
+			</div>
+		</div>
+
+		<div id="mw-js-message"></div>
+		
+		<div id="main" role="main">
+			<div id="nav-meta">
+			<span id="ca-nstab-main" class="selected"><a href="https://github.com/imagej/list-of-update-sites" title="Edit this list" accesskey="f">Edit this list</a></span></div>
+
+			<div id="bodyContent">
+				<h1>List of update sites</h1>
+				
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div style="overflow:hidden"><table class="metadata plainlinks ambox ambox-content">
+<tr>
+<td class="ambox-image">
+<p><a href="https://imagej.net/File:Important-sign.png" class="image"><img alt="Important-sign.png" src="https://imagej.net/_images/thumb/f/f0/Important-sign.png/40px-Important-sign.png" width="40" height="40" srcset="/_images/thumb/f/f0/Important-sign.png/60px-Important-sign.png 1.5x, /_images/thumb/f/f0/Important-sign.png/80px-Important-sign.png 2x" /></a>
+</p>
+</td>
+<td> Update sites are a fantastic way to get new functionality in your ImageJ app.<br />Unfortunately they are also one of the easiest ways to break an installation, by adding an update site that clashes with another update site, or even the ImageJ core.<br />So, before enabling a new update site, it's safest to <a href="https://imagej.net/Make_Fiji_Package" title="Make Fiji Package">back up your installation</a>. </td>
+<p><br />
+</p>
+</tr>
+</table></div>
+<table class="infobox" cellspacing="5" style="text-align: left; float: right; border: 1px solid #a0a0a0; font-size: 80%;">
+<tr>
+<th colspan="2" style="font-size: 130%;">  Update Sites
+</th></tr>
+<tr>
+<td>
+</td></tr>
+<tr>
+<td>  <a href="https://imagej.net/Update_Sites" title="Update Sites">Introduction</a>
+</td></tr>
+<tr>
+<td>  <a href="https://imagej.net/Following_an_update_site" title="Following an update site">Following an update site</a>
+</td></tr>
+<tr>
+<td>  <a href="https://imagej.net/How_to_set_up_and_populate_an_update_site" title="How to set up and populate an update site">Creating your own update site</a>
+</td></tr>
+<tr>
+<td>  <a href="https://imagej.net/Personal_Update_Site_Terms_of_Service" title="Personal Update Site Terms of Service">Terms of Service for personal update  sites</a>
+</td></tr>
+<tr>
+<td>  <a href="https://imagej.net/Automatic_Update_Site_Uploads" title="Automatic Update Site Uploads">Automatically upload your site</a>
+</td></tr>
+<tr>
+<td>  <a href="https://imagej.net/How_to_upload_to_core_update_sites" title="How to upload to core update sites">Uploading to core update sites</a>
+</td></tr>
+<tr>
+<td>  <strong class="selflink">List of update sites</strong>
+</td></tr>
+<tr>
+<td>  <a href="https://imagej.net/Update_site_FAQ" title="Update site FAQ">Update site FAQ</a>
+</td></tr></table>
+<h2><span class="mw-headline" id="Introduction">Introduction</span></h2>
+<p>The <a href="https://imagej.net/Updater" title="Updater">Updater</a> has a convenient <i>Manage update sites</i> dialog that is populated by this wiki page.
+</p>
+<ul><li> <b>Users:</b> You can <a href="https://imagej.net/How_to_follow_a_3rd_party_update_site" title="How to follow a 3rd party update site" class="mw-redirect">enable an update site</a> using the <span><em><span style="border-bottom:1px dotted #ccc;"> Help </span>&#160;&#9654; <span style="border-bottom:1px dotted #ccc;"> Update...</span></em></span> command and clicking the "Manage update sites" button.</li>
+<li> <b>Developers:</b> You can add <a href="https://imagej.net/How_to_set_up_and_populate_an_update_site" title="How to set up and populate an update site">your own update site</a> to this list by <a href="https://imagej.net/Special:CreateAccount" title="Special:CreateAccount">registering a wiki account</a> and editing the table below yourself. Please maintain alphabetical order, but please do <b>not</b> change the format of the table—you will most likely break the <a href="https://imagej.net/Updater" title="Updater">updater</a> if you do this.</li></ul>
+<h2><span class="mw-headline" id="Available_update_sites">Available update sites</span></h2>
+<table class="wikitable">
+<tr>
+<th colspan="4" style="border-bottom: 1px solid gray">ImageJ Update Sites
+</th></tr>
+<tr>
+<td style="vertical-align: bottom;"><b>Name</b>
+</td>
+<td style="vertical-align: bottom;"><b>Site</b>
+</td>
+<td style="vertical-align: bottom;"><b>Description</b>
+</td>
+<td style="vertical-align: bottom;"><b>Maintainer</b>
+</td></tr>
+{% for site in sites %}
+<tr valign="top">
+<td><b>{{ site.name }}</b>
+</td>
+<td><a rel="nofollow" class="external free" href="{{ site.url }}">{{ site.url }}</a>
+</td>
+<td>{{ site.description }}
+</td>
+<td>{{ site.maintainer }}
+</td></tr>
+{% endfor %}
+</table>
+
+</div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://imagej.net/index.php?title=List_of_update_sites&amp;oldid=38812">https://imagej.net/index.php?title=List_of_update_sites&amp;oldid=38812</a>"</div>
+							</div>
+
+			<div id="footer">
+				<p> This page was last modified on 7 December 2018, at 04:52.</p><ul><li><a href="/ImageJ:Privacy_policy" title="ImageJ:Privacy policy">Privacy policy</a></li><li><a href="/ImageJ:About" title="ImageJ:About">About ImageJ</a></li><li><a href="/Imprint" title="Imprint">Imprint</a></li><li><a href="https://imagej.net/index.php?title=List_of_update_sites&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li></ul>			</div>
+
+			<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>		</div>
+
+		<div id="bottom-wrap">
+		<div id="footer-wrap-inner">
+
+		<div id="primary" class="footer">
+			<ul>
+
+			<li id="search" class="widget">
+				<h3>Search</h3>
+				<form action="/index.php" id="searchform">
+					<input type='hidden' name="title" value="Special:Search" />
+					<div>
+						<input name="search" placeholder="Search" title="Search ImageJ [f]" accesskey="f" id="s"/>						<input type="submit" name="go" value="Search" title="Go to a page with this exact name if it exists" class="searchButton" id="searchsubmit"/>					</div>
+				</form>
+			</li>
+
+			
+						<li class="widget">
+				<h3>Personal tools</h3>
+				<div>
+					<ul>
+					<li id="pt-createaccount"><a href="/index.php?title=Special:CreateAccount&amp;returnto=List+of+update+sites" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=List+of+update+sites" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>					</ul>
+				</div>
+			</li>
+			
+			<li class="widget">
+							</li>
+
+			</ul>
+		</div>
+
+		<div id="secondary" class="footer">
+			<ul>
+
+			<li id="toolbox" class="widget">
+				<h3>Tools</h3>
+				<ul>
+				<li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/List_of_update_sites" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/List_of_update_sites" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/index.php?title=List_of_update_sites&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=List_of_update_sites&amp;oldid=38812" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=List_of_update_sites&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+			</li>
+
+			
+			<li class="widget">
+							</li>
+
+			</ul>
+		</div>
+
+		<div id="ternary" class="footer">
+			<ul>
+
+			<li class="widget">
+				<img id="logo" src="https://imagej.net/skins/imagej-128.png" alt=""/>			</li>
+
+			<li class="widget">
+				<h3><span class="mw-headline" id="MORE_TOOLS">MORE TOOLS</span></h3>
+<ul><li> <a href="/Special:ChangeUploadPassword" title="Special:ChangeUploadPassword">Set/change upload password</a></li>
+<li> <a href="/Special:RecentChanges" title="Special:RecentChanges">Recent changes</a></li>
+<li> <a href="/Special:LonelyPages" title="Special:LonelyPages">Orphaned pages</a></li></ul>
+			</li>
+
+			</ul>
+		</div>
+		<div style="clear: both"></div>
+
+		</div>
+		</div>
+
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.state({"user":"ready","user.groups":"ready"});mw.loader.load(["ext.fancytree","ext.suckerfish","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.SimpleTooltip"]);});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":210});});</script>
+		</body>
+		</html>
+		
