@@ -138,83 +138,14 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 </td></tr>
 {% endfor %}
 </table>
-
-</div><div class="printfooter">
-Retrieved from "<a dir="ltr" href="https://imagej.net/index.php?title=List_of_update_sites&amp;oldid=38812">https://imagej.net/index.php?title=List_of_update_sites&amp;oldid=38812</a>"</div>
-							</div>
+				</div>
+			</div>
 
 			<div id="footer">
-				<p> This page was last modified on 7 December 2018, at 04:52.</p><ul><li><a href="/ImageJ:Privacy_policy" title="ImageJ:Privacy policy">Privacy policy</a></li><li><a href="/ImageJ:About" title="ImageJ:About">About ImageJ</a></li><li><a href="/Imprint" title="Imprint">Imprint</a></li><li><a href="https://imagej.net/index.php?title=List_of_update_sites&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li></ul>			</div>
-
-			<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>		</div>
-
-		<div id="bottom-wrap">
-		<div id="footer-wrap-inner">
-
-		<div id="primary" class="footer">
-			<ul>
-
-			<li id="search" class="widget">
-				<h3>Search</h3>
-				<form action="/index.php" id="searchform">
-					<input type='hidden' name="title" value="Special:Search" />
-					<div>
-						<input name="search" placeholder="Search" title="Search ImageJ [f]" accesskey="f" id="s"/>						<input type="submit" name="go" value="Search" title="Go to a page with this exact name if it exists" class="searchButton" id="searchsubmit"/>					</div>
-				</form>
-			</li>
-
-			
-						<li class="widget">
-				<h3>Personal tools</h3>
-				<div>
-					<ul>
-					<li id="pt-createaccount"><a href="/index.php?title=Special:CreateAccount&amp;returnto=List+of+update+sites" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=List+of+update+sites" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>					</ul>
-				</div>
-			</li>
-			
-			<li class="widget">
-							</li>
-
-			</ul>
+				<p>This page was last modified on {{ date }}, at {{ time }}.</p>
+			</div>
 		</div>
 
-		<div id="secondary" class="footer">
-			<ul>
-
-			<li id="toolbox" class="widget">
-				<h3>Tools</h3>
-				<ul>
-				<li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/List_of_update_sites" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/List_of_update_sites" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/index.php?title=List_of_update_sites&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=List_of_update_sites&amp;oldid=38812" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=List_of_update_sites&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
-			</li>
-
-			
-			<li class="widget">
-							</li>
-
-			</ul>
-		</div>
-
-		<div id="ternary" class="footer">
-			<ul>
-
-			<li class="widget">
-				<img id="logo" src="https://imagej.net/skins/imagej-128.png" alt=""/>			</li>
-
-			<li class="widget">
-				<h3><span class="mw-headline" id="MORE_TOOLS">MORE TOOLS</span></h3>
-<ul><li> <a href="/Special:ChangeUploadPassword" title="Special:ChangeUploadPassword">Set/change upload password</a></li>
-<li> <a href="/Special:RecentChanges" title="Special:RecentChanges">Recent changes</a></li>
-<li> <a href="/Special:LonelyPages" title="Special:LonelyPages">Orphaned pages</a></li></ul>
-			</li>
-
-			</ul>
-		</div>
-		<div style="clear: both"></div>
-
-		</div>
-		</div>
-
-		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.state({"user":"ready","user.groups":"ready"});mw.loader.load(["ext.fancytree","ext.suckerfish","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.SimpleTooltip"]);});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":210});});</script>
 		</body>
 		</html>
 		

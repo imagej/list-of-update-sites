@@ -1,4 +1,4 @@
-import re
+import datetime, re
 import jinja2, markdown2, yaml
 from bs4 import BeautifulSoup
 from xml.sax.saxutils import escape
@@ -26,6 +26,10 @@ def plain(html_string):
 template_loader = jinja2.FileSystemLoader(searchpath="./")
 template_env = jinja2.Environment(loader=template_loader)
 
+now = datetime.datetime.now()
+date = now.strftime("%d %B %Y")
+time = now.strftime("%H:%M")
+
 # Parse the YAML source to a sites data structure.
 with open('sites.yml', 'r') as stream:
     sites = yaml.safe_load(stream)
@@ -39,7 +43,7 @@ xml_data = xml_template.render(sites=[{
     'url': escape(plain(html(site['url']))),
     'description': escape(plain(html(site['description']))),
     'maintainer': escape(', '.join([plain(html(m)) for m in site['maintainers']]))
-} for site in sites['sites']])
+} for site in sites['sites']], date=date, time=time)
 with open('sites.xml', 'w') as sites_xml_file:
     sites_xml_file.write(xml_data)
 
@@ -65,7 +69,7 @@ result = html_template.render(sites=[{
     'url': html(site['url']),
     'description': html(site['description']),
     'maintainer': ', '.join([html(m) for m in site['maintainers']])
-} for site in sites['sites']])
+} for site in sites['sites']], date=date, time=time)
 
 with open('sites.html', 'w') as sites_html_file:
     sites_html_file.write(result)
