@@ -7,6 +7,9 @@ if [ "$TRAVIS_SECURE_ENV_VARS" = true \
 	-a "$TRAVIS_PULL_REQUEST" = false \
 	-a "$TRAVIS_BRANCH" = master ]
 then
+	echo "== Validating updater URLs ==" &&
+	cram tests
+
 	echo "== Configuring environment ==" &&
 
 	# Configure SSH. The file .travis/ssh-rsa-key.enc must contain
