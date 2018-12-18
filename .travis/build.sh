@@ -8,7 +8,7 @@ if [ "$TRAVIS_SECURE_ENV_VARS" = true \
 	-a "$TRAVIS_BRANCH" = master ]
 then
 	echo "== Validating updater URLs ==" &&
-	cram tests
+	cram tests &&
 
 	echo "== Configuring environment ==" &&
 
