@@ -227,6 +227,14 @@ sites:
       structures in images.
     maintainers:
       - "[Jean-Yves Tinevez](https://imagej.net/User:JeanYvesTinevez)"
+      
+  - name: "clij"
+    url: "https://sites.imagej.net/clij/"
+    description: >-
+      GPU-acceleration for ImageJ. See 
+      [documentation](http://clij.github.io/clij-docs)
+    maintainers:
+      - "[Robert Haase](https://imagej.net/User:Haesleinhuepf)"
 
   - name: "Cookbook"
     url: "https://sites.imagej.net/Cookbook/"
