@@ -204,6 +204,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Jean-Yves Tinevez
 
 |- valign=&quot;top&quot;
+|'''clij'''
+|https://sites.imagej.net/clij/
+|GPU-acceleration for ImageJ. See  documentation
+|Robert Haase
+
+|- valign=&quot;top&quot;
 |'''Cookbook'''
 |https://sites.imagej.net/Cookbook/
 |Plugins from the Cookbook.
