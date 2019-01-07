@@ -68,7 +68,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div style="overflow:hidden"><table class="metadata plainlinks ambox ambox-content">
 <tr>
 <td class="ambox-image">
-<p><a href="https://imagej.net/File:Important-sign.png" class="image"><img alt="Important-sign.png" src="https://imagej.net/_images/thumb/f/f0/Important-sign.png/40px-Important-sign.png" width="40" height="40" srcset="/_images/thumb/f/f0/Important-sign.png/60px-Important-sign.png 1.5x, /_images/thumb/f/f0/Important-sign.png/80px-Important-sign.png 2x" /></a>
+<p><a href="https://imagej.net/File:Important-sign.png" class="image"><img alt="Important-sign.png" src="https://imagej.net/_images/thumb/f/f0/Important-sign.png/40px-Important-sign.png" width="40" height="40" srcset="https://imagej.net/_images/thumb/f/f0/Important-sign.png/60px-Important-sign.png 1.5x, https://imagej.net/_images/thumb/f/f0/Important-sign.png/80px-Important-sign.png 2x" /></a>
 </p>
 </td>
 <td> Update sites are a fantastic way to get new functionality in your ImageJ app.<br />Unfortunately they are also one of the easiest ways to break an installation, by adding an update site that clashes with another update site, or even the ImageJ core.<br />So, before enabling a new update site, it's safest to <a href="https://imagej.net/Make_Fiji_Package" title="Make Fiji Package">back up your installation</a>. </td>
