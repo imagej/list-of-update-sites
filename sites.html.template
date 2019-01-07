@@ -111,7 +111,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 <p>The <a href="https://imagej.net/Updater" title="Updater">Updater</a> has a convenient <i>Manage update sites</i> dialog that is populated by this wiki page.
 </p>
 <ul><li> <b>Users:</b> You can <a href="https://imagej.net/How_to_follow_a_3rd_party_update_site" title="How to follow a 3rd party update site" class="mw-redirect">enable an update site</a> using the <span><em><span style="border-bottom:1px dotted #ccc;"> Help </span>&#160;&#9654; <span style="border-bottom:1px dotted #ccc;"> Update...</span></em></span> command and clicking the "Manage update sites" button.</li>
-<li> <b>Developers:</b> You can add <a href="https://imagej.net/How_to_set_up_and_populate_an_update_site" title="How to set up and populate an update site">your own update site</a> to this list by <a href="https://imagej.net/Special:CreateAccount" title="Special:CreateAccount">registering a wiki account</a> and editing the table below yourself. Please maintain alphabetical order, but please do <b>not</b> change the format of the table—you will most likely break the <a href="https://imagej.net/Updater" title="Updater">updater</a> if you do this.</li></ul>
+<li> <b>Developers:</b> You can add <a href="https://imagej.net/How_to_set_up_and_populate_an_update_site" title="How to set up and populate an update site">your own update site</a> to this list by filing a <a href="https://help.github.com/articles/about-pull-requests/">pull request</a> against this repository adding your site to the <code>sites.yml</code> index. Please maintain alphabetical order.</li></ul>
 <h2><span class="mw-headline" id="Available_update_sites">Available update sites</span></h2>
 <table class="wikitable">
 <tr>
