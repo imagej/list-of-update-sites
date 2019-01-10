@@ -42,9 +42,15 @@ then
 
 	test "$success" || exit 1
 
-	git commit -m "Update list of update sites (Travis build $TRAVIS_BUILD_NUMBER)"
-	git pull --rebase &&
-	git push -q origin gh-pages > /dev/null || exit 2
+	if git diff --staged | grep '^[+-]' | grep -v '^[+-]\{3\}' | grep -v 'This page was last modified on'
+	then
+		# There are changes besides just the timestamp.
+		git commit -m "Update list of update sites (Travis build $TRAVIS_BUILD_NUMBER)" &&
+		git pull --rebase &&
+		git push -q origin gh-pages > /dev/null || exit 2
+	else
+		echo "No changes to generated files detected; skipping git commit."
+	fi
 
 	echo "Update complete."
 else
