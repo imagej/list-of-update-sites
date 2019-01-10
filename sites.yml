@@ -533,6 +533,17 @@ sites:
       Carl Zeiss CZI (.czi), Nikon ND2 (.nd2), Sakura SVSlide (.svslide).
     maintainers:
       - "[Pathomation](mailto:info@pathomation.com)"
+            
+  - name: "Hohlbein Lab"
+    url: "https://sites.imagej.net/HohlbeinLab/"
+    description: >-
+      Plugins created by the [Hohlbein Lab](https://jhohlbein.com/) (Wageningen University, 
+      Laboratory of Biophysics). Includes ThunderSTORM with added [phasor-based 
+      localization](https://aip.scitation.org/doi/abs/10.1063/1.5005899) for 
+      single-molecule microscopy analysis (pSMLM-3D, Martens et al., JCP, 2018).
+    maintainers:
+      - "[Koen Martens](mailto:koen.martens@wur.nl)"
+      - "[Johannes Hohlbein](mailto:johannes.hohlbein@wur.nl)"
 
   - name: "IamMM"
     url: "https://sites.imagej.net/IamMM/"

@@ -390,6 +390,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Pathomation
 
 |- valign=&quot;top&quot;
+|'''Hohlbein Lab'''
+|http://sites.imagej.net/HohlbeinLab/
+|Plugins created by the Hohlbein Lab (Wageningen University,  Laboratory of Biophysics). Includes ThunderSTORM with added phasor-based  localization for  single-molecule microscopy analysis (pSMLM-3D, Martens et al., JCP, 2018).
+|Koen Martens, Johannes Hohlbein
+
+|- valign=&quot;top&quot;
 |'''IamMM'''
 |http://sites.imagej.net/IamMM/
 |Image Synthesizer (plugin to generate images from mathematical functions and conditional statements in a coordinate system independent from the aspect ratio or image size), Spheroid RGB (plugin to analyze microscopy RGB images with fluorescent stained cells)
