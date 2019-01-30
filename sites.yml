@@ -749,6 +749,19 @@ sites:
       plugin for averaging replicate OCT volume scans.
     maintainers:
       - "[Mark Krebs](mailto:mark.krebs@jax.org)"
+      
+
+  - name: "JOGL Canvas Deep Color / 3D"
+    url: "https://sites.imagej.net/JOGLCanvas/"
+    description: >-
+      [JOGL Canvas](https://github.com/aschain/JOGL_Canvas_DC3D) is a 
+      plugin for ImageJ1 that uses OpenGL and a graphics card 
+      to display images rather than the ImageCanvas class, which is 
+      extended from java's canvas. It replaces it with a [JOGL](http://jogamp.org/jogl/www/) 
+      OpenGL GLCanvas instead.  This allows 10bit or greater color depth for
+      supported monitors and some modest 3D rendering.
+    maintainers:
+      - "[Aaron Schain](https://imagej.net/User:JOGLCanvas)"
 
   - name: "Kappa"
     url: "https://sites.imagej.net/Kappa/"
