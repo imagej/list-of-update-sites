@@ -522,6 +522,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Mark Krebs
 
 |- valign=&quot;top&quot;
+|'''JOGL Canvas Deep Color / 3D'''
+|http://sites.imagej.net/JOGLCanvas/
+|JOGL Canvas is a  plugin for ImageJ1 that uses OpenGL and a graphics card  to display images rather than the ImageCanvas class, which is  extended from java's canvas. It replaces it with a JOGL  OpenGL GLCanvas instead.  This allows 10bit or greater color depth for supported monitors and some modest 3D rendering.
+|Aaron Schain
+
+|- valign=&quot;top&quot;
 |'''Kappa'''
 |http://sites.imagej.net/Kappa/
 |A Fiji plugin for Curvature Analysis.
