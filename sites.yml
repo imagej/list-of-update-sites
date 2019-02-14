@@ -1060,7 +1060,8 @@ sites:
     url: "https://sites.imagej.net/Nuclear-Medicine/"
     description: >-
       This update site contains conventional nuclear medicine applications
-      and additionals packages for the PET/CT viewer (see petctviewer.org)
+      and additionals packages for the PET/CT Viewer 
+      (see details at http://petctviewer.org)
     maintainers:
       - "Salim Kanoun, Toulouse, France"
 
