@@ -530,18 +530,6 @@ sites:
     maintainers:
       - "[Pathomation](mailto:info@pathomation.com)"
 
-  - name: "HistoJ Lite'"
-    url: "https://sites.imagej.net/Pathomation/"
-    description: >-
-      Plugin to interface with
-      [Pathomation's free digital slide viewer](http://free.pathomation.com/)
-      which can open Olympus VSI (.vsi), Ventana / Roche BIF (.bif),
-      Hamamatsu NDPI (.ndpi), 3DHistech MRXS (.mrxs),
-      Aperio / Leica SVS (.svs), Leica SCN (.scn), Carl Zeiss ZVI (.zvi),
-      Carl Zeiss CZI (.czi), Nikon ND2 (.nd2), Sakura SVSlide (.svslide).
-    maintainers:
-      - "[Pathomation](mailto:info@pathomation.com)"
-            
   - name: "Hohlbein Lab"
     url: "https://sites.imagej.net/HohlbeinLab/"
     description: >-
