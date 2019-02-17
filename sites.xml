@@ -714,6 +714,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Niko Ehrenfeuchter
 
 |- valign=&quot;top&quot;
+|'''Nuclear-Medicine'''
+|https://sites.imagej.net/Nuclear-Medicine/
+|This update site contains conventional nuclear medicine applications and additionals packages for the PET/CT Viewer  (see details at http://petctviewer.org)
+|Salim Kanoun, Toulouse, France
+
+|- valign=&quot;top&quot;
 |'''NucleusJ'''
 |https://sites.imagej.net/PouletAxel/
 |This plugin is dedicated to researchers interested in nuclear shape and chromatin organization. Starting from image stacks, the nuclear boundary as well as nuclear bodies are segmented. As output, NucleusJ automatically measures 15 parameters quantifying shape and size of nuclei as well as intra-nuclear objects and the positioning of the objects within the nuclear volume.

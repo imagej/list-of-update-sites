@@ -1055,6 +1055,15 @@ sites:
       page for more details.
     maintainers:
       - "[Niko Ehrenfeuchter](https://imagej.net/User:Ehrenfeu)"
+      
+  - name: "Nuclear-Medicine"
+    url: "https://sites.imagej.net/Nuclear-Medicine/"
+    description: >-
+      This update site contains conventional nuclear medicine applications
+      and additionals packages for the PET/CT Viewer 
+      (see details at http://petctviewer.org)
+    maintainers:
+      - "Salim Kanoun, Toulouse, France"
 
   - name: "NucleusJ"
     url: "https://sites.imagej.net/PouletAxel/"
