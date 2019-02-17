@@ -3,3 +3,4 @@ beautifulsoup4
 cram==0.6
 markdown2
 pyyaml
+yamllint

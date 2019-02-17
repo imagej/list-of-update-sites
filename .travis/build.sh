@@ -1,8 +1,8 @@
 #!/bin/bash
 
 echo "== Validating sites.yml =="
-# Validate the YAML.
-python -c "from yaml import load, Loader; load(open('sites.yml'), Loader=Loader)" || exit 3
+# Validate and lint the YAML.
+yamllint -d relaxed sites.yml || exit 3
 # Check for duplicate IDs.
 duplicates=$(grep '^    id: ' sites.yml | sort | uniq -d)
 if [ "$duplicates" ]
