@@ -260,12 +260,12 @@ sites:
       structures in images.
     maintainers:
       - "[Jean-Yves Tinevez](https://imagej.net/User:JeanYvesTinevez)"
-      
+
   - name: "clij"
     id: "clij"
     url: "https://sites.imagej.net/clij/"
     description: >-
-      GPU-acceleration for ImageJ. See 
+      GPU-acceleration for ImageJ. See
       [documentation](http://clij.github.io/clij-docs)
     maintainers:
       - "[Robert Haase](https://imagej.net/User:Haesleinhuepf)"
@@ -589,9 +589,9 @@ sites:
     id: "HohlbeinLab"
     url: "https://sites.imagej.net/HohlbeinLab/"
     description: >-
-      Plugins created by the [Hohlbein Lab](https://jhohlbein.com/) (Wageningen University, 
-      Laboratory of Biophysics). Includes ThunderSTORM with added [phasor-based 
-      localization](https://aip.scitation.org/doi/abs/10.1063/1.5005899) for 
+      Plugins created by the [Hohlbein Lab](https://jhohlbein.com/) (Wageningen University,
+      Laboratory of Biophysics). Includes ThunderSTORM with added [phasor-based
+      localization](https://aip.scitation.org/doi/abs/10.1063/1.5005899) for
       single-molecule microscopy analysis (pSMLM-3D, Martens et al., JCP, 2018).
     maintainers:
       - "[Koen Martens](mailto:koen.martens@wur.nl)"
@@ -822,16 +822,15 @@ sites:
       plugin for averaging replicate OCT volume scans.
     maintainers:
       - "[Mark Krebs](mailto:mark.krebs@jax.org)"
-      
 
   - name: "JOGL Canvas Deep Color / 3D"
     id: "JOGLCanvas"
     url: "https://sites.imagej.net/JOGLCanvas/"
     description: >-
-      [JOGL Canvas](https://github.com/aschain/JOGL_Canvas_DC3D) is a 
-      plugin for ImageJ1 that uses OpenGL and a graphics card 
-      to display images rather than the ImageCanvas class, which is 
-      extended from java's canvas. It replaces it with a [JOGL](http://jogamp.org/jogl/www/) 
+      [JOGL Canvas](https://github.com/aschain/JOGL_Canvas_DC3D) is a
+      plugin for ImageJ1 that uses OpenGL and a graphics card
+      to display images rather than the ImageCanvas class, which is
+      extended from java's canvas. It replaces it with a [JOGL](http://jogamp.org/jogl/www/)
       OpenGL GLCanvas instead.  This allows 10bit or greater color depth for
       supported monitors and some modest 3D rendering.
     maintainers:
@@ -1160,13 +1159,13 @@ sites:
       page for more details.
     maintainers:
       - "[Niko Ehrenfeuchter](https://imagej.net/User:Ehrenfeu)"
-      
+
   - name: "Nuclear-Medicine"
     id: "Nuclear-Medicine"
     url: "https://sites.imagej.net/Nuclear-Medicine/"
     description: >-
       This update site contains conventional nuclear medicine applications
-      and additionals packages for the PET/CT Viewer 
+      and additionals packages for the PET/CT Viewer
       (see details at http://petctviewer.org)
     maintainers:
       - "Salim Kanoun, Toulouse, France"
@@ -1783,4 +1782,3 @@ sites:
       the plugin. Thanks to Eugene Katrukha for the initial implementation.
     maintainers:
       - "[Andrey Aristov](mailto:aaristov@pasteur.fr)"
-
