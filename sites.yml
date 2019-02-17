@@ -1,6 +1,7 @@
 sites:
 
   - name: "ImageJ"
+    id: "ImageJ"
     url: "https://update.imagej.net/"
     description: >-
       Base update site for [ImageJ2](https://imagej.net/ImageJ2). No need
@@ -9,6 +10,7 @@ sites:
       - "[ImageJ developers](https://imagej.net/Contributors)"
 
   - name: "Fiji"
+    id: "Fiji"
     url: "https://update.fiji.sc/"
     description: >-
       Base update site for [Fiji](https://imagej.net/Fiji) and
@@ -19,6 +21,7 @@ sites:
       - "[Fiji developers](https://imagej.net/Contributors)"
 
   - name: "Fiji-Legacy"
+    id: "Fiji-Legacy"
     url: "https://sites.imagej.net/Fiji-Legacy/"
     description: >-
       Restores old Fiji plugins which never made the transition to Maven, as
@@ -27,6 +30,7 @@ sites:
       - "UNSUPPORTED"
 
   - name: "Java-8"
+    id: "Java-8"
     url: "https://sites.imagej.net/Java-8/"
     description: >-
       Temporary base update site for [ImageJ2](https://imagej.net/ImageJ2) and
@@ -37,6 +41,7 @@ sites:
       - "[ImageJ and Fiji developers](https://imagej.net/Contributors)"
 
   - name: "2015-Conference"
+    id: "2015-Conference"
     url: "https://sites.imagej.net/2015-Conference/"
     description: >-
       A collection of plugins highlighting the latest features of ImageJ. As
@@ -47,6 +52,7 @@ sites:
       - "[Curtis Rueden](https://imagej.net/User:Rueden)"
 
   - name: "3D ImageJ Suite"
+    id: "Tboudier"
     url: "https://sites.imagej.net/Tboudier/"
     description: >-
       A [suite of plugins](http://imagejdocu.tudor.lu/doku.php?id=plugin:stacks:3d_ij_suite:start)
@@ -55,6 +61,7 @@ sites:
       - "[Thomas Boudier](https://imagej.net/User:Tboudier)"
 
   - name: "Angiogenesis"
+    id: "Angiogenesis"
     url: "https://sites.imagej.net/Angiogenesis/"
     description: >-
       A plugin to quantify angiogenic sprout morphology.
@@ -62,6 +69,7 @@ sites:
       - "[Jan Eglinger](https://imagej.net/User:Eglinger)"
 
   - name: "AngioTool"
+    id: "AngioTool"
     url: "https://sites.imagej.net/AngioTool/"
     description: >-
       The [AngioTool](https://ccrod.cancer.gov/confluence/display/ROB2/Home)
@@ -70,6 +78,7 @@ sites:
       - "[Jan Eglinger](https://imagej.net/User:Eglinger)"
 
   - name: "Archipelago"
+    id: "Lindsey"
     url: "https://sites.imagej.net/Lindsey/"
     description: >-
        A set of plugins that allow Fiji to be run in parallel on a cluster.
@@ -81,6 +90,7 @@ sites:
       - "[Larry Lindsey](https://imagej.net/User:Lindsey)"
 
   - name: "BACMMAN"
+    id: "Ljp"
     url: "https://sites.imagej.net/Ljp/"
     description: >-
        BACteria in Mother Machine ANalyzer: a plugin for high-throughput
@@ -89,6 +99,7 @@ sites:
       - "Jean Ollion"
 
   - name: "BAR"
+    id: "Tiago"
     url: "https://sites.imagej.net/Tiago/"
     description: >-
       [BAR](https://imagej.net/BAR) (_Broadly Applicable Routines_) is a
@@ -99,6 +110,7 @@ sites:
       - "[Tiago Ferreira](https://imagej.net/User:Tiago)"
 
   - name: "BaSiC"
+    id: "BaSiC"
     url: "https://sites.imagej.net/BaSiC/"
     description: >-
       [BaSiC](https://www.helmholtz-muenchen.de/icb/research/groups/quantitative-single-cell-dynamics/software/basic/index.html)
@@ -110,6 +122,7 @@ sites:
       - "[Tingying Peng](mailto:tingying.peng@tum.de)"
 
   - name: "BIG-EPFL"
+    id: "BIG-EPFL"
     url: "https://sites.imagej.net/BIG-EPFL/"
     description: >-
       ImageJ plugins from
@@ -119,6 +132,7 @@ sites:
       - "[Curtis Rueden](https://imagej.net/User:Rueden)"
 
   - name: "BigStitcher"
+    id: "BigStitcher"
     url: "https://sites.imagej.net/BigStitcher/"
     description: >-
       Based on the HDF5 multi-resolution datastructures of the BigDataViewer
@@ -131,6 +145,7 @@ sites:
       - "[David Hörl](https://imagej.net/User:Davidhoerl)"
 
   - name: "BigVolumeViewer Demo"
+    id: "BigVolumeViewer"
     url: "https://sites.imagej.net/BigVolumeViewer/"
     description: >-
       Demo of BDV volume rendering. See
@@ -140,6 +155,7 @@ sites:
       - "[Tobias Pietzsch](https://imagej.net/User:Pietzsch)"
 
   - name: "Bio-Formats"
+    id: "Bio-Formats"
     url: "https://sites.imagej.net/Bio-Formats/"
     description: >-
       A version of [Bio-Formats](https://imagej.net/Bio-Formats) with the
@@ -150,6 +166,7 @@ sites:
       - "[OME development team](http://www.openmicroscopy.org)"
 
   - name: "Biomedgroup"
+    id: "Biomedgroup"
     url: "https://sites.imagej.net/Biomedgroup/"
     description: >-
       A set of plugins developed by the biomedical imaging group of the
@@ -163,6 +180,7 @@ sites:
       - "[Thorsten Wagner](https://imagej.net/User:Twagner)"
 
   - name: "BioVoxxel"
+    id: "BioVoxxel"
     url: "https://sites.imagej.net/BioVoxxel/"
     description: >-
       A toolset providing a plugins and macros for flat-field background
@@ -177,6 +195,7 @@ sites:
       - "[Jan Brocher](https://imagej.net/User:BioVoxxel)"
 
   - name: "BoneJ experimental"
+    id: "BoneJ"
     url: "https://sites.imagej.net/BoneJ/"
     description: >-
       A collection tools for trabecular geometry and whole bone shape analysis.
@@ -188,6 +207,7 @@ sites:
       - "[Michael Doube](https://imagej.net/User:Michaeldoube), [Alessandro Felder](mailto:afelder@rvc.ac.uk)"
 
   - name: "CALM"
+    id: "CALM"
     url: "https://sites.imagej.net/CALM/"
     description: >-
       Plugins from the Crick Advanced Light Microscopy Facility at
@@ -196,6 +216,7 @@ sites:
       - "[David Barry](mailto:david.barry@crick.ac.uk)"
 
     name: "CAMDU"
+    id: "CAMDU"
     url: "https://sites.imagej.net/CAMDU/"
     description: >-
       Plugins from the [Computing and Advanced Microscopy Development Unit](https://www.warwick.ac.uk/camdu) at the
@@ -204,6 +225,7 @@ sites:
       - "[Erick Martins Ratamero](mailto:e.martins-ratamero.1@warwick.ac.uk)"
 
   - name: "CellMotility"
+    id: "CellMotility"
     url: "https://sites.imagej.net/CellMotility/"
     description: >-
       Plugins from the
@@ -214,6 +236,7 @@ sites:
       - "[David Barry](mailto:david.barry@crick.ac.uk)"
 
   - name: "CellTrackingChallenge"
+    id: "Ulman"
     url: "https://sites.imagej.net/Ulman/"
     description: >-
       Implementation of measures and front-end plugins used in and related to
@@ -222,6 +245,7 @@ sites:
       - "[Vladimír Ulman](mailto:ulman@mpi-cbg.de)"
 
   - name: "CIP"
+    id: "CIP"
     url: "https://sites.imagej.net/CIP/"
     description: >-
       [An image procesing toolbox focused on scripting](https://imagej.net/CIP).
@@ -229,6 +253,7 @@ sites:
       - "[Benoit Lombardot](https://imagej.net/User:Benoit)"
 
   - name: "CircleSkinner"
+    id: "CircleSkinner"
     url: "https://sites.imagej.net/CircleSkinner/"
     description: >-
       A Fiji plugin for the automated detection and quantification of circular
@@ -237,6 +262,7 @@ sites:
       - "[Jean-Yves Tinevez](https://imagej.net/User:JeanYvesTinevez)"
       
   - name: "clij"
+    id: "clij"
     url: "https://sites.imagej.net/clij/"
     description: >-
       GPU-acceleration for ImageJ. See 
@@ -245,6 +271,7 @@ sites:
       - "[Robert Haase](https://imagej.net/User:Haesleinhuepf)"
 
   - name: "Cookbook"
+    id: "Cookbook"
     url: "https://sites.imagej.net/Cookbook/"
     description: >-
       Plugins from the [Cookbook](https://imagej.net/Cookbook).
@@ -252,6 +279,7 @@ sites:
       - "[Cookbook Team](https://imagej.net/Cookbook#Credits)"
 
   - name: "ClearVolume"
+    id: "ClearVolume"
     url: "https://sites.imagej.net/ClearVolume/"
     description: >-
       ClearVolume is a fast 3D viewer, for more information see also the
@@ -260,6 +288,7 @@ sites:
       - "[ClearVolume](https://imagej.net/User:ClearVolume)"
 
   - name: "CMCI-EMBL"
+    id: "Miura"
     url: "https://sites.imagej.net/Miura/"
     description: >-
       A plugin for loading sample images and misc functionality for CMCI ImageJ
@@ -269,6 +298,7 @@ sites:
       - "[Kota Miura](https://imagej.net/User:Miura)"
 
   - name: "CMP-BIA tools"
+    id: "CMP-BIA"
     url: "https://sites.imagej.net/CMP-BIA/"
     description: >-
       The development version of
@@ -277,6 +307,7 @@ sites:
       - "[Jiri Borovec](http://cmp.felk.cvut.cz/~borovji3/)"
 
   - name: "CMTK Registration"
+    id: "Jefferis"
     url: "https://sites.imagej.net/Jefferis/"
     description: >-
       CMTK Registration GUI.
@@ -284,6 +315,7 @@ sites:
       - "[Gregory Jefferis](https://imagej.net/User:Jefferis)"
 
   - name: "CSIM Laboratory"
+    id: "Acsenrafilho"
     url: "https://sites.imagej.net/Acsenrafilho/"
     description: >-
       A set of plugins, macros and scripts developed by the CSIM (Computing in
@@ -299,6 +331,7 @@ sites:
       - "[Antonio Carlos da S. Senra Filho](https://imagej.net/User:Acsenrafilho)"
 
   - name: "CWNS dense nuclei segmenter"
+    id: "CWNS"
     url: "https://sites.imagej.net/CWNS/"
     description: >-
       The Fiji implementation of the CWNS dense nuclei segmenter, presented in
@@ -308,6 +341,7 @@ sites:
       - "[Jean-Yves Tinevez](https://imagej.net/User:JeanYvesTinevez)"
 
   - name: "DeepClas4Bio-plugins"
+    id: "Adines"
     url: "https://sites.imagej.net/Adines/"
     description: >-
       Collection of plugins that use
@@ -318,6 +352,7 @@ sites:
       - "[Adrián Inés](mailto:adines@unirioja.es)"
 
   - name: "DiameterJ"
+    id: "DiameterJ"
     url: "https://sites.imagej.net/DiameterJ/"
     description: >-
       Macros for quantitative analysis of nanofiber images.  DiameterJ is able
@@ -330,6 +365,7 @@ sites:
       - "[Nathan Hotaling](https://imagej.net/User:DiameterJ)"
 
   - name: "DiversePathsJ"
+    id: "Vuhlmann"
     url: "https://sites.imagej.net/Vuhlmann/"
     description: >-
       DiversePathsJ implements a dynamic programming approach for the general
@@ -341,6 +377,7 @@ sites:
       - "[Virginie Uhlmann](https://imagej.net/User:Vuhlmann)"
 
   - name: "EMBL-CBA"
+    id: "EMBL-CBA"
     url: "https://sites.imagej.net/EMBL-CBA/"
     description: >-
       Collection of image analysis tools.
@@ -349,6 +386,7 @@ sites:
       - "[EMBL-CBA](mailto:image-analysis-support@embl.de)"
 
   - name: "EpiGraph"
+    id: "Pedgomgal1"
     url: "https://sites.imagej.net/Pedgomgal1/"
     description: >-
       EpiGraph: an open-source method to quantify epithelial organization.
@@ -360,6 +398,7 @@ sites:
       - "[Pablo Vicente Munuera](https://github.com/Pablo1990)"
 
   - name: "EZFig"
+    id: "EZF"
     url: "https://sites.imagej.net/EZF/"
     description: >-
       EZFig is a tool to build publication-ready scientific figures based on
@@ -369,6 +408,7 @@ sites:
       - "[Benoit Aigouy](mailto:scientifig@gmail.com)"
 
   - name: "FAST"
+    id: "FAST"
     url: "https://sites.imagej.net/FAST/"
     description: >-
       Fluorescence image AnalysiS Tool automates tasks to process a set of
@@ -377,6 +417,7 @@ sites:
       - "[C.TURIÈS](https://imagej.net/User:C.TURIÈS)"
 
   - name: "FFMPEG"
+    id: "FFMPEG"
     url: "http://fiji.sc/~schindelin/ffmpeg-plugins/"
     description: >-
       Fiji plugins which allow reading and writing to
@@ -385,6 +426,7 @@ sites:
       - "[Curtis Rueden](https://imagej.net/User:Rueden)"
 
   - name: "FibrilJ"
+    id: "FibrilJ"
     url: "https://sites.imagej.net/FibrilJ/"
     description: >-
       Macros developed to measure the diameters and persistence lengths if
@@ -396,6 +438,7 @@ sites:
       - "Petr Sokolov"
 
   - name: "FilamentDetector"
+    id: "FilamentDetector"
     url: "https://sites.imagej.net/FilamentDetector/"
     description: >-
       A Fiji plugin that allows easy, fast and accurate detection and tracking
@@ -404,6 +447,7 @@ sites:
       - "[Hadrien Mary](https://imagej.net/User:Hadim)"
 
   - name: "Filopodyan"
+    id: "Rb7777"
     url: "https://sites.imagej.net/Rb7777/"
     description: >-
       Filopodia dynamics analysis. See
@@ -414,6 +458,7 @@ sites:
       - "Vasja Urbančič"
 
   - name: "FiloQuant"
+    id: "FiloQuant"
     url: "https://sites.imagej.net/FiloQuant/"
     description: >-
       [FiloQuant](https://imagej.net/User:FiloQuant) is a user friendly and
@@ -425,6 +470,7 @@ sites:
       - "Alexandre Carisey"
 
   - name: "FPBioimage"
+    id: "Fpbioimage"
     url: "https://sites.imagej.net/Fpbioimage/"
     description: >-
       A plugin to prepare and upload data for
@@ -433,6 +479,7 @@ sites:
       - "[FPBioimage](https://imagej.net/User:Fpbioimage)"
 
   - name: "FracLac Suite"
+    id: "Akarperien"
     url: "https://sites.imagej.net/Akarperien/"
     description: >-
       Fractal Analysis and Modelling tools for neuroscience and other
@@ -452,6 +499,7 @@ sites:
       - "[A. Karperien](https://imagej.net/User:Akarperien)"
 
   - name: "FunImageJ"
+    id: "FunImageJ"
     url: "https://sites.imagej.net/FunImageJ/"
     description: >-
       Fiji plugin that provides Clojure wrappings of many commonly used
@@ -463,6 +511,7 @@ sites:
       - "[Kyle Harrington](https://imagej.net/User:Kharrington)"
 
   - name: "Fuzzy logic and artificial neural networks image processing toolbox for ImageJ"
+    id: "Astartes91"
     url: "https://sites.imagej.net/Astartes91/"
     description: >-
        Toolbox includes fuzzy edge detection plugin, fuzzy contrast enhancement
@@ -472,6 +521,7 @@ sites:
       - "[Vladimir Nizamutdinov](mailto:astartes91@gmail.com)"
 
   - name: "Fuzzy Set"
+    id: "Rerger"
     url: "https://sites.imagej.net/Rerger/"
     description: >-
       [Fuzzy Set](https://imagej.net/User:Rerger) is an ImageJ plugin, to
@@ -480,6 +530,7 @@ sites:
       - "[Robert Erger](mailto:rerger@leomail.tamuc.edu)"
 
   - name: "GDSC"
+    id: "GDSC"
     url: "https://sites.imagej.net/GDSC/"
     description: >-
       The Genome Damage and Stability Centre (GDSC) plugins are a collection of
@@ -491,6 +542,7 @@ sites:
       - "[Alex Herbert](mailto:a.herbert@sussex.ac.uk)"
 
   - name: "GDSC-SMLM"
+    id: "GDSC-SMLM"
     url: "https://sites.imagej.net/GDSC-SMLM/"
     description: >-
       The GDSC Single Molecule Light Microscopy (SMLM) plugins provide various
@@ -503,6 +555,7 @@ sites:
       - "[Alex Herbert](mailto:a.herbert@sussex.ac.uk)"
 
   - name: "Hadim"
+    id: "Hadim"
     url: "https://sites.imagej.net/Hadim/"
     description: >-
       Contains the ij2-python-lib package.
@@ -510,6 +563,7 @@ sites:
       - "[Hadrien Mary](https://imagej.net/User:Hadim)"
 
   - name: "HDF5"
+    id: "Ronneber"
     url: "https://sites.imagej.net/Ronneber/"
     description: >-
       The HDF5 plugin allows to load and save data in HDF5 format.
@@ -519,6 +573,7 @@ sites:
       - "[Olaf Ronneberger](mailto:ronneber@informatik.uni-freiburg.de)"
 
   - name: "HistoJ"
+    id: "Pathomation"
     url: "https://sites.imagej.net/Pathomation/"
     description: >-
       Plugin to interface with
@@ -531,6 +586,7 @@ sites:
       - "[Pathomation](mailto:info@pathomation.com)"
 
   - name: "Hohlbein Lab"
+    id: "HohlbeinLab"
     url: "https://sites.imagej.net/HohlbeinLab/"
     description: >-
       Plugins created by the [Hohlbein Lab](https://jhohlbein.com/) (Wageningen University, 
@@ -542,6 +598,7 @@ sites:
       - "[Johannes Hohlbein](mailto:johannes.hohlbein@wur.nl)"
 
   - name: "IamMM"
+    id: "IamMM"
     url: "https://sites.imagej.net/IamMM/"
     description: >-
       [Image Synthesizer](https://imagej.net/Image_Synthesizer) (plugin to
@@ -553,6 +610,7 @@ sites:
       - "[Maximilian Maske](mailto:m.maske@posteo.de Maximilian Maske)"
 
   - name: "IBMP-CNRS"
+    id: "Mutterer"
     url: "https://sites.imagej.net/Mutterer/"
     description: >-
       [FigureJ](http://imagejdocu.tudor.lu/doku.php?id=plugin:utilities:figurej:start)
@@ -568,6 +626,7 @@ sites:
       - "[Jerome Mutterer](mailto:jerome.mutterer@gmail.com)"
 
   - name: "IJ-OpenCV-plugins"
+    id: "IJ-OpenCV"
     url: "https://sites.imagej.net/IJ-OpenCV/"
     description: >-
       Collection of plugins created using the
@@ -577,6 +636,7 @@ sites:
       - "[Jónathan Heras](mailto:joheras@gmail.com)"
 
   - name: "IJPB-plugins"
+    id: "IJPB-plugins"
     url: "https://sites.imagej.net/IJPB-plugins/"
     description: >-
       Collection of plugins created at the INRA-IJPB Modeling and Digital
@@ -586,6 +646,7 @@ sites:
       - "[Modeling and Digital Imaging lab, INRA-Versailles](http://www-ijpb.versailles.inra.fr/en/bc/equipes/modelisation-imagerie/)"
 
   - name: "ilastik"
+    id: "Ilastik"
     url: "https://sites.imagej.net/Ilastik/"
     description: >-
       Provides interoperability between Fiji and ilastik workflows
@@ -595,6 +656,7 @@ sites:
       - "[Adrian Wolny](mailto:adrian.wolny@iwr.uni-heidelberg.de)"
 
   - name: "ImageJ Latex"
+    id: "Yul.liuyu"
     url: "https://sites.imagej.net/Yul.liuyu/"
     description: >-
       Add math equations to an image using Latex.
@@ -602,6 +664,7 @@ sites:
       - "[Yu Liu](https://imagej.net/User:Yul.liuyu)"
 
   - name: "ImageJ-ITK"
+    id: "ImageJ-ITK"
     url: "https://sites.imagej.net/ImageJ-ITK/"
     description: >-
       Adds [ITK integration](https://github.com/imagej/imagej-itk) including
@@ -612,6 +675,7 @@ sites:
       - "[Curtis Rueden](https://imagej.net/User:Rueden)"
 
   - name: "ImageJ-MATLAB"
+    id: "MATLAB"
     url: "https://sites.imagej.net/MATLAB/"
     description: >-
       Adds support for MATLAB
@@ -623,6 +687,7 @@ sites:
       - "[Mark Hiner](https://imagej.net/User:Hinerm)"
 
   - name: "ImageScience"
+    id: "ImageScience"
     url: "https://sites.imagej.net/ImageScience/"
     description: >-
       Base update site for all [ImageScience](https://imagej.net/ImageScience)
@@ -631,6 +696,7 @@ sites:
       - "[Erik Meijering](https://imagej.net/User:ImageScience)"
 
   - name: "ImagingBook"
+    id: "ImagingBook"
     url: "https://sites.imagej.net/ImagingBook/"
     description: >-
       Common ImageJ/Java source code for the
@@ -645,6 +711,7 @@ sites:
       - "[Wilhelm Burger](https://imagej.net/User:ImagingBook)"
 
   - name: "ImagingBookEn1"
+    id: "ImagingBookEn1"
     url: "https://sites.imagej.net/ImagingBookEn1/"
     description: >-
       ImageJ PLUGINS (only) for "Digital Image Processing – An Algorithmic
@@ -653,6 +720,7 @@ sites:
       - "[Wilhelm Burger](https://imagej.net/User:ImagingBook)"
 
   - name: "ImagingBookEn2"
+    id: "ImagingBookEn2"
     url: "https://sites.imagej.net/ImagingBookEn2/"
     description: >-
       ImageJ PLUGINS (only) for "Principles of Digital Image Processing" (Vols.
@@ -661,6 +729,7 @@ sites:
       - "[Wilhelm Burger](https://imagej.net/User:ImagingBook)"
 
   - name: "ImagingBookEn3"
+    id: "ImagingBookEn3"
     url: "https://sites.imagej.net/ImagingBookEn3/"
     description: >-
       ImageJ PLUGINS (only) for "Digital Image Processing – An Algorithmic
@@ -670,6 +739,7 @@ sites:
       - "[Wilhelm Burger](https://imagej.net/User:ImagingBook)"
 
   - name: "ImagingBookDe2"
+    id: "ImagingBookDe2"
     url: "https://sites.imagej.net/ImagingBookDe2/"
     description: >-
       ImageJ PLUGINS (only) for "Digitale Bildverarbeitung – Eine Einführung
@@ -678,6 +748,7 @@ sites:
       - "[Wilhelm Burger](https://imagej.net/User:ImagingBook)"
 
   - name: "ImagingBookDe3"
+    id: "ImagingBookDe3"
     url: "https://sites.imagej.net/ImagingBookDe3/"
     description: >-
       ImageJ PLUGINS (only) for "Digitale Bildverarbeitung – Eine
@@ -687,6 +758,7 @@ sites:
       - "[Wilhelm Burger](https://imagej.net/User:ImagingBook)"
 
   - name: "ImagingFCS"
+    id: "ImagingFCS"
     url: "https://sites.imagej.net/ImagingFCS/"
     description: >-
       Imaging_FCS 1.491 is a basic ImageJ plugin to calculate and view
@@ -698,6 +770,7 @@ sites:
       - "[Thorsten Wohland](http://www.dbs.nus.edu.sg/lab/BFL/imfcs_image_j_plugin.html)"
 
   - name: "IMCF Uni Basel"
+    id: "UniBas-IMCF"
     url: "https://sites.imagej.net/UniBas-IMCF/"
     description: >-
       Various plugins (most notably the Stitching-Wrapper for Olympus FluoView
@@ -709,6 +782,7 @@ sites:
       - "[Niko Ehrenfeuchter](https://imagej.net/User:Ehrenfeu)"
 
   - name: "IMOD-ZOLA"
+    id: "IMOD-ZOLA"
     url: "https://sites.imagej.net/IMOD-ZOLA/"
     description: >-
       Zernike Optimized Localization Algorithm for 3D single molecule
@@ -721,6 +795,7 @@ sites:
       - "[Benoit Lelandais](mailto:benoit.lelandais@pasteur.fr)"
 
   - name: "INCF test site"
+    id: "Dimiterpp"
     url: "https://sites.imagej.net/Dimiterpp/"
     description: >-
       Update site for scale space filters and other INCF projects from GSOC
@@ -729,6 +804,7 @@ sites:
       - "[Dimiter Prodanov](mailto:dimiterpp@gmail.com)"
 
   - name: "IsletJ"
+    id: "IsletJ"
     url: "https://sites.imagej.net/IsletJ/"
     description: >-
       Plugin for evaluation of microscopy images of Langerhans islets. Provides
@@ -739,6 +815,7 @@ sites:
       - "[Jan Švihlík](mailto:Jan.Svihlik@vscht.cz)"
 
   - name: "JAX Eye"
+    id: "MarkKrebs"
     url: "https://sites.imagej.net/MarkKrebs/"
     description: >-
       Macro for processing brightfield fundus images of the mouse eye and
@@ -748,6 +825,7 @@ sites:
       
 
   - name: "JOGL Canvas Deep Color / 3D"
+    id: "JOGLCanvas"
     url: "https://sites.imagej.net/JOGLCanvas/"
     description: >-
       [JOGL Canvas](https://github.com/aschain/JOGL_Canvas_DC3D) is a 
@@ -760,6 +838,7 @@ sites:
       - "[Aaron Schain](https://imagej.net/User:JOGLCanvas)"
 
   - name: "Kappa"
+    id: "Kappa"
     url: "https://sites.imagej.net/Kappa/"
     description: >-
       A Fiji plugin for Curvature Analysis.
@@ -767,6 +846,7 @@ sites:
       - "[Hadrien Mary](https://imagej.net/User:Hadim)"
 
   - name: "Lab-utility-plugins"
+    id: "Georgenm"
     url: "https://sites.imagej.net/Georgenm/"
     description: >-
       A collection of plugins for file blinding, batch image conversion of
@@ -777,6 +857,7 @@ sites:
       - "[Nick George](mailto:nicholas.m.george@ucdenver.edu)"
 
   - name: "Labkit"
+    id: "Labkit"
     url: "https://sites.imagej.net/Labkit/"
     description: >-
       An advanced plugin for labeling and automatic segmentaion of Images.
@@ -784,6 +865,7 @@ sites:
       - "[Matthias Arzt](mailto:arzt@mpi-cbg.de)"
 
   - name: "LAG SIM"
+    id: "LagSIM"
     url: "https://sites.imagej.net/LagSIM/"
     description: >-
       A plugin and set of macro tools to help with reconstructing SIM data.
@@ -794,6 +876,7 @@ sites:
       - "[LagSIM](https://imagej.net/User:LagSIM)"
 
   - name: "Leiden University"
+    id: "Willemsejj"
     url: "https://sites.imagej.net/Willemsejj/"
     description: >-
       At [Leiden University](https://www.universiteitleiden.nl/) we develop
@@ -804,6 +887,7 @@ sites:
       - "[Joost Willemse](mailto:jwillemse@biology.leidenuniv.nl)"
 
   - name: "LimeSeg"
+    id: "LimeSeg"
     url: "https://sites.imagej.net/LimeSeg/"
     description: >-
       Revisited active contour method for 3D segmentation.
@@ -813,6 +897,7 @@ sites:
       - "Sarah Machado"
 
   - name: "Lineage-Mapper"
+    id: "NIST-ISG-LineageMapper"
     url: "https://sites.imagej.net/NIST-ISG-LineageMapper/"
     description: >-
       Lineage Mapper is an open-source, overlap-based cell tracking system for
@@ -825,6 +910,7 @@ sites:
       - "[NIST ISG](https://isg.nist.gov/deepzoomweb/resources/csmet/pages/cell_tracking/cell_tracking.html)"
 
   - name: "LLTT"
+    id: "Alex-krull"
     url: "https://sites.imagej.net/Alex-krull/"
     description: >-
       The [Low Light Tracking Tool](https://imagej.net/Low_Light_Tracking_Tool)
@@ -835,6 +921,7 @@ sites:
       - "[Damien Ramunno-Johnson](https://imagej.net/User:Damienrj)"
 
   - name: "LOCI"
+    id: "LOCI"
     url: "https://sites.imagej.net/LOCI/"
     description: >-
       The [LOCI](https://loci.wisc.edu/software/fiji-plugins) update site for
@@ -846,6 +933,7 @@ sites:
       - "[Curtis Rueden](https://imagej.net/User:Rueden)"
 
   - name: "LSM-W2"
+    id: "Bionet.nsc"
     url: "https://sites.imagej.net/Bionet.nsc/"
     description: >-
       Plugin extracts Leaf Surface Morphology from Laser Scanning Microscopy
@@ -858,6 +946,7 @@ sites:
       - "Verman Pavel"
 
   - name: "MaMuT"
+    id: "MaMuT"
     url: "https://sites.imagej.net/MaMuT/"
     description: >-
       [MaMuT](https://imagej.net/MaMuT), a plugin for the annotation of
@@ -866,6 +955,7 @@ sites:
       - "[Jean-Yves Tinevez](https://imagej.net/User:JeanYvesTinevez)"
 
   - name: "Maskflow"
+    id: "Maskflow"
     url: "https://sites.imagej.net/Maskflow/"
     description: >-
       A Fiji plugin for Mask RCNN semantic segmentation.
@@ -873,6 +963,7 @@ sites:
       - "[Hadrien Mary](https://imagej.net/User:Hadim)"
 
   - name: "Mastodon"
+    id: "Mastodonpreview"
     url: "https://sites.imagej.net/Mastodonpreview/"
     description: >-
       [Mastodon](https://github.com/fiji/TrackMate3) is a plugin for tracking
@@ -882,6 +973,7 @@ sites:
       - "[Tobias Pietzsch](https://imagej.net/User:Pietzsch)"
 
   - name: "Micro-Magellan"
+    id: "Hpinkard"
     url: "https://sites.imagej.net/Hpinkard/"
     description: >-
       Micro-Magellan (https://micro-manager.org/wiki/MicroMagellan) is a plugin
@@ -892,6 +984,7 @@ sites:
       - "Henry Pinkard"
 
   - name: "MIST"
+    id: "NIST-ISG-MIST"
     url: "https://sites.imagej.net/NIST-ISG-MIST/"
     description: >-
       Microscopy Image Stitching Tool (MIST), is a stitching algorithm for
@@ -907,6 +1000,7 @@ sites:
       - "[NIST ISG](https://isg.nist.gov/deepzoomweb/resources/csmet/pages/image_stitching/image_stitching.html)"
 
   - name: "MiToBo"
+    id: "MiToBo"
     url: "https://sites.imagej.net/MiToBo/"
     description: >-
       [MiToBo](http://www.informatik.uni-halle.de/mitobo) is a collection of
@@ -919,6 +1013,7 @@ sites:
       - "[The MiToBo Team, Halle, Germany](http://informatik.uni-halle.de/mitobo)"
 
   - name: "Molography"
+    id: "VolkerGatterdam"
     url: "https://sites.imagej.net/VolkerGatterdam/"
     description: >-
       Script for Evaluation of Molographic Data
@@ -926,6 +1021,7 @@ sites:
       - "[Volker Gatterdam](https://imagej.net/User:VolkerGatterdam)"
 
   - name: "MoMA"
+    id: "MoMA"
     url: "https://sites.imagej.net/MoMA/"
     description: >-
       [Mother Machine Analyser](https://github.com/fjug/MoMA/wiki)
@@ -933,6 +1029,7 @@ sites:
       - "[Florian Jug](https://imagej.net/User:Jug)"
 
   - name: "Morphology"
+    id: "Landini"
     url: "https://sites.imagej.net/Landini/"
     description: >-
       The update site for the
@@ -942,6 +1039,7 @@ sites:
       - "[Gabriel Landini](https://imagej.net/User:Landini)"
 
   - name: "MOSAIC ToolSuite"
+    id: "MOSAIC-ToolSuite"
     url: "http://mosaic.mpi-cbg.de/Downloads/update/Fiji/MosaicToolsuite"
     description: >-
       An integrated toolbox containing the following image-processing software
@@ -954,6 +1052,7 @@ sites:
       - "[MOSAIC Group, MPI-CBG, Dresden](http://mosaic.mpi-cbg.de)"
 
   - name: "MPIBPC"
+    id: "MPIBPC"
     url: "https://sites.imagej.net/MPIBPC/"
     description: >-
       MPIBPC stands for Max Planck Institute for Biophysical Chemistry. We
@@ -962,6 +1061,7 @@ sites:
       - "[MPIBPC](https://www.mpibpc.mpg.de/en), [NanoBiophotonics](https://www.mpibpc.mpg.de/hell), [Bjoern Thiel](https://www.mpibpc.mpg.de/person/11861/102807)"
 
   - name: "MS-ECS-2D"
+    id: "MS-ECS-2D"
     url: "https://sites.imagej.net/MS-ECS-2D/"
     description: >-
       MembraneStained EpithelialCellSegmentation 2D, for more information see
@@ -970,6 +1070,7 @@ sites:
       - "[MS-ECS-2D](https://imagej.net/User:MS-ECS-2D)"
 
   - name: "MTrack"
+    id: "MicrotubuleTracker"
     url: "https://sites.imagej.net/MicrotubuleTracker/"
     description: >-
       MTrack is a tool, which detects, tracks, and measures the behavior of
@@ -981,6 +1082,7 @@ sites:
       - "[MTrack](https://imagej.net/User:MTrack)"
 
   - name: "NanoJ-Core"
+    id: "NanoJ"
     url: "https://sites.imagej.net/NanoJ/"
     description: >-
       The update site providing NanoJ's core functionality.
@@ -991,6 +1093,7 @@ sites:
       - "[The Henriques Team, UCL, UK](http://www.ucl.ac.uk/lmcb/users/ricardo-henriques)"
 
   - name: "NanoJ-SQUIRREL"
+    id: "NanoJ-SQUIRREL"
     url: "https://sites.imagej.net/NanoJ-SQUIRREL/"
     description: >-
       [NanoJ-SQUIRREL](https://bitbucket.org/rhenriqueslab/nanoj-squirrel) is
@@ -1001,6 +1104,7 @@ sites:
       - "[The Henriques Team, UCL, UK](http://www.ucl.ac.uk/lmcb/users/ricardo-henriques)"
 
   - name: "NanoJ-SRRF"
+    id: "NanoJ-SRRF"
     url: "https://sites.imagej.net/NanoJ-SRRF/"
     description: >-
       [NanoJ-SRRF](https://bitbucket.org/rhenriqueslab/nanoj-srrf) is a
@@ -1010,6 +1114,7 @@ sites:
       - "[The Henriques Team, UCL, UK](http://www.ucl.ac.uk/lmcb/users/ricardo-henriques)"
 
   - name: "NanoJ-VirusMapper"
+    id: "NanoJ-VirusMapper"
     url: "https://sites.imagej.net/NanoJ-VirusMapper/"
     description: >-
       [NanoJ-VirusMapper](https://bitbucket.org/rhenriqueslab/nanoj-virusmapper)
@@ -1019,6 +1124,7 @@ sites:
       - "[The Henriques Team, UCL, UK](http://www.ucl.ac.uk/lmcb/users/ricardo-henriques)"
 
   - name: "NEUBIAS"
+    id: "Neubias"
     url: "https://sites.imagej.net/Neubias/"
     description: >-
       Plugins and scripts developed in the context of
@@ -1027,6 +1133,7 @@ sites:
       - "[NEUBIAS members](http://neubias.org)"
 
   - name: "Neuroanatomy"
+    id: "Neuroanatomy"
     url: "https://sites.imagej.net/Neuroanatomy/"
     description: >-
       Image Processing Tools for Neuroanatomy and Tree-like structures
@@ -1035,6 +1142,7 @@ sites:
       - "[Tiago Ferreira](https://imagej.net/User:Tiago)"
 
   - name: "NeuroCyto Lab"
+    id: "Christopheleterrier"
     url: "https://sites.imagej.net/Christopheleterrier/"
     description: >-
       Various tools from the NeuroCyto Lab in Marseille for image processing
@@ -1044,6 +1152,7 @@ sites:
       - "http://www.neurocytolab.org Christophe Leterrier, NeuroCyto Lab, NICN, Marseille"
 
   - name: "NoiSee"
+    id: "NoiSee"
     url: "https://sites.imagej.net/NoiSee/"
     description: >-
       An easy-to-use macro for measuring and analyzing SNR (signal-to-noise
@@ -1053,6 +1162,7 @@ sites:
       - "[Niko Ehrenfeuchter](https://imagej.net/User:Ehrenfeu)"
       
   - name: "Nuclear-Medicine"
+    id: "Nuclear-Medicine"
     url: "https://sites.imagej.net/Nuclear-Medicine/"
     description: >-
       This update site contains conventional nuclear medicine applications
@@ -1062,6 +1172,7 @@ sites:
       - "Salim Kanoun, Toulouse, France"
 
   - name: "NucleusJ"
+    id: "PouletAxel"
     url: "https://sites.imagej.net/PouletAxel/"
     description: >-
       This plugin is dedicated to researchers interested in nuclear shape and
@@ -1074,6 +1185,7 @@ sites:
       - "Axel Poulet, Genetic Reproduction and Development lab, Clermont-Ferrand, France"
 
   - name: "OMERO 5.0"
+    id: "OMERO-5.0"
     url: "https://sites.imagej.net/OMERO-5.0/"
     description: >-
       The [OMERO](http://openmicroscopy.org/info/omero) update site for
@@ -1082,6 +1194,7 @@ sites:
       - "[Curtis Rueden](https://imagej.net/User:Rueden)"
 
   - name: "OMERO 5.1"
+    id: "OMERO-5.1"
     url: "https://sites.imagej.net/OMERO-5.1/"
     description: >-
       The [OMERO](http://openmicroscopy.org/info/omero) update site for
@@ -1090,6 +1203,7 @@ sites:
       - "[Curtis Rueden](https://imagej.net/User:Rueden)"
 
   - name: "OMERO 5.2"
+    id: "OMERO-5.2"
     url: "https://sites.imagej.net/OMERO-5.2/"
     description: >-
       The [OMERO](http://openmicroscopy.org/info/omero) update site for
@@ -1098,6 +1212,7 @@ sites:
       - "[Curtis Rueden](https://imagej.net/User:Rueden)"
 
   - name: "OMERO 5.4"
+    id: "OMERO-5.4"
     url: "https://sites.imagej.net/OMERO-5.4/"
     description: >-
       The [OMERO](http://openmicroscopy.org/info/omero) update site for
@@ -1106,6 +1221,7 @@ sites:
       - "[Curtis Rueden](https://imagej.net/User:Rueden)"
 
   - name: "OpenMIMS"
+    id: "OpenMIMS2"
     url: "https://sites.imagej.net/OpenMIMS2/"
     description: >-
       OpenMIMS is an ImageJ plugin to open, process and analyze images captured
@@ -1115,6 +1231,7 @@ sites:
       - "[Walter Taylor](mailto:wrtaylor@partners.org)"
 
   - name: "OpenSPIM"
+    id: "OpenSPIM"
     url: "http://openspim.org/update/"
     description: >-
       The drivers and software to operate an [OpenSPIM](http://openspim.org/)
@@ -1123,6 +1240,7 @@ sites:
       - "UNSUPPORTED"
 
   - name: "OPTIMISME"
+    id: "Dbenielli"
     url: "https://sites.imagej.net/Dbenielli/"
     description: >-
       Description: Optimism is an ImageJ plugin that implements  a
@@ -1132,6 +1250,7 @@ sites:
       - "https://www.i2m.univ-amu.fr/ Dominique Benielli, Caroline Chaux Moulin, Sandrine Anthoine, Labex Archimede , I2M, Marseille"
 
   - name: "Oxford Oncology"
+    id: "MicroscopyOncologyOxford"
     url: "https://sites.imagej.net/MicroscopyOncologyOxford/"
     description: >-
       Description: Some basic tools developed for users of the Microscopy Core
@@ -1140,6 +1259,7 @@ sites:
       - "[Rhodri Wilson](mailto:rhodri.wilson@oncology.ox.ac.uk)"
 
   - name: "P2E-IT4Innovations"
+    id: "P2E-IT4Innovations"
     url: "https://sites.imagej.net/P2E-IT4Innovations/"
     description: >-
       ImageJ plugins from research group involved in the project Path to
@@ -1148,6 +1268,7 @@ sites:
       - "[Jan Kožusznik](mailto:jan@kozusznik.cz)"
 
   - name: "ParticleSizer"
+    id: "Ndef-psizer"
     url: "https://sites.imagej.net/Ndef-psizer/"
     description: >-
       A
@@ -1157,6 +1278,7 @@ sites:
       - "[Thorsten Wagner](https://imagej.net/User:Twagner)"
 
   - name: "Pendent Drop"
+    id: "Daerr"
     url: "https://sites.imagej.net/Daerr/"
     description: >-
       A [plugin for capillary length measurement](http://fiji.sc/Pendent_Drop)
@@ -1165,6 +1287,7 @@ sites:
       - "[Adrian Daerr](http://www.msc.univ-paris-diderot.fr/~daerr/)"
 
   - name: "PET-CT"
+    id: "Ilan"
     url: "https://sites.imagej.net/Ilan/"
     description: >-
       Update site for the Pet-Ct-Viewer and other Nuclear Medicine software in
@@ -1174,6 +1297,7 @@ sites:
       - "[Ilan Tal](https://imagej.net/User:Ilan)"
 
   - name: "PHANTAST"
+    id: "Nicjac"
     url: "https://sites.imagej.net/Nicjac/"
     description: >-
       Update site for [PHANTAST](https://github.com/nicjac/PHANTAST-FIJI)
@@ -1183,6 +1307,7 @@ sites:
       - "[Nicolas Jaccard](http://www.nicjac.net)"
 
   - name: "PhotonImaging"
+    id: "PhotonImaging"
     url: "https://sites.imagej.net/PhotonImaging/"
     description: >-
       The [PhotonImaging](https://imagej.net/User:PhotonImaging) plug-in for
@@ -1194,6 +1319,7 @@ sites:
       - "[Wout van Helvoirt](mailto:wout.van.helvoirt@gmail.com)"
 
   - name: "PillarTracker"
+    id: "PillarTracker"
     url: "https://sites.imagej.net/PillarTracker/"
     description: >-
       The [PillarTracker](https://imagej.net/PillarTracker) plug-in enables
@@ -1203,6 +1329,7 @@ sites:
       - "[Felix Martin Margadant](mailto:mbifmm@nus.edu.sg)"
 
   - name: "PQCT"
+    id: "PQCT"
     url: "https://sites.imagej.net/PQCT/"
     description: >-
       Tools for Stratec [pQCT](https://imagej.net/pQCT) bone and soft tissue
@@ -1211,6 +1338,7 @@ sites:
       - "Timo Rantalainen"
 
   - name: "PTBIOP"
+    id: "PTBIOP"
     url: "https://biop.epfl.ch/Fiji-Update"
     description: >-
       The [EPFL - PTBIOP](https://biop.epfl.ch/) (BioImaging & Optics Platform)
@@ -1221,6 +1349,7 @@ sites:
       - "[Olivier Burri](http://people.epfl.ch/olivier.burri?lang=en&cvlang=en)"
 
   - name: "Quantixed"
+    id: "Quantixed"
     url: "https://sites.imagej.net/Quantixed/"
     description: >-
       ImageJ macros for making figures, blind analysis and more. Maintenance
@@ -1229,6 +1358,7 @@ sites:
       - "[Stephen Royle](http://mechanochemistry.org/royle)"
 
   - name: "QuimP"
+    id: "QuimP"
     url: "http://pilip.lnx.warwick.ac.uk/quimp-update-site/"
     description: >-
       [QuimP](http://warwick.ac.uk/quimp) is software for tracking cellular
@@ -1239,6 +1369,7 @@ sites:
       - "Till Bretschneider"
 
   - name: "Radial Symmetry"
+    id: "Milkyklim"
     url: "https://sites.imagej.net/Milkyklim/"
     description: >-
       A plugin for radial symmetry localization on smFISH (and other) images.
@@ -1246,6 +1377,7 @@ sites:
       - "[Klim Kolyvanov](https://imagej.net/User:Milkyklim)"
 
   - name: "RadialIntensityProfile"
+    id: "PTschaikner"
     url: "https://sites.imagej.net/PTschaikner/"
     description: >-
       RadialIntensityProfile is a simple macro to analyse the radial
@@ -1255,6 +1387,7 @@ sites:
       - "[Philipp Tschaikner](https://imagej.net/User:PTschaikner)"
 
   - name: "ResultsToExcel"
+    id: "ResultsToExcel"
     url: "https://sites.imagej.net/ResultsToExcel/"
     description: >-
       This plugin extracts data from the Results Table and adds it to a new or
@@ -1267,6 +1400,7 @@ sites:
       - "[Anthony Sinadinos](https://imagej.net/User:ResultsToExcel)"
 
   - name: "RT-Multiview-Deconvolution"
+    id: "RT-Multiview-Deconvolution"
     url: "https://sites.imagej.net/RT-Multiview-Deconvolution/"
     description: >-
       Plugins for plane-wise GPU-accelerated multi-view deconvolution of
@@ -1275,6 +1409,7 @@ sites:
       - "[Benjamin Schmid](https://imagej.net/User:Bene)"
 
   - name: "Sceptical Physiologist"
+    id: "Scepticalphysiologist"
     url: "https://sites.imagej.net/Scepticalphysiologist/"
     description: >-
       FFT (spectra + filtering); ROI class management; Image Linker; Tight
@@ -1283,6 +1418,7 @@ sites:
       - "Sean Parsons at [scepticalphysiologist.com](http://scepticalphysiologist.com/code/code.html)"
 
   - name: "SCF MPI CBG"
+    id: "SCF-MPI-CBG"
     url: "https://sites.imagej.net/SCF-MPI-CBG/"
     description: >-
       Common image processing tools from the Scientific Computing Facility at
@@ -1292,6 +1428,7 @@ sites:
       - "[Robert Haase](https://imagej.net/User:Haesleinhuepf)"
 
   - name: "ScientiFig"
+    id: "Aigouy"
     url: "https://sites.imagej.net/Aigouy/"
     description: >-
       ScientiFig is a tool to build publication-ready scientific figures
@@ -1302,6 +1439,7 @@ sites:
       - "[Benoit Aigouy](mailto:scientifig@gmail.com)"
 
   - name: "Scientifig-deprecated"
+    id: "SF-Deprecated-Legacy"
     url: "https://sites.imagej.net/SF-Deprecated-Legacy/"
     description: >-
       ScientiFig is a tool to build publication-ready scientific figures
@@ -1313,6 +1451,7 @@ sites:
       - "[Benoit Aigouy](mailto:scientifig@gmail.com)"
 
   - name: "Scijava Jupyter Kernel"
+    id: "Scijava-jupyter-kernel"
     url: "https://sites.imagej.net/Scijava-jupyter-kernel/"
     description: >-
       A Java kernel for Jupyter. See source
@@ -1321,6 +1460,7 @@ sites:
       - "[Hadrien Mary](https://imagej.net/User:Hadim)"
 
   - name: "SciView"
+    id: "SciView"
     url: "https://sites.imagej.net/SciView/"
     description: >-
       SciView 3D/VR/AR visualization package for ImageJ. See source
@@ -1330,6 +1470,7 @@ sites:
       - "[Ulrik Günther](https://imagej.net/User:Skalarproduktraum)"
 
   - name: "Server"
+    id: "Server"
     url: "https://sites.imagej.net/Server/"
     description: >-
       ImageJ-server update site. See source
@@ -1338,6 +1479,7 @@ sites:
       - "[Curtis Rueden](https://imagej.net/User:Rueden)"
 
   - name: "SIMcheck"
+    id: "SIMcheck"
     url: "https://downloads.micron.ox.ac.uk/fiji_update/SIMcheck/"
     description: >-
       [SIMcheck](https://www.micron.ox.ac.uk/microngroup/software/SIMCheck.php):
@@ -1347,6 +1489,7 @@ sites:
       - "[Micron Oxford](https://www.micron.ox.ac.uk/home.php)"
 
   - name: "SiMView"
+    id: "SiMView"
     url: "https://sites.imagej.net/SiMView/"
     description: >-
       Tools developed by the Keller Lab at the Janelia Research Campus, most
@@ -1357,6 +1500,7 @@ sites:
       - "[Burkhard Hoeckendorf](mailto:hoeckendorfb@janelia.hhmi.org)"
 
   - name: "SimonKlein"
+    id: "SimonKlein"
     url: "https://sites.imagej.net/SimonKlein/"
     description: >-
       Provides the plugins
@@ -1366,6 +1510,7 @@ sites:
       - "[Simon Klein](https://imagej.net/User:SimonKlein)"
 
   - name: "SlideBook"
+    id: "SlideBook"
     url: "https://sites.imagej.net/SlideBook/"
     description: >-
       This Bio-Formats plugin enables the import of
@@ -1374,6 +1519,7 @@ sites:
       - "[3i Support](http://www.intelligent-imaging.com/contact.php)"
 
   - name: "Slide Set"
+    id: "Slide-Set"
     url: "http://b.nanes.org/slideset/update/"
     description: >-
       [Slide Set](http://b.nanes.org/slideset/): Reproducible image analysis
@@ -1382,6 +1528,7 @@ sites:
       - "[Benjamin Nanes](https://imagej.net/User:Bnanes)"
 
   - name: "SLIM Curve"
+    id: "SLIM-Curve"
     url: "https://sites.imagej.net/SLIM-Curve/"
     description: >-
       [SLIM Curve](https://imagej.net/SLIM_Curve): a plugin for combined
@@ -1390,6 +1537,7 @@ sites:
       - "[Curtis Rueden](https://imagej.net/User:Rueden)"
 
   - name: "SLIM-Notts"
+    id: "SLIM-Notts"
     url: "https://sites.imagej.net/SLIM-Notts/"
     description: >-
       Plugins and macros from the School of Life Sciences Imaging (SLIM) at the
@@ -1398,6 +1546,7 @@ sites:
       - "Chris Gell"
 
   - name: "Stereoscopic 3D Projection"
+    id: "JoeNapoli"
     url: "https://sites.imagej.net/JoeNapoli/"
     description: >-
       Allows users to create 3-D anaglyph and Google Cardboard compatible
@@ -1407,6 +1556,7 @@ sites:
       - "[Visikol, Inc.](https://visikol.com)"
 
   - name: "Stowers"
+    id: "Stowers"
     url: "http://research.stowers.org/imagejplugins/updates/"
     description: >-
       The [Stowers ImageJ Plugins](http://research.stowers.org/imagejplugins/).
@@ -1414,6 +1564,7 @@ sites:
       - "Jay Unruh"
 
   - name: "StuartLab"
+    id: "StuartLab"
     url: "https://sites.imagej.net/StuartLab/"
     description: >-
       Tools developed and used in the labs of Dr. Stuart and Dr. Necakov at
@@ -1422,6 +1573,7 @@ sites:
       - "[Andrew Valente](https://imagej.net/User:StuartLab)"
 
   - name: "Tango"
+    id: "Tango"
     url: "https://sites.imagej.net/Tango/"
     description: >-
       Tools for Analysis of Nuclear Genome Organization.
@@ -1429,6 +1581,7 @@ sites:
       - "[Jean Ollion, Julien Cochennec](https://imagej.net/User:Tango)"
 
   - name: "TDS"
+    id: "TDS"
     url: "https://sites.imagej.net/TDS/"
     description: >-
       Fiji-Tools-for-HCS is a collection of macros useful for high-content
@@ -1438,6 +1591,7 @@ sites:
       - "[Martin Stoeter](mailto:stoeter@mpi-cbg.de)"
 
   - name: "TEM suite"
+    id: "Makoten"
     url: "https://sites.imagej.net/Makoten/"
     description: >-
       [TEM suite](https://imagej.net/TEM_suite) is a set of easy to use and
@@ -1452,6 +1606,7 @@ sites:
       - "[Mak Koten](mailto:mark.koten@gmail.com)"
 
   - name: "TensorFlow"
+    id: "TensorFlow"
     url: "https://sites.imagej.net/TensorFlow/"
     description: >-
       [TensorFlow](https://imagej.net/TensorFlow) integration for ImageJ,
@@ -1461,6 +1616,7 @@ sites:
       - "[Curtis Rueden](https://imagej.net/User:Rueden)"
 
   - name: "Tissue Analyzer"
+    id: "TA"
     url: "https://sites.imagej.net/TA/"
     description: >-
       Tissue Analyzer is a free tool to segment epithelial tissues.
@@ -1468,6 +1624,7 @@ sites:
       - "[Benoit Aigouy](mailto:tissue.analyser@gmail.com)"
 
   - name: "TomancakLab"
+    id: "Ulman2"
     url: "https://sites.imagej.net/Ulman2/"
     description: >-
       A couple of Fiji scripts to ease daily evo-devo image analysis life, from
@@ -1476,6 +1633,7 @@ sites:
       - "[Vladimír Ulman](mailto:ulman@mpi-cbg.de)"
 
   - name: "TrackMateCSVImporter"
+    id: "TrackMateCSVImporter"
     url: "https://sites.imagej.net/TrackMateCSVImporter/"
     description: >-
       The [TrackMateCSVImporter](https://imagej.net/TrackMateCSVImporter) is a
@@ -1486,6 +1644,7 @@ sites:
       - "[Jean-Yves Tinevez](https://imagej.net/User:JeanYvesTinevez)"
 
   - name: "TraJClassifier"
+    id: "TraJClassifier"
     url: "https://sites.imagej.net/TraJClassifier/"
     description: >-
       The [TraJClassifier](https://imagej.net/TraJClassifier) loads
@@ -1496,6 +1655,7 @@ sites:
       - "[Thorsten Wagner](https://imagej.net/User:Twagner)"
 
   - name: "Tr2d"
+    id: "Tr2d"
     url: "https://sites.imagej.net/Tr2d/"
     description: >-
       Tracking in 2d.
@@ -1503,6 +1663,7 @@ sites:
       - "[Florian Jug](mailto:jug@mpi-cbg.de)"
 
   - name: "U-Net Segmentation"
+    id: "Falk"
     url: "https://sites.imagej.net/Falk/"
     description: >-
       The U-Net segmentation plugin interfaces caffe on a remote Linux host to
@@ -1514,6 +1675,7 @@ sites:
       - "[Thorsten Falk](mailto:falk@informatik.uni-freiburg.de)"
 
   - name: "UCB Vision Sciences"
+    id: "Llamero"
     url: "https://sites.imagej.net/Llamero/"
     description: >-
       This is a suite of tools that were developed as part of the University of
@@ -1523,6 +1685,7 @@ sites:
       - "[Ben Smith](mailto:benjamin.smith@berkeley.edu)"
 
   - name: "Vale lab plugins"
+    id: "Nico"
     url: "https://sites.imagej.net/Nico/"
     description: >-
       Utilities useful to our lab members: spot counter plugin,
@@ -1530,6 +1693,7 @@ sites:
       - "[Nico Stuurman](https://imagej.net/User:Nico)"
 
   - name: "VersiLab plugins"
+    id: "Sweeneyian"
     url: "https://sites.imagej.net/Sweeneyian/"
     description: >-
       VersiLab_Plugin, aiming to do real-time image acquisition and processing
@@ -1539,6 +1703,7 @@ sites:
       - "[Ian Sweeney](https://imagej.net/User:Sweeneyian)"
 
   - name: "Virtual Cell"
+    id: "VCell"
     url: "https://sites.imagej.net/VCell/"
     description: >-
       Plugins for using [Virtual Cell](https://imagej.net/Virtual_Cell) with
@@ -1547,6 +1712,7 @@ sites:
       - "[Jim Schaff](https://imagej.net/User:Jcschaff)"
 
   - name: "Void Whizzard"
+    id: "VezinaLab"
     url: "https://sites.imagej.net/VezinaLab/"
     description: >-
       [Void Whizzard](https://imagej.net/Void_Whizzard) is a tool for analyzing
@@ -1555,6 +1721,7 @@ sites:
       - "[Royal Oakes](mailto:soakes@wisc.edu)"
 
   - name: "Volumetric Tissue Exploration and Analysis"
+    id: "ICBM-IUPUI"
     url: "https://sites.imagej.net/ICBM-IUPUI/"
     description: >-
       [VTEA](https://imagej.net/VTEA) is an interactive tool for 3D tissue
@@ -1563,6 +1730,7 @@ sites:
       - "[Seth Winfree](mailto:winfrees@iu.edu)"
 
   - name: "WhiskerTracking"
+    id: "Tarokiritani"
     url: "https://sites.imagej.net/Tarokiritani/"
     description: >-
       [WhisketTracking](https://github.com/tarokiritani/WhiskerTracking) is a
@@ -1571,6 +1739,7 @@ sites:
       - "[Taro Kiritani](mailto:taro.kiritani@epfl.ch)"
 
   - name: "WormSizer"
+    id: "Bradtmoore"
     url: "https://sites.imagej.net/Bradtmoore/"
     description: >-
       The update site for [WormSizer](https://github.com/bradtmoore/wormsizer),
@@ -1580,6 +1749,7 @@ sites:
       - "[Brad T. Moore](mailto:brad.t.moore@duke.edu)"
 
   - name: "XitoSBML"
+    id: "XitoSBML"
     url: "https://sites.imagej.net/XitoSBML/"
     description: >-
       [XitoSBML](https://github.com/spatialsimulator/XitoSBML) is an ImageJ
@@ -1593,6 +1763,7 @@ sites:
       - "[Akira Funahashi](mailto:spatial@fun.bio.keio.ac.jp)"
 
   - name: "Xlib"
+    id: "Xlib"
     url: "https://sites.imagej.net/Xlib/"
     description: >-
       [Xlib](https://imagej.net/Xlib) is a set of prospective ImageJ plugins:
@@ -1603,6 +1774,7 @@ sites:
       - "[Beat Münch](mailto:beat.muench@empa.ch)"
 
   - name: "Zoom-in-movie"
+    id: "ZOOM-in-movie"
     url: "https://sites.imagej.net/ZOOM-in-movie/"
     description: >-
       [Zoom-in-movie](https://imagej.net/Zoom-in-movie) is a simple tool for
