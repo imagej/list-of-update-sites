@@ -195,6 +195,14 @@ sites:
     maintainers:
       - "[David Barry](mailto:david.barry@crick.ac.uk)"
 
+    name: "CAMDU"
+    url: "https://sites.imagej.net/CAMDU/"
+    description: >-
+      Plugins from the [Computing and Advanced Microscopy Development Unit](https://www.warwick.ac.uk/camdu) at the
+      [University of Warwick](https://www.warwick.ac.uk).
+    maintainers:
+      - "[Erick Martins Ratamero](mailto:e.martins-ratamero.1@warwick.ac.uk)"
+
   - name: "CellMotility"
     url: "https://sites.imagej.net/CellMotility/"
     description: >-
