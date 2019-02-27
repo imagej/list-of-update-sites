@@ -174,10 +174,10 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Michael Doube, Alessandro Felder
 
 |- valign=&quot;top&quot;
-|'''CALM'''
-|http://sites.imagej.net/CALM/
-|Plugins from the Crick Advanced Light Microscopy Facility at The Francis Crick Institute.
-|David Barry
+|'''CAMDU'''
+|http://sites.imagej.net/CAMDU/
+|Plugins from the Computing and Advanced Microscopy Development Unit at the University of Warwick.
+|Erick Martins Ratamero
 
 |- valign=&quot;top&quot;
 |'''CellMotility'''
