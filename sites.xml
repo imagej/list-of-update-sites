@@ -1024,7 +1024,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''U-Net Segmentation'''
 |https://sites.imagej.net/Falk/
-|The U-Net segmentation plugin interfaces caffe on a remote Linux host to segment images using artificial neural networks. The Plugin requires a special extended version of caffe that will be available soon. It does not work with currently available versions of caffe with U-Net extensions.
+|The U-Net segmentation plugin interfaces caffe on a remote Linux host to segment images using artificial neural networks. The Plugin requires a special extended version of caffe that is available via the U-Net Project Page. This plugin is maintained on github.
 |Thorsten Falk
 
 |- valign=&quot;top&quot;

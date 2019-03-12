@@ -1519,9 +1519,9 @@ sites:
     description: >-
       The U-Net segmentation plugin interfaces caffe on a remote Linux host to
       segment images using artificial neural networks. The Plugin requires a
-      special extended version of caffe that will be available soon. It does
-      not work with currently available versions of caffe with U-Net
-      extensions.
+      special extended version of caffe that is available via the
+      [U-Net Project Page](https://lmb.informatik.uni-freiburg.de/resources/opensource/unet).
+      This plugin is maintained on [github](https://github.com/lmb-freiburg/Unet-Segmentation).
     maintainers:
       - "[Thorsten Falk](mailto:falk@informatik.uni-freiburg.de)"
 
