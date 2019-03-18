@@ -180,12 +180,6 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Erick Martins Ratamero
 
 |- valign=&quot;top&quot;
-|'''CellMotility'''
-|https://sites.imagej.net/CellMotility/
-|Plugins from the Cellular Signalling and Cytoskeletal Function Lab at The Francis Crick Institute, including ADAPT.
-|David Barry
-
-|- valign=&quot;top&quot;
 |'''CellTrackingChallenge'''
 |https://sites.imagej.net/Ulman/
 |Implementation of measures and front-end plugins used in and related to the Cell Tracking Challenge.
