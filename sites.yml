@@ -203,16 +203,6 @@ sites:
     maintainers:
       - "[Erick Martins Ratamero](mailto:e.martins-ratamero.1@warwick.ac.uk)"
 
-  - name: "CellMotility"
-    url: "https://sites.imagej.net/CellMotility/"
-    description: >-
-      Plugins from the
-      [Cellular Signalling and Cytoskeletal Function Lab](https://www.crick.ac.uk/research/a-z-researchers/researchers-v-y/michael-way)
-      at [The Francis Crick Institute](https://www.crick.ac.uk),
-      including [ADAPT](http://dx.doi.org/10.1083/jcb.201501081).
-    maintainers:
-      - "[David Barry](mailto:david.barry@crick.ac.uk)"
-
   - name: "CellTrackingChallenge"
     url: "https://sites.imagej.net/Ulman/"
     description: >-
