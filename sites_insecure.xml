@@ -156,6 +156,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |OME development team
 
 |- valign=&quot;top&quot;
+|'''Biomat'''
+|http://sites.imagej.net/Biomat/
+|Plugins for 3D image preprocessing and detection of fibres in 3D image.
+|Jiri Janacek
+
+|- valign=&quot;top&quot;
 |'''Biomedgroup'''
 |http://sites.imagej.net/Biomedgroup/
 |A set of plugins developed by the biomedical imaging group of the dortmund university of applied sciences and arts: * Shape Filter (Filter binary images by shape), * Shape Smoothing (Smooth objects via Fourier descriptors), * Non Local Means Denoise (edge preserving noise filter), * NanoTrackJ (Size characterization of freely diffusing nanoparticles by particle tracking), * Ridge Detection (Line / Ridge detection plugin).
