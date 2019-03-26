@@ -149,6 +149,13 @@ sites:
     maintainers:
       - "[OME development team](http://www.openmicroscopy.org)"
 
+- name: "Biomat"
+    url: "https://sites.imagej.net/Biomat/"
+    description: >-
+      Plugins for 3D image preprocessing and detection of fibres in 3D image.
+    maintainers:
+      - "[Jiri Janacek](https://imagej.net/User:Biomat)"
+
   - name: "Biomedgroup"
     url: "https://sites.imagej.net/Biomedgroup/"
     description: >-
