@@ -2,7 +2,7 @@
 
 echo "== Validating sites.yml =="
 # Validate and lint the YAML.
-yamllint -d relaxed sites.yml || exit 3
+yamllint -d relaxed -d "{rules: {key-duplicates: {}}}" sites.yml || exit 3
 # Check for duplicate IDs.
 duplicates=$(grep '^    id: ' sites.yml | sort | uniq -d)
 if [ "$duplicates" ]

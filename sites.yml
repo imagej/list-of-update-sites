@@ -223,7 +223,7 @@ sites:
     maintainers:
       - "[David Barry](mailto:david.barry@crick.ac.uk)"
 
-    name: "CAMDU"
+  - name: "CAMDU"
     id: "CAMDU"
     url: "https://sites.imagej.net/CAMDU/"
     description: >-
