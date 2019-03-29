@@ -165,6 +165,14 @@ sites:
     maintainers:
       - "[OME development team](http://www.openmicroscopy.org)"
 
+  - name: "Biomat"
+    id: "Biomat"
+    url: "https://sites.imagej.net/Biomat/"
+    description: >-
+      Plugins for 3D image preprocessing and detection of fibres in 3D image.
+    maintainers:
+      - "[Jiri Janacek](https://imagej.net/User:Biomat)"
+
   - name: "Biomedgroup"
     id: "Biomedgroup"
     url: "https://sites.imagej.net/Biomedgroup/"
@@ -223,17 +231,6 @@ sites:
       [University of Warwick](https://www.warwick.ac.uk).
     maintainers:
       - "[Erick Martins Ratamero](mailto:e.martins-ratamero.1@warwick.ac.uk)"
-
-  - name: "CellMotility"
-    id: "CellMotility"
-    url: "https://sites.imagej.net/CellMotility/"
-    description: >-
-      Plugins from the
-      [Cellular Signalling and Cytoskeletal Function Lab](https://www.crick.ac.uk/research/a-z-researchers/researchers-v-y/michael-way)
-      at [The Francis Crick Institute](https://www.crick.ac.uk),
-      including [ADAPT](http://dx.doi.org/10.1083/jcb.201501081).
-    maintainers:
-      - "[David Barry](mailto:david.barry@crick.ac.uk)"
 
   - name: "CellTrackingChallenge"
     id: "Ulman"
@@ -1667,9 +1664,9 @@ sites:
     description: >-
       The U-Net segmentation plugin interfaces caffe on a remote Linux host to
       segment images using artificial neural networks. The Plugin requires a
-      special extended version of caffe that will be available soon. It does
-      not work with currently available versions of caffe with U-Net
-      extensions.
+      special extended version of caffe that is available via the
+      [U-Net Project Page](https://lmb.informatik.uni-freiburg.de/resources/opensource/unet).
+      This plugin is maintained on [github](https://github.com/lmb-freiburg/Unet-Segmentation).
     maintainers:
       - "[Thorsten Falk](mailto:falk@informatik.uni-freiburg.de)"
 
