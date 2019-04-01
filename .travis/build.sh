@@ -1,5 +1,19 @@
 #!/bin/bash
 
+echo "== Validating sites.yml =="
+# Validate and lint the YAML.
+yamllint -d relaxed -d "{rules: {key-duplicates: {}}}" sites.yml || exit 3
+# Check for duplicate IDs.
+duplicates=$(grep '^    id: ' sites.yml | sort | uniq -d)
+if [ "$duplicates" ]
+then
+	echo "Duplicate site IDs:"
+	echo "$duplicates"
+	exit 4
+else
+	echo "No duplicate IDs."
+fi
+
 echo "== Generating legacy pages ==" &&
 python generate-legacy-pages.py &&
 
