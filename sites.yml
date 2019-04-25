@@ -212,7 +212,8 @@ sites:
       menu entries Plugins > BoneJ. The pQCT tools are now hosted on their own
       update site (see below).
     maintainers:
-      - "[Michael Doube](https://imagej.net/User:Michaeldoube), [Alessandro Felder](mailto:afelder@rvc.ac.uk)"
+      - "[Michael Doube](https://imagej.net/User:Michaeldoube)"
+      - "[Alessandro Felder](https://imagej.net/User:Alessandrofelder)"
 
   - name: "CALM"
     id: "CALM"
@@ -1054,7 +1055,9 @@ sites:
       MPIBPC stands for Max Planck Institute for Biophysical Chemistry. We
       provide the Imspector OBF reader for the Bio-Formats plugin.
     maintainers:
-      - "[MPIBPC](https://www.mpibpc.mpg.de/en), [NanoBiophotonics](https://www.mpibpc.mpg.de/hell), [Bjoern Thiel](https://www.mpibpc.mpg.de/person/11861/102807)"
+      - "[MPIBPC](https://www.mpibpc.mpg.de/en)"
+      - "[NanoBiophotonics](https://www.mpibpc.mpg.de/hell)"
+      - "[Bjoern Thiel](https://www.mpibpc.mpg.de/person/11861/102807)"
 
   - name: "MS-ECS-2D"
     id: "MS-ECS-2D"
@@ -1254,7 +1257,10 @@ sites:
       deconvolution method based on the Majorization minimization algorithm,
       devoted to two-photon 3d microscopic images.
     maintainers:
-      - "https://www.i2m.univ-amu.fr/ Dominique Benielli, Caroline Chaux Moulin, Sandrine Anthoine, Labex Archimede , I2M, Marseille"
+      - "Dominique Benielli, [I2M, Marseille](https://www.i2m.univ-amu.fr/)"
+      - "Caroline Chaux Moulin, [I2M, Marseille](https://www.i2m.univ-amu.fr/)"
+      - "Sandrine Anthoine, [I2M, Marseille](https://www.i2m.univ-amu.fr/)"
+      - "Labex Archimede, [I2M, Marseille](https://www.i2m.univ-amu.fr/)"
 
   - name: "Oxford Oncology"
     id: "MicroscopyOncologyOxford"
