@@ -212,7 +212,8 @@ sites:
       menu entries Plugins > BoneJ. The pQCT tools are now hosted on their own
       update site (see below).
     maintainers:
-      - "[Michael Doube](https://imagej.net/User:Michaeldoube), [Alessandro Felder](mailto:afelder@rvc.ac.uk)"
+      - "[Michael Doube](https://imagej.net/User:Michaeldoube)"
+      - "[Alessandro Felder](https://imagej.net/User:Alessandrofelder)"
 
   - name: "CALM"
     id: "CALM"
@@ -1054,7 +1055,9 @@ sites:
       MPIBPC stands for Max Planck Institute for Biophysical Chemistry. We
       provide the Imspector OBF reader for the Bio-Formats plugin.
     maintainers:
-      - "[MPIBPC](https://www.mpibpc.mpg.de/en), [NanoBiophotonics](https://www.mpibpc.mpg.de/hell), [Bjoern Thiel](https://www.mpibpc.mpg.de/person/11861/102807)"
+      - "[MPIBPC](https://www.mpibpc.mpg.de/en)"
+      - "[NanoBiophotonics](https://www.mpibpc.mpg.de/hell)"
+      - "[Bjoern Thiel](https://www.mpibpc.mpg.de/person/11861/102807)"
 
   - name: "MS-ECS-2D"
     id: "MS-ECS-2D"
@@ -1081,8 +1084,10 @@ sites:
     id: "Multi-Template-Matching"
     url: "https://sites.imagej.net/Multi-Template-Matching/"
     description: >-
-      [Multiple template matching](https://imagej.net/Multi-Template_Matching) allows to easily localize one or multiple objects in images using one or a set of template images.
-      The template images can be flipped and/or rotated to increase the chance to find the objects.
+      [Multiple template matching](https://imagej.net/Multi-Template_Matching)
+      allows to easily localize one or multiple objects in images using one or
+      a set of template images. The template images can be flipped and/or
+      rotated to increase the chance to find the objects.
     maintainers:
       - "[Laurent Thomas](https://imagej.net/User:Lthomas)"
 
@@ -1252,7 +1257,10 @@ sites:
       deconvolution method based on the Majorization minimization algorithm,
       devoted to two-photon 3d microscopic images.
     maintainers:
-      - "https://www.i2m.univ-amu.fr/ Dominique Benielli, Caroline Chaux Moulin, Sandrine Anthoine, Labex Archimede , I2M, Marseille"
+      - "Dominique Benielli, [I2M, Marseille](https://www.i2m.univ-amu.fr/)"
+      - "Caroline Chaux Moulin, [I2M, Marseille](https://www.i2m.univ-amu.fr/)"
+      - "Sandrine Anthoine, [I2M, Marseille](https://www.i2m.univ-amu.fr/)"
+      - "Labex Archimede, [I2M, Marseille](https://www.i2m.univ-amu.fr/)"
 
   - name: "Oxford Oncology"
     id: "MicroscopyOncologyOxford"
@@ -1675,7 +1683,8 @@ sites:
       segment images using artificial neural networks. The Plugin requires a
       special extended version of caffe that is available via the
       [U-Net Project Page](https://lmb.informatik.uni-freiburg.de/resources/opensource/unet).
-      This plugin is maintained on [github](https://github.com/lmb-freiburg/Unet-Segmentation).
+      This plugin is maintained on
+      [GitHub](https://github.com/lmb-freiburg/Unet-Segmentation).
     maintainers:
       - "[Thorsten Falk](mailto:falk@informatik.uni-freiburg.de)"
 

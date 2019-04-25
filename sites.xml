@@ -771,7 +771,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |'''OPTIMISME'''
 |https://sites.imagej.net/Dbenielli/
 |Description: Optimism is an ImageJ plugin that implements  a deconvolution method based on the Majorization minimization algorithm, devoted to two-photon 3d microscopic images.
-|https://www.i2m.univ-amu.fr/ Dominique Benielli, Caroline Chaux Moulin, Sandrine Anthoine, Labex Archimede , I2M, Marseille
+|Dominique Benielli, I2M, Marseille, Caroline Chaux Moulin, I2M, Marseille, Sandrine Anthoine, I2M, Marseille, Labex Archimede, I2M, Marseille
 
 |- valign=&quot;top&quot;
 |'''Oxford Oncology'''
@@ -1030,7 +1030,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''U-Net Segmentation'''
 |https://sites.imagej.net/Falk/
-|The U-Net segmentation plugin interfaces caffe on a remote Linux host to segment images using artificial neural networks. The Plugin requires a special extended version of caffe that is available via the U-Net Project Page. This plugin is maintained on github.
+|The U-Net segmentation plugin interfaces caffe on a remote Linux host to segment images using artificial neural networks. The Plugin requires a special extended version of caffe that is available via the U-Net Project Page. This plugin is maintained on GitHub.
 |Thorsten Falk
 
 |- valign=&quot;top&quot;
