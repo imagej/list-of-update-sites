@@ -1081,8 +1081,10 @@ sites:
     id: "Multi-Template-Matching"
     url: "https://sites.imagej.net/Multi-Template-Matching/"
     description: >-
-      [Multiple template matching](https://imagej.net/Multi-Template_Matching) allows to easily localize one or multiple objects in images using one or a set of template images.
-      The template images can be flipped and/or rotated to increase the chance to find the objects.
+      [Multiple template matching](https://imagej.net/Multi-Template_Matching)
+      allows to easily localize one or multiple objects in images using one or
+      a set of template images. The template images can be flipped and/or
+      rotated to increase the chance to find the objects.
     maintainers:
       - "[Laurent Thomas](https://imagej.net/User:Lthomas)"
 
@@ -1675,7 +1677,8 @@ sites:
       segment images using artificial neural networks. The Plugin requires a
       special extended version of caffe that is available via the
       [U-Net Project Page](https://lmb.informatik.uni-freiburg.de/resources/opensource/unet).
-      This plugin is maintained on [github](https://github.com/lmb-freiburg/Unet-Segmentation).
+      This plugin is maintained on
+      [GitHub](https://github.com/lmb-freiburg/Unet-Segmentation).
     maintainers:
       - "[Thorsten Falk](mailto:falk@informatik.uni-freiburg.de)"
 
