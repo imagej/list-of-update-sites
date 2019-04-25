@@ -666,6 +666,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |MTrack
 
 |- valign=&quot;top&quot;
+|'''Multi-Template-Matching'''
+|http://sites.imagej.net/Multi-Template-Matching/
+|Multiple template matching allows to easily localize one or multiple objects in images using one or a set of template images. The template images can be flipped and/or rotated to increase the chance to find the objects.
+|Laurent Thomas
+
+|- valign=&quot;top&quot;
 |'''NanoJ-Core'''
 |http://sites.imagej.net/NanoJ/
 |The update site providing NanoJ's core functionality. NanoJ is a set of high-performance libraries for GPU enabled super-resolution data analysis.
