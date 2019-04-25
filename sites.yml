@@ -1076,6 +1076,15 @@ sites:
       points for dynamically growing microtubules.
     maintainers:
       - "[MTrack](https://imagej.net/User:MTrack)"
+  
+  - name: "Multi-Template-Matching"
+    id: "Multi-Template-Matching"
+    url: "https://sites.imagej.net/Multi-Template-Matching/"
+    description: >-
+      [Multiple template matching](https://imagej.net/Multi-Template_Matching) allows to easily localize one or multiple objects in images using one or a set of template images.
+      The template images can be flipped and/or rotated to increase the chance to find the objects.
+    maintainers:
+      - "[Laurent Thomas](https://imagej.net/User:Lthomas)"
 
   - name: "NanoJ-Core"
     id: "NanoJ"
