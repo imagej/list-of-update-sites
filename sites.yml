@@ -369,8 +369,9 @@ sites:
       DiversePathsJ implements a dynamic programming approach for the general
       task of finding diverse shortest paths between two end-points. It is not
       linked to a specific biological problem and can be applied to a large
-      variety of images. More informations can be found at
-      http://bigwww.epfl.ch/algorithms/diversepathsj/
+      variety of images. See the [DiversePathsJ web
+      page](http://bigwww.epfl.ch/algorithms/diversepathsj/) for more
+      information.
     maintainers:
       - "[Virginie Uhlmann](https://imagej.net/User:Vuhlmann)"
 
@@ -973,10 +974,10 @@ sites:
     id: "Hpinkard"
     url: "https://sites.imagej.net/Hpinkard/"
     description: >-
-      Micro-Magellan (https://micro-manager.org/wiki/MicroMagellan) is a plugin
-      based on Micro-Manager for high throughput microscopy. This update site
-      is used to enable reading of Micro-Magellan datasets by the BigDataViewer
-      (http://fiji.sc/BigDataViewer).
+      [Micro-Magellan](https://micro-manager.org/wiki/MicroMagellan) is a
+      plugin based on Micro-Manager for high throughput microscopy. This update
+      site is used to enable reading of Micro-Magellan datasets by the
+      [BigDataViewer](https://imagej.net/BigDataViewer).
     maintainers:
       - "Henry Pinkard"
 
@@ -1159,7 +1160,7 @@ sites:
       and quantification, including SMLM scripts. Centered on the analysis of
       fluorescence in neuronal cultures.
     maintainers:
-      - "http://www.neurocytolab.org Christophe Leterrier, NeuroCyto Lab, NICN, Marseille"
+      - "Christophe Leterrier, [NeuroCyto Lab](http://www.neurocytolab.org), NICN, Marseille"
 
   - name: "NoiSee"
     id: "NoiSee"
@@ -1176,8 +1177,7 @@ sites:
     url: "https://sites.imagej.net/Nuclear-Medicine/"
     description: >-
       This update site contains conventional nuclear medicine applications
-      and additionals packages for the PET/CT Viewer
-      (see details at http://petctviewer.org)
+      and additionals packages for the [PET/CT Viewer](http://petctviewer.org).
     maintainers:
       - "Salim Kanoun, Toulouse, France"
 
@@ -1702,7 +1702,8 @@ sites:
     id: "Nico"
     url: "https://sites.imagej.net/Nico/"
     description: >-
-      Utilities useful to our lab members: spot counter plugin,
+      Plugins useful to the Vale lab: Saim, spot intensity analysis, spot
+      counter.
     maintainers:
       - "[Nico Stuurman](https://imagej.net/User:Nico)"
 

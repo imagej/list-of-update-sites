@@ -272,7 +272,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''DiversePathsJ'''
 |https://sites.imagej.net/Vuhlmann/
-|DiversePathsJ implements a dynamic programming approach for the general task of finding diverse shortest paths between two end-points. It is not linked to a specific biological problem and can be applied to a large variety of images. More informations can be found at http://bigwww.epfl.ch/algorithms/diversepathsj/
+|DiversePathsJ implements a dynamic programming approach for the general task of finding diverse shortest paths between two end-points. It is not linked to a specific biological problem and can be applied to a large variety of images. See the DiversePathsJ web page for more information.
 |Virginie Uhlmann
 
 |- valign=&quot;top&quot;
@@ -608,7 +608,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''Micro-Magellan'''
 |https://sites.imagej.net/Hpinkard/
-|Micro-Magellan (https://micro-manager.org/wiki/MicroMagellan) is a plugin based on Micro-Manager for high throughput microscopy. This update site is used to enable reading of Micro-Magellan datasets by the BigDataViewer (http://fiji.sc/BigDataViewer).
+|Micro-Magellan is a plugin based on Micro-Manager for high throughput microscopy. This update site is used to enable reading of Micro-Magellan datasets by the BigDataViewer.
 |Henry Pinkard
 
 |- valign=&quot;top&quot;
@@ -711,7 +711,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |'''NeuroCyto Lab'''
 |https://sites.imagej.net/Christopheleterrier/
 |Various tools from the NeuroCyto Lab in Marseille for image processing and quantification, including SMLM scripts. Centered on the analysis of fluorescence in neuronal cultures.
-|http://www.neurocytolab.org Christophe Leterrier, NeuroCyto Lab, NICN, Marseille
+|Christophe Leterrier, NeuroCyto Lab, NICN, Marseille
 
 |- valign=&quot;top&quot;
 |'''NoiSee'''
@@ -722,7 +722,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''Nuclear-Medicine'''
 |https://sites.imagej.net/Nuclear-Medicine/
-|This update site contains conventional nuclear medicine applications and additionals packages for the PET/CT Viewer (see details at http://petctviewer.org)
+|This update site contains conventional nuclear medicine applications and additionals packages for the PET/CT Viewer.
 |Salim Kanoun, Toulouse, France
 
 |- valign=&quot;top&quot;
@@ -1042,7 +1042,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''Vale lab plugins'''
 |https://sites.imagej.net/Nico/
-|Utilities useful to our lab members: spot counter plugin,
+|Plugins useful to the Vale lab: Saim, spot intensity analysis, spot counter.
 |Nico Stuurman
 
 |- valign=&quot;top&quot;
