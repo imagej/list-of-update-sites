@@ -1570,9 +1570,9 @@ sites:
 
   - name: "Stowers"
     id: "Stowers"
-    url: "http://research.stowers.org/imagejplugins/updates/"
+    url: "https://research.stowers.org/imagejplugins/updates/"
     description: >-
-      The [Stowers ImageJ Plugins](http://research.stowers.org/imagejplugins/).
+      The [Stowers ImageJ Plugins](https://research.stowers.org/imagejplugins/).
     maintainers:
       - "Jay Unruh"
 
