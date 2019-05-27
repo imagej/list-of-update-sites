@@ -60,6 +60,14 @@ sites:
     maintainers:
       - "[Thomas Boudier](https://imagej.net/User:Tboudier)"
 
+  - name: "ActogramJ"
+    id: "ActogramJ"
+    url: "https://romulus.oice.uni-erlangen.de/imagej/updatesites/ActogramJ/"
+    description: >-
+      [ActogramJ](https://bene51.github.io/ActogramJ) is a plugin for analyzing actograms.
+    maintainers:
+    - "[Benjamin Schmid](https://imagej.net/User:Bene)"
+  
   - name: "Angiogenesis"
     id: "Angiogenesis"
     url: "https://sites.imagej.net/Angiogenesis/"
