@@ -96,6 +96,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Thomas Boudier
 
 |- valign=&quot;top&quot;
+|'''ActogramJ'''
+|https://romulus.oice.uni-erlangen.de/imagej/updatesites/ActogramJ/
+|ActogramJ is a plugin for analyzing actograms.
+|Benjamin Schmid
+
+|- valign=&quot;top&quot;
 |'''Angiogenesis'''
 |https://sites.imagej.net/Angiogenesis/
 |A plugin to quantify angiogenic sprout morphology.
