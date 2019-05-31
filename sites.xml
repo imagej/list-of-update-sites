@@ -816,6 +816,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Nicolas Jaccard
 
 |- valign=&quot;top&quot;
+|'''PhotoBend'''
+|https://sites.imagej.net/Anotherche/
+|The PhotoBend is a collection of  specialized plugins providing tracking a needle-like crystal  shape changing during photoinduced bending process. 1. tracking the curvature of uniformly curved rods changing with time;  2. tracking a laser spot movement used in the laser beam deflection  technique.   Additionally, two auxiliary plugins for reading and writing compressed  video using FFmpeg are included, which can be used standalone.
+|Stanislav Chizhik
+
+|- valign=&quot;top&quot;
 |'''PhotonImaging'''
 |https://sites.imagej.net/PhotonImaging/
 |The PhotonImaging plug-in for ImageJ is able to process single photon event data, by locating the center point of each photon and create a combined greyscale image with all found photons per pixel mapped to the correct pixel value.
