@@ -1168,7 +1168,15 @@ sites:
       and quantification, including SMLM scripts. Centered on the analysis of
       fluorescence in neuronal cultures.
     maintainers:
-      - "Christophe Leterrier, [NeuroCyto Lab](http://www.neurocytolab.org), NICN, Marseille"
+      - "Christophe Leterrier, [NeuroCyto Lab](http://www.neurocytolab.org), INP, Marseille"
+
+  - name: "NeuroCyto LUTs"
+    id: "NeuroCyto-LUTs"
+    url: "https://sites.imagej.net/NeuroCyto-LUTs/"
+    description: >-
+      A collection of LUTs packaged as an easy to use extra menu. LUTs are from various sources detailled in the About section.
+    maintainers:
+      - "Christophe Leterrier, [NeuroCyto Lab](http://www.neurocytolab.org), INP, Marseille"
 
   - name: "NoiSee"
     id: "NoiSee"
