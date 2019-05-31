@@ -1319,6 +1319,21 @@ sites:
     maintainers:
       - "[Nicolas Jaccard](http://www.nicjac.net)"
 
+  - name: "PhotoBend"
+    id: "Anotherche"
+    url: "https://sites.imagej.net/Anotherche/"
+    description: >-
+      The [PhotoBend](https://imagej.net/PhotoBend) is a collection of 
+      specialized plugins providing tracking a needle-like crystal 
+      shape changing during photoinduced bending process.
+      1. tracking the curvature of uniformly curved rods changing with time; 
+      2. tracking a laser spot movement used in the laser beam deflection 
+      technique.  
+      Additionally, two auxiliary plugins for reading and writing compressed 
+      video using FFmpeg are included, which can be used standalone.
+    maintainers:
+      - "[Stanislav Chizhik](https://imagej.net/User:Anotherche)"
+
   - name: "PhotonImaging"
     id: "PhotonImaging"
     url: "https://sites.imagej.net/PhotonImaging/"
