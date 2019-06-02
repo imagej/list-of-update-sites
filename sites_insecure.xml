@@ -717,7 +717,13 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |'''NeuroCyto Lab'''
 |http://sites.imagej.net/Christopheleterrier/
 |Various tools from the NeuroCyto Lab in Marseille for image processing and quantification, including SMLM scripts. Centered on the analysis of fluorescence in neuronal cultures.
-|Christophe Leterrier, NeuroCyto Lab, NICN, Marseille
+|Christophe Leterrier, NeuroCyto Lab, INP, Marseille
+
+|- valign=&quot;top&quot;
+|'''NeuroCyto LUTs'''
+|http://sites.imagej.net/NeuroCyto-LUTs/
+|A collection of LUTs packaged as an easy to use extra menu. LUTs are from various sources detailled in the About section.
+|Christophe Leterrier, NeuroCyto Lab, INP, Marseille
 
 |- valign=&quot;top&quot;
 |'''NoiSee'''
