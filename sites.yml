@@ -1747,7 +1747,7 @@ sites:
       collaborators. Avoid following if you have a personally customized 
       StartupMacros.ijm file.
     maintainers:
-      - " [Wilson R Adams](mailto:wilson.adams@vanderbilt.edu) Vanderbilt Biophotonics Center, Nashville, TN, USA"
+      - "[Wilson R Adams](mailto:wilson.adams@vanderbilt.edu) Vanderbilt Biophotonics Center, Nashville, TN, USA"
 
   - name: "VersiLab plugins"
     id: "Sweeneyian"
