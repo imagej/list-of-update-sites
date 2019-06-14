@@ -307,7 +307,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 
 |- valign=&quot;top&quot;
 |'''FFMPEG'''
-|http://fiji.sc/~schindelin/ffmpeg-plugins/
+|https://fiji.sc/~schindelin/ffmpeg-plugins/
 |Fiji plugins which allow reading and writing to FFmpeg-supported formats via native bindings.
 |Curtis Rueden
 
@@ -649,7 +649,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 
 |- valign=&quot;top&quot;
 |'''MOSAIC ToolSuite'''
-|http://mosaic.mpi-cbg.de/Downloads/update/Fiji/MosaicToolsuite
+|https://mosaic.mpi-cbg.de/Downloads/update/Fiji/MosaicToolsuite
 |An integrated toolbox containing the following image-processing software from the MOSAIC Group: 2D and 3D single-particle tracking, 2D and 3D multi-region image segmentation, 2D and 3D globally optimal two-region image segmentation, point-spread function estimation in 2D and 3D, background subtraction, Poisson noise simulator, microscope optics simulator, chromatic aberration correction.
 |MOSAIC Group, MPI-CBG, Dresden
 
@@ -775,7 +775,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 
 |- valign=&quot;top&quot;
 |'''OpenSPIM'''
-|http://openspim.org/update/
+|https://openspim.org/update/
 |The drivers and software to operate an OpenSPIM (Open Access selective plane light sheet microscope).
 |UNSUPPORTED
 
@@ -859,7 +859,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 
 |- valign=&quot;top&quot;
 |'''QuimP'''
-|http://pilip.lnx.warwick.ac.uk/quimp-update-site/
+|https://pilip.lnx.warwick.ac.uk/quimp-update-site/
 |QuimP is software for tracking cellular shape changes and dynamic distributions of fluorescent reporters at the cell membrane.
 |Piotr Baniukiewicz, Till Bretschneider
 
