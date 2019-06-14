@@ -1740,7 +1740,7 @@ sites:
 
   - name: "Vanderbilt Biophotonics Center"
     id: "Wilson.adams"
-    url: "http://sites.imagej.net/Wilson.adams/"
+    url: "https://sites.imagej.net/Wilson.adams/"
     description: >-
       Customized GUI and image analysis scripts designed for local use by the 
       [Vanderbilt Biophotonics Center](https://www.vanderbilt.edu/vbc/) and 
