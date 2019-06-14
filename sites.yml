@@ -55,7 +55,7 @@ sites:
     id: "Tboudier"
     url: "https://sites.imagej.net/Tboudier/"
     description: >-
-      A [suite of plugins](http://imagejdocu.tudor.lu/doku.php?id=plugin:stacks:3d_ij_suite:start)
+      A [suite of plugins](https://imagejdocu.tudor.lu/doku.php?id=plugin:stacks:3d_ij_suite:start)
       providing enhanced 3D capabilities in ImageJ.
     maintainers:
       - "[Thomas Boudier](https://imagej.net/User:Tboudier)"
@@ -171,7 +171,7 @@ sites:
       [development branch](https://github.com/openmicroscopy/bioformats/tree/develop).
       The last SNAPSHOTS are automatically uploaded daily.
     maintainers:
-      - "[OME development team](http://www.openmicroscopy.org)"
+      - "[OME development team](https://www.openmicroscopy.org)"
 
   - name: "Biomat"
     id: "Biomat"
@@ -206,7 +206,7 @@ sites:
       Analyzer' and a qualitative and quantitative evaluation tool for Fijis'
       Auto Threshold methods. More information at the
       [BioVoxxel Toolbox](https://imagej.net/BioVoxxel_Toolbox) page and the
-      [BioVoxxel web site](http://www.biovoxxel.de).
+      [BioVoxxel web site](https://www.biovoxxel.de).
     maintainers:
       - "[Jan Brocher](https://imagej.net/User:BioVoxxel)"
 
@@ -272,7 +272,7 @@ sites:
     url: "https://sites.imagej.net/clij/"
     description: >-
       GPU-acceleration for ImageJ. See
-      [documentation](http://clij.github.io/clij-docs)
+      [documentation](https://clij.github.io/clij-docs)
     maintainers:
       - "[Robert Haase](https://imagej.net/User:Haesleinhuepf)"
 
@@ -341,7 +341,7 @@ sites:
     url: "https://sites.imagej.net/CWNS/"
     description: >-
       The Fiji implementation of the CWNS dense nuclei segmenter, presented in
-      ["Object Segmentation and Ground Truth in 3D Embryonic Imaging"](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0150853),
+      ["Object Segmentation and Ground Truth in 3D Embryonic Imaging"](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0150853),
       by B. Rajasekaran et al., Plos ONE, 2016.
     maintainers:
       - "[Jean-Yves Tinevez](https://imagej.net/User:JeanYvesTinevez)"
@@ -425,10 +425,10 @@ sites:
 
   - name: "FFMPEG"
     id: "FFMPEG"
-    url: "http://fiji.sc/~schindelin/ffmpeg-plugins/"
+    url: "https://fiji.sc/~schindelin/ffmpeg-plugins/"
     description: >-
       Fiji plugins which allow reading and writing to
-      [FFmpeg](http://www.ffmpeg.org/)-supported formats via native bindings.
+      [FFmpeg](https://www.ffmpeg.org/)-supported formats via native bindings.
     maintainers:
       - "[Curtis Rueden](https://imagej.net/User:Rueden)"
 
@@ -575,7 +575,7 @@ sites:
     description: >-
       The HDF5 plugin allows to load and save data in HDF5 format.
       For details see
-      [HDF5 plugin](http://lmb.informatik.uni-freiburg.de/resources/opensource/imagej_plugins/hdf5.html).
+      [HDF5 plugin](https://lmb.informatik.uni-freiburg.de/resources/opensource/imagej_plugins/hdf5.html).
     maintainers:
       - "[Olaf Ronneberger](mailto:ronneber@informatik.uni-freiburg.de)"
 
@@ -584,7 +584,7 @@ sites:
     url: "https://sites.imagej.net/Pathomation/"
     description: >-
       Plugin to interface with
-      [Pathomation's digital slide viewer](http://www.pathomation.com/)
+      [Pathomation's digital slide viewer](https://www.pathomation.com/)
       which can open Olympus VSI (.vsi), Ventana / Roche BIF (.bif),
       Hamamatsu NDPI (.ndpi), 3DHistech MRXS (.mrxs),
       Aperio / Leica SVS (.svs), Leica SCN (.scn), Carl Zeiss ZVI (.zvi),
@@ -620,14 +620,14 @@ sites:
     id: "Mutterer"
     url: "https://sites.imagej.net/Mutterer/"
     description: >-
-      [FigureJ](http://imagejdocu.tudor.lu/doku.php?id=plugin:utilities:figurej:start)
+      [FigureJ](https://imagejdocu.tudor.lu/doku.php?id=plugin:utilities:figurej:start)
       (easy article figure creation),
-      [ActionBar](http://imagejdocu.tudor.lu/doku.php?id=plugin:utilities:action_bar:start)
+      [ActionBar](https://imagejdocu.tudor.lu/doku.php?id=plugin:utilities:action_bar:start)
       (macro-based buttons bars),
-      [Droplet](http://imagejdocu.tudor.lu/doku.php?id=plugin:utilities:droplet:start)
+      [Droplet](https://imagejdocu.tudor.lu/doku.php?id=plugin:utilities:droplet:start)
       (drag and drop file processor), LSM Reader and LSM Toolbox moved to the
       main Fiji update site,
-      [IJ_Ed](http://imagejdocu.tudor.lu/doku.php?id=plugin:utilities:ij_ed:start)
+      [IJ_Ed](https://imagejdocu.tudor.lu/doku.php?id=plugin:utilities:ij_ed:start)
       (jEdit link).
     maintainers:
       - "[Jerome Mutterer](mailto:jerome.mutterer@gmail.com)"
@@ -650,7 +650,7 @@ sites:
       Imaging lab to perform 2D/3D image segmentation, fast morphological
       operations and geometric analysis
     maintainers:
-      - "[Modeling and Digital Imaging lab, INRA-Versailles](http://www-ijpb.versailles.inra.fr/en/bc/equipes/modelisation-imagerie/)"
+      - "[Modeling and Digital Imaging lab, INRA-Versailles](https://www-ijpb.versailles.inra.fr/en/bc/equipes/modelisation-imagerie/)"
 
   - name: "ilastik"
     id: "Ilastik"
@@ -713,7 +713,7 @@ sites:
       required third-parts JAR files. Specific sets of demo plugins are
       available for each book edition; choose ONE of the update sites listed
       below. Find the online documentation and additional materials
-      [on the SourceForge page](http://sourceforge.net/projects/imagingbook/).
+      [on the SourceForge page](https://sourceforge.net/projects/imagingbook/).
     maintainers:
       - "[Wilhelm Burger](https://imagej.net/User:ImagingBook)"
 
@@ -837,7 +837,7 @@ sites:
       [JOGL Canvas](https://github.com/aschain/JOGL_Canvas_DC3D) is a
       plugin for ImageJ1 that uses OpenGL and a graphics card
       to display images rather than the ImageCanvas class, which is
-      extended from java's canvas. It replaces it with a [JOGL](http://jogamp.org/jogl/www/)
+      extended from java's canvas. It replaces it with a [JOGL](https://jogamp.org/jogl/www/)
       OpenGL GLCanvas instead.  This allows 10bit or greater color depth for
       supported monitors and some modest 3D rendering.
     maintainers:
@@ -1009,14 +1009,14 @@ sites:
     id: "MiToBo"
     url: "https://sites.imagej.net/MiToBo/"
     description: >-
-      [MiToBo](http://www.informatik.uni-halle.de/mitobo) is a collection of
+      [MiToBo](http://mitobo.informatik.uni-halle.de) is a collection of
       basic image processing operators (filtering, morphology, labeling, etc.),
       advanced analysis algorithms (wavelets, snakes, levelsets, etc.), and
       special applications mainly dedicated to microscopy image analysis
       (nuclei detection, scratch assay analysis, neurite image segmentation,
       etc.).
     maintainers:
-      - "[The MiToBo Team, Halle, Germany](http://informatik.uni-halle.de/mitobo)"
+      - "[The MiToBo Team, Halle, Germany](http://mitobo.informatik.uni-halle.de)"
 
   - name: "Molography"
     id: "VolkerGatterdam"
@@ -1039,14 +1039,14 @@ sites:
     url: "https://sites.imagej.net/Landini/"
     description: >-
       The update site for the
-      [Mathematical Morphology Collection](http://www.mecourse.com/landinig/software/software.html)
+      [Mathematical Morphology Collection](https://www.mecourse.com/landinig/software/software.html)
       of plugins and macros.
     maintainers:
       - "[Gabriel Landini](https://imagej.net/User:Landini)"
 
   - name: "MOSAIC ToolSuite"
     id: "MOSAIC-ToolSuite"
-    url: "http://mosaic.mpi-cbg.de/Downloads/update/Fiji/MosaicToolsuite"
+    url: "https://mosaic.mpi-cbg.de/Downloads/update/Fiji/MosaicToolsuite"
     description: >-
       An integrated toolbox containing the following image-processing software
       from the MOSAIC Group: 2D and 3D single-particle tracking, 2D and 3D
@@ -1055,7 +1055,7 @@ sites:
       background subtraction, Poisson noise simulator, microscope optics
       simulator, chromatic aberration correction.
     maintainers:
-      - "[MOSAIC Group, MPI-CBG, Dresden](http://mosaic.mpi-cbg.de)"
+      - "[MOSAIC Group, MPI-CBG, Dresden](https://mosaic.mpi-cbg.de)"
 
   - name: "MPIBPC"
     id: "MPIBPC"
@@ -1109,7 +1109,7 @@ sites:
       high-performance libraries for GPU enabled super-resolution data
       analysis.
     maintainers:
-      - "[The Henriques Team, UCL, UK](http://www.ucl.ac.uk/lmcb/users/ricardo-henriques)"
+      - "[The Henriques Team, UCL, UK](https://www.ucl.ac.uk/lmcb/users/ricardo-henriques)"
 
   - name: "NanoJ-SQUIRREL"
     id: "NanoJ-SQUIRREL"
@@ -1120,7 +1120,7 @@ sites:
       quantitatively map defects, it also provides methods to aid in improving
       super-resolution images.
     maintainers:
-      - "[The Henriques Team, UCL, UK](http://www.ucl.ac.uk/lmcb/users/ricardo-henriques)"
+      - "[The Henriques Team, UCL, UK](https://www.ucl.ac.uk/lmcb/users/ricardo-henriques)"
 
   - name: "NanoJ-SRRF"
     id: "NanoJ-SRRF"
@@ -1130,7 +1130,7 @@ sites:
       high-performance analytical approach for Live-cell Super-Resolution
       Microscopy, provided as a fast GPU-enabled ImageJ plugin.
     maintainers:
-      - "[The Henriques Team, UCL, UK](http://www.ucl.ac.uk/lmcb/users/ricardo-henriques)"
+      - "[The Henriques Team, UCL, UK](https://www.ucl.ac.uk/lmcb/users/ricardo-henriques)"
 
   - name: "NanoJ-VirusMapper"
     id: "NanoJ-VirusMapper"
@@ -1140,7 +1140,7 @@ sites:
       is a high-throughput ImageJ plugin for single-particle analysis in
       fluorescence microscopy, particularly super-resolution microscopy.
     maintainers:
-      - "[The Henriques Team, UCL, UK](http://www.ucl.ac.uk/lmcb/users/ricardo-henriques)"
+      - "[The Henriques Team, UCL, UK](https://www.ucl.ac.uk/lmcb/users/ricardo-henriques)"
 
   - name: "NEUBIAS"
     id: "Neubias"
@@ -1214,7 +1214,7 @@ sites:
     id: "OMERO-5.0"
     url: "https://sites.imagej.net/OMERO-5.0/"
     description: >-
-      The [OMERO](http://openmicroscopy.org/info/omero) update site for
+      The [OMERO](https://openmicroscopy.org/info/omero) update site for
       [bidirectional integration between ImageJ and OMERO 5.0.x](https://github.com/imagej/imagej-omero).
     maintainers:
       - "[Curtis Rueden](https://imagej.net/User:Rueden)"
@@ -1223,7 +1223,7 @@ sites:
     id: "OMERO-5.1"
     url: "https://sites.imagej.net/OMERO-5.1/"
     description: >-
-      The [OMERO](http://openmicroscopy.org/info/omero) update site for
+      The [OMERO](https://openmicroscopy.org/info/omero) update site for
       [bidirectional integration between ImageJ and OMERO 5.1.x](https://github.com/imagej/imagej-omero).
     maintainers:
       - "[Curtis Rueden](https://imagej.net/User:Rueden)"
@@ -1232,7 +1232,7 @@ sites:
     id: "OMERO-5.2"
     url: "https://sites.imagej.net/OMERO-5.2/"
     description: >-
-      The [OMERO](http://openmicroscopy.org/info/omero) update site for
+      The [OMERO](https://openmicroscopy.org/info/omero) update site for
       [bidirectional integration between ImageJ and OMERO 5.2.x](https://github.com/imagej/imagej-omero).
     maintainers:
       - "[Curtis Rueden](https://imagej.net/User:Rueden)"
@@ -1241,7 +1241,7 @@ sites:
     id: "OMERO-5.4"
     url: "https://sites.imagej.net/OMERO-5.4/"
     description: >-
-      The [OMERO](http://openmicroscopy.org/info/omero) update site for
+      The [OMERO](https://openmicroscopy.org/info/omero) update site for
       [bidirectional integration between ImageJ and OMERO 5.4.x](https://github.com/imagej/imagej-omero).
     maintainers:
       - "[Curtis Rueden](https://imagej.net/User:Rueden)"
@@ -1258,9 +1258,9 @@ sites:
 
   - name: "OpenSPIM"
     id: "OpenSPIM"
-    url: "http://openspim.org/update/"
+    url: "https://openspim.org/update/"
     description: >-
-      The drivers and software to operate an [OpenSPIM](http://openspim.org/)
+      The drivers and software to operate an [OpenSPIM](https://openspim.org/)
       (Open Access selective plane light sheet microscope).
     maintainers:
       - "UNSUPPORTED"
@@ -1310,7 +1310,7 @@ sites:
     id: "Daerr"
     url: "https://sites.imagej.net/Daerr/"
     description: >-
-      A [plugin for capillary length measurement](http://fiji.sc/Pendent_Drop)
+      A [plugin for capillary length measurement](https://fiji.sc/Pendent_Drop)
       through the pendent drop method.
     maintainers:
       - "[Adrian Daerr](http://www.msc.univ-paris-diderot.fr/~daerr/)"
@@ -1321,7 +1321,7 @@ sites:
     description: >-
       Update site for the Pet-Ct-Viewer and other Nuclear Medicine software in
       use at Beth Israel Hospital, see
-      [Help](http://sourceforge.net/p/bifijiplugins/wiki/Pet-Ct%20Viewer/)
+      [Help](https://sourceforge.net/p/bifijiplugins/wiki/Pet-Ct%20Viewer/)
     maintainers:
       - "[Ilan Tal](https://imagej.net/User:Ilan)"
 
@@ -1387,25 +1387,25 @@ sites:
     description: >-
       The [EPFL - PTBIOP](https://biop.epfl.ch/) (BioImaging & Optics Platform)
       Update Site, with Fiji plugins and macros, including
-      [Action Bars](http://imagejdocu.tudor.lu/doku.php?id=plugin:utilities:action_bar:start)
+      [Action Bars](https://imagejdocu.tudor.lu/doku.php?id=plugin:utilities:action_bar:start)
       (not the plugin) and HRM Manager.
     maintainers:
-      - "[Olivier Burri](http://people.epfl.ch/olivier.burri?lang=en&cvlang=en)"
+      - "[Olivier Burri](https://people.epfl.ch/olivier.burri?lang=en&cvlang=en)"
 
   - name: "Quantixed"
     id: "Quantixed"
     url: "https://sites.imagej.net/Quantixed/"
     description: >-
       ImageJ macros for making figures, blind analysis and more. Maintenance
-      and issues [here](http://github.com/quantixed/imagej-macros/).
+      and issues [here](https://github.com/quantixed/imagej-macros/).
     maintainers:
-      - "[Stephen Royle](http://mechanochemistry.org/royle)"
+      - "[Stephen Royle](https://mechanochemistry.org/royle)"
 
   - name: "QuimP"
     id: "QuimP"
-    url: "http://pilip.lnx.warwick.ac.uk/quimp-update-site/"
+    url: "https://pilip.lnx.warwick.ac.uk/quimp-update-site/"
     description: >-
-      [QuimP](http://warwick.ac.uk/quimp) is software for tracking cellular
+      [QuimP](https://warwick.ac.uk/quimp) is software for tracking cellular
       shape changes and dynamic distributions of fluorescent reporters at the
       cell membrane.
     maintainers:
@@ -1558,9 +1558,9 @@ sites:
     url: "https://sites.imagej.net/SlideBook/"
     description: >-
       This Bio-Formats plugin enables the import of
-      [SlideBook](http://www.intelligent-imaging.com/slidebook.php) SLD files.
+      [SlideBook](https://www.intelligent-imaging.com/slidebook) SLD files.
     maintainers:
-      - "[3i Support](http://www.intelligent-imaging.com/contact.php)"
+      - "[3i Support](https://www.intelligent-imaging.com/contact)"
 
   - name: "Slide Set"
     id: "Slide-Set"
