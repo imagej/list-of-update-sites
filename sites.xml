@@ -1064,6 +1064,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Nico Stuurman
 
 |- valign=&quot;top&quot;
+|'''Vanderbilt Biophotonics Center'''
+|https://sites.imagej.net/Wilson.adams/
+|Customized GUI and image analysis scripts designed for local use by the  Vanderbilt Biophotonics Center and  collaborators. Avoid following if you have a personally customized  StartupMacros.ijm file.
+|Wilson R Adams Vanderbilt Biophotonics Center, Nashville, TN, USA
+
+|- valign=&quot;top&quot;
 |'''VersiLab plugins'''
 |https://sites.imagej.net/Sweeneyian/
 |VersiLab_Plugin, aiming to do real-time image acquisition and processing for Optical Endo-Microscopy (OEM), development phase, code available on GitHub.
