@@ -1738,6 +1738,17 @@ sites:
     maintainers:
       - "[Nico Stuurman](https://imagej.net/User:Nico)"
 
+  - name: "Vanderbilt Biophotonics Center"
+    id: "Wilson.adams"
+    url: "https://sites.imagej.net/Wilson.adams/"
+    description: >-
+      Customized GUI and image analysis scripts designed for local use by the 
+      [Vanderbilt Biophotonics Center](https://www.vanderbilt.edu/vbc/) and 
+      collaborators. Avoid following if you have a personally customized 
+      StartupMacros.ijm file.
+    maintainers:
+      - "[Wilson R Adams](mailto:wilson.adams@vanderbilt.edu) Vanderbilt Biophotonics Center, Nashville, TN, USA"
+
   - name: "VersiLab plugins"
     id: "Sweeneyian"
     url: "https://sites.imagej.net/Sweeneyian/"
