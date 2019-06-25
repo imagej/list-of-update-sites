@@ -956,7 +956,7 @@ sites:
     url: "https://sites.imagej.net/Tmcrae/"
     description: >-
       Plugin performs blind spectral unmixing on multichannel images, particularly 
-      for fluorescence microscopy. For more information [see webpage](https://www.urmc.rochester.edu/research/multiphoton/image-analysis/spectral-unmixing.aspx). 
+      for fluorescence microscopy. For more information [see documentation](https://imagej.net/LUMoS). 
       Source code [here](https://github.com/tristan-mcrae-rochester/Multiphoton-Image-Analysis/tree/master/Spectral%20Unmixing/Code/ImageJ-FIJI).
     maintainers:
       - "Tristan McRae"
