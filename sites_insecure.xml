@@ -594,6 +594,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Verman Pavel
 
 |- valign=&quot;top&quot;
+|'''LUMoS'''
+|http://sites.imagej.net/Tmcrae/
+|Plugin performs blind spectral unmixing on multichannel images, particularly  for fluorescence microscopy. For more information see documentation.  Source code here.
+|Tristan McRae
+
+|- valign=&quot;top&quot;
 |'''MaMuT'''
 |http://sites.imagej.net/MaMuT/
 |MaMuT, a plugin for the annotation of massive, multi-view data.
