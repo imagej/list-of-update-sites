@@ -357,6 +357,15 @@ sites:
     maintainers:
       - "[Adrián Inés](mailto:adines@unirioja.es)"
 
+  - name: "DHM Utilities"
+    id: "Sudgy"
+    url: "https://sites.imagej.net/Sudgy/"
+    description: >-
+      Collection of plugins for use in digital holographic microscopy, such as
+      hologram reconstruction, numerical propagation, and phase unwrapping.
+    maintainers:
+      - "[David Cohoe](mailto:dcohoe@pdx.edu)"
+
   - name: "DiameterJ"
     id: "DiameterJ"
     url: "https://sites.imagej.net/DiameterJ/"
