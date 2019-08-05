@@ -97,6 +97,15 @@ sites:
     maintainers:
       - "[Larry Lindsey](https://imagej.net/User:Lindsey)"
 
+  - name: "AxoNet"
+    id: "AxoNet"
+    url: "https://sites.imagej.net/AxoNet/"
+    description: >-
+       This plugin is an implementation of the AxoNet tool which can be used to count axons in light 
+       micrographs of optic nerves.
+    maintainers:
+      - "[Matthew Ritch](https://imagej.net/User:Mritch3)"
+      
   - name: "BACMMAN"
     id: "Ljp"
     url: "https://sites.imagej.net/Ljp/"
