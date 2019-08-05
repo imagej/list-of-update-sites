@@ -96,6 +96,14 @@ sites:
        are accelerated in this way.
     maintainers:
       - "[Larry Lindsey](https://imagej.net/User:Lindsey)"
+      
+   - name: "AxoNet"
+    id: "AxoNet"
+    url: "https://sites.imagej.net/AxoNet/"
+    description: >-
+       This is a plugin which implements the AxoNet optic nerve axon counting tool.
+    maintainers:
+      - "[Matthew Ritch](https://imagej.net/User:Mritch3)"
 
   - name: "BACMMAN"
     id: "Ljp"
