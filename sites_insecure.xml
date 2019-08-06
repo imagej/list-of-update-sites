@@ -1141,6 +1141,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Zoom-in-movie is a simple tool for creating zoom-in movies with logarithmic approach and dynamic scalebar. Simply select ROI on your image and select Plugins/Zoom-in movie to run the plugin. Thanks to Eugene Katrukha for the initial implementation.
 |Andrey Aristov
 
+|- valign=&quot;top&quot;
+|'''ZedMate Suite'''
+|http://sites.imagej.net/Ayakimovich/
+|ZedMate ZedMate is a TrackMate-based plugin for 3D particles detection and measurement.
+|Artur Yakimovich
+
 }</text>
       <sha1>beaqwm8xeaoo2kusu15tfly02pxlcxk</sha1>
     </revision>
