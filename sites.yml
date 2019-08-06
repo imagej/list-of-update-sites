@@ -101,8 +101,8 @@ sites:
     id: "AxoNet"
     url: "https://sites.imagej.net/AxoNet/"
     description: >-
-       This plugin is an implementation of the AxoNet tool which can be used to count axons in light 
-       micrographs of optic nerves.
+       An implementation of the AxoNet tool which can be used to count axons in
+       light micrographs of optic nerves.
     maintainers:
       - "[Matthew Ritch](https://imagej.net/User:Mritch3)"
       
@@ -379,11 +379,11 @@ sites:
     id: "DiameterJ"
     url: "https://sites.imagej.net/DiameterJ/"
     description: >-
-      Macros for quantitative analysis of nanofiber images.  DiameterJ is able
+      Macros for quantitative analysis of nanofiber images. DiameterJ is able
       to analyze any network of connecting lines (validated for SEM micrographs
       of micro- and nanofibers) and produce metrics such as mean diameter,
       histograms of fiber diameter, mean pore size, histogram of all pore
-      areas, percent porosity, etc.  See [soon](coming) for more information
+      areas, percent porosity, etc. See [soon](coming) for more information
       and the publication describing how DiameterJ works and its limitations.
     maintainers:
       - "[Nathan Hotaling](https://imagej.net/User:DiameterJ)"
@@ -811,8 +811,8 @@ sites:
     url: "https://sites.imagej.net/IMOD-ZOLA/"
     description: >-
       Zernike Optimized Localization Algorithm for 3D single molecule
-      localizations  [ZOLA-3D](https://github.com/imodpasteur/ZOLA-3D)
-      developed in Institut Pasteur, group IMOD  -- a CUDA-enabled localization
+      localizations [ZOLA-3D](https://github.com/imodpasteur/ZOLA-3D)
+      developed in Institut Pasteur, group IMOD -- a CUDA-enabled localization
       algorithm for extended PSF single-molecule localization microscopy. Paper
       is under review.
     maintainers:
@@ -856,8 +856,8 @@ sites:
       plugin for ImageJ1 that uses OpenGL and a graphics card
       to display images rather than the ImageCanvas class, which is
       extended from java's canvas. It replaces it with a [JOGL](https://jogamp.org/jogl/www/)
-      OpenGL GLCanvas instead.  This allows 10bit or greater color depth for
-      supported monitors and some modest 3D rendering.
+      OpenGL GLCanvas instead. This allows 10-bit or greater color
+      depth for supported monitors and some modest 3D rendering.
     maintainers:
       - "[Aaron Schain](https://imagej.net/User:JOGLCanvas)"
 
@@ -1220,8 +1220,8 @@ sites:
     id: "Nuclear-Medicine"
     url: "https://sites.imagej.net/Nuclear-Medicine/"
     description: >-
-      This update site contains conventional nuclear medicine applications
-      and additionals packages for the [PET/CT Viewer](http://petctviewer.org).
+      Conventional nuclear medicine applications and additional packages for
+      the [PET/CT Viewer](http://petctviewer.org).
     maintainers:
       - "Salim Kanoun, Toulouse, France"
 
@@ -1229,12 +1229,11 @@ sites:
     id: "PouletAxel"
     url: "https://sites.imagej.net/PouletAxel/"
     description: >-
-      This plugin is dedicated to researchers interested in nuclear shape and
-      chromatin organization. Starting from image stacks, the nuclear boundary
-      as well as nuclear bodies are segmented. As output, NucleusJ
-      automatically measures 15 parameters quantifying shape and size of nuclei
-      as well as intra-nuclear objects and the positioning of the objects
-      within the nuclear volume.
+      A plugin for quantifying nuclear shape and chromatin organization.
+      Segments nuclear boundaries and nuclear bodies, then automatically
+      measures parameters quantifying shape and size of nuclei as well as
+      intra-nuclear objects and the positioning of the objects within the
+      nuclear volume.
     maintainers:
       - "Axel Poulet, Genetic Reproduction and Development lab, Clermont-Ferrand, France"
 
@@ -1297,9 +1296,9 @@ sites:
     id: "Dbenielli"
     url: "https://sites.imagej.net/Dbenielli/"
     description: >-
-      Description: Optimism is an ImageJ plugin that implements  a
-      deconvolution method based on the Majorization minimization algorithm,
-      devoted to two-photon 3d microscopic images.
+      Optimism is an ImageJ plugin that implements a deconvolution method
+      based on the Majorization minimization algorithm, devoted to two-photon
+      3d microscopic images.
     maintainers:
       - "Dominique Benielli, [I2M, Marseille](https://www.i2m.univ-amu.fr/)"
       - "Caroline Chaux Moulin, [I2M, Marseille](https://www.i2m.univ-amu.fr/)"
@@ -1751,9 +1750,9 @@ sites:
     id: "Llamero"
     url: "https://sites.imagej.net/Llamero/"
     description: >-
-      This is a suite of tools that were developed as part of the University of
-      California, Berkeley Vision Sciences core grant NIH P30EY003176.  These
-      tools include a Hough Circle Transform and a Quiver Plot tool.
+      A suite of tools developed as part of the University of California,
+      Berkeley Vision Sciences core grant NIH P30EY003176, including a
+      Hough Circle Transform and a Quiver Plot tool.
     maintainers:
       - "[Ben Smith](mailto:benjamin.smith@berkeley.edu)"
 

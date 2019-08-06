@@ -122,7 +122,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''AxoNet'''
 |http://sites.imagej.net/AxoNet/
-|This plugin is an implementation of the AxoNet tool which can be used to count axons in light  micrographs of optic nerves.
+|An implementation of the AxoNet tool which can be used to count axons in light micrographs of optic nerves.
 |Matthew Ritch
 
 |- valign=&quot;top&quot;
@@ -284,7 +284,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''DiameterJ'''
 |http://sites.imagej.net/DiameterJ/
-|Macros for quantitative analysis of nanofiber images.  DiameterJ is able to analyze any network of connecting lines (validated for SEM micrographs of micro- and nanofibers) and produce metrics such as mean diameter, histograms of fiber diameter, mean pore size, histogram of all pore areas, percent porosity, etc.  See soon for more information and the publication describing how DiameterJ works and its limitations.
+|Macros for quantitative analysis of nanofiber images. DiameterJ is able to analyze any network of connecting lines (validated for SEM micrographs of micro- and nanofibers) and produce metrics such as mean diameter, histograms of fiber diameter, mean pore size, histogram of all pore areas, percent porosity, etc. See soon for more information and the publication describing how DiameterJ works and its limitations.
 |Nathan Hotaling
 
 |- valign=&quot;top&quot;
@@ -518,7 +518,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''IMOD-ZOLA'''
 |http://sites.imagej.net/IMOD-ZOLA/
-|Zernike Optimized Localization Algorithm for 3D single molecule localizations  ZOLA-3D developed in Institut Pasteur, group IMOD  -- a CUDA-enabled localization algorithm for extended PSF single-molecule localization microscopy. Paper is under review.
+|Zernike Optimized Localization Algorithm for 3D single molecule localizations ZOLA-3D developed in Institut Pasteur, group IMOD -- a CUDA-enabled localization algorithm for extended PSF single-molecule localization microscopy. Paper is under review.
 |Andrey Aristov, Benoit Lelandais
 
 |- valign=&quot;top&quot;
@@ -542,7 +542,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''JOGL Canvas Deep Color / 3D'''
 |http://sites.imagej.net/JOGLCanvas/
-|JOGL Canvas is a plugin for ImageJ1 that uses OpenGL and a graphics card to display images rather than the ImageCanvas class, which is extended from java's canvas. It replaces it with a JOGL OpenGL GLCanvas instead.  This allows 10bit or greater color depth for supported monitors and some modest 3D rendering.
+|JOGL Canvas is a plugin for ImageJ1 that uses OpenGL and a graphics card to display images rather than the ImageCanvas class, which is extended from java's canvas. It replaces it with a JOGL OpenGL GLCanvas instead. This allows 10-bit or greater color depth for supported monitors and some modest 3D rendering.
 |Aaron Schain
 
 |- valign=&quot;top&quot;
@@ -752,13 +752,13 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''Nuclear-Medicine'''
 |http://sites.imagej.net/Nuclear-Medicine/
-|This update site contains conventional nuclear medicine applications and additionals packages for the PET/CT Viewer.
+|Conventional nuclear medicine applications and additional packages for the PET/CT Viewer.
 |Salim Kanoun, Toulouse, France
 
 |- valign=&quot;top&quot;
 |'''NucleusJ'''
 |http://sites.imagej.net/PouletAxel/
-|This plugin is dedicated to researchers interested in nuclear shape and chromatin organization. Starting from image stacks, the nuclear boundary as well as nuclear bodies are segmented. As output, NucleusJ automatically measures 15 parameters quantifying shape and size of nuclei as well as intra-nuclear objects and the positioning of the objects within the nuclear volume.
+|A plugin for quantifying nuclear shape and chromatin organization. Segments nuclear boundaries and nuclear bodies, then automatically measures parameters quantifying shape and size of nuclei as well as intra-nuclear objects and the positioning of the objects within the nuclear volume.
 |Axel Poulet, Genetic Reproduction and Development lab, Clermont-Ferrand, France
 
 |- valign=&quot;top&quot;
@@ -800,7 +800,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''OPTIMISME'''
 |http://sites.imagej.net/Dbenielli/
-|Description: Optimism is an ImageJ plugin that implements  a deconvolution method based on the Majorization minimization algorithm, devoted to two-photon 3d microscopic images.
+|Optimism is an ImageJ plugin that implements a deconvolution method based on the Majorization minimization algorithm, devoted to two-photon 3d microscopic images.
 |Dominique Benielli, I2M, Marseille, Caroline Chaux Moulin, I2M, Marseille, Sandrine Anthoine, I2M, Marseille, Labex Archimede, I2M, Marseille
 
 |- valign=&quot;top&quot;
@@ -1072,7 +1072,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''UCB Vision Sciences'''
 |http://sites.imagej.net/Llamero/
-|This is a suite of tools that were developed as part of the University of California, Berkeley Vision Sciences core grant NIH P30EY003176.  These tools include a Hough Circle Transform and a Quiver Plot tool.
+|A suite of tools developed as part of the University of California, Berkeley Vision Sciences core grant NIH P30EY003176, including a Hough Circle Transform and a Quiver Plot tool.
 |Ben Smith
 
 |- valign=&quot;top&quot;
