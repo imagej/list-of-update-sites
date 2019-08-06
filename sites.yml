@@ -1872,6 +1872,7 @@ sites:
     id: "ZedMate"
     url: "http://sites.imagej.net/Ayakimovich/"
     description: >-
-      [ZedMate](http://imagej.net/Ayakimovich) ZedMate is a TrackMate-based plugin for 3D particles detection and measurement.
+      [ZedMate](https://imagej.net/ZedMate) is a TrackMate-based plugin for
+      3D particles detection and measurement.
     maintainers:
       - "[Artur Yakimovich](mailto:a.yakimovich@ucl.ac.uk)"
