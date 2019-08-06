@@ -120,6 +120,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Larry Lindsey
 
 |- valign=&quot;top&quot;
+|'''AxoNet'''
+|http://sites.imagej.net/AxoNet/
+|This plugin is an implementation of the AxoNet tool which can be used to count axons in light  micrographs of optic nerves.
+|Matthew Ritch
+
+|- valign=&quot;top&quot;
 |'''BACMMAN'''
 |http://sites.imagej.net/Ljp/
 |BACteria in Mother Machine ANalyzer: a plugin for high-throughput analysis of mother machine data.
