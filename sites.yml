@@ -1591,9 +1591,9 @@ sites:
 
   - name: "Slide Set"
     id: "Slide-Set"
-    url: "http://b.nanes.org/slideset/update/"
+    url: "https://b.nanes.org/slideset/update/"
     description: >-
-      [Slide Set](http://b.nanes.org/slideset/): Reproducible image analysis
+      [Slide Set](https://b.nanes.org/slideset/): Reproducible image analysis
       and batch processing.
     maintainers:
       - "[Benjamin Nanes](https://imagej.net/User:Bnanes)"
