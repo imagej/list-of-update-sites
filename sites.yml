@@ -1128,6 +1128,14 @@ sites:
     maintainers:
       - "[Laurent Thomas](https://imagej.net/User:Lthomas)"
 
+  - name: "N5"
+    id: "N5"
+    url: "https://sites.imagej.net/N5/"
+    description: >-
+      [N5](https://github.com/saalfeldlab/n5) libraries.
+    maintainers:
+      - "[Stephan Saalfeld](mailto:saalfelds@janelia.hhmi.org)"
+
   - name: "NanoJ-Core"
     id: "NanoJ"
     url: "https://sites.imagej.net/NanoJ/"
