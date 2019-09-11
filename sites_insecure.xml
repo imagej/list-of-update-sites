@@ -696,6 +696,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Laurent Thomas
 
 |- valign=&quot;top&quot;
+|'''N5'''
+|http://sites.imagej.net/N5/
+|N5 libraries.
+|Stephan Saalfeld
+
+|- valign=&quot;top&quot;
 |'''NanoJ-Core'''
 |http://sites.imagej.net/NanoJ/
 |The update site providing NanoJ's core functionality. NanoJ is a set of high-performance libraries for GPU enabled super-resolution data analysis.
