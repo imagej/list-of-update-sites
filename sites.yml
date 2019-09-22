@@ -280,8 +280,15 @@ sites:
     id: "clij"
     url: "https://sites.imagej.net/clij/"
     description: >-
-      GPU-acceleration for ImageJ. See
-      [documentation](https://clij.github.io/clij-docs)
+      GPU-acceleration for ImageJ. See https://clij.github.io/
+    maintainers:
+      - "[Robert Haase](https://imagej.net/User:Haesleinhuepf)"
+
+  - name: "clij2"
+    id: "clij2"
+    url: "https://sites.imagej.net/clij2/"
+    description: >-
+      Experimental update site / incubator for the future release of clij2. https://clij.github.io/clij-advanced-filters
     maintainers:
       - "[Robert Haase](https://imagej.net/User:Haesleinhuepf)"
 
