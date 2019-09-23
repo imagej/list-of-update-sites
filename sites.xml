@@ -224,7 +224,13 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''clij'''
 |https://sites.imagej.net/clij/
-|GPU-acceleration for ImageJ. See documentation
+|GPU-acceleration for ImageJ. See https://clij.github.io/
+|Robert Haase
+
+|- valign=&quot;top&quot;
+|'''clij2'''
+|https://sites.imagej.net/clij2/
+|Experimental update site / incubator for the future release of clij2. See https://clij.github.io/clij-advanced-filters
 |Robert Haase
 
 |- valign=&quot;top&quot;
