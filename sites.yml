@@ -111,7 +111,8 @@ sites:
     url: "https://sites.imagej.net/Ljp/"
     description: >-
        BACteria in Mother Machine ANalyzer: a plugin for high-throughput
-       analysis of mother machine data.
+       analysis of multichannel mother machine data. 
+       See [Sources](https://github.com/jeanollion/bacmman) and [Wiki](https://github.com/jeanollion/bacmman/wiki)
     maintainers:
       - "Jean Ollion"
 
