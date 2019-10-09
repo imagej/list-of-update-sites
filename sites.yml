@@ -220,6 +220,14 @@ sites:
     maintainers:
       - "[Jan Brocher](https://imagej.net/User:BioVoxxel)"
 
+  - name: "Blind Analysis Tools"
+    id: "Astja"
+    url: "https://sites.imagej.net/Astja/"
+    description: >-
+      Tools to facilitate blind i.e., unbiased analysis of (image) data. For more information visit the [documentation page](https://imagej.net/Blind_Analysis_Tools).
+    maintainers:
+      - "[Astha Jaiswal](https://imagej.net/User:Astja), Holger Lorenz"
+      
   - name: "BoneJ experimental"
     id: "BoneJ"
     url: "https://sites.imagej.net/BoneJ/"
