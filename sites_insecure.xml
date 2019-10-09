@@ -186,6 +186,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Jan Brocher
 
 |- valign=&quot;top&quot;
+|'''Blind Analysis Tools'''
+|http://sites.imagej.net/Astja/
+|Tools to facilitate blind i.e., unbiased analysis of (image) data. For more information visit the documentation page.
+|Astha Jaiswal, Holger Lorenz
+
+|- valign=&quot;top&quot;
 |'''BoneJ experimental'''
 |http://sites.imagej.net/BoneJ/
 |A collection tools for trabecular geometry and whole bone shape analysis. This update site hosts the new experimental, modernized version of BoneJ that works with the latest Fiji. Enabling the update site creates the menu entries Plugins &gt; BoneJ. The pQCT tools are now hosted on their own update site (see below).
