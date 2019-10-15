@@ -350,6 +350,14 @@ sites:
     maintainers:
       - "[Cookbook Team](https://imagej.net/Cookbook#Credits)"
 
+  - name: "CSBDeep"
+    id: "CSBDeep"
+    url: "https://sites.imagej.net/CSBDeep/"
+    description: >-
+      Plugins for executing pretrained CARE networks.
+    maintainers:
+      - "[Deborah Schmidt](https://imagej.net/User:Frauzufall)"
+
   - name: "CSIM Laboratory"
     id: "Acsenrafilho"
     url: "https://sites.imagej.net/Acsenrafilho/"
