@@ -240,12 +240,6 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Robert Haase
 
 |- valign=&quot;top&quot;
-|'''Cookbook'''
-|http://sites.imagej.net/Cookbook/
-|Plugins from the Cookbook.
-|Cookbook Team
-
-|- valign=&quot;top&quot;
 |'''ClearVolume'''
 |http://sites.imagej.net/ClearVolume/
 |ClearVolume is a fast 3D viewer, for more information see also the ClearVolume wiki.
@@ -268,6 +262,18 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |http://sites.imagej.net/Jefferis/
 |CMTK Registration GUI.
 |Gregory Jefferis
+
+|- valign=&quot;top&quot;
+|'''Cookbook'''
+|http://sites.imagej.net/Cookbook/
+|Plugins from the Cookbook.
+|Cookbook Team
+
+|- valign=&quot;top&quot;
+|'''CSBDeep'''
+|http://sites.imagej.net/CSBDeep/
+|Plugins for executing pretrained CARE networks.
+|Deborah Schmidt
 
 |- valign=&quot;top&quot;
 |'''CSIM Laboratory'''
