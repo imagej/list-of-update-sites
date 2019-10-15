@@ -306,14 +306,6 @@ sites:
     maintainers:
       - "[Robert Haase](https://imagej.net/User:Haesleinhuepf)"
 
-  - name: "Cookbook"
-    id: "Cookbook"
-    url: "https://sites.imagej.net/Cookbook/"
-    description: >-
-      Plugins from the [Cookbook](https://imagej.net/Cookbook).
-    maintainers:
-      - "[Cookbook Team](https://imagej.net/Cookbook#Credits)"
-
   - name: "ClearVolume"
     id: "ClearVolume"
     url: "https://sites.imagej.net/ClearVolume/"
@@ -349,6 +341,22 @@ sites:
       CMTK Registration GUI.
     maintainers:
       - "[Gregory Jefferis](https://imagej.net/User:Jefferis)"
+
+  - name: "Cookbook"
+    id: "Cookbook"
+    url: "https://sites.imagej.net/Cookbook/"
+    description: >-
+      Plugins from the [Cookbook](https://imagej.net/Cookbook).
+    maintainers:
+      - "[Cookbook Team](https://imagej.net/Cookbook#Credits)"
+
+  - name: "CSBDeep"
+    id: "CSBDeep"
+    url: "https://sites.imagej.net/CSBDeep/"
+    description: >-
+      Plugins for executing pretrained CARE networks.
+    maintainers:
+      - "[Deborah Schmidt](https://imagej.net/User:Frauzufall)"
 
   - name: "CSIM Laboratory"
     id: "Acsenrafilho"
