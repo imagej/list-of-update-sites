@@ -1569,6 +1569,16 @@ sites:
     maintainers:
       - "[Hadrien Mary](https://imagej.net/User:Hadim)"
 
+  - name: "Scijava-parallel"
+    id: "Scijava-parallel"
+    url: "https://sites.imagej.net/Scijava-parallel/"
+    description: >-
+      Scijava-parallel is a framework that provides an access point for 
+      using computational resources such as remote computers or HPC clusters.
+      See documentation [on ImageJ Wiki](https://imagej.net/Scijava-parallel).
+    maintainers:
+      - "[Jan Kožusznik](mailto:jan@kozusznik.cz)"
+
   - name: "SciView"
     id: "SciView"
     url: "https://sites.imagej.net/SciView/"

@@ -960,6 +960,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Hadrien Mary
 
 |- valign=&quot;top&quot;
+|'''Scijava-parallel'''
+|http://sites.imagej.net/Scijava-parallel/
+|Scijava-parallel is a framework that provides an access point for  using computational resources such as remote computers or HPC clusters. See documentation on ImageJ Wiki.
+|Jan Kožusznik
+
+|- valign=&quot;top&quot;
 |'''SciView'''
 |http://sites.imagej.net/SciView/
 |SciView 3D/VR/AR visualization package for ImageJ. See source on GitHub.
