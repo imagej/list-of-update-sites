@@ -68,6 +68,15 @@ sites:
     maintainers:
     - "[Benjamin Schmid](https://imagej.net/User:Bene)"
   
+  - name: "AIC Janelia - Course"
+    id: "AICjanelia-course"
+    url: "https://sites.imagej.net/AICjanelia-course/"
+    description: >-
+      A collection of plugins and macros for students of the Advanced Imaging
+      Center (AIC) Fiji Course.
+    maintainers:
+      - "[AIC Janelia](https://imagej.net/User:Aicjanelia)"
+  
   - name: "Angiogenesis"
     id: "Angiogenesis"
     url: "https://sites.imagej.net/Angiogenesis/"
