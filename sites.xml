@@ -102,6 +102,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Benjamin Schmid
 
 |- valign=&quot;top&quot;
+|'''AIC Janelia - Course'''
+|https://sites.imagej.net/AICjanelia-course/
+|A collection of plugins and macros for students of the Advanced Imaging Center (AIC) Fiji Course.
+|AIC Janelia
+
+|- valign=&quot;top&quot;
 |'''Angiogenesis'''
 |https://sites.imagej.net/Angiogenesis/
 |A plugin to quantify angiogenic sprout morphology.
