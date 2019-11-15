@@ -1340,6 +1340,20 @@ sites:
     maintainers:
       - "UNSUPPORTED"
 
+  - name: "Operetta Importer"
+    id: "ijp-operetta-importer"
+    url: "https://biop.epfl.ch/update-sites/operetta/"
+    description: >-
+      The Operetta Importer includes an ImageJ 2 Command for importing iamges (measurements) generated from PerkinElmer
+      microscopes running Harmony (Exported from Harmony). 
+      Behind it, there is a full API to get ImageJ-fiendly images (Hyperstacks) out easily for on-the-fly processing in scripts.
+      Most importantly, depite the size of the datasets, processing is fast thanks to Bioformat's Memoization technology
+      and parallel processing. 
+    maintainers:
+      - "Olivier Burri, [EPFL-SV-BIOP](https://people.epfl.ch/olivier.burri)"
+      - "Romain Guiet, [EPFL-SV-BIOP](https://people.epfl.ch/romain.guiet)"
+      - "Nicolas Chiaruttini, [EPFL-SV-BIOP](https://people.epfl.ch/nicolas.chiaruttini)"
+
   - name: "OPTIMISME"
     id: "Dbenielli"
     url: "https://sites.imagej.net/Dbenielli/"
