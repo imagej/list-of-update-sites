@@ -1447,6 +1447,15 @@ sites:
       - "[XU Xiaochun](mailto:mbixxc@nus.edu.sg)"
       - "[Felix Martin Margadant](mailto:mbifmm@nus.edu.sg)"
 
+  - name: "PixFRET"
+    id: "PixFRET"
+    url: "https://sites.imagej.net/PixFRET/"
+    description: >-
+      PixFRET - an ImageJ plug-in for FRET calculation
+      which can accommodate variations in spectral bleed-throughs
+    maintainers:
+      - "[Jan Eglinger](https://imagej.net/User:Eglinger)"
+
   - name: "PQCT"
     id: "PQCT"
     url: "https://sites.imagej.net/PQCT/"

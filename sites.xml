@@ -888,6 +888,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |XU Xiaochun, Felix Martin Margadant
 
 |- valign=&quot;top&quot;
+|'''PixFRET'''
+|https://sites.imagej.net/PixFRET/
+|PixFRET - an ImageJ plug-in for FRET calculation which can accommodate variations in spectral bleed-throughs
+|Jan Eglinger
+
+|- valign=&quot;top&quot;
 |'''PQCT'''
 |https://sites.imagej.net/PQCT/
 |Tools for Stratec pQCT bone and soft tissue images.
