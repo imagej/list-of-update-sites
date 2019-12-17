@@ -1527,7 +1527,7 @@ sites:
     maintainers:
       - "[Anthony Sinadinos](https://imagej.net/User:ResultsToExcel)"
   
-    - name: "ROI 1-click Tools"
+  - name: "ROI 1-click Tools"
     id: "Roi1ClickTools"
     url: "https://sites.imagej.net/RoiClicTool"
     description: >-
