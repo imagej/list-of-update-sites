@@ -1533,7 +1533,7 @@ sites:
     description: >-
       This update sites provides ROI tools similar to the built-in ImageJ ROI,
       but with additional functionalities. A single cick generates a predefined ROI,
-      adds it to the RoiManager, run "Measure" for the outline regions, and go to the next slice.
+      adds it to the RoiManager, run "Measure" for the outlined region, and go to the next slice for stacks.
       These options can be modified by double-clicking the ROI icon.
     maintainers:
       - "[Laurent Thomas](https://imagej.net/User:Lthomas)"
