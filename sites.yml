@@ -1526,6 +1526,17 @@ sites:
       [YouTube tutorial](https://www.youtube.com/watch?v=79rzUae-7N8/).
     maintainers:
       - "[Anthony Sinadinos](https://imagej.net/User:ResultsToExcel)"
+  
+    - name: "ROI 1-click Tools"
+    id: "Roi1ClickTools"
+    url: "https://sites.imagej.net/RoiClicTool"
+    description: >-
+      This update sites provides ROI tools similar to the built-in ImageJ ROI,
+      but with additional functionalities. A single cick generates a predefined ROI,
+      adds it to the RoiManager, run "Measure" for the outline regions, and go to the next slice.
+      These options can be modified by double-clicking the ROI icon.
+    maintainers:
+      - "[Laurent Thomas](https://imagej.net/User:Lthomas)"
 
   - name: "RT-Multiview-Deconvolution"
     id: "RT-Multiview-Deconvolution"
