@@ -936,6 +936,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Anthony Sinadinos
 
 |- valign=&quot;top&quot;
+|'''ROI 1-click Tools'''
+|http://sites.imagej.net/RoiClicTool
+|This update sites provides ROI tools similar to the built-in ImageJ ROI, but with additional functionalities. A single cick generates a predefined ROI, adds it to the RoiManager, run "Measure" for the outlined region, and go to the next slice for stacks. These options can be modified by double-clicking the ROI icon.
+|Laurent Thomas
+
+|- valign=&quot;top&quot;
 |'''RT-Multiview-Deconvolution'''
 |http://sites.imagej.net/RT-Multiview-Deconvolution/
 |Plugins for plane-wise GPU-accelerated multi-view deconvolution of SPIM data.
