@@ -1040,6 +1040,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Chris Gell
 
 |- valign=&quot;top&quot;
+|'''StarDist'''
+|http://sites.imagej.net/StarDist/
+|Object Detection with Star-convex Shapes
+|Uwe Schmidt, Martin Weigert
+
+|- valign=&quot;top&quot;
 |'''Stereoscopic 3D Projection'''
 |http://sites.imagej.net/JoeNapoli/
 |Allows users to create 3-D anaglyph and Google Cardboard compatible projections from image stacks.

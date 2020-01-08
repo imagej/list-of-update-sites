@@ -1694,6 +1694,15 @@ sites:
     maintainers:
       - "Chris Gell"
 
+  - name: "StarDist"
+    id: "StarDist"
+    url: "https://sites.imagej.net/StarDist/"
+    description: >-
+      Object Detection with Star-convex Shapes
+    maintainers:
+      - "[Uwe Schmidt](https://github.com/uschmidt83)"
+      - "[Martin Weigert](https://github.com/maweigert)"
+
   - name: "Stereoscopic 3D Projection"
     id: "JoeNapoli"
     url: "https://sites.imagej.net/JoeNapoli/"
