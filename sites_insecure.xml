@@ -828,6 +828,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |UNSUPPORTED
 
 |- valign=&quot;top&quot;
+|'''Operetta Importer'''
+|https://biop.epfl.ch/update-sites/operetta/
+|The Operetta Importer includes an ImageJ 2 Command for importing iamges (measurements) generated from PerkinElmer microscopes running Harmony (Exported from Harmony).  Behind it, there is a full API to get ImageJ-fiendly images (Hyperstacks) out easily for on-the-fly processing in scripts. Most importantly, depite the size of the datasets, processing is fast thanks to Bioformat's Memoization technology and parallel processing.
+|Olivier Burri, EPFL-SV-BIOP, Romain Guiet, EPFL-SV-BIOP, Nicolas Chiaruttini, EPFL-SV-BIOP
+
+|- valign=&quot;top&quot;
 |'''OPTIMISME'''
 |http://sites.imagej.net/Dbenielli/
 |Optimism is an ImageJ plugin that implements a deconvolution method based on the Majorization minimization algorithm, devoted to two-photon 3d microscopic images.
