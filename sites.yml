@@ -60,6 +60,14 @@ sites:
     maintainers:
       - "[Thomas Boudier](https://imagej.net/User:Tboudier)"
 
+  - name: "3Dscript"
+    id: "3Dscript"
+    url: "https://romulus.oice.uni-erlangen.de/updatesite/"
+    description: >-
+      [3Dscript](https://imagej.net/3Dscript) is a plugin animating 3D/4D microscopy data using a natural-language-based syntax.
+    maintainers:
+    - "[Benjamin Schmid](https://imagej.net/User:Bene)"
+
   - name: "ActogramJ"
     id: "ActogramJ"
     url: "https://romulus.oice.uni-erlangen.de/imagej/updatesites/ActogramJ/"
