@@ -96,6 +96,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Thomas Boudier
 
 |- valign=&quot;top&quot;
+|'''3Dscript'''
+|https://romulus.oice.uni-erlangen.de/updatesite/
+|3Dscript is a plugin animating 3D/4D microscopy data using a natural-language-based syntax.
+|Benjamin Schmid
+
+|- valign=&quot;top&quot;
 |'''ActogramJ'''
 |https://romulus.oice.uni-erlangen.de/imagej/updatesites/ActogramJ/
 |ActogramJ is a plugin for analyzing actograms.
