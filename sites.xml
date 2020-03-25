@@ -204,7 +204,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Astha Jaiswal, Holger Lorenz
 
 |- valign=&quot;top&quot;
-|'''BoneJ experimental'''
+|'''BoneJ'''
 |https://sites.imagej.net/BoneJ/
 |A collection tools for trabecular geometry and whole bone shape analysis. This update site hosts the new experimental, modernized version of BoneJ that works with the latest Fiji. Enabling the update site creates the menu entries Plugins &gt; BoneJ. The pQCT tools are now hosted on their own update site (see below).
 |Michael Doube, Alessandro Felder
