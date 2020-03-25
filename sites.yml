@@ -247,7 +247,7 @@ sites:
     maintainers:
       - "[Astha Jaiswal](https://imagej.net/User:Astja), Holger Lorenz"
       
-  - name: "BoneJ experimental"
+  - name: "BoneJ"
     id: "BoneJ"
     url: "https://sites.imagej.net/BoneJ/"
     description: >-
