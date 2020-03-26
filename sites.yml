@@ -714,7 +714,7 @@ sites:
       scripting language interpreter to create 
       notebook-like pages using ImageJ Macro and Markdown.
     maintainers:
-      - "[Robert Haase](https://haesleinhuepf.net/)"
+      - "[Robert Haase](http://haesleinhuepf.net/)"
 
   - name: "IJPB-plugins"
     id: "IJPB-plugins"
@@ -1595,7 +1595,7 @@ sites:
       Common image processing tools from the Scientific Computing Facility at
       MPI CBG Dresden
     maintainers:
-      - "[Robert Haase](https://haesleinhuepf.net)"
+      - "[Robert Haase](http://haesleinhuepf.net)"
 
   - name: "ScientiFig"
     id: "Aigouy"
