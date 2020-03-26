@@ -710,7 +710,8 @@ sites:
     id: "IJMMD"
     url: "https://sites.imagej.net/IJMMD/"
     description: >-
-      ImageJ Marco Markdown scripting language interpreter to create 
+      [ImageJ Macro Markdown](https://github.com/haesleinhuepf/imagejmacromarkdown)
+      scripting language interpreter to create 
       notebook-like pages using ImageJ Macro and Markdown.
     maintainers:
       - "[Robert Haase](https://haesleinhuepf.net/)"
