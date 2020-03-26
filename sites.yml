@@ -1594,8 +1594,7 @@ sites:
       Common image processing tools from the Scientific Computing Facility at
       MPI CBG Dresden
     maintainers:
-      - "[Benoit Lombardot](https://imagej.net/User:Benoit)"
-      - "[Robert Haase](https://imagej.net/User:Haesleinhuepf)"
+      - "[Robert Haase](https://haesleinhuepf.net)"
 
   - name: "ScientiFig"
     id: "Aigouy"
