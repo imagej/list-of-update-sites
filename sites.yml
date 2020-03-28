@@ -706,6 +706,16 @@ sites:
     maintainers:
       - "[Jónathan Heras](mailto:joheras@gmail.com)"
 
+  - name: "IJMMD"
+    id: "IJMMD"
+    url: "https://sites.imagej.net/IJMMD/"
+    description: >-
+      [ImageJ Macro Markdown](https://github.com/haesleinhuepf/imagejmacromarkdown)
+      scripting language interpreter to create 
+      notebook-like pages using ImageJ Macro and Markdown.
+    maintainers:
+      - "[Robert Haase](https://imagej.net/User:Haesleinhuepf)"
+
   - name: "IJPB-plugins"
     id: "IJPB-plugins"
     url: "https://sites.imagej.net/IJPB-plugins/"
@@ -1585,7 +1595,6 @@ sites:
       Common image processing tools from the Scientific Computing Facility at
       MPI CBG Dresden
     maintainers:
-      - "[Benoit Lombardot](https://imagej.net/User:Benoit)"
       - "[Robert Haase](https://imagej.net/User:Haesleinhuepf)"
 
   - name: "ScientiFig"
