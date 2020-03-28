@@ -714,7 +714,7 @@ sites:
       scripting language interpreter to create 
       notebook-like pages using ImageJ Macro and Markdown.
     maintainers:
-      - "[Robert Haase](https://imagej.net/User:Haesleinhuepf/)"
+      - "[Robert Haase](https://imagej.net/User:Haesleinhuepf)"
 
   - name: "IJPB-plugins"
     id: "IJPB-plugins"
