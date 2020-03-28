@@ -462,6 +462,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Jónathan Heras
 
 |- valign=&quot;top&quot;
+|'''IJMMD'''
+|https://sites.imagej.net/IJMMD/
+|ImageJ Macro Markdown scripting language interpreter to create  notebook-like pages using ImageJ Macro and Markdown.
+|Robert Haase
+
+|- valign=&quot;top&quot;
 |'''IJPB-plugins'''
 |https://sites.imagej.net/IJPB-plugins/
 |Collection of plugins created at the INRA-IJPB Modeling and Digital Imaging lab to perform 2D/3D image segmentation, fast morphological operations and geometric analysis
@@ -969,7 +975,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |'''SCF MPI CBG'''
 |https://sites.imagej.net/SCF-MPI-CBG/
 |Common image processing tools from the Scientific Computing Facility at MPI CBG Dresden
-|Benoit Lombardot, Robert Haase
+|Robert Haase
 
 |- valign=&quot;top&quot;
 |'''ScientiFig'''
