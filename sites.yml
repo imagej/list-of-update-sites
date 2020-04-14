@@ -1000,6 +1000,14 @@ sites:
       - "[Alexander Krull](https://imagej.net/User:Alex)"
       - "[Damien Ramunno-Johnson](https://imagej.net/User:Damienrj)"
 
+  - name: "LMCF-IMG"
+    id: "LMCF-IMG"
+    url: "https://sites.imagej.net/LMCF-IMG/"
+    description: >-
+      Plugins devoloped to help with our work in light microscopy core facility.
+    maintainers:
+      - "[Martin Capek](https://imagej.net/User:LMCF-IMG)"
+
   - name: "LOCI"
     id: "LOCI"
     url: "https://sites.imagej.net/LOCI/"
