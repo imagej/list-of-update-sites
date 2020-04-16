@@ -8,17 +8,14 @@
 mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
 
 });mw.loader.load(["mediawiki.page.startup"]);});</script>
-<link rel="stylesheet" href="https://imagej.net/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cskins.erudite&amp;only=styles&amp;skin=erudite"/>
-<link rel="stylesheet" href="https://imagej.net/extensions/TreeAndMenu/fancytree/fancytree.css"/><link rel="stylesheet" href="https://imagej.net/extensions/TreeAndMenu/suckerfish/suckerfish.css"/>
+<link rel="stylesheet" href="common.css"/>
+<link rel="stylesheet" href="fancytree.css"/><link rel="stylesheet" href="suckerfish.css"/>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
-<link rel="stylesheet" href="https://imagej.net/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=erudite"/>
-<script async="" src="https://imagej.net/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=erudite"></script>
-<meta name="generator" content="MediaWiki 1.28.0-alpha"/>
-<meta name="description" content="The Updater has a convenient Manage update sites dialog that is populated by this wiki page."/>
-<link rel="shortcut icon" href="https://imagej.net/skins/ij2.ico"/>
-<link rel="search" type="application/opensearchdescription+xml" href="https://imagej.net/opensearch_desc.php" title="ImageJ (en)"/>
-<link rel="EditURI" type="application/rsd+xml" href="https://imagej.net/api.php?action=rsd"/>
-<link rel="alternate" type="application/atom+xml" title="ImageJ Atom feed" href="https://imagej.net/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="stylesheet" href="style.css"/>
+<script async="" src="common.js"></script>
+<meta name="generator" content="https://github.com/imagej/list-of-update-sites"/>
+<meta name="description" content="The list of built-in update sites for ImageJ."/>
+<link rel="shortcut icon" href="ij2.ico"/>
 	<meta property="og:type" content="article"/>
 
 	<meta property="og:site_name" content="ImageJ"/>
