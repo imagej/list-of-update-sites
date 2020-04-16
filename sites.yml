@@ -1000,6 +1000,16 @@ sites:
       - "[Alexander Krull](https://imagej.net/User:Alex)"
       - "[Damien Ramunno-Johnson](https://imagej.net/User:Damienrj)"
 
+  - name: "LMCF-IMG"
+    id: "LMCF-IMG"
+    url: "https://sites.imagej.net/LMCF-IMG/"
+    description: >-
+      Plugins developed for work at
+      [LMCF IMG](https://www.img.cas.cz/core-facilities/light-microscopy/),
+      including [Wavelet Denoise](https://imagej.net/Wavelet_Denoise).
+    maintainers:
+      - "[Martin Capek](https://imagej.net/User:LMCF-IMG)"
+
   - name: "LOCI"
     id: "LOCI"
     url: "https://sites.imagej.net/LOCI/"

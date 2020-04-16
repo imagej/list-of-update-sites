@@ -630,6 +630,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Alexander Krull, Damien Ramunno-Johnson
 
 |- valign=&quot;top&quot;
+|'''LMCF-IMG'''
+|https://sites.imagej.net/LMCF-IMG/
+|Plugins developed for work at LMCF IMG, including Wavelet Denoise.
+|Martin Capek
+
+|- valign=&quot;top&quot;
 |'''LOCI'''
 |https://sites.imagej.net/LOCI/
 |The LOCI update site for their Fiji plugins, including VisBio Fiji plugins and other miscellany.
