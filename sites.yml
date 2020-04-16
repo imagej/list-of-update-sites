@@ -337,7 +337,7 @@ sites:
     url: "https://sites.imagej.net/Miura/"
     description: >-
       A plugin for loading sample images and misc functionality for CMCI ImageJ
-      course. See [CMCI course](http://cmci.embl.de/mainpages/courses).
+      course. See [CMCI course](http://wiki.cmci.info/mainpages/courses).
       Eventually more plugins will be added.
     maintainers:
       - "[Kota Miura](https://imagej.net/User:Miura)"
@@ -607,7 +607,7 @@ sites:
       The Genome Damage and Stability Centre (GDSC) plugins are a collection of
       analysis programs for microscopy images including colocalisation analysis
       and peak finding (FindFoci). See
-      [GDSC Plugins](http://www.sussex.ac.uk/gdsc/intranet/microscopy/imagej/gdsc_plugins)
+      [GDSC Plugins](http://www.sussex.ac.uk/gdsc/intranet/microscopy/UserSupport/AnalysisProtocol/imagej/gdsc_plugins/)
       for details.
     maintainers:
       - "[Alex Herbert](mailto:a.herbert@sussex.ac.uk)"
@@ -619,7 +619,7 @@ sites:
       The GDSC Single Molecule Light Microscopy (SMLM) plugins provide various
       tools for single molecule localisation analysis. This includes PALM,
       STORM and other single molecule microscopy methods. See
-      [SMLM Plugins](http://www.sussex.ac.uk/gdsc/intranet/microscopy/imagej/smlm_plugins)
+      [SMLM Plugins](http://www.sussex.ac.uk/gdsc/intranet/microscopy/UserSupport/AnalysisProtocol/imagej/smlm_plugins/)
       for details or read the
       [User Manual](http://www.sussex.ac.uk/gdsc/intranet/pdfs/SMLM.pdf).
     maintainers:
@@ -1104,14 +1104,14 @@ sites:
     id: "MiToBo"
     url: "https://sites.imagej.net/MiToBo/"
     description: >-
-      [MiToBo](http://mitobo.informatik.uni-halle.de) is a collection of
+      [MiToBo](https://mitobo.informatik.uni-halle.de/) is a collection of
       basic image processing operators (filtering, morphology, labeling, etc.),
       advanced analysis algorithms (wavelets, snakes, levelsets, etc.), and
       special applications mainly dedicated to microscopy image analysis
       (nuclei detection, scratch assay analysis, neurite image segmentation,
       etc.).
     maintainers:
-      - "[The MiToBo Team, Halle, Germany](http://mitobo.informatik.uni-halle.de)"
+      - "[The MiToBo Team, Halle, Germany](https://mitobo.informatik.uni-halle.de/)"
 
   - name: "Molography"
     id: "VolkerGatterdam"
@@ -1998,7 +1998,7 @@ sites:
       
   - name: "ZedMate Suite"
     id: "ZedMate"
-    url: "http://sites.imagej.net/Ayakimovich/"
+    url: "https://sites.imagej.net/Ayakimovich/"
     description: >-
       [ZedMate](https://imagej.net/ZedMate) is a TrackMate-based plugin for
       3D particles detection and measurement.
