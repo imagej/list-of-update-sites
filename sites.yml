@@ -1004,7 +1004,9 @@ sites:
     id: "LMCF-IMG"
     url: "https://sites.imagej.net/LMCF-IMG/"
     description: >-
-      Plugins devoloped to help with our work in light microscopy core facility.
+      Plugins developed for work at
+      [LMCF IMG](https://www.img.cas.cz/core-facilities/light-microscopy/),
+      including [Wavelet Denoise](https://imagej.net/Wavelet_Denoise).
     maintainers:
       - "[Martin Capek](https://imagej.net/User:LMCF-IMG)"
 
