@@ -359,6 +359,16 @@ sites:
     maintainers:
       - "[Gregory Jefferis](https://imagej.net/User:Jefferis)"
 
+  - name: "Colocalization by Cross Correlation"
+    id: "Amccall"
+    url: "https://sites.imagej.net/Amccall/"
+    description: >-
+      A co-localization plugin that attempts to find non-random spatial correlations
+      between two images and provide an estimate of their distance and standard deviation.
+      Conceptually similar to Van Steensel's CCF.
+    maintainers:
+      - "[Andrew McCall](https://imagej.net/User:Amccall)"
+
   - name: "Cookbook"
     id: "Cookbook"
     url: "https://sites.imagej.net/Cookbook/"
