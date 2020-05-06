@@ -472,7 +472,7 @@ sites:
     id: "IMBalENce"
     url: "https://sites.imagej.net/IMBalENce/"
     description: >-
-      [IMBalENce](https://imagej.net/IMBalENce) is a suite of simple tools for electron microscopist
+      [EM tool](https://imagej.net/IMBalENce) is a suite of simple tools for electron microscopist
     maintainers:
       - "[Zhou Xu](mailto:zhou.xu@monash.edu)"      
 
