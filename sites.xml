@@ -732,6 +732,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |MTrack
 
 |- valign=&quot;top&quot;
+|'''Multifrac'''
+|https://sites.imagej.net/Multifrac/
+|Multifrac is a tool for multifractal and scaling analysis of 2D and 3D stack images,  including lacunarity, configuration entropy, characteristic lenght and multifractal spectrum of gray and black and white images. This is particularly desginated and tested for addressing analysis on soil pore structre.
+|Ivan G Torre
+
+|- valign=&quot;top&quot;
 |'''Multi-Template-Matching'''
 |https://sites.imagej.net/Multi-Template-Matching/
 |Multiple template matching allows to easily localize one or multiple objects in images using one or a set of template images. The template images can be flipped and/or rotated to increase the chance to find the objects.
