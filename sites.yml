@@ -1183,6 +1183,20 @@ sites:
       points for dynamically growing microtubules.
     maintainers:
       - "[MTrack](https://imagej.net/User:MTrack)"
+      
+      
+  - name: "Multifrac"
+    id: "Multifrac"
+    url: "https://sites.imagej.net/Multifrac/"
+    description: >-
+      [Multifrac](https://sites.imagej.net/Multifrac)
+      is a tool for multifractal and scaling analysis of 2D and 3D stack images, 
+      including lacunarity, configuration entropy, characteristic lenght and multifractal
+      spectrum of gray and black and white images. This is particularly desginated and tested
+      for addressing analysis on soil pore structre.
+    maintainers:
+      - "[Ivan G Torre](https://imagej.net/User:Ivangtorre)"
+
   
   - name: "Multi-Template-Matching"
     id: "Multi-Template-Matching"
