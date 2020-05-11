@@ -276,6 +276,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Gregory Jefferis
 
 |- valign=&quot;top&quot;
+|'''Colocalization by Cross Correlation'''
+|https://sites.imagej.net/Amccall/
+|A co-localization plugin that attempts to find non-random spatial correlations between two images and provide an estimate of their distance and standard deviation. Conceptually similar to Van Steensel's CCF.
+|Andrew McCall
+
+|- valign=&quot;top&quot;
 |'''Cookbook'''
 |https://sites.imagej.net/Cookbook/
 |Plugins from the Cookbook.
