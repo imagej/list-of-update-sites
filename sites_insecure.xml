@@ -336,6 +336,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Pedro J. Gómez Gálvez, Pablo Vicente Munuera
 
 |- valign=&quot;top&quot;
+|'''EM Tool'''
+|http://sites.imagej.net/IMBalENce/
+|EM tool is a suite of simple tools for electron microscopist
+|Zhou Xu
+
+|- valign=&quot;top&quot;
 |'''EZFig'''
 |http://sites.imagej.net/EZF/
 |EZFig is a tool to build publication-ready scientific figures based on ScientiFig but simpler to use. It must be used in combination with the 'Java-8' update site.
