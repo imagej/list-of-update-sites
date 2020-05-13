@@ -478,6 +478,14 @@ sites:
       - "[Pedro J. Gómez Gálvez](mailto:pgomez-ibis@us.es)"
       - "[Pablo Vicente Munuera](https://github.com/Pablo1990)"
 
+  - name: "EM Tool"
+    id: "IMBalENce"
+    url: "https://sites.imagej.net/IMBalENce/"
+    description: >-
+      [EM tool](https://imagej.net/IMBalENce) is a suite of simple tools for electron microscopist
+    maintainers:
+      - "[Zhou Xu](mailto:zhou.xu@monash.edu)"      
+
   - name: "EZFig"
     id: "EZF"
     url: "https://sites.imagej.net/EZF/"
@@ -1193,6 +1201,20 @@ sites:
       points for dynamically growing microtubules.
     maintainers:
       - "[MTrack](https://imagej.net/User:MTrack)"
+      
+      
+  - name: "Multifrac"
+    id: "Multifrac"
+    url: "https://sites.imagej.net/Multifrac/"
+    description: >-
+      [Multifrac](https://sites.imagej.net/Multifrac)
+      is a tool for multifractal and scaling analysis of 2D and 3D stack images, 
+      including lacunarity, configuration entropy, characteristic lenght and multifractal
+      spectrum of gray and black and white images. This is particularly desginated and tested
+      for addressing analysis on soil pore structre.
+    maintainers:
+      - "[Ivan G Torre](https://imagej.net/User:Ivangtorre)"
+
   
   - name: "Multi-Template-Matching"
     id: "Multi-Template-Matching"
@@ -2014,3 +2036,5 @@ sites:
       3D particles detection and measurement.
     maintainers:
       - "[Artur Yakimovich](mailto:a.yakimovich@ucl.ac.uk)"
+      
+
