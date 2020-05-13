@@ -365,7 +365,8 @@ sites:
     description: >-
       A co-localization plugin that attempts to find non-random spatial correlations
       between two images and provide an estimate of their distance and standard deviation.
-      Conceptually similar to Van Steensel's CCF.
+      Conceptually similar to Van Steensel's CCF. For more details see our 
+      [wiki page](https://imagej.net/Colocalization_by_Cross_Correlation).
     maintainers:
       - "[Andrew McCall](https://imagej.net/User:Amccall)"
 
