@@ -278,7 +278,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''Colocalization by Cross Correlation'''
 |http://sites.imagej.net/Amccall/
-|A co-localization plugin that attempts to find non-random spatial correlations between two images and provide an estimate of their distance and standard deviation. Conceptually similar to Van Steensel's CCF.
+|A co-localization plugin that attempts to find non-random spatial correlations between two images and provide an estimate of their distance and standard deviation. Conceptually similar to Van Steensel's CCF. For more details see our  wiki page.
 |Andrew McCall
 
 |- valign=&quot;top&quot;
