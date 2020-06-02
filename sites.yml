@@ -462,9 +462,9 @@ sites:
     id: "EMBL-CBA"
     url: "https://sites.imagej.net/EMBL-CBA/"
     description: >-
-      Collection of image analysis tools.
-      * Image Registration: Plugin for n-dimensional image sequence registration [Christian Tischer](mailto:christian.tischer@embl.de)
+      Collection of image visualisation, processing, registration and analysis tools.
     maintainers:
+      - "[Christian Tischi Tischer](mailto:tischitischer@gmail.com)"
       - "[EMBL-CBA](mailto:image-analysis-support@embl.de)"
 
   - name: "EpiGraph"
