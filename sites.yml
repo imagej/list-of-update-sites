@@ -635,12 +635,20 @@ sites:
     id: "GDSC-SMLM"
     url: "https://sites.imagej.net/GDSC-SMLM/"
     description: >-
-      The GDSC Single Molecule Light Microscopy (SMLM) plugins provide various
-      tools for single molecule localisation analysis. This includes PALM,
-      STORM and other single molecule microscopy methods. See
-      [SMLM Plugins](http://www.sussex.ac.uk/gdsc/intranet/microscopy/UserSupport/AnalysisProtocol/imagej/smlm_plugins/)
-      for details or read the
-      [User Manual](http://www.sussex.ac.uk/gdsc/intranet/pdfs/SMLM.pdf).
+      Tools for Single Molecule Light Microscopy (SMLM). This version has been 
+      superceded by GDSC-SMLM2; the two versions cannot be used together.
+      The original [user manual](http://www.sussex.ac.uk/gdsc/intranet/pdfs/SMLM.pdf)
+      is available.
+    maintainers:
+      - "[Alex Herbert](mailto:a.herbert@sussex.ac.uk)"
+
+  - name: "GDSC-SMLM2"
+    id: "GDSC-SMLM2"
+    url: "https://sites.imagej.net/GDSC-SMLM2/"
+    description: >-
+      Tools for Single Molecule Light Microscopy (SMLM) including PALM,
+      STORM and other single molecule microscopy methods.
+      See the latest documentation on [ReadTheDocs](https://gdsc-smlm.readthedocs.io/).
     maintainers:
       - "[Alex Herbert](mailto:a.herbert@sussex.ac.uk)"
 
