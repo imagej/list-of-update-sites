@@ -332,8 +332,8 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''EMBL-CBA'''
 |http://sites.imagej.net/EMBL-CBA/
-|Collection of image analysis tools. * Image Registration: Plugin for n-dimensional image sequence registration Christian Tischer
-|EMBL-CBA
+|Collection of image visualisation, processing, registration and analysis tools.
+|Christian Tischi Tischer, EMBL-CBA
 
 |- valign=&quot;top&quot;
 |'''EpiGraph'''
