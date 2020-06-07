@@ -464,7 +464,7 @@ sites:
     description: >-
       Collection of image visualisation, processing, registration and analysis tools.
     maintainers:
-      - "[Christian Tischi Tischer](mailto:tischitischer@gmail.com)"
+      - "[Christian Tischer](mailto:tischitischer@gmail.com)"
       - "[EMBL-CBA](mailto:image-analysis-support@embl.de)"
 
   - name: "EpiGraph"
@@ -1131,7 +1131,15 @@ sites:
       etc.).
     maintainers:
       - "[The MiToBo Team, Halle, Germany](https://mitobo.informatik.uni-halle.de/)"
-
+ 
+  - name: "MoBIE"
+    id: "MoBIE"
+    url: "https://sites.imagej.net/MoBIE/"
+    description: >-
+      Multimodal Big Image Data Exploration and Sharing [MoBIE](https://github.com/mobie-org/mobie) 
+    maintainers:
+      - "[Christian Tischer](mailto:tischitischer@gmail.com)"
+      
   - name: "Molography"
     id: "VolkerGatterdam"
     url: "https://sites.imagej.net/VolkerGatterdam/"
