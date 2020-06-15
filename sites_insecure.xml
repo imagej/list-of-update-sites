@@ -333,7 +333,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |'''EMBL-CBA'''
 |http://sites.imagej.net/EMBL-CBA/
 |Collection of image visualisation, processing, registration and analysis tools.
-|Christian Tischi Tischer, EMBL-CBA
+|Christian Tischer, EMBL-CBA
 
 |- valign=&quot;top&quot;
 |'''EpiGraph'''
@@ -706,6 +706,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |http://sites.imagej.net/MiToBo/
 |MiToBo is a collection of basic image processing operators (filtering, morphology, labeling, etc.), advanced analysis algorithms (wavelets, snakes, levelsets, etc.), and special applications mainly dedicated to microscopy image analysis (nuclei detection, scratch assay analysis, neurite image segmentation, etc.).
 |The MiToBo Team, Halle, Germany
+
+|- valign=&quot;top&quot;
+|'''MoBIE'''
+|http://sites.imagej.net/MoBIE/
+|Multimodal Big Image Data Exploration and Sharing MoBIE
+|Christian Tischer
 
 |- valign=&quot;top&quot;
 |'''Molography'''
