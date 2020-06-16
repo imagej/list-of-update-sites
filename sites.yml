@@ -156,6 +156,15 @@ sites:
     maintainers:
       - "[Tingying Peng](mailto:tingying.peng@tum.de)"
 
+  - name: "BigDataProcessor"
+    id: BigDataProcessor"
+    url: "https://sites.imagej.net/BigDataProcessor/"
+    description: >-
+      [BigDataProcessor2](https://github.com/embl-cba/bigDataProcessor2#bigdataprocessor2) 
+      is an Imglib2 and BigDataViewer based tool for inspection and processing of big (TB-sized) image data.
+    maintainers:
+      - "[Christian Tischer](mailto:tischitischer@gmail.com)"
+
   - name: "BIG-EPFL"
     id: "BIG-EPFL"
     url: "https://sites.imagej.net/BIG-EPFL/"
