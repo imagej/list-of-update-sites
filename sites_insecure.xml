@@ -228,6 +228,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Erick Martins Ratamero
 
 |- valign=&quot;top&quot;
+|'''CATS'''
+|http://sites.imagej.net/CATS/
+|Context Aware Trainable Segmentation CATS
+|Christian Tischer
+
+|- valign=&quot;top&quot;
 |'''CellTrackingChallenge'''
 |http://sites.imagej.net/Ulman/
 |Implementation of measures and front-end plugins used in and related to the Cell Tracking Challenge.

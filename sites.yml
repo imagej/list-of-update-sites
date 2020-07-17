@@ -288,6 +288,14 @@ sites:
     maintainers:
       - "[Erick Martins Ratamero](mailto:e.martins-ratamero.1@warwick.ac.uk)"
 
+  - name: "CATS"
+    id: "CATS"
+    url: "https://sites.imagej.net/CATS/"
+    description: >-
+      Context Aware Trainable Segmentation [CATS](https://github.com/embl-cba/cats) 
+    maintainers:
+      - "[Christian Tischer](mailto:tischitischer@gmail.com)"
+
   - name: "CellTrackingChallenge"
     id: "Ulman"
     url: "https://sites.imagej.net/Ulman/"
