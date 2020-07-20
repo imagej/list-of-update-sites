@@ -354,6 +354,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Pedro J. Gómez Gálvez, Pablo Vicente Munuera
 
 |- valign=&quot;top&quot;
+|'''ElastixWrapper'''
+|https://sites.imagej.net/ElastixWrapper/
+|Image registration using elastix
+|Christian Tischer
+
+|- valign=&quot;top&quot;
 |'''EM Tool'''
 |https://sites.imagej.net/IMBalENce/
 |EM tool is a suite of simple tools for electron microscopist
