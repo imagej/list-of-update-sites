@@ -1267,6 +1267,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |ZedMate is a TrackMate-based plugin for 3D particles detection and measurement.
 |Artur Yakimovich
 
+|- valign=&quot;top&quot;
+|'''ZFBONE'''
+|https://sites.imagej.net/Zfmacros/
+|ZFBONE ZFBONE is a toolset that provides tools  needed for a rapid, reliable and semi-automatized morphometric analysis of zebrafish  bone structures such as operculum, caudal fin and scales.
+|Marco Tarasco
+
 }</text>
       <sha1>beaqwm8xeaoo2kusu15tfly02pxlcxk</sha1>
     </revision>
