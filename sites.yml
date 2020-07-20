@@ -496,6 +496,14 @@ sites:
       - "[Pedro J. Gómez Gálvez](mailto:pgomez-ibis@us.es)"
       - "[Pablo Vicente Munuera](https://github.com/Pablo1990)"
 
+  - name: "ElastixWrapper"
+    id: "ElastixWrapper"
+    url: "https://sites.imagej.net/ElastixWrapper/"
+    description: >-
+      Image registration using [elastix](http://elastix.isi.uu.nl/) 
+    maintainers:
+      - "[Christian Tischer](mailto:tischitischer@gmail.com)"
+
   - name: "EM Tool"
     id: "IMBalENce"
     url: "https://sites.imagej.net/IMBalENce/"
