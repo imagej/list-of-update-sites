@@ -2083,7 +2083,7 @@ sites:
     id: "ZFBONE"
     url: "https://sites.imagej.net/Zfmacros/"
     description: >-
-      [ZFBONE](https://sites.imagej.net/Zfmacros) ZFBONE is a toolset that provides tools 
+      [ZFBONE](https://sites.imagej.net/Zfmacros) is a toolset that provides tools 
       needed for a rapid, reliable and semi-automatized morphometric analysis of zebrafish 
       bone structures such as operculum, caudal fin and scales.
     maintainers:
