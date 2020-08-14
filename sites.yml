@@ -1809,6 +1809,14 @@ sites:
     maintainers:
       - "Chris Gell"
 
+  - name: "Spindle3D"
+    id: "Spindle3D"
+    url: "https://sites.imagej.net/Spindle3D/"
+    description: >-
+      3D segmentation and morphometry of mitotic spindles
+    maintainers:
+      - "Christian Tischer"
+      
   - name: "StarDist"
     id: "StarDist"
     url: "https://sites.imagej.net/StarDist/"
