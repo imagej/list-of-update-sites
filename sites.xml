@@ -1112,6 +1112,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Chris Gell
 
 |- valign=&quot;top&quot;
+|'''Spindle3D'''
+|https://sites.imagej.net/Spindle3D/
+|3D segmentation and morphometry of mitotic spindles
+|Christian Tischer
+
+|- valign=&quot;top&quot;
 |'''StarDist'''
 |https://sites.imagej.net/StarDist/
 |Object Detection with Star-convex Shapes
