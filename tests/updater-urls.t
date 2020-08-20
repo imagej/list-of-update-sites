@@ -30,11 +30,11 @@ When the Updater asks for the list via HTTP, we want the URLs to be HTTP.
   |'''Java-8'''
   |http://sites.imagej.net/Java-8/
 
-When someone asks for the old list of update sites URL, redirect to GitHub.
+When asking for the old list of update sites URL, redirect to the new URL.
 
   $ curl -Ifs https://imagej.net/List_of_update_sites | grep '^\(HTTP/\|Location:\)'
   HTTP/1.1 301 Moved Permanently
-  Location: https://imagej.github.io/list-of-update-sites/
+  Location: https://imagej.net/list-of-update-sites/
 
 If they ask for it over HTTP, redirect to HTTPS.
 
