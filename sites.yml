@@ -1592,6 +1592,15 @@ sites:
     maintainers:
       - "[Olivier Burri](https://people.epfl.ch/olivier.burri?lang=en&cvlang=en)"
 
+  - name: "Qualitative Annotations"
+    id: "Qualitative-Annotations"
+    url: "https://sites.imagej.net/Qualitative-Annotations/"
+    description: >-
+      Plugins to describe images or rois with qualitative keywords (ground-truth classes, categories...)
+      Selected keywords are reported in a result table and stored as roi properties.
+    maintainers:
+      - "[Laurent Thomas](https://imagej.net/User:Lthomas)"
+
   - name: "Quantixed"
     id: "Quantixed"
     url: "https://sites.imagej.net/Quantixed/"
