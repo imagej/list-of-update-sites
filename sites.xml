@@ -978,6 +978,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Olivier Burri
 
 |- valign=&quot;top&quot;
+|'''Qualitative Annotations'''
+|https://sites.imagej.net/Qualitative-Annotations/
+|Plugins to describe images or rois with qualitative keywords (ground-truth classes, categories...) Selected keywords are reported in a result table and stored as roi properties.
+|Laurent Thomas
+
+|- valign=&quot;top&quot;
 |'''Quantixed'''
 |https://sites.imagej.net/Quantixed/
 |ImageJ macros for making figures, blind analysis and more. Maintenance and issues here.
