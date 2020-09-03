@@ -1570,9 +1570,9 @@ sites:
       PixFRET - an ImageJ plug-in for FRET calculation
       which can accommodate variations in spectral bleed-throughs
     maintainers:
-      - "[Jan Eglinger](https://imagej.net/User:Eglinger)"
-
-  - name: "PQCT"
+      - "[Jan Eglinger](https://imagej.net/User:Eglinger)
+ 
+ - name: "PQCT"
     id: "PQCT"
     url: "https://sites.imagej.net/PQCT/"
     description: >-
@@ -1639,7 +1639,22 @@ sites:
     maintainers:
       - "[Philipp Tschaikner](https://imagej.net/User:PTschaikner)"
 
-  - name: "ResultsToExcel"
+  - name: "ReadPlate"
+    id: "ReadPlate"
+    url: "https://sites.imagej.net/ReadPlate/"
+    description: >-
+      This macro measures absorbance values from an image of a multi-well 
+      plate. ReadPlate 3.0 version incorporates the capability of reading 
+      multi-well plates of 6 (3x2), 12 (4x3), 24 (6x4), 48 (8x6) and 96 (12x8) 
+      wells. An new user-friendly interface facilitates image analysis. This 
+      version allows new user-defined features to optimize blank correction. 
+      Multiple readings of the same plate has also considerably been 
+      facilitated, appending the full parameter file to the results and log 
+      file.
+    maintainers:
+      - "José María Delfino (delfino@qb.ffyb.uba.ar)"
+      
+ - name: "ResultsToExcel"
     id: "ResultsToExcel"
     url: "https://sites.imagej.net/ResultsToExcel/"
     description: >-
