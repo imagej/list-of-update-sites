@@ -1008,6 +1008,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Philipp Tschaikner
 
 |- valign=&quot;top&quot;
+|'''ReadPlate'''
+|http://sites.imagej.net/ReadPlate/
+|This macro measures absorbance values from an image of a multi-well  plate. ReadPlate 3.0 version incorporates the capability of reading  multi-well plates of 6 (3x2), 12 (4x3), 24 (6x4), 48 (8x6) and 96 (12x8)  wells. An new user-friendly interface facilitates image analysis. This  version allows new user-defined features to optimize blank correction.  Multiple readings of the same plate has also considerably been  facilitated, appending the full parameter file to the results and log  file.
+|José María Delfino (delfino@qb.ffyb.uba.ar)
+
+|- valign=&quot;top&quot;
 |'''ResultsToExcel'''
 |http://sites.imagej.net/ResultsToExcel/
 |This plugin extracts data from the Results Table and adds it to a new or existing .xlsx Excel file on the user's desktop. It works well with batching as data is not overwritten. A similar plugin exists by another developer but that one didn't work well for me. I did not consult their source code. YouTube tutorial.
