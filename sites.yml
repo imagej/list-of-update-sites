@@ -1570,9 +1570,9 @@ sites:
       PixFRET - an ImageJ plug-in for FRET calculation
       which can accommodate variations in spectral bleed-throughs
     maintainers:
-      - "[Jan Eglinger](https://imagej.net/User:Eglinger)
+      - "[Jan Eglinger](https://imagej.net/User:Eglinger)"
  
- - name: "PQCT"
+  - name: "PQCT"
     id: "PQCT"
     url: "https://sites.imagej.net/PQCT/"
     description: >-
@@ -1654,7 +1654,7 @@ sites:
     maintainers:
       - "José María Delfino (delfino@qb.ffyb.uba.ar)"
       
- - name: "ResultsToExcel"
+  - name: "ResultsToExcel"
     id: "ResultsToExcel"
     url: "https://sites.imagej.net/ResultsToExcel/"
     description: >-
