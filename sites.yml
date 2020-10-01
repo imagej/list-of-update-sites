@@ -391,7 +391,7 @@ sites:
     id: "ColourDeconvolution2"
     url: "https://sites.imagej.net/ColourDeconvolution2/"
     description: >-
-      The update site for 
+      Update site for 
       [Colour Deconvolution2](https://blog.bham.ac.uk/intellimic/g-landini-software/colour-deconvolution-2/)
     maintainers:
       - "[Gabriel Landini](https://imagej.net/User:Landini)"
