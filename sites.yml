@@ -387,6 +387,15 @@ sites:
     maintainers:
       - "[Andrew McCall](https://imagej.net/User:Amccall)"
 
+    - name: "Colour Deconvolution2"
+    id: "ColourDeconvolution2"
+    url: "https://sites.imagej.net/ColourDeconvolution2/"
+    description: >-
+      The update site for 
+      [Colour Deconvolution2](https://blog.bham.ac.uk/intellimic/g-landini-software/colour-deconvolution-2/)
+    maintainers:
+      - "[Gabriel Landini](https://imagej.net/User:Landini)"
+
   - name: "Cookbook"
     id: "Cookbook"
     url: "https://sites.imagej.net/Cookbook/"
@@ -1194,7 +1203,7 @@ sites:
     url: "https://sites.imagej.net/Landini/"
     description: >-
       The update site for the
-      [Mathematical Morphology Collection](https://www.mecourse.com/landinig/software/software.html)
+      [Mathematical Morphology Collection](https://blog.bham.ac.uk/intellimic/g-landini-software/)
       of plugins and macros.
     maintainers:
       - "[Gabriel Landini](https://imagej.net/User:Landini)"
