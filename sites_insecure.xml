@@ -294,6 +294,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Andrew McCall
 
 |- valign=&quot;top&quot;
+|'''Colour Deconvolution2'''
+|http://sites.imagej.net/ColourDeconvolution2/
+|Update site for  Colour Deconvolution2
+|Gabriel Landini
+
+|- valign=&quot;top&quot;
 |'''Cookbook'''
 |http://sites.imagej.net/Cookbook/
 |Plugins from the Cookbook.
