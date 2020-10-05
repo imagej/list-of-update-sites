@@ -1618,6 +1618,18 @@ sites:
       and issues [here](https://github.com/quantixed/imagej-macros/).
     maintainers:
       - "[Stephen Royle](https://mechanochemistry.org/royle)"
+      
+  - name: "QuickFigures"
+    id: "QuickFigures"
+    url: "https://sites.imagej.net/QuickFigures/"
+    description: >-
+      ImageJ PlugIn for making publication quality figures from multichannel images.
+      User friendly, fast, efficient and versatile. Autamates dozens of steps.
+      Comparable to ScientiFig, FigureJ and omero.figure.
+      See youtube tutorial [here](https://www.youtube.com/watch?v=uRGPBT1mhHg&list=PLM5I73cb55tCEjT7qdU7XDrAnSxg6ZNxp&index=1).
+      Also see publication for more details.
+    maintainers:
+      - "[Greg M](https://imagej.net/User:GregM)"
 
   - name: "QuimP"
     id: "QuimP"

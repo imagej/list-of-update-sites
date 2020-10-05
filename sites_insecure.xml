@@ -996,6 +996,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Stephen Royle
 
 |- valign=&quot;top&quot;
+|'''QuickFigures'''
+|http://sites.imagej.net/QuickFigures/
+|ImageJ PlugIn for making publication quality figures from multichannel images. User friendly, fast, efficient and versatile. Autamates dozens of steps. Comparable to ScientiFig, FigureJ and omero.figure. See youtube tutorial here. Also see publication for more details.
+|Greg M
+
+|- valign=&quot;top&quot;
 |'''QuimP'''
 |https://pilip.lnx.warwick.ac.uk/quimp-update-site/
 |QuimP is software for tracking cellular shape changes and dynamic distributions of fluorescent reporters at the cell membrane.
