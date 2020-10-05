@@ -1619,7 +1619,7 @@ sites:
     maintainers:
       - "[Stephen Royle](https://mechanochemistry.org/royle)"
       
-   - name: "QuickFigures"
+  - name: "QuickFigures"
     id: "QuickFigures"
     url: "https://sites.imagej.net/QuickFigures/"
     description: >-
