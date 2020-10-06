@@ -414,6 +414,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Guillaume Jacquemet, Alexandre Carisey
 
 |- valign=&quot;top&quot;
+|'''FLIMJ'''
+|http://sites.imagej.net/FLIMJ/
+|FLIMJ is a plugin for analyzing FLIM data in ImageJ, using the FLIMLib library.
+|Dasong Gao, Curtis Rueden
+
+|- valign=&quot;top&quot;
 |'''FPBioimage'''
 |http://sites.imagej.net/Fpbioimage/
 |A plugin to prepare and upload data for Fpbioimage.
