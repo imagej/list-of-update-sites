@@ -593,6 +593,17 @@ sites:
       - "Guillaume Jacquemet"
       - "Alexandre Carisey"
 
+  - name: "FLIMJ"
+    id: "FLIMJ"
+    url: "https://sites.imagej.net/FLIMJ/"
+    description: >-
+      [FLIMJ](https://imagej.net/FLIMJ) is a plugin for analyzing FLIM
+      data in ImageJ, using the [FLIMLib](https://flimlib.github.io/)
+      library.
+    maintainers:
+      - "Dasong Gao"
+      - "Curtis Rueden"
+
   - name: "FPBioimage"
     id: "Fpbioimage"
     url: "https://sites.imagej.net/Fpbioimage/"
