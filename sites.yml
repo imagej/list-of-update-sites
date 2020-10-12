@@ -335,8 +335,26 @@ sites:
     id: "clij2"
     url: "https://sites.imagej.net/clij2/"
     description: >-
-      Experimental update site / incubator for the future release of clij2.
-      See [https://clij.github.io/clij-advanced-filters](https://clij.github.io/clij-advanced-filters)
+      GPU-acceleration for ImageJ. Please also activate "clij" if you want to use "clij2".
+      See [https://clij.github.io/](https://clij.github.io/)
+    maintainers:
+      - "[Robert Haase](https://imagej.net/User:Haesleinhuepf)"
+
+  - name: "clijx-assistant"
+    id: "clijx-assistant"
+    url: "https://sites.imagej.net/clijx-assistant/"
+    description: >-
+      Experimental update site for the future release of clij2.
+      See [https://clij.github.io/assistant](https://clij.github.io/assistant)
+    maintainers:
+      - "[Robert Haase](https://imagej.net/User:Haesleinhuepf)"
+
+  - name: "clijx-assistant-extensions"
+    id: "clijx-assistant-extensions"
+    url: "https://sites.imagej.net/clijx-assistant-extensions/"
+    description: >-
+      Experimental update site for the future release of clij2.
+      See [https://clij.github.io/assistant](https://clij.github.io/assistant)
     maintainers:
       - "[Robert Haase](https://imagej.net/User:Haesleinhuepf)"
 
