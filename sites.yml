@@ -157,7 +157,7 @@ sites:
       - "[Tingying Peng](mailto:tingying.peng@tum.de)"
 
   - name: "BigDataProcessor"
-    id: BigDataProcessor"
+    id: "BigDataProcessor"
     url: "https://sites.imagej.net/BigDataProcessor/"
     description: >-
       [BigDataProcessor2](https://github.com/embl-cba/bigDataProcessor2#bigdataprocessor2) 
