@@ -1155,7 +1155,7 @@ sites:
       [see documentation](https://www.irb.usi.ch/lysoquant/). Source code
       [here](https://github.com/irb-imagingfacility/lysoquant).
     maintainers:
-      - "Diego Morone"
+      - "[Diego Morone](mailto:diego.morone@irb.usi.ch)"
 
   - name: "MaMuT"
     id: "MaMuT"
