@@ -720,6 +720,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Tristan McRae
 
 |- valign=&quot;top&quot;
+|'''LysoQuant'''
+|http://sites.imagej.net/LysoQuant/
+|LysoQuant is a deep learning approach for the automatic segmentation and classification of fluorescence images capturing cargo delivery  within endolysosomes. For more information see documentation. Source code here.
+|Diego Morone
+
+|- valign=&quot;top&quot;
 |'''MaMuT'''
 |http://sites.imagej.net/MaMuT/
 |MaMuT, a plugin for the annotation of massive, multi-view data.
