@@ -1144,6 +1144,18 @@ sites:
       [here](https://github.com/tristan-mcrae-rochester/Multiphoton-Image-Analysis/tree/master/Spectral%20Unmixing/Code/ImageJ-FIJI).
     maintainers:
       - "Tristan McRae"
+      
+  - name: "LysoQuant"
+    id: "LysoQuant"
+    url: "https://sites.imagej.net/LysoQuant/"
+    description: >-
+      LysoQuant is a deep learning approach for the automatic segmentation
+      and classification of fluorescence images capturing cargo delivery 
+      within endolysosomes. For more information
+      [see documentation](https://www.irb.usi.ch/lysoquant/). Source code
+      [here](https://github.com/irb-imagingfacility/lysoquant).
+    maintainers:
+      - "[Diego Morone](mailto:diego.morone@irb.usi.ch)"
 
   - name: "MaMuT"
     id: "MaMuT"
