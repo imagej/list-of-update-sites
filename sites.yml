@@ -1175,14 +1175,17 @@ sites:
       - "[Hadrien Mary](https://imagej.net/User:Hadim)"
 
   - name: "Mastodon"
-    id: "Mastodonpreview"
-    url: "https://sites.imagej.net/Mastodonpreview/"
+    id: "Mastodon-jungle"
+    url: "https://sites.imagej.net/Mastodon-jungle/"
     description: >-
-      [Mastodon](https://github.com/fiji/TrackMate3) is a plugin for tracking
-      in massive, multi-view data. It is the successor to MaMuT and TrackMate.
-      It is still incomplete and in-development.
+      [Mastodon](https://github.com/mastodon-sc/mastodon) is a software for 
+      automatic, semi-automatic and manual cell tracking in very large images.
+      It is meant to be an interactive tool able to harness a large amount
+      of annotations. You can see it as the successor of MaMuT and TrackMate 
+      on steroids.
     maintainers:
       - "[Tobias Pietzsch](https://imagej.net/User:Pietzsch)"
+      - "[Jean-Yves Tinevez](https://imagej.net/User:JeanYvesTinevez)"
 
   - name: "Micro-Magellan"
     id: "Hpinkard"
