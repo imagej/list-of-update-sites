@@ -739,9 +739,9 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 
 |- valign=&quot;top&quot;
 |'''Mastodon'''
-|https://sites.imagej.net/Mastodonpreview/
-|Mastodon is a plugin for tracking in massive, multi-view data. It is the successor to MaMuT and TrackMate. It is still incomplete and in-development.
-|Tobias Pietzsch
+|https://sites.imagej.net/Mastodon-jungle/
+|Mastodon is a software for  automatic, semi-automatic and manual cell tracking in very large images. It is meant to be an interactive tool able to harness a large amount of annotations. You can see it as the successor of MaMuT and TrackMate  on steroids.
+|Tobias Pietzsch, Jean-Yves Tinevez
 
 |- valign=&quot;top&quot;
 |'''Micro-Magellan'''
