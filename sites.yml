@@ -622,6 +622,14 @@ sites:
       - "Dasong Gao"
       - "Curtis Rueden"
 
+  - name: "FlyReg"
+    id: "FlyReg"
+    url: "https://sites.imagej.net/FlyReg/"
+    description: >-
+      [FlyReg](https://github.com/tischi/fly-reg) is a plugin for the 3D registration of fly (drosophila) embryos.
+    maintainers:
+      - "Christian Tischer"
+
   - name: "FPBioimage"
     id: "Fpbioimage"
     url: "https://sites.imagej.net/Fpbioimage/"
