@@ -432,6 +432,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Dasong Gao, Curtis Rueden
 
 |- valign=&quot;top&quot;
+|'''FlyReg'''
+|http://sites.imagej.net/FlyReg/
+|FlyReg is a plugin for the 3D registration of fly (drosophila) embryos.
+|Christian Tischer
+
+|- valign=&quot;top&quot;
 |'''FPBioimage'''
 |http://sites.imagej.net/Fpbioimage/
 |A plugin to prepare and upload data for Fpbioimage.
