@@ -1195,6 +1195,20 @@ sites:
       - "[Tobias Pietzsch](https://imagej.net/User:Pietzsch)"
       - "[Jean-Yves Tinevez](https://imagej.net/User:JeanYvesTinevez)"
 
+  - name: "Mcat"
+    id: "Mcat"
+    url: "https://sites.imagej.net/Mcat/"
+    description: >-
+      The MSOT cluster analysis toolkit [Mcat](https://github.com/applied-systems-biology/mcat) 
+      is a software for objective and quantitative analysis of multispectral optoacoustic 
+      tomography (MSOT) image data. It is based on a signal-oriented analysis approach, 
+      i.e. the entire sample is analysed regarding the signal kinetics of the molecule 
+      of interest and pixel-wise kinetic clustering is performed to extract quantitative 
+      information about the pharmacokinetics of the investigated molecule and its 
+      biodistribution in the sample. 
+    maintainers:
+      - "[Research Group Applied Systems Biology, HKI, Jena](https://www.leibniz-hki.de/en/applied-systems-biology.html)"
+
   - name: "Micro-Magellan"
     id: "Hpinkard"
     url: "https://sites.imagej.net/Hpinkard/"
