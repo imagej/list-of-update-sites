@@ -1069,8 +1069,14 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 
 |- valign=&quot;top&quot;
 |'''ROI 1-click Tools'''
-|https://sites.imagej.net/RoiClicTool
+|https://sites.imagej.net/RoiClicTool/
 |This update sites provides ROI tools similar to the built-in ImageJ ROI, but with additional functionalities. A single cick generates a predefined ROI, adds it to the RoiManager, run "Measure" for the outlined region, and go to the next slice for stacks. These options can be modified by double-clicking the ROI icon.
+|Laurent Thomas
+
+|- valign=&quot;top&quot;
+|'''ROI-group Table'''
+|https://sites.imagej.net/RoiGroupTable/
+|This update sites provides a single helper plugin to set the category names associated to the ROI-group integer indexes via an intuitive table. The plugin also allows importing/exporting the category names mappings from/to a text file, for exchange between ImageJ/Fiji installations.
 |Laurent Thomas
 
 |- valign=&quot;top&quot;
