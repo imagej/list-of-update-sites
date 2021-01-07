@@ -750,6 +750,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Tobias Pietzsch, Jean-Yves Tinevez
 
 |- valign=&quot;top&quot;
+|'''Mcat'''
+|https://sites.imagej.net/Mcat/
+|The MSOT cluster analysis toolkit Mcat  is a software for objective and quantitative analysis of multispectral optoacoustic  tomography (MSOT) image data. It is based on a signal-oriented analysis approach,  i.e. the entire sample is analysed regarding the signal kinetics of the molecule  of interest and pixel-wise kinetic clustering is performed to extract quantitative  information about the pharmacokinetics of the investigated molecule and its  biodistribution in the sample.
+|Research Group Applied Systems Biology, HKI, Jena
+
+|- valign=&quot;top&quot;
 |'''Micro-Magellan'''
 |https://sites.imagej.net/Hpinkard/
 |Micro-Magellan is a plugin based on Micro-Manager for high throughput microscopy. This update site is used to enable reading of Micro-Magellan datasets by the BigDataViewer.
