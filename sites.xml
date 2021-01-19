@@ -1051,9 +1051,9 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 
 |- valign=&quot;top&quot;
 |'''Radial Symmetry'''
-|https://sites.imagej.net/Milkyklim/
+|https://sites.imagej.net/RadialSymmetry/
 |A plugin for radial symmetry localization on smFISH (and other) images.
-|Klim Kolyvanov
+|Kyle Harrington
 
 |- valign=&quot;top&quot;
 |'''RadialIntensityProfile'''

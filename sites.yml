@@ -1718,12 +1718,12 @@ sites:
       - "Till Bretschneider"
 
   - name: "Radial Symmetry"
-    id: "Milkyklim"
-    url: "https://sites.imagej.net/Milkyklim/"
+    id: "RadialSymmetry"
+    url: "https://sites.imagej.net/RadialSymmetry/"
     description: >-
       A plugin for radial symmetry localization on smFISH (and other) images.
     maintainers:
-      - "[Klim Kolyvanov](https://imagej.net/User:Milkyklim)"
+      - "[Kyle Harrington](https://imagej.net/User:Kharrington)"
 
   - name: "RadialIntensityProfile"
     id: "PTschaikner"
