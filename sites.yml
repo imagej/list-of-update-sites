@@ -502,15 +502,6 @@ sites:
     maintainers:
       - "[Virginie Uhlmann](https://imagej.net/User:Vuhlmann)"
 
-  - name: "EMBL-CBA"
-    id: "EMBL-CBA"
-    url: "https://sites.imagej.net/EMBL-CBA/"
-    description: >-
-      Collection of image visualisation, processing, registration and analysis tools.
-    maintainers:
-      - "[Christian Tischer](mailto:tischitischer@gmail.com)"
-      - "[EMBL-CBA](mailto:image-analysis-support@embl.de)"
-
   - name: "EpiGraph"
     id: "Pedgomgal1"
     url: "https://sites.imagej.net/Pedgomgal1/"
