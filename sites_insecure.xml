@@ -1014,6 +1014,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Jan Eglinger
 
 |- valign=&quot;top&quot;
+|'''PlateViewer'''
+|http://sites.imagej.net/PlateViewer/
+|PlateViewer - an ImageJ plug-in for visualisation of  high-throughput microscopy multi-well plate image data.
+|Christian Tischer
+
+|- valign=&quot;top&quot;
 |'''PQCT'''
 |http://sites.imagej.net/PQCT/
 |Tools for Stratec pQCT bone and soft tissue images.
