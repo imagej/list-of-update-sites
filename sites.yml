@@ -163,7 +163,7 @@ sites:
       [BigDataProcessor2](https://github.com/embl-cba/bigDataProcessor2#bigdataprocessor2) 
       is an Imglib2 and BigDataViewer based tool for inspection and processing of big (TB-sized) image data.
     maintainers:
-      - "[Christian Tischer](mailto:tischitischer@gmail.com)"
+      - "[Christian Tischer](mailto:christian.tischer@embl.de)"
 
   - name: "BIG-EPFL"
     id: "BIG-EPFL"
@@ -1655,6 +1655,15 @@ sites:
       which can accommodate variations in spectral bleed-throughs
     maintainers:
       - "[Jan Eglinger](https://imagej.net/User:Eglinger)"
+
+  - name: "PlateViewer"
+    id: "PlateViewer"
+    url: "https://sites.imagej.net/PlateViewer/"
+    description: >-
+      PlateViewer - an ImageJ plug-in for visualisation of 
+      high-throughput microscopy multi-well plate image data.
+    maintainers:
+      - "[Christian Tischer](mailto:christian.tischer@embl.de)"
  
   - name: "PQCT"
     id: "PQCT"
