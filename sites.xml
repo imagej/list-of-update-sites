@@ -360,12 +360,6 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Virginie Uhlmann
 
 |- valign=&quot;top&quot;
-|'''EMBL-CBA'''
-|https://sites.imagej.net/EMBL-CBA/
-|Collection of image visualisation, processing, registration and analysis tools.
-|Christian Tischer, EMBL-CBA
-
-|- valign=&quot;top&quot;
 |'''EpiGraph'''
 |https://sites.imagej.net/Pedgomgal1/
 |EpiGraph: an open-source method to quantify epithelial organization. EpiGraph is a Fiji plugin that combines computational geometry and graph theory to measure organization in any computational or natural tessellation image.
