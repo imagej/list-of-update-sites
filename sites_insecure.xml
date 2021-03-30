@@ -162,6 +162,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Christian Tischer
 
 |- valign=&quot;top&quot;
+|'''BigDataViewer-Playground'''
+|https://biop.epfl.ch/Fiji-Bdv-Playground/
+|BigDataViewer-Playground  provides many additions for using and scripting BigDataViewer, and a lazy multiresolution BioFormats Image Loader.
+|Nicolas Chiaruttini, Christian Tischer
+
+|- valign=&quot;top&quot;
 |'''BIG-EPFL'''
 |http://sites.imagej.net/BIG-EPFL/
 |ImageJ plugins from EPFL's Biomedical Imaging Group (BIG). NOT OPEN SOURCE.
