@@ -164,6 +164,16 @@ sites:
       is an Imglib2 and BigDataViewer based tool for inspection and processing of big (TB-sized) image data.
     maintainers:
       - "[Christian Tischer](mailto:christian.tischer@embl.de)"
+      
+  - name: "BigDataViewer-Playground"
+    id: "BigDataViewer-Playground"
+    url: "https://biop.epfl.ch/Fiji-Bdv-Playground/"
+    description: >-
+      [BigDataViewer-Playground](https://imagej.github.io/Bigdataviewer_Playground) 
+      provides many additions for using and scripting BigDataViewer, and a lazy multiresolution BioFormats Image Loader.
+    maintainers:
+      - "[Nicolas Chiaruttini](mailto:nicolas.chiaruttini@epfl.ch)"
+      - "[Christian Tischer](mailto:christian.tischer@embl.de)"
 
   - name: "BIG-EPFL"
     id: "BIG-EPFL"
@@ -1062,7 +1072,7 @@ sites:
       Revisited active contour method for 3D segmentation.
       Documentation: [LimeSeg](https://imagej.net/LimeSeg).
     maintainers:
-      - "[Nicolas Chiaruttini](mailto:nicolas.chiaruttini@unige.ch)"
+      - "[Nicolas Chiaruttini](mailto:nicolas.chiaruttini@epfl.ch)"
       - "Sarah Machado"
 
   - name: "Lineage-Mapper"
