@@ -805,6 +805,14 @@ sites:
     maintainers:
       - "[Jónathan Heras](mailto:joheras@gmail.com)"
 
+  - name: "IJ-Plugins"
+    id: "IJ-Plugins"
+    url: "https://sites.imagej.net/IJ-Plugins/"
+    description: >-
+      Plugins from [IJ-Plugins](https://github.com/ij-plugins/ij-plugins-bundle) [bundle](https://github.com/ij-plugins/ij-plugins-bundle) project, include [color calibration](https://github.com/ij-plugins/ijp-color) and conversions, [segmentation algorithms](https://github.com/ij-plugins/ijp-toolkit/wiki/Segmentation), [various anisotropic diffucion filters](https://github.com/ij-plugins/ijp-toolkit/wiki/Filters), [raw image processing](https://github.com/ij-plugins/ijp-DeBayer2SX), additional [2D](https://github.com/ij-plugins/ijp-imageio) and [3D](https://github.com/ij-plugins/ijp-toolkit/wiki/3D-IO) file formats support, and [more](https://github.com/ij-plugins/ij-plugins-bundle).
+    maintainers:
+      - "[Jarek Sacha](mailto:jpsacha@gmail.com)"
+
   - name: "IJMMD"
     id: "IJMMD"
     url: "https://sites.imagej.net/IJMMD/"

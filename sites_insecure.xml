@@ -528,6 +528,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Jónathan Heras
 
 |- valign=&quot;top&quot;
+|'''IJ-Plugins'''
+|http://sites.imagej.net/IJ-Plugins/
+|Plugins from IJ-Plugins bundle project, include color calibration and conversions, segmentation algorithms, various anisotropic diffucion filters, raw image processing, additional 2D and 3D file formats support, and more.
+|Jarek Sacha
+
+|- valign=&quot;top&quot;
 |'''IJMMD'''
 |http://sites.imagej.net/IJMMD/
 |ImageJ Macro Markdown scripting language interpreter to create  notebook-like pages using ImageJ Macro and Markdown.
