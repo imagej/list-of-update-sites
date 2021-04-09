@@ -1304,6 +1304,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Wilson R Adams Vanderbilt Biophotonics Center, Nashville, TN, USA
 
 |- valign=&quot;top&quot;
+|'''VerciniAnalysisJ'''
+|http://sites.imagej.net/VerciniAnalysisJ/
+|A set of ImageJ scripts for analysis of VerCINI (Vertical Cell Imaging by Nanostructured  Immobilization) microscopy data of vertically oriented bacteria.  See https://github.com/HoldenLab/VerciniAnalysisJ for documentation.
+|Seamus Holden Newcastle University, UK
+
+|- valign=&quot;top&quot;
 |'''VersiLab plugins'''
 |http://sites.imagej.net/Sweeneyian/
 |VersiLab_Plugin, aiming to do real-time image acquisition and processing for Optical Endo-Microscopy (OEM), development phase, code available on GitHub.
