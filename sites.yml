@@ -2133,6 +2133,16 @@ sites:
     maintainers:
       - "[Wilson R Adams](mailto:wilson.adams@vanderbilt.edu) Vanderbilt Biophotonics Center, Nashville, TN, USA"
 
+  - name: "VerciniAnalysisJ"
+    id: "HoldenLabBiophys"
+    url: "https://sites.imagej.net/VerciniAnalysisJ/"
+    description: >-
+      A set of ImageJ scripts for analysis of VerCINI (Vertical Cell Imaging by Nanostructured 
+      Immobilization) microscopy data of vertically oriented bacteria. 
+      See https://github.com/HoldenLab/VerciniAnalysisJ for documentation.
+    maintainers:
+      - "[Seamus Holden](mailto:seamus.holden@ncl.ac.uk) Newcastle University, UK"
+
   - name: "VersiLab plugins"
     id: "Sweeneyian"
     url: "https://sites.imagej.net/Sweeneyian/"
