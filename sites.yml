@@ -1808,6 +1808,15 @@ sites:
       - "[Kyle Harrington](https://imagej.net/User:Kharrington)"
       - "[Ulrik Günther](https://imagej.net/User:Skalarproduktraum)"
 
+  - name: "SegmentationAnnotator"
+    id: "SegmentationAnnotator"
+    url: "https://sites.imagej.net/SegmentationAnnotator/"
+    description: >-
+      Explore and annotate label mask images with BigDataViewer. See source
+      [on GitHub](https://github.com/tischi/segmentation-annotator).
+    maintainers:
+      - "Christian Tischer"
+
   - name: "Server"
     id: "Server"
     url: "https://sites.imagej.net/Server/"
