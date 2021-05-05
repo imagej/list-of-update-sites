@@ -1104,6 +1104,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Kyle Harrington, Ulrik Günther
 
 |- valign=&quot;top&quot;
+|'''SegmentationAnnotator'''
+|https://sites.imagej.net/SegmentationAnnotator/
+|Explore and annotate label mask images with BigDataViewer. See source on GitHub.
+|Christian Tischer
+
+|- valign=&quot;top&quot;
 |'''Server'''
 |https://sites.imagej.net/Server/
 |ImageJ-server update site. See source on GitHub.
