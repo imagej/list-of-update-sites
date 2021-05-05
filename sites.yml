@@ -767,6 +767,14 @@ sites:
       - "[Koen Martens](mailto:koen.martens@wur.nl)"
       - "[Johannes Hohlbein](mailto:johannes.hohlbein@wur.nl)"
 
+  - name: "HPC-ParallelTools"
+    id: "HPC-ParallelTools"
+    url: "https://sites.imagej.net/HPC-ParallelTools/"
+    description: >-
+      Plugins using parallelization and HPC. 
+    maintainers:
+      - "[Jan Kožusznik](mailto:jan@kozusznik.cz)"
+
   - name: "IamMM"
     id: "IamMM"
     url: "https://sites.imagej.net/IamMM/"
