@@ -1119,7 +1119,17 @@ sites:
       [here](https://github.com/irb-imagingfacility/lysoquant).
     maintainers:
       - "[Diego Morone](mailto:diego.morone@irb.usi.ch)"
-
+      
+  - name: "Mars"
+    id: "Mars"
+    url: "https://sites.imagej.net/Mars/"
+    description: >-
+      [Mars](https://duderstadt-lab.github.io/mars-docs/), a platform for storage,
+      exploration, and processing of image-derived properties of biomolecules
+      together with enhanced OME metadata.
+    maintainers:
+      - "[Karl Duderstadt](mailto:duderstadt@biochem.mpg.de)"
+      
   - name: "MaMuT"
     id: "MaMuT"
     url: "https://sites.imagej.net/MaMuT/"
