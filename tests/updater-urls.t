@@ -34,7 +34,7 @@ When asking for the old list of update sites URL, redirect to the new URL.
 
   $ curl -Ifs https://imagej.net/List_of_update_sites | grep '^\(HTTP/\|Location:\)'
   HTTP/1.1 301 Moved Permanently
-  Location: https://imagej.net/list-of-update-sites/
+  Location: https://imagej.net/list-of-update-sites
 
 If they ask for it over HTTP, redirect to HTTPS.
 
