@@ -1,4 +1,11 @@
 Check that redirects and proxies are in place to keep the V1 Updater working.
+
+The V1 Updater requires that http://imagej.net/ issue a 301 redirect.
+
+  $ curl -A Java -Ifs http://imagej.net/ | grep '^\(HTTP/\|Location:\)'
+  HTTP/1.1 301 Moved Permanently
+  Location: http://imagej.net/Welcome
+
 The V1 Updater asks for the list of update sites via the MediaWiki API.
 When the Updater asks for the list via HTTPS, we want the URLs to be HTTPS.
 
