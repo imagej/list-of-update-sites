@@ -102,6 +102,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Benjamin Schmid
 
 |- valign=&quot;top&quot;
+|'''ABBA (experimental)'''
+|https://biop.epfl.ch/Fiji-ABBA/
+|Allen Brain BIOP Aligner, a plugin for aligning mouse brain slices to the Allen Brain CCFv3.
+|Nicolas Chiaruttini
+
+|- valign=&quot;top&quot;
 |'''ActogramJ'''
 |https://romulus.oice.uni-erlangen.de/imagej/updatesites/ActogramJ/
 |ActogramJ is a plugin for analyzing actograms.
