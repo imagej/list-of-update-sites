@@ -68,6 +68,14 @@ sites:
     maintainers:
     - "[Benjamin Schmid](https://imagej.net/User:Bene)"
 
+  - name: "ABBA (experimental)"
+    id: "ABBA"
+    url: "https://biop.epfl.ch/Fiji-ABBA/"
+    description: >-
+      [Allen Brain BIOP Aligner](https://biop.github.io/ijp-imagetoatlas/), a plugin for aligning mouse brain slices to the Allen Brain CCFv3.
+    maintainers:
+    - "[Nicolas Chiaruttini](mailto:nicolas.chiaruttini@epfl.ch)"
+
   - name: "ActogramJ"
     id: "ActogramJ"
     url: "https://romulus.oice.uni-erlangen.de/imagej/updatesites/ActogramJ/"
