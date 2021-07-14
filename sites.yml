@@ -1155,11 +1155,11 @@ sites:
     maintainers:
       - "[Hadrien Mary](https://imagej.net/User:Hadim)"
 
-    name: "Mask(s) from ROI(s)"
+    name: "Masks from ROIs"
     id: "Masks-from-Rois"
     url: "https://sites.imagej.net/MasksfromRois/"
     description: >-
-      Add the command "Mask(s) from Roi(s)" to Edit > Selection.
+      Add the command Mask(s) from Roi(s) to Edit > Selection.
       Generate mask images (0/255) from Rois in the RoiManager. Compatible with image-stacks too.
       Ideal for the generation of ground-truth segmentation masks.
     maintainers:
