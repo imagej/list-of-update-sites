@@ -732,6 +732,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Hadrien Mary
 
 |- valign=&quot;top&quot;
+|'''Masks from ROIs'''
+|https://sites.imagej.net/MasksfromRois/
+|Add the command Mask(s) from Roi(s) to Edit &gt; Selection. Generate mask images (0/255) from Rois in the RoiManager. Compatible with image-stacks too. Ideal for the generation of ground-truth segmentation masks.
+|Laurent Thomas
+
+|- valign=&quot;top&quot;
 |'''Mastodon'''
 |https://sites.imagej.net/Mastodon-jungle/
 |Mastodon is a software for  automatic, semi-automatic and manual cell tracking in very large images. It is meant to be an interactive tool able to harness a large amount of annotations. You can see it as the successor of MaMuT and TrackMate  on steroids.
