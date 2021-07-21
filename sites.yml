@@ -485,6 +485,19 @@ sites:
     maintainers:
       - "[Adrián Inés](mailto:adines@unirioja.es)"
 
+  - name: "DeepImageJ"
+    id: "DeepImageJ"
+    url: "https://sites.imagej.net/DeepImageJ/"
+    description: >-
+      Bioimage processing using (pre-)trained deep learning models from TensorFlow 
+      or PyTorch. The collection of deepImageJ plugins enables the interaction 
+      with the BioImage Model Zoo. Further details are available in the 
+      [deepImageJ web page](https://deepimagej.github.io/deepimagej/).
+    maintainers:
+      - "[Estibaliz Gómez de Mariscal](https://github.com/esgomezm)"
+      - "[Daniel Sage](mailto:daniel.sage@epfl.ch)"
+      - "[Arrate Muñoz-Barrutia](mailto:mamunozb@ing.uc3m.es)"
+
   - name: "DHM Utilities"
     id: "Sudgy"
     url: "https://sites.imagej.net/Sudgy/"
