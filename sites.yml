@@ -549,7 +549,7 @@ sites:
       - "[Zhou Xu](mailto:zhou.xu@monash.edu)"      
 
   - name: "Excel Functions"
-    id: "BioVoxxel"
+    id: "ExcelMacroExtensions"
     url: "https://sites.imagej.net/ExcelMacroExtensions/"
     description: >-
       The Excel Functions and Excel Macro Extensions are meant to build an interface beween
