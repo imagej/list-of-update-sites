@@ -390,6 +390,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Zhou Xu
 
 |- valign=&quot;top&quot;
+|'''Excel Functions'''
+|https://sites.imagej.net/ExcelMacroExtensions/
+|The Excel Functions and Excel Macro Extensions are meant to build an interface beween ImageJ and Excel (.xlsx). It serves as a library which can be used via the ImageJ macro language, Java and Jython to facilitate data transfer Excel Macro Extensions.
+|Jan Brocher
+
+|- valign=&quot;top&quot;
 |'''EZFig'''
 |https://sites.imagej.net/EZF/
 |EZFig is a tool to build publication-ready scientific figures based on ScientiFig but simpler to use. It must be used in combination with the 'Java-8' update site.
