@@ -354,6 +354,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Adrián Inés
 
 |- valign=&quot;top&quot;
+|'''DeepImageJ'''
+|https://sites.imagej.net/DeepImageJ/
+|Bioimage processing using (pre-)trained deep learning models from TensorFlow  or PyTorch. The collection of deepImageJ plugins enables the interaction  with the BioImage Model Zoo. Further details are available in the  deepImageJ web page.
+|Estibaliz Gómez de Mariscal, Daniel Sage, Arrate Muñoz-Barrutia
+
+|- valign=&quot;top&quot;
 |'''DHM Utilities'''
 |https://sites.imagej.net/Sudgy/
 |Collection of plugins for use in digital holographic microscopy, such as hologram reconstruction, numerical propagation, and phase unwrapping.
