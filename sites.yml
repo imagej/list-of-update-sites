@@ -548,6 +548,18 @@ sites:
     maintainers:
       - "[Zhou Xu](mailto:zhou.xu@monash.edu)"      
 
+  - name: "Excel Functions"
+    id: "ExcelMacroExtensions"
+    url: "https://sites.imagej.net/ExcelMacroExtensions/"
+    description: >-
+      The Excel Functions and Excel Macro Extensions are meant to build an interface beween
+      ImageJ and Excel (.xlsx). It serves as a library which can be used via the ImageJ macro language,
+      Java and Jython to facilitate data transfer
+      [Excel Macro Extensions](https://gitlab.com/biovoxxel/excel-table-macro-extensions).
+    maintainers:
+      - "[Jan Brocher](https://imagej.net/User:BioVoxxel)"
+
+
   - name: "EZFig"
     id: "EZF"
     url: "https://sites.imagej.net/EZF/"
