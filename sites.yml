@@ -323,6 +323,14 @@ sites:
     maintainers:
       - "[Vladimír Ulman](mailto:ulman@mpi-cbg.de)"
 
+  - name: "Cellular Imaging"
+    id: "CellularImaging"
+    url: "https://sites.imagej.net/Cellular-Imaging/"
+    description: >-
+      Fiji plugins developed in the Cellular Imaging - Lehmann Group of the FMP-Berlin.
+    maintainers:
+      - "[Christopher Schmied](mailto:christopher.schmied@fht.org)"
+
   - name: "CIP"
     id: "CIP"
     url: "https://sites.imagej.net/CIP/"
