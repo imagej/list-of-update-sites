@@ -1275,7 +1275,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 
 |- valign=&quot;top&quot;
 |'''TrackMate-MorphoLibJ'''
-|http://sites.imagej.net/TrackMate-MorphLibJ
+|http://sites.imagej.net/TrackMate-MorphoLibJ
 |This page describes a detector module for TrackMate that relies on the  Morphological Segmentation plugin shipped with the MorphoLibJ library.  See https://imagej.net/plugins/trackmate/trackmate-morpholibj/
 |Jean-Yves Tinevez
 
