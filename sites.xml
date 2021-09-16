@@ -252,6 +252,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Vladimír Ulman
 
 |- valign=&quot;top&quot;
+|'''Cellular Imaging'''
+|https://sites.imagej.net/Cellular-Imaging/
+|Fiji plugins developed in the Cellular Imaging - Lehmann Group of the FMP-Berlin.
+|Christopher Schmied
+
+|- valign=&quot;top&quot;
 |'''CIP'''
 |https://sites.imagej.net/CIP/
 |An image procesing toolbox focused on scripting.
