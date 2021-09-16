@@ -2077,7 +2077,7 @@ sites:
 
   - name: "TrackMate-MorphoLibJ"
     id: "TrackMate-MorphoLibJ"
-    url: "https://sites.imagej.net/TrackMate-MorphLibJ"
+    url: "https://sites.imagej.net/TrackMate-MorphoLibJ"
     description: >-
      This page describes a detector module for TrackMate that relies on the 
      [Morphological Segmentation](https://imagej.net/plugins/morphological-segmentation)
