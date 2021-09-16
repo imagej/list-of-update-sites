@@ -1262,6 +1262,30 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Vladimír Ulman
 
 |- valign=&quot;top&quot;
+|'''TrackMate-Ilastik'''
+|https://imagej.net/plugins/trackmate/trackmate-ilastik/
+|This sites ships a detector module for TrackMate that relies on Ilastik  to segment objects in 2D or 3D.
+|Jean-Yves Tinevez
+
+|- valign=&quot;top&quot;
+|'''TrackMate-MorphoLibJ'''
+|https://imagej.net/plugins/trackmate/trackmate-morpholibj/
+|This page describes a detector module for TrackMate that relies on the  Morphological Segmentation plugin shipped with the MorphoLibJ library.
+|Jean-Yves Tinevez
+
+|- valign=&quot;top&quot;
+|'''TrackMate-StarDist'''
+|https://imagej.net/plugins/trackmate/trackmate-stardist/
+|This page describes a detector module for TrackMate that relies on  StarDist to segment objects in 2D.
+|Jean-Yves Tinevez
+
+|- valign=&quot;top&quot;
+|'''TrackMate-Weka'''
+|https://imagej.net/plugins/trackmate/trackmate-weka/
+|This page describes a detector module for TrackMate that relies on the  Trainable Weka Segmentation plugin  to segment objects in 2D or 3D.
+|Jean-Yves Tinevez
+
+|- valign=&quot;top&quot;
 |'''TrackMateCSVImporter'''
 |https://sites.imagej.net/TrackMateCSVImporter/
 |The TrackMateCSVImporter is a Fiji plugin that can import CSV files into TrackMate. It can create TrackMate files out of a csv file and an image. A script also permits its use in headless mode.
