@@ -1263,25 +1263,25 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 
 |- valign=&quot;top&quot;
 |'''TrackMate-Ilastik'''
-|https://imagej.net/plugins/trackmate/trackmate-ilastik/
+|http://sites.imagej.net/TrackMate-Ilastik
 |This sites ships a detector module for TrackMate that relies on Ilastik  to segment objects in 2D or 3D.
 |Jean-Yves Tinevez
 
 |- valign=&quot;top&quot;
 |'''TrackMate-MorphoLibJ'''
-|https://imagej.net/plugins/trackmate/trackmate-morpholibj/
-|This page describes a detector module for TrackMate that relies on the  Morphological Segmentation plugin shipped with the MorphoLibJ library.
+|http://sites.imagej.net/TrackMate-MorphLibJ
+|This page describes a detector module for TrackMate that relies on the  Morphological Segmentation plugin shipped with the MorphoLibJ library.  See https://imagej.net/plugins/trackmate/trackmate-morpholibj/
 |Jean-Yves Tinevez
 
 |- valign=&quot;top&quot;
 |'''TrackMate-StarDist'''
-|https://imagej.net/plugins/trackmate/trackmate-stardist/
+|http://sites.imagej.net/TrackMate-StarDist
 |This page describes a detector module for TrackMate that relies on  StarDist to segment objects in 2D.
 |Jean-Yves Tinevez
 
 |- valign=&quot;top&quot;
 |'''TrackMate-Weka'''
-|https://imagej.net/plugins/trackmate/trackmate-weka/
+|http://sites.imagej.net/TrackMate-Weka
 |This page describes a detector module for TrackMate that relies on the  Trainable Weka Segmentation plugin  to segment objects in 2D or 3D.
 |Jean-Yves Tinevez
 

@@ -2060,7 +2060,7 @@ sites:
 
   - name: "TrackMate-Ilastik"
     id: "TrackMate-Ilastik"
-    url: "https://imagej.net/plugins/trackmate/trackmate-ilastik/"
+    url: "https://sites.imagej.net/TrackMate-Ilastik"
     description: >-
       This sites ships a detector module for TrackMate that relies on Ilastik 
       to segment objects in 2D or 3D. 
@@ -2069,17 +2069,18 @@ sites:
 
   - name: "TrackMate-MorphoLibJ"
     id: "TrackMate-MorphoLibJ"
-    url: "https://imagej.net/plugins/trackmate/trackmate-morpholibj/"
+    url: "https://sites.imagej.net/TrackMate-MorphLibJ"
     description: >-
      This page describes a detector module for TrackMate that relies on the 
      [Morphological Segmentation](https://imagej.net/plugins/morphological-segmentation)
-     plugin shipped with the [MorphoLibJ](https://imagej.net/plugins/morpholibj) library.
+     plugin shipped with the [MorphoLibJ](https://imagej.net/plugins/morpholibj) library. 
+     See https://imagej.net/plugins/trackmate/trackmate-morpholibj/
     maintainers:
       - "[Jean-Yves Tinevez](https://imagej.net/User:JeanYvesTinevez)"
       
   - name: "TrackMate-StarDist"
     id: "TrackMate-StarDist"
-    url: "https://imagej.net/plugins/trackmate/trackmate-stardist/"
+    url: "https://sites.imagej.net/TrackMate-StarDist"
     description: >-
       This page describes a detector module for TrackMate that relies on 
       [StarDist](https://imagej.net/plugins/stardist) to segment objects in 2D.  
@@ -2088,7 +2089,7 @@ sites:
       
   - name: "TrackMate-Weka"
     id: "TrackMate-Weka"
-    url: "https://imagej.net/plugins/trackmate/trackmate-weka/"
+    url: "https://sites.imagej.net/TrackMate-Weka"
     description: >-
       This page describes a detector module for TrackMate that relies on the 
       [Trainable Weka Segmentation plugin](https://imagej.net/plugins/tws/index) 
