@@ -618,6 +618,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Niko Ehrenfeuchter
 
 |- valign=&quot;top&quot;
+|'''ImgLib2-Imaris-Bridge'''
+|https://sites.imagej.net/ImgLib2-Imaris-Bridge/
+|ImgLib2-Imaris-Bridge provides sharing arbitrarily large images between Imaris and Fiji/ImageJ2 without duplicating memory requirements. Imaris datasets are represented as cached images in ImgLib2, lazily loaded via Imaris XT, and exposed through an ImageJ2 service.
+|Tobias Pietzsch
+
+|- valign=&quot;top&quot;
 |'''IMOD-ZOLA'''
 |https://sites.imagej.net/IMOD-ZOLA/
 |Zernike Optimized Localization Algorithm for 3D single molecule localizations ZOLA-3D developed in Institut Pasteur, group IMOD -- a CUDA-enabled localization algorithm for extended PSF single-molecule localization microscopy. Paper is under review.
