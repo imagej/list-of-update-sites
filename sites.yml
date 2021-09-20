@@ -956,6 +956,15 @@ sites:
     maintainers:
       - "[Niko Ehrenfeuchter](https://imagej.net/User:Ehrenfeu)"
 
+  - name: "ImgLib2-Imaris-Bridge"
+    id: "ImgLib2-Imaris-Bridge"
+    url: "https://sites.imagej.net/ImgLib2-Imaris-Bridge/"
+    description: >-
+      [ImgLib2-Imaris-Bridge](https://imaris.github.io/imglib2-imaris-bridge) provides sharing arbitrarily large images between Imaris and Fiji/ImageJ2 without duplicating memory requirements.
+      Imaris datasets are represented as cached images in ImgLib2, lazily loaded via Imaris XT, and exposed through an ImageJ2 service.
+    maintainers:
+      - "[Tobias Pietzsch](https://imagej.net/User:Pietzsch)"
+
   - name: "IMOD-ZOLA"
     id: "IMOD-ZOLA"
     url: "https://sites.imagej.net/IMOD-ZOLA/"
