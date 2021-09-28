@@ -164,6 +164,16 @@ sites:
     maintainers:
       - "[Tingying Peng](mailto:tingying.peng@tum.de)"
 
+  - name: "Batch Composite"
+    id: "BatchComposite"
+    url: "https://sites.imagej.net/BatchComposite/"
+    description: >-
+      [Batch Composite](https://imagej.net/plugins/batch-composite) is a small
+      plugin that runs the Composite operation on a folder of openable files.
+      It supports Bio-Formats, recursion, and color customization.
+    maintainers:
+      - "[Kevin Fisher](mailto:kfish610@gmail.com)"
+
   - name: "BigDataProcessor"
     id: "BigDataProcessor"
     url: "https://sites.imagej.net/BigDataProcessor/"
