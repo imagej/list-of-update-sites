@@ -384,6 +384,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Virginie Uhlmann
 
 |- valign=&quot;top&quot;
+|'''ELEPHANT'''
+|http://sites.imagej.net/ELEPHANT/
+|ELEPHANT is a platform for 3D cell tracking, based on incremental and interactive deep learning. ELEPHANT is implemented as a plugin for Mastodon. Please not that users need to set up the ELEPHANT server in addition to this plugin. The detailed instructions can be found here.
+|Ko Sugawara
+
+|- valign=&quot;top&quot;
 |'''EpiGraph'''
 |http://sites.imagej.net/Pedgomgal1/
 |EpiGraph: an open-source method to quantify epithelial organization. EpiGraph is a Fiji plugin that combines computational geometry and graph theory to measure organization in any computational or natural tessellation image.

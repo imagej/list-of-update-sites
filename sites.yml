@@ -541,6 +541,18 @@ sites:
     maintainers:
       - "[Virginie Uhlmann](https://imagej.net/User:Vuhlmann)"
 
+  - name: "ELEPHANT"
+    id: "KoSugawara"
+    url: "https://sites.imagej.net/ELEPHANT/"
+    description: >-
+      [ELEPHANT](https://elephant-track.github.io) is a platform for 3D cell tracking,
+      based on incremental and interactive deep learning. ELEPHANT is implemented as a
+      plugin for [Mastodon](https://github.com/mastodon-sc/mastodon). Please not that
+      users need to set up the ELEPHANT server in addition to this plugin.
+      The detailed instructions can be found [here](https://elephant-track.github.io).
+    maintainers:
+      - "[Ko Sugawara](https://github.com/ksugar)"
+
   - name: "EpiGraph"
     id: "Pedgomgal1"
     url: "https://sites.imagej.net/Pedgomgal1/"
