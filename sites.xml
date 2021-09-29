@@ -162,6 +162,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Tingying Peng
 
 |- valign=&quot;top&quot;
+|'''Batch Composite'''
+|https://sites.imagej.net/BatchComposite/
+|Batch Composite is a small plugin that runs the Composite operation on a folder of openable files. It supports Bio-Formats, recursion, and color customization.
+|Kevin Fisher
+
+|- valign=&quot;top&quot;
 |'''BigDataProcessor'''
 |https://sites.imagej.net/BigDataProcessor/
 |BigDataProcessor2 is an Imglib2 and BigDataViewer based tool for inspection and processing of big (TB-sized) image data.
