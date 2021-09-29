@@ -146,7 +146,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''BACMMAN'''
 |http://sites.imagej.net/Ljp/
-|BACteria in Mother Machine ANalyzer: a plugin for high-throughput analysis of multichannel mother machine data.  See Sources and Wiki
+|BACteria in Mother Machine ANalyzer: a plugin for high-throughput analysis of multichannel mother machine data. See Sources and Wiki
 |Jean Ollion
 
 |- valign=&quot;top&quot;
@@ -164,13 +164,13 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''BigDataProcessor'''
 |http://sites.imagej.net/BigDataProcessor/
-|BigDataProcessor2  is an Imglib2 and BigDataViewer based tool for inspection and processing of big (TB-sized) image data.
+|BigDataProcessor2 is an Imglib2 and BigDataViewer based tool for inspection and processing of big (TB-sized) image data.
 |Christian Tischer
 
 |- valign=&quot;top&quot;
 |'''BigDataViewer-Playground'''
 |https://biop.epfl.ch/Fiji-Bdv-Playground/
-|BigDataViewer-Playground  provides many additions for using and scripting BigDataViewer, and a lazy multiresolution BioFormats Image Loader.
+|BigDataViewer-Playground provides many additions for using and scripting BigDataViewer, and a lazy multiresolution BioFormats Image Loader.
 |Nicolas Chiaruttini, Christian Tischer
 
 |- valign=&quot;top&quot;
@@ -320,13 +320,13 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''Colocalization by Cross Correlation'''
 |http://sites.imagej.net/Amccall/
-|A co-localization plugin that attempts to find non-random spatial correlations between two images and provide an estimate of their distance and standard deviation. Conceptually similar to Van Steensel's CCF. For more details see our  wiki page.
+|A co-localization plugin that attempts to find non-random spatial correlations between two images and provide an estimate of their distance and standard deviation. Conceptually similar to Van Steensel's CCF. For more details see our wiki page.
 |Andrew McCall
 
 |- valign=&quot;top&quot;
 |'''Colour Deconvolution2'''
 |http://sites.imagej.net/ColourDeconvolution2/
-|Update site for  Colour Deconvolution2
+|Update site for Colour Deconvolution2
 |Gabriel Landini
 
 |- valign=&quot;top&quot;
@@ -362,7 +362,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''DeepImageJ'''
 |http://sites.imagej.net/DeepImageJ/
-|Bioimage processing using (pre-)trained deep learning models from TensorFlow  or PyTorch. The collection of deepImageJ plugins enables the interaction  with the BioImage Model Zoo. Further details are available in the  deepImageJ web page.
+|Bioimage processing using (pre-)trained deep learning models from TensorFlow or PyTorch. The collection of deepImageJ plugins enables the interaction with the BioImage Model Zoo. Further details are available in the deepImageJ web page.
 |Estibaliz Gómez de Mariscal, Daniel Sage, Arrate Muñoz-Barrutia
 
 |- valign=&quot;top&quot;
@@ -506,7 +506,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''GDSC-SMLM'''
 |http://sites.imagej.net/GDSC-SMLM/
-|Tools for Single Molecule Light Microscopy (SMLM). This version has been  superceded by GDSC-SMLM2; the two versions cannot be used together. The original user manual is available.
+|Tools for Single Molecule Light Microscopy (SMLM). This version has been superceded by GDSC-SMLM2; the two versions cannot be used together. The original user manual is available.
 |Alex Herbert
 
 |- valign=&quot;top&quot;
@@ -572,7 +572,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''IJMMD'''
 |http://sites.imagej.net/IJMMD/
-|ImageJ Macro Markdown scripting language interpreter to create  notebook-like pages using ImageJ Macro and Markdown.
+|ImageJ Macro Markdown scripting language interpreter to create notebook-like pages using ImageJ Macro and Markdown.
 |Robert Haase
 
 |- valign=&quot;top&quot;
@@ -716,7 +716,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''Local Z Projector'''
 |http://sites.imagej.net/LocalZProjector/
-|Local Z Projector is an ImageJ2  plugin to perform local-Z projection of a 3D stack, possibly over time, possibly very large.
+|Local Z Projector is an ImageJ2 plugin to perform local-Z projection of a 3D stack, possibly over time, possibly very large.
 |Jean-Yves Tinevez
 
 |- valign=&quot;top&quot;
@@ -740,7 +740,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''LysoQuant'''
 |http://sites.imagej.net/LysoQuant/
-|LysoQuant is a deep learning approach for the automatic segmentation and classification of fluorescence images capturing cargo delivery  within endolysosomes. For more information see documentation. Source code here.
+|LysoQuant is a deep learning approach for the automatic segmentation and classification of fluorescence images capturing cargo delivery within endolysosomes. For more information see documentation. Source code here.
 |Diego Morone
 
 |- valign=&quot;top&quot;
@@ -770,13 +770,13 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''Mastodon'''
 |http://sites.imagej.net/Mastodon-jungle/
-|Mastodon is a software for  automatic, semi-automatic and manual cell tracking in very large images. It is meant to be an interactive tool able to harness a large amount of annotations. You can see it as the successor of MaMuT and TrackMate  on steroids.
+|Mastodon is a software for automatic, semi-automatic and manual cell tracking in very large images. It is meant to be an interactive tool able to harness a large amount of annotations. You can see it as the successor of MaMuT and TrackMate on steroids.
 |Tobias Pietzsch, Jean-Yves Tinevez
 
 |- valign=&quot;top&quot;
 |'''Mcat'''
 |http://sites.imagej.net/Mcat/
-|The MSOT cluster analysis toolkit Mcat  is a software for objective and quantitative analysis of multispectral optoacoustic  tomography (MSOT) image data. It is based on a signal-oriented analysis approach,  i.e. the entire sample is analysed regarding the signal kinetics of the molecule  of interest and pixel-wise kinetic clustering is performed to extract quantitative  information about the pharmacokinetics of the investigated molecule and its  biodistribution in the sample.
+|The MSOT cluster analysis toolkit Mcat is a software for objective and quantitative analysis of multispectral optoacoustic tomography (MSOT) image data. It is based on a signal-oriented analysis approach, i.e. the entire sample is analysed regarding the signal kinetics of the molecule of interest and pixel-wise kinetic clustering is performed to extract quantitative information about the pharmacokinetics of the investigated molecule and its biodistribution in the sample.
 |Research Group Applied Systems Biology, HKI, Jena
 
 |- valign=&quot;top&quot;
@@ -848,7 +848,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''Multifrac'''
 |http://sites.imagej.net/Multifrac/
-|Multifrac is a tool for multifractal and scaling analysis of 2D and 3D stack images,  including lacunarity, configuration entropy, characteristic lenght and multifractal spectrum of gray and black and white images. This is particularly desginated and tested for addressing analysis on soil pore structre.
+|Multifrac is a tool for multifractal and scaling analysis of 2D and 3D stack images, including lacunarity, configuration entropy, characteristic lenght and multifractal spectrum of gray and black and white images. This is particularly desginated and tested for addressing analysis on soil pore structre.
 |Ivan G Torre
 
 |- valign=&quot;top&quot;
@@ -968,7 +968,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''Operetta Importer'''
 |https://biop.epfl.ch/update-sites/operetta/
-|The Operetta Importer includes an ImageJ 2 Command for importing iamges (measurements) generated from PerkinElmer microscopes running Harmony (Exported from Harmony).  Behind it, there is a full API to get ImageJ-fiendly images (Hyperstacks) out easily for on-the-fly processing in scripts. Most importantly, depite the size of the datasets, processing is fast thanks to Bioformat's Memoization technology and parallel processing.
+|The Operetta Importer includes an ImageJ 2 Command for importing iamges (measurements) generated from PerkinElmer microscopes running Harmony (Exported from Harmony). Behind it, there is a full API to get ImageJ-fiendly images (Hyperstacks) out easily for on-the-fly processing in scripts. Most importantly, depite the size of the datasets, processing is fast thanks to Bioformat's Memoization technology and parallel processing.
 |Olivier Burri, EPFL-SV-BIOP, Romain Guiet, EPFL-SV-BIOP, Nicolas Chiaruttini, EPFL-SV-BIOP
 
 |- valign=&quot;top&quot;
@@ -1016,7 +1016,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''PhotoBend'''
 |http://sites.imagej.net/Anotherche/
-|The PhotoBend is a collection of  specialized plugins providing tracking a needle-like crystal  shape changing during photoinduced bending process. 1. tracking the curvature of uniformly curved rods changing with time;  2. tracking a laser spot movement used in the laser beam deflection  technique.   Additionally, two auxiliary plugins for reading and writing compressed  video using FFmpeg are included, which can be used standalone.
+|The PhotoBend is a collection of specialized plugins providing tracking a needle-like crystal shape changing during photoinduced bending process. 1. tracking the curvature of uniformly curved rods changing with time; 2. tracking a laser spot movement used in the laser beam deflection technique. Additionally, two auxiliary plugins for reading and writing compressed video using FFmpeg are included, which can be used standalone.
 |Stanislav Chizhik
 
 |- valign=&quot;top&quot;
@@ -1040,7 +1040,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''PlateViewer'''
 |http://sites.imagej.net/PlateViewer/
-|PlateViewer - an ImageJ plug-in for visualisation of  high-throughput microscopy multi-well plate image data.
+|PlateViewer - an ImageJ plug-in for visualisation of high-throughput microscopy multi-well plate image data.
 |Christian Tischer
 
 |- valign=&quot;top&quot;
@@ -1094,7 +1094,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''ReadPlate'''
 |http://sites.imagej.net/ReadPlate/
-|This macro measures absorbance values from an image of a multi-well  plate. ReadPlate 3.0 version incorporates the capability of reading  multi-well plates of 6 (3x2), 12 (4x3), 24 (6x4), 48 (8x6) and 96 (12x8)  wells. An new user-friendly interface facilitates image analysis. This  version allows new user-defined features to optimize blank correction.  Multiple readings of the same plate has also considerably been  facilitated, appending the full parameter file to the results and log  file.
+|This macro measures absorbance values from an image of a multi-well plate. ReadPlate 3.0 version incorporates the capability of reading multi-well plates of 6 (3x2), 12 (4x3), 24 (6x4), 48 (8x6) and 96 (12x8) wells. An new user-friendly interface facilitates image analysis. This version allows new user-defined features to optimize blank correction. Multiple readings of the same plate has also considerably been facilitated, appending the full parameter file to the results and log file.
 |José María Delfino (delfino@qb.ffyb.uba.ar)
 
 |- valign=&quot;top&quot;
@@ -1282,25 +1282,25 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''TrackMate-Ilastik'''
 |http://sites.imagej.net/TrackMate-Ilastik
-|This sites ships a detector module for TrackMate that relies on Ilastik  to segment objects in 2D or 3D.
+|This sites ships a detector module for TrackMate that relies on Ilastik to segment objects in 2D or 3D.
 |Jean-Yves Tinevez
 
 |- valign=&quot;top&quot;
 |'''TrackMate-MorphoLibJ'''
 |http://sites.imagej.net/TrackMate-MorphoLibJ
-|This page describes a detector module for TrackMate that relies on the  Morphological Segmentation plugin shipped with the MorphoLibJ library.  See https://imagej.net/plugins/trackmate/trackmate-morpholibj/
+|This page describes a detector module for TrackMate that relies on the Morphological Segmentation plugin shipped with the MorphoLibJ library. See https://imagej.net/plugins/trackmate/trackmate-morpholibj/
 |Jean-Yves Tinevez
 
 |- valign=&quot;top&quot;
 |'''TrackMate-StarDist'''
 |http://sites.imagej.net/TrackMate-StarDist
-|This page describes a detector module for TrackMate that relies on  StarDist to segment objects in 2D.
+|This page describes a detector module for TrackMate that relies on StarDist to segment objects in 2D.
 |Jean-Yves Tinevez
 
 |- valign=&quot;top&quot;
 |'''TrackMate-Weka'''
 |http://sites.imagej.net/TrackMate-Weka
-|This page describes a detector module for TrackMate that relies on the  Trainable Weka Segmentation plugin  to segment objects in 2D or 3D.
+|This page describes a detector module for TrackMate that relies on the Trainable Weka Segmentation plugin to segment objects in 2D or 3D.
 |Jean-Yves Tinevez
 
 |- valign=&quot;top&quot;
@@ -1342,13 +1342,13 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''Vanderbilt Biophotonics Center'''
 |http://sites.imagej.net/Wilson.adams/
-|Customized GUI and image analysis scripts designed for local use by the  Vanderbilt Biophotonics Center and  collaborators. Avoid following if you have a personally customized  StartupMacros.ijm file.
+|Customized GUI and image analysis scripts designed for local use by the Vanderbilt Biophotonics Center and collaborators. Avoid following if you have a personally customized StartupMacros.ijm file.
 |Wilson R Adams Vanderbilt Biophotonics Center, Nashville, TN, USA
 
 |- valign=&quot;top&quot;
 |'''VerciniAnalysisJ'''
 |http://sites.imagej.net/VerciniAnalysisJ/
-|A set of ImageJ scripts for analysis of VerCINI (Vertical Cell Imaging by Nanostructured  Immobilization) microscopy data of vertically oriented bacteria.  See https://github.com/HoldenLab/VerciniAnalysisJ for documentation.
+|A set of ImageJ scripts for analysis of VerCINI (Vertical Cell Imaging by Nanostructured Immobilization) microscopy data of vertically oriented bacteria. See https://github.com/HoldenLab/VerciniAnalysisJ for documentation.
 |Seamus Holden Newcastle University, UK
 
 |- valign=&quot;top&quot;
@@ -1414,7 +1414,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''ZFBONE'''
 |http://sites.imagej.net/Zfmacros/
-|ZFBONE is a toolset that provides tools  needed for a rapid, reliable and semi-automatized morphometric analysis of zebrafish  bone structures such as operculum, caudal fin and scales.
+|ZFBONE is a toolset that provides tools needed for a rapid, reliable and semi-automatized morphometric analysis of zebrafish bone structures such as operculum, caudal fin and scales.
 |Marco Tarasco
 
 |- valign=&quot;top&quot;

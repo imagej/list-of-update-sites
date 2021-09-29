@@ -83,7 +83,7 @@ sites:
       [ActogramJ](https://bene51.github.io/ActogramJ) is a plugin for analyzing actograms.
     maintainers:
     - "[Benjamin Schmid](https://imagej.net/User:Bene)"
-  
+
   - name: "AIC Janelia - Course"
     id: "AICjanelia-course"
     url: "https://sites.imagej.net/AICjanelia-course/"
@@ -92,7 +92,7 @@ sites:
       Center (AIC) Fiji Course.
     maintainers:
       - "[AIC Janelia](https://imagej.net/User:Aicjanelia)"
-  
+
   - name: "Angiogenesis"
     id: "Angiogenesis"
     url: "https://sites.imagej.net/Angiogenesis/"
@@ -130,13 +130,13 @@ sites:
        light micrographs of optic nerves.
     maintainers:
       - "[Matthew Ritch](https://imagej.net/User:Mritch3)"
-      
+
   - name: "BACMMAN"
     id: "Ljp"
     url: "https://sites.imagej.net/Ljp/"
     description: >-
        BACteria in Mother Machine ANalyzer: a plugin for high-throughput
-       analysis of multichannel mother machine data. 
+       analysis of multichannel mother machine data.
        See [Sources](https://github.com/jeanollion/bacmman) and [Wiki](https://github.com/jeanollion/bacmman/wiki)
     maintainers:
       - "Jean Ollion"
@@ -168,16 +168,16 @@ sites:
     id: "BigDataProcessor"
     url: "https://sites.imagej.net/BigDataProcessor/"
     description: >-
-      [BigDataProcessor2](https://github.com/embl-cba/bigDataProcessor2#bigdataprocessor2) 
+      [BigDataProcessor2](https://github.com/embl-cba/bigDataProcessor2#bigdataprocessor2)
       is an Imglib2 and BigDataViewer based tool for inspection and processing of big (TB-sized) image data.
     maintainers:
       - "[Christian Tischer](mailto:christian.tischer@embl.de)"
-      
+
   - name: "BigDataViewer-Playground"
     id: "BigDataViewer-Playground"
     url: "https://biop.epfl.ch/Fiji-Bdv-Playground/"
     description: >-
-      [BigDataViewer-Playground](https://imagej.github.io/Bigdataviewer_Playground) 
+      [BigDataViewer-Playground](https://imagej.github.io/Bigdataviewer_Playground)
       provides many additions for using and scripting BigDataViewer, and a lazy multiresolution BioFormats Image Loader.
     maintainers:
       - "[Nicolas Chiaruttini](mailto:nicolas.chiaruttini@epfl.ch)"
@@ -273,7 +273,7 @@ sites:
       [documentation page](https://imagej.net/Blind_Analysis_Tools).
     maintainers:
       - "[Astha Jaiswal](https://imagej.net/User:Astja), Holger Lorenz"
-      
+
   - name: "BoneJ"
     id: "BoneJ"
     url: "https://sites.imagej.net/BoneJ/"
@@ -310,7 +310,7 @@ sites:
     id: "CATS"
     url: "https://sites.imagej.net/CATS/"
     description: >-
-      Context Aware Trainable Segmentation [CATS](https://github.com/embl-cba/cats) 
+      Context Aware Trainable Segmentation [CATS](https://github.com/embl-cba/cats)
     maintainers:
       - "[Christian Tischer](mailto:tischitischer@gmail.com)"
 
@@ -426,7 +426,7 @@ sites:
     description: >-
       A co-localization plugin that attempts to find non-random spatial correlations
       between two images and provide an estimate of their distance and standard deviation.
-      Conceptually similar to Van Steensel's CCF. For more details see our 
+      Conceptually similar to Van Steensel's CCF. For more details see our
       [wiki page](https://imagej.net/Colocalization_by_Cross_Correlation).
     maintainers:
       - "[Andrew McCall](https://imagej.net/User:Amccall)"
@@ -435,7 +435,7 @@ sites:
     id: "ColourDeconvolution2"
     url: "https://sites.imagej.net/ColourDeconvolution2/"
     description: >-
-      Update site for 
+      Update site for
       [Colour Deconvolution2](https://blog.bham.ac.uk/intellimic/g-landini-software/colour-deconvolution-2/)
     maintainers:
       - "[Gabriel Landini](https://imagej.net/User:Landini)"
@@ -497,9 +497,9 @@ sites:
     id: "DeepImageJ"
     url: "https://sites.imagej.net/DeepImageJ/"
     description: >-
-      Bioimage processing using (pre-)trained deep learning models from TensorFlow 
-      or PyTorch. The collection of deepImageJ plugins enables the interaction 
-      with the BioImage Model Zoo. Further details are available in the 
+      Bioimage processing using (pre-)trained deep learning models from TensorFlow
+      or PyTorch. The collection of deepImageJ plugins enables the interaction
+      with the BioImage Model Zoo. Further details are available in the
       [deepImageJ web page](https://deepimagej.github.io/deepimagej/).
     maintainers:
       - "[Estibaliz Gómez de Mariscal](https://github.com/esgomezm)"
@@ -569,7 +569,7 @@ sites:
     id: "ElastixWrapper"
     url: "https://sites.imagej.net/ElastixWrapper/"
     description: >-
-      Image registration using [elastix](http://elastix.isi.uu.nl/) 
+      Image registration using [elastix](http://elastix.isi.uu.nl/)
     maintainers:
       - "[Christian Tischer](mailto:tischitischer@gmail.com)"
 
@@ -579,7 +579,7 @@ sites:
     description: >-
       [EM tool](https://imagej.net/IMBalENce) is a suite of simple tools for electron microscopist
     maintainers:
-      - "[Zhou Xu](mailto:zhou.xu@monash.edu)"      
+      - "[Zhou Xu](mailto:zhou.xu@monash.edu)"
 
   - name: "Excel Functions"
     id: "ExcelMacroExtensions"
@@ -591,7 +591,6 @@ sites:
       [Excel Macro Extensions](https://gitlab.com/biovoxxel/excel-table-macro-extensions).
     maintainers:
       - "[Jan Brocher](https://imagej.net/User:BioVoxxel)"
-
 
   - name: "EZFig"
     id: "EZF"
@@ -760,7 +759,7 @@ sites:
     id: "GDSC-SMLM"
     url: "https://sites.imagej.net/GDSC-SMLM/"
     description: >-
-      Tools for Single Molecule Light Microscopy (SMLM). This version has been 
+      Tools for Single Molecule Light Microscopy (SMLM). This version has been
       superceded by GDSC-SMLM2; the two versions cannot be used together.
       The original [user manual](http://www.sussex.ac.uk/gdsc/intranet/pdfs/SMLM.pdf)
       is available.
@@ -824,7 +823,7 @@ sites:
     id: "HPC-ParallelTools"
     url: "https://sites.imagej.net/HPC-ParallelTools/"
     description: >-
-      Plugins using parallelization and HPC. 
+      Plugins using parallelization and HPC.
     maintainers:
       - "[Jan Kožusznik](mailto:jan@kozusznik.cz)"
 
@@ -879,7 +878,7 @@ sites:
     url: "https://sites.imagej.net/IJMMD/"
     description: >-
       [ImageJ Macro Markdown](https://github.com/haesleinhuepf/imagejmacromarkdown)
-      scripting language interpreter to create 
+      scripting language interpreter to create
       notebook-like pages using ImageJ Macro and Markdown.
     maintainers:
       - "[Robert Haase](https://imagej.net/User:Haesleinhuepf)"
@@ -1129,7 +1128,7 @@ sites:
     id: "LocalZProjector"
     url: "https://sites.imagej.net/LocalZProjector/"
     description: >-
-      [Local Z Projector](https://gitlab.pasteur.fr/iah-public/localzprojector) is an ImageJ2 
+      [Local Z Projector](https://gitlab.pasteur.fr/iah-public/localzprojector) is an ImageJ2
       plugin to perform local-Z projection of a 3D stack, possibly over time, possibly very large.
     maintainers:
       - "[Jean-Yves Tinevez](https://research.pasteur.fr/en/member/jean-yves-tinevez/)"
@@ -1158,7 +1157,7 @@ sites:
       code [here](https://github.com/JmanJ/LSM_Worker).
     maintainers:
       - "Verman Pavel"
-      
+
   - name: "LUMoS"
     id: "Tmcrae"
     url: "https://sites.imagej.net/Tmcrae/"
@@ -1169,19 +1168,19 @@ sites:
       [here](https://github.com/tristan-mcrae-rochester/Multiphoton-Image-Analysis/tree/master/Spectral%20Unmixing/Code/ImageJ-FIJI).
     maintainers:
       - "Tristan McRae"
-      
+
   - name: "LysoQuant"
     id: "LysoQuant"
     url: "https://sites.imagej.net/LysoQuant/"
     description: >-
       LysoQuant is a deep learning approach for the automatic segmentation
-      and classification of fluorescence images capturing cargo delivery 
+      and classification of fluorescence images capturing cargo delivery
       within endolysosomes. For more information
       [see documentation](https://www.irb.usi.ch/lysoquant/). Source code
       [here](https://github.com/irb-imagingfacility/lysoquant).
     maintainers:
       - "[Diego Morone](mailto:diego.morone@irb.usi.ch)"
-      
+
   - name: "Mars"
     id: "Mars"
     url: "https://sites.imagej.net/Mars/"
@@ -1191,7 +1190,7 @@ sites:
       together with enhanced OME metadata.
     maintainers:
       - "[Karl Duderstadt](mailto:duderstadt@biochem.mpg.de)"
-      
+
   - name: "MaMuT"
     id: "MaMuT"
     url: "https://sites.imagej.net/MaMuT/"
@@ -1223,10 +1222,10 @@ sites:
     id: "Mastodon-jungle"
     url: "https://sites.imagej.net/Mastodon-jungle/"
     description: >-
-      [Mastodon](https://github.com/mastodon-sc/mastodon) is a software for 
+      [Mastodon](https://github.com/mastodon-sc/mastodon) is a software for
       automatic, semi-automatic and manual cell tracking in very large images.
       It is meant to be an interactive tool able to harness a large amount
-      of annotations. You can see it as the successor of MaMuT and TrackMate 
+      of annotations. You can see it as the successor of MaMuT and TrackMate
       on steroids.
     maintainers:
       - "[Tobias Pietzsch](https://imagej.net/User:Pietzsch)"
@@ -1236,13 +1235,13 @@ sites:
     id: "Mcat"
     url: "https://sites.imagej.net/Mcat/"
     description: >-
-      The MSOT cluster analysis toolkit [Mcat](https://github.com/applied-systems-biology/mcat) 
-      is a software for objective and quantitative analysis of multispectral optoacoustic 
-      tomography (MSOT) image data. It is based on a signal-oriented analysis approach, 
-      i.e. the entire sample is analysed regarding the signal kinetics of the molecule 
-      of interest and pixel-wise kinetic clustering is performed to extract quantitative 
-      information about the pharmacokinetics of the investigated molecule and its 
-      biodistribution in the sample. 
+      The MSOT cluster analysis toolkit [Mcat](https://github.com/applied-systems-biology/mcat)
+      is a software for objective and quantitative analysis of multispectral optoacoustic
+      tomography (MSOT) image data. It is based on a signal-oriented analysis approach,
+      i.e. the entire sample is analysed regarding the signal kinetics of the molecule
+      of interest and pixel-wise kinetic clustering is performed to extract quantitative
+      information about the pharmacokinetics of the investigated molecule and its
+      biodistribution in the sample.
     maintainers:
       - "[Research Group Applied Systems Biology, HKI, Jena](https://www.leibniz-hki.de/en/applied-systems-biology.html)"
 
@@ -1285,15 +1284,15 @@ sites:
       etc.).
     maintainers:
       - "[The MiToBo Team, Halle, Germany](https://mitobo.informatik.uni-halle.de/)"
- 
+
   - name: "MoBIE"
     id: "MoBIE"
     url: "https://sites.imagej.net/MoBIE/"
     description: >-
-      Multimodal Big Image Data Exploration and Sharing [MoBIE](https://github.com/mobie-org/mobie) 
+      Multimodal Big Image Data Exploration and Sharing [MoBIE](https://github.com/mobie-org/mobie)
     maintainers:
       - "[Christian Tischer](mailto:tischitischer@gmail.com)"
-      
+
   - name: "Molography"
     id: "VolkerGatterdam"
     url: "https://sites.imagej.net/VolkerGatterdam/"
@@ -1364,21 +1363,19 @@ sites:
       points for dynamically growing microtubules.
     maintainers:
       - "[MTrack](https://imagej.net/User:MTrack)"
-      
-      
+
   - name: "Multifrac"
     id: "Multifrac"
     url: "https://sites.imagej.net/Multifrac/"
     description: >-
       [Multifrac](https://sites.imagej.net/Multifrac)
-      is a tool for multifractal and scaling analysis of 2D and 3D stack images, 
+      is a tool for multifractal and scaling analysis of 2D and 3D stack images,
       including lacunarity, configuration entropy, characteristic lenght and multifractal
       spectrum of gray and black and white images. This is particularly desginated and tested
       for addressing analysis on soil pore structre.
     maintainers:
       - "[Ivan G Torre](https://imagej.net/User:Ivangtorre)"
 
-  
   - name: "Multi-Template-Matching"
     id: "Multi-Template-Matching"
     url: "https://sites.imagej.net/Multi-Template-Matching/"
@@ -1568,10 +1565,10 @@ sites:
     url: "https://biop.epfl.ch/update-sites/operetta/"
     description: >-
       The Operetta Importer includes an ImageJ 2 Command for importing iamges (measurements) generated from PerkinElmer
-      microscopes running Harmony (Exported from Harmony). 
+      microscopes running Harmony (Exported from Harmony).
       Behind it, there is a full API to get ImageJ-fiendly images (Hyperstacks) out easily for on-the-fly processing in scripts.
       Most importantly, depite the size of the datasets, processing is fast thanks to Bioformat's Memoization technology
-      and parallel processing. 
+      and parallel processing.
     maintainers:
       - "Olivier Burri, [EPFL-SV-BIOP](https://people.epfl.ch/olivier.burri)"
       - "Romain Guiet, [EPFL-SV-BIOP](https://people.epfl.ch/romain.guiet)"
@@ -1651,13 +1648,13 @@ sites:
     id: "Anotherche"
     url: "https://sites.imagej.net/Anotherche/"
     description: >-
-      The [PhotoBend](https://imagej.net/PhotoBend) is a collection of 
-      specialized plugins providing tracking a needle-like crystal 
+      The [PhotoBend](https://imagej.net/PhotoBend) is a collection of
+      specialized plugins providing tracking a needle-like crystal
       shape changing during photoinduced bending process.
-      1. tracking the curvature of uniformly curved rods changing with time; 
-      2. tracking a laser spot movement used in the laser beam deflection 
-      technique.  
-      Additionally, two auxiliary plugins for reading and writing compressed 
+      1. tracking the curvature of uniformly curved rods changing with time;
+      2. tracking a laser spot movement used in the laser beam deflection
+      technique.
+      Additionally, two auxiliary plugins for reading and writing compressed
       video using FFmpeg are included, which can be used standalone.
     maintainers:
       - "[Stanislav Chizhik](https://imagej.net/User:Anotherche)"
@@ -1697,11 +1694,11 @@ sites:
     id: "PlateViewer"
     url: "https://sites.imagej.net/PlateViewer/"
     description: >-
-      PlateViewer - an ImageJ plug-in for visualisation of 
+      PlateViewer - an ImageJ plug-in for visualisation of
       high-throughput microscopy multi-well plate image data.
     maintainers:
       - "[Christian Tischer](mailto:christian.tischer@embl.de)"
- 
+
   - name: "PQCT"
     id: "PQCT"
     url: "https://sites.imagej.net/PQCT/"
@@ -1739,7 +1736,7 @@ sites:
       and issues [here](https://github.com/quantixed/imagej-macros/).
     maintainers:
       - "[Stephen Royle](https://mechanochemistry.org/royle)"
-      
+
   - name: "QuickFigures"
     id: "QuickFigures"
     url: "https://sites.imagej.net/QuickFigures/"
@@ -1785,17 +1782,17 @@ sites:
     id: "ReadPlate"
     url: "https://sites.imagej.net/ReadPlate/"
     description: >-
-      This macro measures absorbance values from an image of a multi-well 
-      plate. ReadPlate 3.0 version incorporates the capability of reading 
-      multi-well plates of 6 (3x2), 12 (4x3), 24 (6x4), 48 (8x6) and 96 (12x8) 
-      wells. An new user-friendly interface facilitates image analysis. This 
-      version allows new user-defined features to optimize blank correction. 
-      Multiple readings of the same plate has also considerably been 
-      facilitated, appending the full parameter file to the results and log 
+      This macro measures absorbance values from an image of a multi-well
+      plate. ReadPlate 3.0 version incorporates the capability of reading
+      multi-well plates of 6 (3x2), 12 (4x3), 24 (6x4), 48 (8x6) and 96 (12x8)
+      wells. An new user-friendly interface facilitates image analysis. This
+      version allows new user-defined features to optimize blank correction.
+      Multiple readings of the same plate has also considerably been
+      facilitated, appending the full parameter file to the results and log
       file.
     maintainers:
       - "José María Delfino (delfino@qb.ffyb.uba.ar)"
-      
+
   - name: "ResultsToExcel"
     id: "ResultsToExcel"
     url: "https://sites.imagej.net/ResultsToExcel/"
@@ -1808,7 +1805,7 @@ sites:
       [YouTube tutorial](https://www.youtube.com/watch?v=79rzUae-7N8/).
     maintainers:
       - "[Anthony Sinadinos](https://imagej.net/User:ResultsToExcel)"
-  
+
   - name: "ROI 1-click Tools"
     id: "Roi1ClickTools"
     url: "https://sites.imagej.net/RoiClicTool/"
@@ -1990,7 +1987,7 @@ sites:
       3D segmentation and morphometry of mitotic spindles
     maintainers:
       - "Christian Tischer"
-      
+
   - name: "StarDist"
     id: "StarDist"
     url: "https://sites.imagej.net/StarDist/"
@@ -2091,8 +2088,8 @@ sites:
     id: "TrackMate-Ilastik"
     url: "https://sites.imagej.net/TrackMate-Ilastik"
     description: >-
-      This sites ships a detector module for TrackMate that relies on Ilastik 
-      to segment objects in 2D or 3D. 
+      This sites ships a detector module for TrackMate that relies on Ilastik
+      to segment objects in 2D or 3D.
     maintainers:
       - "[Jean-Yves Tinevez](https://imagej.net/User:JeanYvesTinevez)"
 
@@ -2100,32 +2097,32 @@ sites:
     id: "TrackMate-MorphoLibJ"
     url: "https://sites.imagej.net/TrackMate-MorphoLibJ"
     description: >-
-     This page describes a detector module for TrackMate that relies on the 
+     This page describes a detector module for TrackMate that relies on the
      [Morphological Segmentation](https://imagej.net/plugins/morphological-segmentation)
-     plugin shipped with the [MorphoLibJ](https://imagej.net/plugins/morpholibj) library. 
+     plugin shipped with the [MorphoLibJ](https://imagej.net/plugins/morpholibj) library.
      See https://imagej.net/plugins/trackmate/trackmate-morpholibj/
     maintainers:
       - "[Jean-Yves Tinevez](https://imagej.net/User:JeanYvesTinevez)"
-      
+
   - name: "TrackMate-StarDist"
     id: "TrackMate-StarDist"
     url: "https://sites.imagej.net/TrackMate-StarDist"
     description: >-
-      This page describes a detector module for TrackMate that relies on 
-      [StarDist](https://imagej.net/plugins/stardist) to segment objects in 2D.  
+      This page describes a detector module for TrackMate that relies on
+      [StarDist](https://imagej.net/plugins/stardist) to segment objects in 2D.
     maintainers:
       - "[Jean-Yves Tinevez](https://imagej.net/User:JeanYvesTinevez)"
-      
+
   - name: "TrackMate-Weka"
     id: "TrackMate-Weka"
     url: "https://sites.imagej.net/TrackMate-Weka"
     description: >-
-      This page describes a detector module for TrackMate that relies on the 
-      [Trainable Weka Segmentation plugin](https://imagej.net/plugins/tws/index) 
-      to segment objects in 2D or 3D.  
+      This page describes a detector module for TrackMate that relies on the
+      [Trainable Weka Segmentation plugin](https://imagej.net/plugins/tws/index)
+      to segment objects in 2D or 3D.
     maintainers:
-      - "[Jean-Yves Tinevez](https://imagej.net/User:JeanYvesTinevez)"      
-     
+      - "[Jean-Yves Tinevez](https://imagej.net/User:JeanYvesTinevez)"
+
   - name: "TrackMateCSVImporter"
     id: "TrackMateCSVImporter"
     url: "https://sites.imagej.net/TrackMateCSVImporter/"
@@ -2192,9 +2189,9 @@ sites:
     id: "Wilson.adams"
     url: "https://sites.imagej.net/Wilson.adams/"
     description: >-
-      Customized GUI and image analysis scripts designed for local use by the 
-      [Vanderbilt Biophotonics Center](https://www.vanderbilt.edu/vbc/) and 
-      collaborators. Avoid following if you have a personally customized 
+      Customized GUI and image analysis scripts designed for local use by the
+      [Vanderbilt Biophotonics Center](https://www.vanderbilt.edu/vbc/) and
+      collaborators. Avoid following if you have a personally customized
       StartupMacros.ijm file.
     maintainers:
       - "[Wilson R Adams](mailto:wilson.adams@vanderbilt.edu) Vanderbilt Biophotonics Center, Nashville, TN, USA"
@@ -2203,8 +2200,8 @@ sites:
     id: "HoldenLabBiophys"
     url: "https://sites.imagej.net/VerciniAnalysisJ/"
     description: >-
-      A set of ImageJ scripts for analysis of VerCINI (Vertical Cell Imaging by Nanostructured 
-      Immobilization) microscopy data of vertically oriented bacteria. 
+      A set of ImageJ scripts for analysis of VerCINI (Vertical Cell Imaging by Nanostructured
+      Immobilization) microscopy data of vertically oriented bacteria.
       See https://github.com/HoldenLab/VerciniAnalysisJ for documentation.
     maintainers:
       - "[Seamus Holden](mailto:seamus.holden@ncl.ac.uk) Newcastle University, UK"
@@ -2300,7 +2297,7 @@ sites:
       the plugin. Thanks to Eugene Katrukha for the initial implementation.
     maintainers:
       - "[Andrey Aristov](mailto:aaristov@pasteur.fr)"
-      
+
   - name: "ZedMate Suite"
     id: "ZedMate"
     url: "https://sites.imagej.net/Ayakimovich/"
@@ -2309,13 +2306,13 @@ sites:
       3D particles detection and measurement.
     maintainers:
       - "[Artur Yakimovich](mailto:a.yakimovich@ucl.ac.uk)"
-      
+
   - name: "ZFBONE"
     id: "ZFBONE"
     url: "https://sites.imagej.net/Zfmacros/"
     description: >-
-      [ZFBONE](https://sites.imagej.net/Zfmacros) is a toolset that provides tools 
-      needed for a rapid, reliable and semi-automatized morphometric analysis of zebrafish 
+      [ZFBONE](https://sites.imagej.net/Zfmacros) is a toolset that provides tools
+      needed for a rapid, reliable and semi-automatized morphometric analysis of zebrafish
       bone structures such as operculum, caudal fin and scales.
     maintainers:
       - "[Marco Tarasco](mailto:mtarasco@ualg.pt)"
