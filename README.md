@@ -1,3 +1,5 @@
+[![](https://github.com/imagej/list-of-update-sites/actions/workflows/build-main.yml/badge.svg)](https://github.com/imagej/list-of-update-sites/actions/workflows/build-main.yml)
+
 # List of Update Sites
 
 In ImageJ / Fiji, anyone can open the Updater and install features from a list of available update sites which is populated by this repository.
