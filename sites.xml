@@ -552,6 +552,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Jan Kožusznik
 
 |- valign=&quot;top&quot;
+|'''HPC-Datastore'''
+|https://sites.imagej.net/HPC-Datastore/
+|Plugins using HPC Datastore.
+|Jan Kožusznik
+
+|- valign=&quot;top&quot;
 |'''IamMM'''
 |https://sites.imagej.net/IamMM/
 |Image Synthesizer (plugin to generate images from mathematical functions and conditional statements in a coordinate system independent from the aspect ratio or image size), Spheroid RGB (plugin to analyze microscopy RGB images with fluorescent stained cells)

@@ -837,6 +837,14 @@ sites:
     maintainers:
       - "[Jan Kožusznik](mailto:jan@kozusznik.cz)"
 
+  - name: "HPC-Datastore"
+    id: "HPC-Datastore"
+    url: "https://sites.imagej.net/HPC-Datastore/"
+    description: >-
+      Plugins using HPC Datastore.
+    maintainers:
+      - "[Jan Kožusznik](mailto:jan@kozusznik.cz)"
+
   - name: "IamMM"
     id: "IamMM"
     url: "https://sites.imagej.net/IamMM/"
