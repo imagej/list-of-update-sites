@@ -2084,6 +2084,17 @@ sites:
       [Inception](https://arxiv.org/abs/1512.00567) image classifier.
     maintainers:
       - "[Curtis Rueden](https://imagej.net/User:Rueden)"
+      
+  - name: "Timebar"
+    id: "Timebar"
+    url: "https://sites.imagej.net/Timebar/"
+    description: >-
+      The [Timebar](https://github.com/remiberthoz/imagej-timebar)
+      plugin is intended for stacks with a temporal dimension
+      (2D+T, 3D+T, etc.). Frames in the time series will be decorated
+      with a timestamp and, optionally, a progressing bar.
+    maintainers:
+      - "[Rémi Berthoz](mailto:remi.berthoz+imagej@gmail.com)"
 
   - name: "Tissue Analyzer"
     id: "TA"
