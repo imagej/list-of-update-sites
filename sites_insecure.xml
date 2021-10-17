@@ -1280,6 +1280,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Curtis Rueden
 
 |- valign=&quot;top&quot;
+|'''Timebar'''
+|http://sites.imagej.net/Timebar/
+|The Timebar plugin is intended for stacks with a temporal dimension (2D+T, 3D+T, etc.). Frames in the time series will be decorated with a timestamp and, optionally, a progressing bar.
+|Rémi Berthoz
+
+|- valign=&quot;top&quot;
 |'''Tissue Analyzer'''
 |http://sites.imagej.net/TA/
 |Tissue Analyzer is a free tool to segment epithelial tissues.
