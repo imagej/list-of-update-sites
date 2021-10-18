@@ -133,28 +133,28 @@ sites:
 
   - name: "BACMMAN"
     id: "BACMMAN"
-    url: "https://sites.imagej.net/Ljp/"
+    url: "https://sites.imagej.net/BACMMAN/"
     description: >-
        BACteria in Mother Machine ANalyzer: a plugin for high-throughput
        analysis of multichannel mother machine data.
        See [Sources](https://github.com/jeanollion/bacmman) and [Wiki](https://github.com/jeanollion/bacmman/wiki)
     maintainers:
       - ["Jean Ollion"](https://www.sabilab.fr/)
-      
+
   - name: "BACMMAN-DL"
     id: "BACMMAN-DL"
     url: "https://sites.imagej.net/BACMMAN-DL/"
     description: >-
-       Enables deep learning for BACMMAN (CPU). 
+       Enables deep learning for BACMMAN (CPU).
        Currently using Tensorflow 2x
     maintainers:
       - ["Jean Ollion"](https://www.sabilab.fr/)
-  
+
   - name: "BACMMAN-DL-GPU"
     id: "BACMMAN-DL-GPU"
     url: "https://sites.imagej.net/BACMMAN-DL-GPU/"
     description: >-
-       Enables deep learning for BACMMAN (GPU). 
+       Enables deep learning for BACMMAN (GPU).
        Currently using Tensorflow 2x
     maintainers:
       - ["Jean Ollion"](https://www.sabilab.fr/)
