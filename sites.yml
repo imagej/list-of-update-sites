@@ -137,9 +137,10 @@ sites:
     description: >-
        BACteria in Mother Machine ANalyzer: a plugin for high-throughput
        analysis of multichannel mother machine data.
-       See [Sources](https://github.com/jeanollion/bacmman) and [Wiki](https://github.com/jeanollion/bacmman/wiki)
+       See Sources: https://github.com/jeanollion/bacmman 
+       and Wiki: https://github.com/jeanollion/bacmman/wiki
     maintainers:
-      - ["Jean Ollion"](https://www.sabilab.fr/)
+      - "[Jean Ollion](https://www.sabilab.fr/)"
 
   - name: "BACMMAN-DL"
     id: "BACMMAN-DL"
@@ -148,7 +149,7 @@ sites:
        Enables deep learning for BACMMAN (CPU).
        Currently using Tensorflow 2x
     maintainers:
-      - ["Jean Ollion"](https://www.sabilab.fr/)
+      - "[Jean Ollion](https://www.sabilab.fr/)"
 
   - name: "BACMMAN-DL-GPU"
     id: "BACMMAN-DL-GPU"
@@ -157,7 +158,7 @@ sites:
        Enables deep learning for BACMMAN (GPU).
        Currently using Tensorflow 2x
     maintainers:
-      - ["Jean Ollion"](https://www.sabilab.fr/)
+      - "[Jean Ollion](https://www.sabilab.fr/)"
 
   - name: "BAR"
     id: "Tiago"
