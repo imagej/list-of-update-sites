@@ -137,8 +137,8 @@ sites:
     description: >-
        BACteria in Mother Machine ANalyzer: a plugin for high-throughput
        analysis of multichannel mother machine data.
-       See Sources: https://github.com/jeanollion/bacmman 
-       and Wiki: https://github.com/jeanollion/bacmman/wiki
+       See [Sources](https://github.com/jeanollion/bacmman): https://github.com/jeanollion/bacmman 
+       and [Wiki](https://github.com/jeanollion/bacmman/wiki): https://github.com/jeanollion/bacmman/wiki
     maintainers:
       - "[Jean Ollion](https://www.sabilab.fr/)"
 
