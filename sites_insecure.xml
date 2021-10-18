@@ -145,8 +145,20 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 
 |- valign=&quot;top&quot;
 |'''BACMMAN'''
-|http://sites.imagej.net/Ljp/
-|BACteria in Mother Machine ANalyzer: a plugin for high-throughput analysis of multichannel mother machine data. See Sources and Wiki
+|http://sites.imagej.net/BACMMAN/
+|BACteria in Mother Machine ANalyzer: a plugin for high-throughput analysis of multichannel mother machine data. See Sources: https://github.com/jeanollion/bacmman  and Wiki: https://github.com/jeanollion/bacmman/wiki
+|Jean Ollion
+
+|- valign=&quot;top&quot;
+|'''BACMMAN-DL'''
+|http://sites.imagej.net/BACMMAN-DL/
+|Enables deep learning for BACMMAN (CPU). Currently using Tensorflow 2x
+|Jean Ollion
+
+|- valign=&quot;top&quot;
+|'''BACMMAN-DL-GPU'''
+|http://sites.imagej.net/BACMMAN-DL-GPU/
+|Enables deep learning for BACMMAN (GPU). Currently using Tensorflow 2x
 |Jean Ollion
 
 |- valign=&quot;top&quot;
