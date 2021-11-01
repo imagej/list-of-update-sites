@@ -810,6 +810,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Henry Pinkard
 
 |- valign=&quot;top&quot;
+|'''Mighty Data, Inc.'''
+|http://sites.imagej.net/mightydatainc/
+|Dendritic Spine Counter  creates a modular wizard dialog to assist with the task of counting dendritic spines in  microscope images using open-source statistical image processing techniques.
+|Mikhail Voloshin
+
+|- valign=&quot;top&quot;
 |'''MIST'''
 |http://sites.imagej.net/NIST-ISG-MIST/
 |Microscopy Image Stitching Tool (MIST), is a stitching algorithm for small and large two dimensional image grid collections. We developed a new and novel method for optimizing the translations computed by the phase-correlation method using the Fourier transform approach. This new method estimates the microscope stage repeatability from the computed translations of a gridded image tiles. It then optimizes all translation computation using the Hill Climbing algorithm bounded to four times the stage repeatability. This minimizes the maximum uncertainty related to the translation computation for any pair of images.

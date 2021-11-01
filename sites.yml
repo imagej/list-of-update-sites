@@ -1293,6 +1293,16 @@ sites:
     maintainers:
       - "Henry Pinkard"
 
+  - name: "Mighty Data, Inc."
+    id: "mightydatainc"
+    url: "https://sites.imagej.net/mightydatainc/"
+    description: >-
+      [Dendritic Spine Counter](https://github.com/Mighty-Data-Inc/dendritic-spine-counter) 
+      creates a modular wizard dialog to assist with the task of counting dendritic spines in 
+      microscope images using open-source statistical image processing techniques. 
+    maintainers:
+      - "Mikhail Voloshin"
+
   - name: "MIST"
     id: "NIST-ISG-MIST"
     url: "https://sites.imagej.net/NIST-ISG-MIST/"
