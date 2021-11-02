@@ -1643,15 +1643,6 @@ sites:
     maintainers:
       - "[Rhodri Wilson](mailto:rhodri.wilson@oncology.ox.ac.uk)"
 
-  - name: "P2E-IT4Innovations"
-    id: "P2E-IT4Innovations"
-    url: "https://sites.imagej.net/P2E-IT4Innovations/"
-    description: >-
-      ImageJ plugins from research group involved in the project Path to
-      Exascale IT4Innovations:<ul><li> SPIM Workflow Manager for HPC.</li></ul>
-    maintainers:
-      - "[Jan Kožusznik](mailto:jan@kozusznik.cz)"
-
   - name: "ParticleSizer"
     id: "Ndef-psizer"
     url: "https://sites.imagej.net/Ndef-psizer/"
