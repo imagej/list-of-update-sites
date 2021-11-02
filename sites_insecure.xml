@@ -1014,12 +1014,6 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Rhodri Wilson
 
 |- valign=&quot;top&quot;
-|'''P2E-IT4Innovations'''
-|http://sites.imagej.net/P2E-IT4Innovations/
-|ImageJ plugins from research group involved in the project Path to Exascale IT4Innovations: SPIM Workflow Manager for HPC.
-|Jan Kožusznik
-
-|- valign=&quot;top&quot;
 |'''ParticleSizer'''
 |http://sites.imagej.net/Ndef-psizer/
 |A plugin to derive number based size distributions from TEM images.
