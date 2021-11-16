@@ -661,15 +661,6 @@ sites:
     maintainers:
       - "Petr Sokolov"
 
-  - name: "FilamentDetector"
-    id: "FilamentDetector"
-    url: "https://sites.imagej.net/FilamentDetector/"
-    description: >-
-      A Fiji plugin that allows easy, fast and accurate detection and tracking
-      of biological filaments.
-    maintainers:
-      - "[Hadrien Mary](https://imagej.net/User:Hadim)"
-
   - name: "Filopodyan"
     id: "Rb7777"
     url: "https://sites.imagej.net/Rb7777/"
