@@ -456,12 +456,6 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Petr Sokolov
 
 |- valign=&quot;top&quot;
-|'''FilamentDetector'''
-|http://sites.imagej.net/FilamentDetector/
-|A Fiji plugin that allows easy, fast and accurate detection and tracking of biological filaments.
-|Hadrien Mary
-
-|- valign=&quot;top&quot;
 |'''Filopodyan'''
 |http://sites.imagej.net/Rb7777/
 |Filopodia dynamics analysis. See GitHub for the user guide, source code and R scripts for downstream analysis.
