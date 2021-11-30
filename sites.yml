@@ -611,8 +611,8 @@ sites:
       - "[Zhou Xu](mailto:zhou.xu@monash.edu)"
 
   - name: "EVAnalyzer"
-    id: "joda01"
-    url: "https://sites.imagej.net/joda01/"
+    id: "evanalyzer"
+    url: "https://sites.imagej.net/evanalyzer/"
     description: >-
       [EVAnalyzer](https://github.com/joda01/evanalyzer)
       EVAnalyzer is a Fiji ImageJ plugin designed for analyzing microscope pictures of EVs. 
