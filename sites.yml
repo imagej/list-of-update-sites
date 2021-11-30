@@ -611,8 +611,8 @@ sites:
       - "[Zhou Xu](mailto:zhou.xu@monash.edu)"
 
   - name: "EVAnalyzer"
-    id: "EVAnalyzer"
-    url: "https://sites.imagej.net/EVAnalyzer/"
+    id: "joda01"
+    url: "https://sites.imagej.net/joda01/"
     description: >-
       [EVAnalyzer](https://github.com/joda01/evanalyzer)
       EVAnalyzer is a Fiji ImageJ plugin designed for analyzing microscope pictures of EVs. 
@@ -621,7 +621,7 @@ sites:
       Analysis of a large amount of images automatically;Generating XLSX (Excel) reports with 
       automatic statistics generation.
     maintainers:
-      - "[Joachim Danmayr](mailto:)"
+      - "[Joachim Danmayr](mailto:joachim.danmayr@mailbox.org)"
 
   - name: "Excel Functions"
     id: "ExcelMacroExtensions"
