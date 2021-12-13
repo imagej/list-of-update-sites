@@ -1045,6 +1045,15 @@ sites:
       plugin for averaging replicate OCT volume scans.
     maintainers:
       - "[Mark Krebs](mailto:mark.krebs@jax.org)"
+ 
+  - name: "JDM LUTs"
+    id: "JDM_LUTs"
+    url: "https://sites.imagej.net/JDM_LUTs/"
+    description: >-
+      A collection of lookup tables, including some designed for high
+      dynamic range data.
+    maintainers:
+      - "[James Manton](mailto:jmanton@mrc-lmb.cam.ac.uk)"
 
   - name: "JOGL Canvas Deep Color / 3D"
     id: "JOGLCanvas"
