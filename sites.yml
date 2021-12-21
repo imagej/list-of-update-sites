@@ -732,6 +732,16 @@ sites:
     maintainers:
       - "[A. Karperien](https://imagej.net/User:Akarperien)"
 
+  - name: "FRET Imaging"
+    id: "FRET-Imaging"
+    url: "https://sites.imagej.net/FRET-Imaging/"
+    description: >-
+      ImageJ plugins for 3-cube FRET ([RiFRET](https://imagej.net/plugins/rifret)) and
+      acceptor photobleaching FRET ([AccPbFRET](https://imagej.net/plugins/accpbfret))
+      from [CellMoTher](https://github.com/CellMoTher).
+    maintainers:
+      - "[Cameron Lloyd](https://imagej.net/people/camlloyd)"
+
   - name: "FunImageJ"
     id: "FunImageJ"
     url: "https://sites.imagej.net/FunImageJ/"
