@@ -21,7 +21,7 @@ echo "== Validating updater URLs ==" &&
 cram tests &&
 
 # Stop here if this is not a build of the main branch.
-if [ "$GITHUB_BUILD_NUMBER" ]; then
+if [ -z "$GITHUB_BUILD_NUMBER" ]; then
 	echo "PR build complete."
 	exit 0
 fi &&
