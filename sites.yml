@@ -610,6 +610,19 @@ sites:
     maintainers:
       - "[Zhou Xu](mailto:zhou.xu@monash.edu)"
 
+  - name: "EVAnalyzer"
+    id: "evanalyzer"
+    url: "https://sites.imagej.net/evanalyzer/"
+    description: >-
+      [EVAnalyzer](https://github.com/joda01/evanalyzer)
+      EVAnalyzer is a Fiji ImageJ plugin designed for analyzing microscope pictures of EVs. 
+      This plugin can be used for: Counting the number of EVs; Calculating the colocalization 
+      of evs and other particles; Detect biological cells and counting EVs updatekn from cells; 
+      Analysis of a large amount of images automatically;Generating XLSX (Excel) reports with 
+      automatic statistics generation.
+    maintainers:
+      - "[Joachim Danmayr](mailto:joachim.danmayr@mailbox.org)"
+
   - name: "Excel Functions"
     id: "ExcelMacroExtensions"
     url: "https://sites.imagej.net/ExcelMacroExtensions/"
@@ -731,6 +744,16 @@ sites:
       [citations](https://imagej.net/plugins/fraclac/FLHelp/FLCitations.htm).
     maintainers:
       - "[A. Karperien](https://imagej.net/User:Akarperien)"
+
+  - name: "FRET Imaging"
+    id: "FRET-Imaging"
+    url: "https://sites.imagej.net/FRET-Imaging/"
+    description: >-
+      ImageJ plugins for 3-cube FRET ([RiFRET](https://imagej.net/plugins/rifret)) and
+      acceptor photobleaching FRET ([AccPbFRET](https://imagej.net/plugins/accpbfret))
+      from [CellMoTher](https://github.com/CellMoTher).
+    maintainers:
+      - "[Cameron Lloyd](https://imagej.net/people/camlloyd)"
 
   - name: "FunImageJ"
     id: "FunImageJ"
@@ -1045,6 +1068,15 @@ sites:
       plugin for averaging replicate OCT volume scans.
     maintainers:
       - "[Mark Krebs](mailto:mark.krebs@jax.org)"
+ 
+  - name: "JDM LUTs"
+    id: "JDM_LUTs"
+    url: "https://sites.imagej.net/JDM_LUTs/"
+    description: >-
+      A collection of lookup tables, including some designed for high
+      dynamic range data.
+    maintainers:
+      - "[James Manton](mailto:jmanton@mrc-lmb.cam.ac.uk)"
 
   - name: "JOGL Canvas Deep Color / 3D"
     id: "JOGLCanvas"
@@ -1283,6 +1315,15 @@ sites:
       [BigDataViewer](https://imagej.net/BigDataViewer).
     maintainers:
       - "Henry Pinkard"
+
+  - name: "Microglia-Morphometry"
+    id: "Microglia-Morphometry"
+    url: "https://sites.imagej.net/Microglia-Morphometry/"
+    description: >-
+      [Microglia-Morphometry](https://github.com/embl-cba/microglia-morphometry#microglia-morphometry)
+      is a tool for the semi-automated segmentation, tracking and morphometric analysis of 2D microglia time-lapse images.
+    maintainers:
+      - "[Christian Tischer](mailto:christian.tischer@embl.de)"
 
   - name: "Mighty Data, Inc."
     id: "mightydatainc"

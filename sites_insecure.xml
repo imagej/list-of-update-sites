@@ -426,6 +426,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Zhou Xu
 
 |- valign=&quot;top&quot;
+|'''EVAnalyzer'''
+|http://sites.imagej.net/evanalyzer/
+|EVAnalyzer EVAnalyzer is a Fiji ImageJ plugin designed for analyzing microscope pictures of EVs.  This plugin can be used for: Counting the number of EVs; Calculating the colocalization  of evs and other particles; Detect biological cells and counting EVs updatekn from cells;  Analysis of a large amount of images automatically;Generating XLSX (Excel) reports with  automatic statistics generation.
+|Joachim Danmayr
+
+|- valign=&quot;top&quot;
 |'''Excel Functions'''
 |http://sites.imagej.net/ExcelMacroExtensions/
 |The Excel Functions and Excel Macro Extensions are meant to build an interface beween ImageJ and Excel (.xlsx). It serves as a library which can be used via the ImageJ macro language, Java and Jython to facilitate data transfer Excel Macro Extensions.
@@ -490,6 +496,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |http://sites.imagej.net/Akarperien/
 |Fractal Analysis and Modelling tools for neuroscience and other disciplines. Analysis: DB, lacunarity, multifractal spectra, DLC, DMvD, subscanning, and graphical wave analysis for binary and gray scale images, with inline and online theoretical and practical help. Outputs: detailed analyses, raw data, plots, colour-coding, and settings (*.fl) files. Modelling: benchmark fractals, natural structures (e.g., neurons), megadata to graphical wave images. Code in jar. See citations.
 |A. Karperien
+
+|- valign=&quot;top&quot;
+|'''FRET Imaging'''
+|http://sites.imagej.net/FRET-Imaging/
+|ImageJ plugins for 3-cube FRET (RiFRET) and acceptor photobleaching FRET (AccPbFRET) from CellMoTher.
+|Cameron Lloyd
 
 |- valign=&quot;top&quot;
 |'''FunImageJ'''
@@ -672,6 +684,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Mark Krebs
 
 |- valign=&quot;top&quot;
+|'''JDM LUTs'''
+|http://sites.imagej.net/JDM_LUTs/
+|A collection of lookup tables, including some designed for high dynamic range data.
+|James Manton
+
+|- valign=&quot;top&quot;
 |'''JOGL Canvas Deep Color / 3D'''
 |http://sites.imagej.net/JOGLCanvas/
 |JOGL Canvas is a plugin for ImageJ1 that uses OpenGL and a graphics card to display images rather than the ImageCanvas class, which is extended from java's canvas. It replaces it with a JOGL OpenGL GLCanvas instead. This allows 10-bit or greater color depth for supported monitors and some modest 3D rendering.
@@ -802,6 +820,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |http://sites.imagej.net/Hpinkard/
 |Micro-Magellan is a plugin based on Micro-Manager for high throughput microscopy. This update site is used to enable reading of Micro-Magellan datasets by the BigDataViewer.
 |Henry Pinkard
+
+|- valign=&quot;top&quot;
+|'''Microglia-Morphometry'''
+|http://sites.imagej.net/Microglia-Morphometry/
+|Microglia-Morphometry is a tool for the semi-automated segmentation, tracking and morphometric analysis of 2D microglia time-lapse images.
+|Christian Tischer
 
 |- valign=&quot;top&quot;
 |'''Mighty Data, Inc.'''
