@@ -1322,6 +1322,7 @@ sites:
     description: >-
       [Microglia-Morphometry](https://github.com/embl-cba/microglia-morphometry#microglia-morphometry)
       is a tool for the semi-automated segmentation, tracking and morphometric analysis of 2D microglia time-lapse images.
+    maintainers:
       - "[Christian Tischer](mailto:christian.tischer@embl.de)"
 
   - name: "Mighty Data, Inc."
