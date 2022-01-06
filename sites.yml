@@ -93,6 +93,17 @@ sites:
     maintainers:
       - "[AIC Janelia](https://imagej.net/User:Aicjanelia)"
 
+  - name: "AMPT"
+    id: "AMPT"
+    url: "https://sites.imagej.net/AMPT/"
+    description: >-
+      The [Aquatic Mammal Photogrammetry Tool](https://allenmli.github.io/AMPT/)
+      (AMPT) is an ImageJ plug-in that simplifies the process of measuring
+      aquatic mammals from aerial imagery. The tool may be configured to support
+      different guided measurements.
+    maintainers:
+      - "[AMPT Developers](mailto:ampt-dev@allenai.org)"
+
   - name: "Angiogenesis"
     id: "Angiogenesis"
     url: "https://sites.imagej.net/Angiogenesis/"
