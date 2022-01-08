@@ -122,6 +122,15 @@ sites:
     maintainers:
       - "[Larry Lindsey](https://imagej.net/User:Lindsey)"
 
+  - name: "apoc"
+    id: "apoc"
+    url: "https://sites.imagej.net/apoc/"
+    description: >-
+      Accelerted pixel and object classifiers (APOC)
+      See [https://github.com/clij/clijx-accelerated-pixel-and-object-classification](https://github.com/clij/clijx-accelerated-pixel-and-object-classification)
+    maintainers:
+      - "[Robert Haase](https://imagej.net/User:Haesleinhuepf)"
+      
   - name: "AxoNet"
     id: "AxoNet"
     url: "https://sites.imagej.net/AxoNet/"
