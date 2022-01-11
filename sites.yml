@@ -121,6 +121,15 @@ sites:
     maintainers:
       - "[Larry Lindsey](https://imagej.net/people/larrylindsey)"
 
+  - name: "apoc"
+    id: "apoc"
+    url: "https://sites.imagej.net/apoc/"
+    description: >-
+      Accelerated pixel and object classifiers (APOC).
+      See [clijx-accelerated-pixel-and-object-classification](https://github.com/clij/clijx-accelerated-pixel-and-object-classification).
+    maintainers:
+      - "[Robert Haase](https://imagej.net/people/haesleinhuepf)"
+
   - name: "AxoNet"
     id: "AxoNet"
     url: "https://sites.imagej.net/AxoNet/"
@@ -609,6 +618,19 @@ sites:
     maintainers:
       - "[Zhou Xu](mailto:zhou.xu@monash.edu)"
 
+  - name: "EVAnalyzer"
+    id: "evanalyzer"
+    url: "https://sites.imagej.net/evanalyzer/"
+    description: >-
+      [EVAnalyzer](https://github.com/joda01/evanalyzer)
+      EVAnalyzer is a Fiji ImageJ plugin designed for analyzing microscope pictures of EVs. 
+      This plugin can be used for: Counting the number of EVs; Calculating the colocalization 
+      of evs and other particles; Detect biological cells and counting EVs updatekn from cells; 
+      Analysis of a large amount of images automatically;Generating XLSX (Excel) reports with 
+      automatic statistics generation.
+    maintainers:
+      - "[Joachim Danmayr](mailto:joachim.danmayr@mailbox.org)"
+
   - name: "Excel Functions"
     id: "ExcelMacroExtensions"
     url: "https://sites.imagej.net/ExcelMacroExtensions/"
@@ -659,15 +681,6 @@ sites:
       fibrils on mica, silicon, gold surfaces and formvar film.
     maintainers:
       - "Petr Sokolov"
-
-  - name: "FilamentDetector"
-    id: "FilamentDetector"
-    url: "https://sites.imagej.net/FilamentDetector/"
-    description: >-
-      A Fiji plugin that allows easy, fast and accurate detection and tracking
-      of biological filaments.
-    maintainers:
-      - "[Hadrien Mary](https://imagej.net/people/hadim)"
 
   - name: "Filopodyan"
     id: "Rb7777"
@@ -739,6 +752,16 @@ sites:
       [citations](https://imagej.net/plugins/fraclac/FLHelp/FLCitations.htm).
     maintainers:
       - "[A. Karperien](https://imagej.net/User:Akarperien)"
+
+  - name: "FRET Imaging"
+    id: "FRET-Imaging"
+    url: "https://sites.imagej.net/FRET-Imaging/"
+    description: >-
+      ImageJ plugins for 3-cube FRET ([RiFRET](https://imagej.net/plugins/rifret)) and
+      acceptor photobleaching FRET ([AccPbFRET](https://imagej.net/plugins/accpbfret))
+      from [CellMoTher](https://github.com/CellMoTher).
+    maintainers:
+      - "[Cameron Lloyd](https://imagej.net/people/camlloyd)"
 
   - name: "FunImageJ"
     id: "FunImageJ"
@@ -1053,6 +1076,15 @@ sites:
       plugin for averaging replicate OCT volume scans.
     maintainers:
       - "[Mark Krebs](mailto:mark.krebs@jax.org)"
+ 
+  - name: "JDM LUTs"
+    id: "JDM_LUTs"
+    url: "https://sites.imagej.net/JDM_LUTs/"
+    description: >-
+      A collection of lookup tables, including some designed for high
+      dynamic range data.
+    maintainers:
+      - "[James Manton](mailto:jmanton@mrc-lmb.cam.ac.uk)"
 
   - name: "JOGL Canvas Deep Color / 3D"
     id: "JOGLCanvas"
@@ -1291,6 +1323,25 @@ sites:
       [BigDataViewer](https://imagej.net/plugins/bdv).
     maintainers:
       - "Henry Pinkard"
+
+  - name: "Microglia-Morphometry"
+    id: "Microglia-Morphometry"
+    url: "https://sites.imagej.net/Microglia-Morphometry/"
+    description: >-
+      [Microglia-Morphometry](https://github.com/embl-cba/microglia-morphometry#microglia-morphometry)
+      is a tool for the semi-automated segmentation, tracking and morphometric analysis of 2D microglia time-lapse images.
+    maintainers:
+      - "[Christian Tischer](mailto:christian.tischer@embl.de)"
+
+  - name: "Mighty Data, Inc."
+    id: "mightydatainc"
+    url: "https://sites.imagej.net/mightydatainc/"
+    description: >-
+      [Dendritic Spine Counter](https://github.com/Mighty-Data-Inc/dendritic-spine-counter) 
+      creates a modular wizard dialog to assist with the task of counting dendritic spines in 
+      microscope images using open-source statistical image processing techniques. 
+    maintainers:
+      - "Mikhail Voloshin"
 
   - name: "MIST"
     id: "NIST-ISG-MIST"
@@ -1631,15 +1682,6 @@ sites:
       in the department of Oncology at the University of Oxford.
     maintainers:
       - "[Rhodri Wilson](mailto:rhodri.wilson@oncology.ox.ac.uk)"
-
-  - name: "P2E-IT4Innovations"
-    id: "P2E-IT4Innovations"
-    url: "https://sites.imagej.net/P2E-IT4Innovations/"
-    description: >-
-      ImageJ plugins from research group involved in the project Path to
-      Exascale IT4Innovations:<ul><li> SPIM Workflow Manager for HPC.</li></ul>
-    maintainers:
-      - "[Jan Kožusznik](mailto:jan@kozusznik.cz)"
 
   - name: "ParticleSizer"
     id: "Ndef-psizer"
