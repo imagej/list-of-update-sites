@@ -138,6 +138,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Larry Lindsey
 
 |- valign=&quot;top&quot;
+|'''apoc'''
+|http://sites.imagej.net/apoc/
+|Accelerated pixel and object classifiers (APOC). See clijx-accelerated-pixel-and-object-classification.
+|Robert Haase
+
+|- valign=&quot;top&quot;
 |'''AxoNet'''
 |http://sites.imagej.net/AxoNet/
 |An implementation of the AxoNet tool which can be used to count axons in light micrographs of optic nerves.
