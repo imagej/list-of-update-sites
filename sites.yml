@@ -716,6 +716,15 @@ sites:
       - "Guillaume Jacquemet"
       - "Alexandre Carisey"
 
+  - name: "FiubaMate"
+    id: "FiubaMate"
+    url: "https://sites.imagej.net/FiubaMate/"
+    description: >-
+      [FiubaMate](https://github.com/franco-giordano/fiuba-taller3-final) is a detection and tracking system for bodies in channels, built for 'Medios Porosos' lab, FIUBA.
+    maintainers:
+      - "[Julian Ferres](mailto:jferres@fi.uba.ar)"
+      - "[Franco Giordano](mailto:fgiordano@fi.uba.ar)"
+
   - name: "FLIMJ"
     id: "FLIMJ"
     url: "https://sites.imagej.net/FLIMJ/"
