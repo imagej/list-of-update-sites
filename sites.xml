@@ -192,6 +192,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Kevin Fisher
 
 |- valign=&quot;top&quot;
+|'''BD-CellView'''
+|https://sites.imagej.net/BD-CellView/
+|BD-CellView enables inspection and batch processing of images generated with the BD-CellView imaging flow cytometer.
+|Christian Tischer
+
+|- valign=&quot;top&quot;
 |'''BigDataProcessor'''
 |https://sites.imagej.net/BigDataProcessor/
 |BigDataProcessor2 is an Imglib2 and BigDataViewer based tool for inspection and processing of big (TB-sized) image data.

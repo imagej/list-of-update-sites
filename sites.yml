@@ -212,6 +212,15 @@ sites:
     maintainers:
       - "[Kevin Fisher](mailto:kfish610@gmail.com)"
 
+  - name: "BD-CellView"
+    id: "BD-CellView"
+    url: "https://sites.imagej.net/BD-CellView/"
+    description: >-
+      [BD-CellView](https://github.com/embl-cba/ICS)
+      enables inspection and batch processing of images generated with the BD-CellView imaging flow cytometer.
+    maintainers:
+      - "[Christian Tischer](mailto:christian.tischer@embl.de)"
+
   - name: "BigDataProcessor"
     id: "BigDataProcessor"
     url: "https://sites.imagej.net/BigDataProcessor/"
