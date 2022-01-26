@@ -1086,6 +1086,16 @@ sites:
     maintainers:
       - "[Dimiter Prodanov](mailto:dimiterpp@gmail.com)"
 
+  - name: "Intensity Profile tools"
+    id: "IntensityProfileTools"
+    url: "https://sites.imagej.net/IntensityProfileTools/"
+    description: >-
+      Provides a macro-toolset for interactive inspection of images using intensity profile plots.
+      Including an interactive mouse tool (line profiles) and an action tool for the generation of 
+      horizontal/vertical average intensity panels.
+    maintainers:
+      - "[Laurent Thomas](https://imagej.net/people/LauLauThom)"
+
   - name: "IsletJ"
     id: "IsletJ"
     url: "https://sites.imagej.net/IsletJ/"
