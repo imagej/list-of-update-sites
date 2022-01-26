@@ -696,6 +696,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Dimiter Prodanov
 
 |- valign=&quot;top&quot;
+|'''Intensity Profile tools'''
+|https://sites.imagej.net/IntensityProfileTools/
+|Provides a macro-toolset for interactive inspection of images using intensity profile plots. Including an interactive mouse tool (line profiles) and an action tool for the generation of  horizontal/vertical average intensity panels.
+|Laurent Thomas
+
+|- valign=&quot;top&quot;
 |'''IsletJ'''
 |https://sites.imagej.net/IsletJ/
 |Plugin for evaluation of microscopy images of Langerhans islets. Provides estimate of area and count of islets, and an estimate of purity (endocrine-to-exocrine tissue ratio).
