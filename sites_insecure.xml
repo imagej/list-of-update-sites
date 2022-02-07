@@ -252,6 +252,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Jan Brocher
 
 |- valign=&quot;top&quot;
+|'''BioVoxxel 3D Box'''
+|http://sites.imagej.net/bv3dbox/
+|Image processing and analysis tools for 2D and 3D images in one place. Based on GPU accelerated computing via CLIJ2. BioVoxxel 3D box BioVoxxel web site.
+|Jan Brocher
+
+|- valign=&quot;top&quot;
 |'''Blind Analysis Tools'''
 |http://sites.imagej.net/Astja/
 |Tools to facilitate blind i.e., unbiased analysis of (image) data. For more information visit the documentation page.

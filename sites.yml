@@ -321,6 +321,17 @@ sites:
     maintainers:
       - "[Jan Brocher](https://imagej.net/people/biovoxxel)"
 
+  - name: "BioVoxxel 3D Box"
+    id: "bv3dbox"
+    url: "https://sites.imagej.net/bv3dbox/"
+    description: >-
+      Image processing and analysis tools for 2D and 3D images in one place.
+      Based on GPU accelerated computing via CLIJ2.
+      [BioVoxxel 3D box](https://biovoxxel.github.io/bv3dbox/)
+      [BioVoxxel web site](https://www.biovoxxel.de).
+    maintainers:
+      - "[Jan Brocher](https://imagej.net/people/biovoxxel)"
+
   - name: "Blind Analysis Tools"
     id: "Astja"
     url: "https://sites.imagej.net/Astja/"
