@@ -2223,6 +2223,31 @@ sites:
     maintainers:
       - "[Vladimír Ulman](mailto:ulman@mpi-cbg.de)"
 
+  - name: "TrackMate-Cellpose"
+    id: "TrackMate-Cellpose"
+    url: "https://sites.imagej.net/TrackMate-Cellpose"
+    description: >-
+      This sites ships a detector module for TrackMate that relies on 
+      [cellpose](https://cellpose.readthedocs.io/en/latest/). It is 
+      documented [here](https://imagej.net/plugins/trackmate/trackmate-cellpose).
+    maintainers:
+      - "[Jean-Yves Tinevez](https://imagej.net/people/tinevez)"
+
+  - name: "TrackMate-Helper"
+    id: "TrackMate-Helper"
+    url: "https://sites.imagej.net/TrackMate-Helper"
+    description: >-
+        The TrackMate-Helper is a plugin made to run parameter sweeps on
+        an image to track. It allows a user to configure a very large batch
+        of tracking parameters to test with TrackMate, and will run them. 
+        The Cell-Tracking-Challenge metrics are calculated for
+        each parameter set tested, which allows to find the best tracking
+        configuration for a dataset with respect to a specific tracking 
+        metric. Check [here](https://imagej.net/plugins/trackmate/extensions/trackmate-helper) 
+        for documentation.
+    maintainers:
+      - "[Jean-Yves Tinevez](https://imagej.net/people/tinevez)"
+
   - name: "TrackMate-Ilastik"
     id: "TrackMate-Ilastik"
     url: "https://sites.imagej.net/TrackMate-Ilastik"
