@@ -1364,6 +1364,18 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Vladimír Ulman
 
 |- valign=&quot;top&quot;
+|'''TrackMate-Cellpose'''
+|http://sites.imagej.net/TrackMate-Cellpose
+|This sites ships a detector module for TrackMate that relies on  cellpose. It is  documented here.
+|Jean-Yves Tinevez
+
+|- valign=&quot;top&quot;
+|'''TrackMate-Helper'''
+|http://sites.imagej.net/TrackMate-Helper
+|The TrackMate-Helper is a plugin made to run parameter sweeps on an image to track. It allows a user to configure a very large batch of tracking parameters to test with TrackMate, and will run them.  The Cell-Tracking-Challenge metrics are calculated for each parameter set tested, which allows to find the best tracking configuration for a dataset with respect to a specific tracking  metric. Check here  for documentation.
+|Jean-Yves Tinevez
+
+|- valign=&quot;top&quot;
 |'''TrackMate-Ilastik'''
 |http://sites.imagej.net/TrackMate-Ilastik
 |This sites ships a detector module for TrackMate that relies on Ilastik to segment objects in 2D or 3D.
