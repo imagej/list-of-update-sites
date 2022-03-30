@@ -838,12 +838,12 @@ sites:
     id: "GAT"
     url: "https://sites.imagej.net/GutAnalysisToolbox/"
     description: >-
-      [Gut Analysis Toolbox](https://github.com/pr4deepr/GutAnalysisToolbox/wiki) enables semi-automated analysis of 
+      [Gut Analysis Toolbox](https://imagej.net/plugins/gut-analysis-toolbox) enables semi-automated analysis of 
       the neuronal and glial distribution within the gut wall in 2D. It uses a combination of FIJI macros, StarDist 
       and deepImageJ for automated segmentation. The primary focus is on characterising the enteric nervous system.
       The aim is to expand the analysis to other celltypes within the gut and enable 3D analysis.
     maintainers:
-      - "[Pradeep Rajasekhar](mailto:pradeep.rajasekhar@gmail.com)"
+      - "[Pradeep Rajasekhar](https://imagej.net/people/pr4deepr)"
 
   - name: "GDSC"
     id: "GDSC"
