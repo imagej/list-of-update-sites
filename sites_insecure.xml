@@ -552,6 +552,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Robert Erger
 
 |- valign=&quot;top&quot;
+|'''Gut Analysis Toolbox'''
+|http://sites.imagej.net/GutAnalysisToolbox/
+|Gut Analysis Toolbox enables semi-automated analysis of  the neuronal and glial distribution within the gut wall in 2D. It uses a combination of FIJI macros, StarDist  and deepImageJ for automated segmentation. The primary focus is on characterising the enteric nervous system. The aim is to expand the analysis to other celltypes within the gut and enable 3D analysis.
+|Pradeep Rajasekhar
+
+|- valign=&quot;top&quot;
 |'''GDSC'''
 |http://sites.imagej.net/GDSC/
 |The Genome Damage and Stability Centre (GDSC) plugins are a collection of analysis programs for microscopy images including colocalisation analysis and peak finding (FindFoci). See GDSC Plugins for details.
