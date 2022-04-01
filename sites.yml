@@ -857,17 +857,6 @@ sites:
     maintainers:
       - "[Alex Herbert](mailto:a.herbert@sussex.ac.uk)"
 
-  - name: "GDSC-SMLM"
-    id: "GDSC-SMLM"
-    url: "https://sites.imagej.net/GDSC-SMLM/"
-    description: >-
-      Tools for Single Molecule Light Microscopy (SMLM). This version has been
-      superceded by GDSC-SMLM2; the two versions cannot be used together.
-      The original [user manual](http://www.sussex.ac.uk/gdsc/intranet/pdfs/SMLM.pdf)
-      is available.
-    maintainers:
-      - "[Alex Herbert](mailto:a.herbert@sussex.ac.uk)"
-
   - name: "GDSC-SMLM2"
     id: "GDSC-SMLM2"
     url: "https://sites.imagej.net/GDSC-SMLM2/"
