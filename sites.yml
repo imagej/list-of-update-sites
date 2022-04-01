@@ -2398,7 +2398,9 @@ sites:
       Plugins for using [Virtual Cell](https://imagej.net/software/virtual-cell) with
       ImageJ.
     maintainers:
-      - "[Jim Schaff](https://imagej.net/people/jcschaff)"
+      - "[Michael Blinov](mailto:blinov@uchc.edu)"
+      - "[Frank Morgan](mailto:frm@uchc.edu)"
+      - "[Ion Moraru](mailto:moraru@uchc.edu)"
 
   - name: "Void Whizzard"
     id: "VezinaLab"

@@ -1463,7 +1463,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |'''Virtual Cell'''
 |https://sites.imagej.net/VCell/
 |Plugins for using Virtual Cell with ImageJ.
-|Jim Schaff
+|Michael Blinov, Frank Morgan, Ion Moraru
 
 |- valign=&quot;top&quot;
 |'''Void Whizzard'''
