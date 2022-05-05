@@ -1429,6 +1429,20 @@ sites:
       Multimodal Big Image Data Exploration and Sharing [MoBIE](https://github.com/mobie-org/mobie)
     maintainers:
       - "[Christian Tischer](mailto:tischitischer@gmail.com)"
+      
+  - name: "ModularImageAnalysis (MIA)"
+    id: "ModularImageAnalysis"
+    url: "https://sites.imagej.net/ModularImageAnalysis/"
+    description: >-
+      MIA is a plugin which provides a modular framework for assembling image 
+      and object analysis workflows. Detected objects can be transformed, 
+      filtered, measured and related. Analysis workflows are batch-enabled by 
+      default, allowing easy processing of high-content datasets.  For more 
+      information please see the documentation at 
+      [mianalysis.github.io](https://mianalysis.github.io/) or on 
+      [imagej.net](https://imagej.net/plugins/modularimageanalysis/).
+    maintainers:
+      - "[Stephen Cross](https://imagej.net/people/sjcross)"
 
   - name: "Molography"
     id: "VolkerGatterdam"
