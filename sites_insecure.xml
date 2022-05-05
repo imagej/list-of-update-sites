@@ -888,6 +888,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Christian Tischer
 
 |- valign=&quot;top&quot;
+|'''ModularImageAnalysis (MIA)'''
+|http://sites.imagej.net/ModularImageAnalysis/
+|MIA is a plugin which provides a modular framework for assembling image  and object analysis workflows. Detected objects can be transformed,  filtered, measured and related. Analysis workflows are batch-enabled by  default, allowing easy processing of high-content datasets.  For more  information please see the documentation at  mianalysis.github.io or on  imagej.net.
+|Stephen Cross
+
+|- valign=&quot;top&quot;
 |'''Molography'''
 |http://sites.imagej.net/VolkerGatterdam/
 |Script for Evaluation of Molographic Data
