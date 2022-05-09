@@ -1140,7 +1140,8 @@ sites:
     id: "JIPipe"
     url: "https://sites.imagej.net/JIPipe/"
     description: >-
-      [JIPipe](https://www.jipipe.org/) is a visual programming language based on ImageJ.
+      [JIPipe](https://imagej.net/plugins/jipipe) is a
+      visual programming language based on ImageJ.
     maintainers:
       - "[Ruman Gerst](mailto:ruman.gerst@leibniz-hki.de)"
       - "[Zoltán Cseresnyés](mailto:zoltan.cseresnyes@leibniz-hki.de)"
