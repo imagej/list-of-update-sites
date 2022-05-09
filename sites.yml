@@ -1135,6 +1135,16 @@ sites:
       dynamic range data.
     maintainers:
       - "[James Manton](mailto:jmanton@mrc-lmb.cam.ac.uk)"
+      
+  - name: "JIPipe"
+    id: "JIPipe"
+    url: "https://sites.imagej.net/JIPipe/"
+    description: >-
+      [JIPipe](https://www.jipipe.org/) is a visual programming language based on ImageJ.
+    maintainers:
+      - "[Ruman Gerst](mailto:ruman.gerst@leibniz-hki.de)"
+      - "[Zoltán Cseresnyés](mailto:zoltan.cseresnyes@leibniz-hki.de)"
+      - "[Marc Thilo Figge](mailto:thilo.figge@leibniz-hki.de)"
 
   - name: "JOGL Canvas Deep Color / 3D"
     id: "JOGLCanvas"
