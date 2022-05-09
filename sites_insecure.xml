@@ -726,6 +726,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |James Manton
 
 |- valign=&quot;top&quot;
+|'''JIPipe'''
+|http://sites.imagej.net/JIPipe/
+|JIPipe is a visual programming language based on ImageJ.
+|Ruman Gerst, Zoltán Cseresnyés, Marc Thilo Figge
+
+|- valign=&quot;top&quot;
 |'''JOGL Canvas Deep Color / 3D'''
 |http://sites.imagej.net/JOGLCanvas/
 |JOGL Canvas is a plugin for ImageJ1 that uses OpenGL and a graphics card to display images rather than the ImageCanvas class, which is extended from java's canvas. It replaces it with a JOGL OpenGL GLCanvas instead. This allows 10-bit or greater color depth for supported monitors and some modest 3D rendering.
