@@ -2240,13 +2240,14 @@ sites:
       - "[Benoit Aigouy](mailto:tissue.analyser@gmail.com)"
 
   - name: "TomancakLab"
-    id: "Ulman2"
-    url: "https://sites.imagej.net/Ulman2/"
+    id: "TomancakLab"
+    url: "https://sites.imagej.net/TomancakLab/"
     description: >-
       A couple of Fiji scripts to ease daily evo-devo image analysis life, from
       Tomancak lab.
     maintainers:
       - "[Vladimír Ulman](mailto:ulman@mpi-cbg.de)"
+      - "[Matthias Arzt](https://imagej.net/people/maarzt)"
 
   - name: "TrackMate-Cellpose"
     id: "TrackMate-Cellpose"
