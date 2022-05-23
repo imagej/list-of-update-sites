@@ -2292,6 +2292,16 @@ sites:
      See https://imagej.net/plugins/trackmate/trackmate-morpholibj/
     maintainers:
       - "[Jean-Yves Tinevez](https://imagej.net/people/tinevez)"
+      
+  - name: "TrackMate-Oneat"
+    id: "TrackMate-Oneat"
+    url: "https://sites.imagej.net/TrackMate-Oneat/"
+    description: >-
+     This page describes a track corrector module for TrackMate that relies on
+     [oneat](https://pypi.org/project/oneat/).
+    maintainers:
+      - "[Varun Kapoor](https://imagej.net/people/kapoorlab)"    
+      
 
   - name: "TrackMate-StarDist"
     id: "TrackMate-StarDist"
