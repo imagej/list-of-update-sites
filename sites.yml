@@ -2039,11 +2039,11 @@ sites:
       - "[Hadrien Mary](https://imagej.net/people/hadim)"
 
   - name: "SciView"
-    id: "SciView"
-    url: "https://sites.imagej.net/SciView/"
+    id: "sciview"
+    url: "https://sites.imagej.net/sciview-buttercup/"
     description: >-
-      SciView 3D/VR/AR visualization package for ImageJ. See source
-      [on GitHub](https://github.com/scenerygraphics/SciView).
+      sciview 3D/VR/AR visualization package for ImageJ. See the documentation [here](https://docs.scenery.graphics/sciview) and source
+      [on GitHub](https://github.com/scenerygraphics/sciview).
     maintainers:
       - "[Kyle Harrington](https://imagej.net/people/kephale)"
       - "[Ulrik Günther](https://imagej.net/people/skalarproduktraum)"
