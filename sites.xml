@@ -1371,9 +1371,9 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 
 |- valign=&quot;top&quot;
 |'''TomancakLab'''
-|https://sites.imagej.net/Ulman2/
+|https://sites.imagej.net/TomancakLab/
 |A couple of Fiji scripts to ease daily evo-devo image analysis life, from Tomancak lab.
-|Vladimír Ulman
+|Vladimír Ulman, Matthias Arzt
 
 |- valign=&quot;top&quot;
 |'''TrackMate-Cellpose'''
