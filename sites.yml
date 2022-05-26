@@ -1542,7 +1542,7 @@ sites:
     id: "MultiStackReg"
     url: "https://sites.imagej.net/MultiStackReg/"
     description: >-
-      [MultiStackReg](https://sites.imagej.net/MultiStackReg/)
+      [MultiStackReg](https://imagej.net/plugins/multistackreg)
       does registration of a stack based on the registration results of another stack. It uses Turboreg as the backend.  
     maintainers:
       - "[Kota Miura](https://imagej.net/people/cmci)"
