@@ -948,6 +948,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Ivan G Torre
 
 |- valign=&quot;top&quot;
+|'''MultiStackReg'''
+|https://sites.imagej.net/MultiStackReg/
+|MultiStackReg does registration of a stack based on the registration results of another stack. It uses Turboreg as the backend.
+|Kota Miura
+
+|- valign=&quot;top&quot;
 |'''Multi-Template-Matching'''
 |https://sites.imagej.net/Multi-Template-Matching/
 |Multiple template matching allows to easily localize one or multiple objects in images using one or a set of template images. The template images can be flipped and/or rotated to increase the chance to find the objects.
