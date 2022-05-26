@@ -1545,7 +1545,7 @@ sites:
       [MultiStackReg](https://sites.imagej.net/MultiStackReg/)
       does registration of a stack based on the registration results of another stack. It uses Turboreg as the backend.  
     maintainers:
-      - "[Kota Miura](https://imagej.net/User:Miura)"
+      - "[Kota Miura](https://imagej.net/people/cmci)"
       
   - name: "Multi-Template-Matching"
     id: "Multi-Template-Matching"
