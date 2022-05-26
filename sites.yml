@@ -466,10 +466,10 @@ sites:
     url: "https://sites.imagej.net/Miura/"
     description: >-
       A plugin for loading sample images and misc functionality for CMCI ImageJ
-      course. See [CMCI course](http://wiki.cmci.info/mainpages/courses).
+      course. See [CMCI course](https://wiki.cmci.info/mainpages/courses).
       Eventually more plugins will be added.
     maintainers:
-      - "[Kota Miura](https://imagej.net/people/cmci)"
+      - "[Kota Miura](https://imagej.net/people/miura)"
 
   - name: "CMP-BIA tools"
     id: "CMP-BIA"
@@ -1545,7 +1545,7 @@ sites:
       [MultiStackReg](https://imagej.net/plugins/multistackreg)
       does registration of a stack based on the registration results of another stack. It uses Turboreg as the backend.  
     maintainers:
-      - "[Kota Miura](https://imagej.net/people/cmci)"
+      - "[Kota Miura](https://imagej.net/people/miura)"
       
   - name: "Multi-Template-Matching"
     id: "Multi-Template-Matching"
