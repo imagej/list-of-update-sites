@@ -1384,7 +1384,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''TrackMate-Cellpose'''
 |http://sites.imagej.net/TrackMate-Cellpose
-|This sites ships a detector module for TrackMate that relies on  cellpose. It is  documented here.
+|This update site provides TrackMate-Cellpose, a detector module for TrackMate that relies on cellpose.
 |Jean-Yves Tinevez
 
 |- valign=&quot;top&quot;
@@ -1396,25 +1396,31 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''TrackMate-Ilastik'''
 |http://sites.imagej.net/TrackMate-Ilastik
-|This sites ships a detector module for TrackMate that relies on Ilastik to segment objects in 2D or 3D.
+|This update site provides TrackMate-Ilastik, a detector module for TrackMate that relies on Ilastik to segment objects in 2D or 3D.
 |Jean-Yves Tinevez
 
 |- valign=&quot;top&quot;
 |'''TrackMate-MorphoLibJ'''
 |http://sites.imagej.net/TrackMate-MorphoLibJ
-|This page describes a detector module for TrackMate that relies on the Morphological Segmentation plugin shipped with the MorphoLibJ library. See https://imagej.net/plugins/trackmate/trackmate-morpholibj/
+|This update site provides TrackMate-MorphoLibJ, a detector module for TrackMate that relies on the Morphological Segmentation plugin shipped with the MorphoLibJ library.
 |Jean-Yves Tinevez
+
+|- valign=&quot;top&quot;
+|'''TrackMate-Oneat'''
+|http://sites.imagej.net/TrackMate-Oneat/
+|This update site provides TrackMate-Oneat, a track corrector module for TrackMate that relies on oneat.
+|Varun Kapoor
 
 |- valign=&quot;top&quot;
 |'''TrackMate-StarDist'''
 |http://sites.imagej.net/TrackMate-StarDist
-|This page describes a detector module for TrackMate that relies on StarDist to segment objects in 2D.
+|This update site provides TrackMate-StarDist, a detector module for TrackMate that relies on StarDist to segment objects in 2D.
 |Jean-Yves Tinevez
 
 |- valign=&quot;top&quot;
 |'''TrackMate-Weka'''
 |http://sites.imagej.net/TrackMate-Weka
-|This page describes a detector module for TrackMate that relies on the Trainable Weka Segmentation plugin to segment objects in 2D or 3D.
+|This update site provides TrackMate-Weka, a detector module for TrackMate that relies on the Trainable Weka Segmentation plugin to segment objects in 2D or 3D.
 |Jean-Yves Tinevez
 
 |- valign=&quot;top&quot;
