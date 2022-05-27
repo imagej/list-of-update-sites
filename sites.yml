@@ -2252,9 +2252,10 @@ sites:
     id: "TrackMate-Cellpose"
     url: "https://sites.imagej.net/TrackMate-Cellpose"
     description: >-
-      This sites ships a detector module for TrackMate that relies on 
-      [cellpose](https://cellpose.readthedocs.io/en/latest/). It is 
-      documented [here](https://imagej.net/plugins/trackmate/trackmate-cellpose).
+      This update site provides
+      [TrackMate-Cellpose](https://imagej.net/plugins/trackmate/trackmate-cellpose),
+      a detector module for TrackMate that relies on
+      [cellpose](https://cellpose.readthedocs.io/en/latest/).
     maintainers:
       - "[Jean-Yves Tinevez](https://imagej.net/people/tinevez)"
 
@@ -2277,8 +2278,10 @@ sites:
     id: "TrackMate-Ilastik"
     url: "https://sites.imagej.net/TrackMate-Ilastik"
     description: >-
-      This sites ships a detector module for TrackMate that relies on Ilastik
-      to segment objects in 2D or 3D.
+      This update site provides
+      [TrackMate-Ilastik](https://imagej.net/plugins/trackmate/trackmate-ilastik),
+      a detector module for TrackMate that relies on Ilastik to segment objects
+      in 2D or 3D.
     maintainers:
       - "[Jean-Yves Tinevez](https://imagej.net/people/tinevez)"
 
@@ -2286,10 +2289,12 @@ sites:
     id: "TrackMate-MorphoLibJ"
     url: "https://sites.imagej.net/TrackMate-MorphoLibJ"
     description: >-
-     This page describes a detector module for TrackMate that relies on the
-     [Morphological Segmentation](https://imagej.net/plugins/morphological-segmentation)
-     plugin shipped with the [MorphoLibJ](https://imagej.net/plugins/morpholibj) library.
-     See https://imagej.net/plugins/trackmate/trackmate-morpholibj/
+      This update site provides
+      [TrackMate-MorphoLibJ](https://imagej.net/plugins/trackmate/trackmate-morpholibj),
+      a detector module for TrackMate that relies on the [Morphological
+      Segmentation](https://imagej.net/plugins/morphological-segmentation)
+      plugin shipped with the
+      [MorphoLibJ](https://imagej.net/plugins/morpholibj) library.
     maintainers:
       - "[Jean-Yves Tinevez](https://imagej.net/people/tinevez)"
       
@@ -2297,8 +2302,10 @@ sites:
     id: "TrackMate-Oneat"
     url: "https://sites.imagej.net/TrackMate-Oneat/"
     description: >-
-     This page describes a track corrector module for TrackMate that relies on
-     [oneat](https://pypi.org/project/oneat/).
+      This update site provides
+      [TrackMate-Oneat](https://imagej.net/plugins/trackmate/trackmate-oneat),
+      a track corrector module for TrackMate that relies on
+      [oneat](https://pypi.org/project/oneat/).
     maintainers:
       - "[Varun Kapoor](https://imagej.net/people/kapoorlab)"    
       
@@ -2307,7 +2314,9 @@ sites:
     id: "TrackMate-StarDist"
     url: "https://sites.imagej.net/TrackMate-StarDist"
     description: >-
-      This page describes a detector module for TrackMate that relies on
+      This update site provides
+      [TrackMate-StarDist](https://imagej.net/plugins/trackmate/trackmate-stardist),
+      a detector module for TrackMate that relies on
       [StarDist](https://imagej.net/plugins/stardist) to segment objects in 2D.
     maintainers:
       - "[Jean-Yves Tinevez](https://imagej.net/people/tinevez)"
@@ -2316,9 +2325,11 @@ sites:
     id: "TrackMate-Weka"
     url: "https://sites.imagej.net/TrackMate-Weka"
     description: >-
-      This page describes a detector module for TrackMate that relies on the
-      [Trainable Weka Segmentation plugin](https://imagej.net/plugins/tws/index)
-      to segment objects in 2D or 3D.
+      This update site provides
+      [TrackMate-Weka](https://imagej.net/plugins/trackmate/trackmate-weka),
+      a detector module for TrackMate that relies on the [Trainable Weka
+      Segmentation plugin](https://imagej.net/plugins/tws/index) to segment
+      objects in 2D or 3D.
     maintainers:
       - "[Jean-Yves Tinevez](https://imagej.net/people/tinevez)"
 
