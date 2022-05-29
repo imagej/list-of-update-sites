@@ -466,10 +466,10 @@ sites:
     url: "https://sites.imagej.net/Miura/"
     description: >-
       A plugin for loading sample images and misc functionality for CMCI ImageJ
-      course. See [CMCI course](http://wiki.cmci.info/mainpages/courses).
+      course. See [CMCI course](https://wiki.cmci.info/mainpages/courses).
       Eventually more plugins will be added.
     maintainers:
-      - "[Kota Miura](https://imagej.net/people/cmci)"
+      - "[Kota Miura](https://imagej.net/people/miura)"
 
   - name: "CMP-BIA tools"
     id: "CMP-BIA"
@@ -1524,7 +1524,7 @@ sites:
       approach, stabilized, non-dynamic microtubule seeds serve as nucleation
       points for dynamically growing microtubules.
     maintainers:
-      - "[MTrack](https://imagej.net/people/kapoorlab)"
+      - "[Varun Kapoor](https://imagej.net/people/kapoorlab)"
 
   - name: "Multifrac"
     id: "Multifrac"
@@ -1538,6 +1538,15 @@ sites:
     maintainers:
       - "[Ivan G Torre](https://imagej.net/User:Ivangtorre)"
 
+  - name: "MultiStackReg"
+    id: "MultiStackReg"
+    url: "https://sites.imagej.net/MultiStackReg/"
+    description: >-
+      [MultiStackReg](https://imagej.net/plugins/multistackreg)
+      does registration of a stack based on the registration results of another stack. It uses Turboreg as the backend.  
+    maintainers:
+      - "[Kota Miura](https://imagej.net/people/miura)"
+      
   - name: "Multi-Template-Matching"
     id: "Multi-Template-Matching"
     url: "https://sites.imagej.net/Multi-Template-Matching/"
@@ -2039,11 +2048,11 @@ sites:
       - "[Hadrien Mary](https://imagej.net/people/hadim)"
 
   - name: "SciView"
-    id: "SciView"
-    url: "https://sites.imagej.net/SciView/"
+    id: "sciview"
+    url: "https://sites.imagej.net/sciview-buttercup/"
     description: >-
-      SciView 3D/VR/AR visualization package for ImageJ. See source
-      [on GitHub](https://github.com/scenerygraphics/SciView).
+      sciview 3D/VR/AR visualization package for ImageJ. See the documentation [here](https://docs.scenery.graphics/sciview) and source
+      [on GitHub](https://github.com/scenerygraphics/sciview).
     maintainers:
       - "[Kyle Harrington](https://imagej.net/people/kephale)"
       - "[Ulrik Günther](https://imagej.net/people/skalarproduktraum)"
@@ -2240,13 +2249,14 @@ sites:
       - "[Benoit Aigouy](mailto:tissue.analyser@gmail.com)"
 
   - name: "TomancakLab"
-    id: "Ulman2"
-    url: "https://sites.imagej.net/Ulman2/"
+    id: "TomancakLab"
+    url: "https://sites.imagej.net/TomancakLab/"
     description: >-
       A couple of Fiji scripts to ease daily evo-devo image analysis life, from
       Tomancak lab.
     maintainers:
       - "[Vladimír Ulman](mailto:ulman@mpi-cbg.de)"
+      - "[Matthias Arzt](https://imagej.net/people/maarzt)"
 
   - name: "TrackMate-Cellpose"
     id: "TrackMate-Cellpose"
