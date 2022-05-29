@@ -1524,7 +1524,7 @@ sites:
       approach, stabilized, non-dynamic microtubule seeds serve as nucleation
       points for dynamically growing microtubules.
     maintainers:
-      - "[MTrack](https://imagej.net/people/kapoorlab)"
+      - "[Varun Kapoor](https://imagej.net/people/kapoorlab)"
 
   - name: "Multifrac"
     id: "Multifrac"
