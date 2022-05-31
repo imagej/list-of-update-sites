@@ -359,12 +359,13 @@ sites:
     id: "BTrack"
     url: "https://sites.imagej.net/BTrack/"
     description: >-
-      BTrack uses skeletonization implementation of imglib2 to track growing ends of Tissue
-      branches. It is suitable for any form of imaging modality as it requires segmentation image 
-      as an input for performing the tracking operations.
+      [BTrack](https://imagej.net/plugins/btrack) uses the skeletonization
+      implementation of [ImgLib2](https://imagej.net/libs/imglib2) to track
+      growing ends of tissue branches. It is suitable for any form of imaging
+      modality as it requires a segmentation image as an input for performing
+      the tracking operations.
     maintainers:
       - "[Varun Kapoor](https://imagej.net/people/kapoorlab)"
-         
 
   - name: "CALM"
     id: "CALM"
