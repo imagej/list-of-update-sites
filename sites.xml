@@ -1394,6 +1394,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Jean-Yves Tinevez
 
 |- valign=&quot;top&quot;
+|'''TrackMate-ExTrack'''
+|https://sites.imagej.net/TrackMate-ExTrack
+|This update site provides TrackMate-ExTrack, a track analysis module for TrackMate, that is a port of the ExTrack  analysis tool written in Python. ExTrack can reveal diffusion  and binding kinetics in live cells and beyond. It is made to be  robust against noise, notably if displacements are small and state  transitions are fast.
+|Jean-Yves Tinevez
+
+|- valign=&quot;top&quot;
 |'''TrackMate-Helper'''
 |https://sites.imagej.net/TrackMate-Helper
 |The TrackMate-Helper is a plugin made to run parameter sweeps on an image to track. It allows a user to configure a very large batch of tracking parameters to test with TrackMate, and will run them.  The Cell-Tracking-Challenge metrics are calculated for each parameter set tested, which allows to find the best tracking configuration for a dataset with respect to a specific tracking  metric. Check here  for documentation.

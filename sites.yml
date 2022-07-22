@@ -2280,6 +2280,21 @@ sites:
       [cellpose](https://cellpose.readthedocs.io/en/latest/).
     maintainers:
       - "[Jean-Yves Tinevez](https://imagej.net/people/tinevez)"
+      
+
+  - name: "TrackMate-ExTrack"
+    id: "TrackMate-ExTrack"
+    url: "https://sites.imagej.net/TrackMate-ExTrack"
+    description: >-
+      This update site provides
+      [TrackMate-ExTrack](https://imagej.net/plugins/trackmate/trackmate-extrack),
+      a track analysis module for TrackMate, that is a port of the ExTrack 
+      analysis tool written in Python. ExTrack can reveal diffusion 
+      and binding kinetics in live cells and beyond. It is made to be 
+      robust against noise, notably if displacements are small and state 
+      transitions are fast. 
+    maintainers:
+      - "[Jean-Yves Tinevez](https://imagej.net/people/tinevez)"
 
   - name: "TrackMate-Helper"
     id: "TrackMate-Helper"
