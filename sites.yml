@@ -1724,6 +1724,15 @@ sites:
     maintainers:
       - "[Curtis Rueden](https://imagej.net/people/ctrueden)"
 
+  - name: "OMERO 5.5-5.6"
+    id: "OMERO-5.5-5.6"
+    url: "https://sites.imagej.net/OMERO-5.5-5.6/"
+    description: >-
+      The [OMERO](https://openmicroscopy.org/info/omero) update site for
+      [bidirectional integration between ImageJ and OMERO 5.5.x and 5.6.x](https://github.com/imagej/imagej-omero).
+    maintainers:
+      - "[Mark Hiner](https://imagej.net/people/hinerm), [Curtis Rueden](https://imagej.net/people/ctrueden)"
+
   - name: "OpenMIMS"
     id: "OpenMIMS2"
     url: "https://sites.imagej.net/OpenMIMS2/"
