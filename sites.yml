@@ -704,6 +704,16 @@ sites:
     maintainers:
       - "[C.TURIÈS](https://imagej.net/people/cyrilturies)"
 
+  - name: "Fast4DReg"
+    id: "Fast4DReg"
+    url: "https://sites.imagej.net/Fast4DReg/"
+    description: >-
+      Fast4DReg is a Fiji macro for drift correction of 3D videos or 
+      channel alignment in 3D multichannel image stacks. Drift or 
+      misalignment can be corrected in all x-, y- and/or z-directions. 
+    maintainers:
+      - "[Joanna Pylvänäinen]"
+
   - name: "FFMPEG"
     id: "FFMPEG"
     url: "https://fiji.sc/~schindelin/ffmpeg-plugins/"
