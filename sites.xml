@@ -158,7 +158,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''BACMMAN'''
 |https://sites.imagej.net/BACMMAN/
-|BACteria in Mother Machine ANalyzer: a plugin for high-throughput analysis of multichannel mother machine data. See Sources: https://github.com/jeanollion/bacmman  and Wiki: https://github.com/jeanollion/bacmman/wiki
+|BACteria in Mother Machine ANalyzer: a plugin for high-throughput analysis of multichannel mother machine data. See Sources: https://github.com/jeanollion/bacmman and Wiki: https://github.com/jeanollion/bacmman/wiki
 |Jean Ollion
 
 |- valign=&quot;top&quot;
@@ -458,7 +458,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''EVAnalyzer'''
 |https://sites.imagej.net/evanalyzer/
-|EVAnalyzer EVAnalyzer is a Fiji ImageJ plugin designed for analyzing microscope pictures of EVs.  This plugin can be used for: Counting the number of EVs; Calculating the colocalization  of evs and other particles; Detect biological cells and counting EVs updatekn from cells;  Analysis of a large amount of images automatically;Generating XLSX (Excel) reports with  automatic statistics generation.
+|EVAnalyzer EVAnalyzer is a Fiji ImageJ plugin designed for analyzing microscope pictures of EVs. This plugin can be used for: Counting the number of EVs; Calculating the colocalization of evs and other particles; Detect biological cells and counting EVs updatekn from cells; Analysis of a large amount of images automatically;Generating XLSX (Excel) reports with automatic statistics generation.
 |Joachim Danmayr
 
 |- valign=&quot;top&quot;
@@ -478,6 +478,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |https://sites.imagej.net/FAST/
 |Fluorescence image AnalysiS Tool automates tasks to process a set of single-channel fluorescence images.
 |C.TURIÈS
+
+|- valign=&quot;top&quot;
+|'''Fast4DReg'''
+|https://sites.imagej.net/Fast4DReg/
+|Fast4DReg is a Fiji macro for drift correction of 3D videos or channel alignment in 3D multichannel image stacks. Drift or misalignment can be corrected in all x-, y- and/or z-directions.
+|Joanna Pylvänäinen
 
 |- valign=&quot;top&quot;
 |'''FFMPEG'''
@@ -560,7 +566,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''Gut Analysis Toolbox'''
 |https://sites.imagej.net/GutAnalysisToolbox/
-|Gut Analysis Toolbox enables semi-automated analysis of  the neuronal and glial distribution within the gut wall in 2D. It uses a combination of FIJI macros, StarDist  and deepImageJ for automated segmentation. The primary focus is on characterising the enteric nervous system. The aim is to expand the analysis to other celltypes within the gut and enable 3D analysis.
+|Gut Analysis Toolbox enables semi-automated analysis of the neuronal and glial distribution within the gut wall in 2D. It uses a combination of FIJI macros, StarDist and deepImageJ for automated segmentation. The primary focus is on characterising the enteric nervous system. The aim is to expand the analysis to other celltypes within the gut and enable 3D analysis.
 |Pradeep Rajasekhar
 
 |- valign=&quot;top&quot;
@@ -710,7 +716,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''Intensity Profile tools'''
 |https://sites.imagej.net/IntensityProfileTools/
-|Provides a macro-toolset for interactive inspection of images using intensity profile plots. Including an interactive mouse tool (line profiles) and an action tool for the generation of  horizontal/vertical average intensity panels.
+|Provides a macro-toolset for interactive inspection of images using intensity profile plots. Including an interactive mouse tool (line profiles) and an action tool for the generation of horizontal/vertical average intensity panels.
 |Laurent Thomas
 
 |- valign=&quot;top&quot;
@@ -878,7 +884,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''Mighty Data, Inc.'''
 |https://sites.imagej.net/mightydatainc/
-|Dendritic Spine Counter  creates a modular wizard dialog to assist with the task of counting dendritic spines in  microscope images using open-source statistical image processing techniques.
+|Dendritic Spine Counter creates a modular wizard dialog to assist with the task of counting dendritic spines in microscope images using open-source statistical image processing techniques.
 |Mikhail Voloshin
 
 |- valign=&quot;top&quot;
@@ -902,7 +908,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''ModularImageAnalysis (MIA)'''
 |https://sites.imagej.net/ModularImageAnalysis/
-|MIA is a plugin which provides a modular framework for assembling image  and object analysis workflows. Detected objects can be transformed,  filtered, measured and related. Analysis workflows are batch-enabled by  default, allowing easy processing of high-content datasets.  For more  information please see the documentation at  mianalysis.github.io or on  imagej.net.
+|MIA is a plugin which provides a modular framework for assembling image and object analysis workflows. Detected objects can be transformed, filtered, measured and related. Analysis workflows are batch-enabled by default, allowing easy processing of high-content datasets.  For more information please see the documentation at mianalysis.github.io or on imagej.net.
 |Stephen Cross
 
 |- valign=&quot;top&quot;
@@ -1402,13 +1408,13 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''TrackMate-ExTrack'''
 |https://sites.imagej.net/TrackMate-ExTrack
-|This update site provides TrackMate-ExTrack, a track analysis module for TrackMate, that is a port of the ExTrack  analysis tool written in Python. ExTrack can reveal diffusion  and binding kinetics in live cells and beyond. It is made to be  robust against noise, notably if displacements are small and state  transitions are fast.
+|This update site provides TrackMate-ExTrack, a track analysis module for TrackMate, that is a port of the ExTrack analysis tool written in Python. ExTrack can reveal diffusion and binding kinetics in live cells and beyond. It is made to be robust against noise, notably if displacements are small and state transitions are fast.
 |Jean-Yves Tinevez
 
 |- valign=&quot;top&quot;
 |'''TrackMate-Helper'''
 |https://sites.imagej.net/TrackMate-Helper
-|The TrackMate-Helper is a plugin made to run parameter sweeps on an image to track. It allows a user to configure a very large batch of tracking parameters to test with TrackMate, and will run them.  The Cell-Tracking-Challenge metrics are calculated for each parameter set tested, which allows to find the best tracking configuration for a dataset with respect to a specific tracking  metric. Check here  for documentation.
+|The TrackMate-Helper is a plugin made to run parameter sweeps on an image to track. It allows a user to configure a very large batch of tracking parameters to test with TrackMate, and will run them. The Cell-Tracking-Challenge metrics are calculated for each parameter set tested, which allows to find the best tracking configuration for a dataset with respect to a specific tracking metric. Check here for documentation.
 |Jean-Yves Tinevez
 
 |- valign=&quot;top&quot;
