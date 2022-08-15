@@ -156,7 +156,7 @@ sites:
     description: >-
        BACteria in Mother Machine ANalyzer: a plugin for high-throughput
        analysis of multichannel mother machine data.
-       See [Sources](https://github.com/jeanollion/bacmman): https://github.com/jeanollion/bacmman 
+       See [Sources](https://github.com/jeanollion/bacmman): https://github.com/jeanollion/bacmman
        and [Wiki](https://github.com/jeanollion/bacmman/wiki): https://github.com/jeanollion/bacmman/wiki
     maintainers:
       - "[Jean Ollion](https://www.sabilab.fr/)"
@@ -354,7 +354,7 @@ sites:
     maintainers:
       - "[Michael Doube](https://imagej.net/people/mdoube)"
       - "[Alessandro Felder](https://imagej.net/people/alessandrofelder)"
-      
+
   - name: "BTrack"
     id: "BTrack"
     url: "https://sites.imagej.net/BTrack/"
@@ -666,10 +666,10 @@ sites:
     url: "https://sites.imagej.net/evanalyzer/"
     description: >-
       [EVAnalyzer](https://github.com/joda01/evanalyzer)
-      EVAnalyzer is a Fiji ImageJ plugin designed for analyzing microscope pictures of EVs. 
-      This plugin can be used for: Counting the number of EVs; Calculating the colocalization 
-      of evs and other particles; Detect biological cells and counting EVs updatekn from cells; 
-      Analysis of a large amount of images automatically;Generating XLSX (Excel) reports with 
+      EVAnalyzer is a Fiji ImageJ plugin designed for analyzing microscope pictures of EVs.
+      This plugin can be used for: Counting the number of EVs; Calculating the colocalization
+      of evs and other particles; Detect biological cells and counting EVs updatekn from cells;
+      Analysis of a large amount of images automatically;Generating XLSX (Excel) reports with
       automatic statistics generation.
     maintainers:
       - "[Joachim Danmayr](mailto:joachim.danmayr@mailbox.org)"
@@ -860,8 +860,8 @@ sites:
     id: "GAT"
     url: "https://sites.imagej.net/GutAnalysisToolbox/"
     description: >-
-      [Gut Analysis Toolbox](https://imagej.net/plugins/gut-analysis-toolbox) enables semi-automated analysis of 
-      the neuronal and glial distribution within the gut wall in 2D. It uses a combination of FIJI macros, StarDist 
+      [Gut Analysis Toolbox](https://imagej.net/plugins/gut-analysis-toolbox) enables semi-automated analysis of
+      the neuronal and glial distribution within the gut wall in 2D. It uses a combination of FIJI macros, StarDist
       and deepImageJ for automated segmentation. The primary focus is on characterising the enteric nervous system.
       The aim is to expand the analysis to other celltypes within the gut and enable 3D analysis.
     maintainers:
@@ -1124,7 +1124,7 @@ sites:
     url: "https://sites.imagej.net/IntensityProfileTools/"
     description: >-
       Provides a macro-toolset for interactive inspection of images using intensity profile plots.
-      Including an interactive mouse tool (line profiles) and an action tool for the generation of 
+      Including an interactive mouse tool (line profiles) and an action tool for the generation of
       horizontal/vertical average intensity panels.
     maintainers:
       - "[Laurent Thomas](https://imagej.net/people/LauLauThom)"
@@ -1148,7 +1148,7 @@ sites:
       plugin for averaging replicate OCT volume scans.
     maintainers:
       - "[Mark Krebs](mailto:mark.krebs@jax.org)"
- 
+
   - name: "JDM LUTs"
     id: "JDM_LUTs"
     url: "https://sites.imagej.net/JDM_LUTs/"
@@ -1157,7 +1157,7 @@ sites:
       dynamic range data.
     maintainers:
       - "[James Manton](mailto:jmanton@mrc-lmb.cam.ac.uk)"
-      
+
   - name: "JIPipe"
     id: "JIPipe"
     url: "https://sites.imagej.net/JIPipe/"
@@ -1420,9 +1420,9 @@ sites:
     id: "mightydatainc"
     url: "https://sites.imagej.net/mightydatainc/"
     description: >-
-      [Dendritic Spine Counter](https://github.com/Mighty-Data-Inc/dendritic-spine-counter) 
-      creates a modular wizard dialog to assist with the task of counting dendritic spines in 
-      microscope images using open-source statistical image processing techniques. 
+      [Dendritic Spine Counter](https://github.com/Mighty-Data-Inc/dendritic-spine-counter)
+      creates a modular wizard dialog to assist with the task of counting dendritic spines in
+      microscope images using open-source statistical image processing techniques.
     maintainers:
       - "Mikhail Voloshin"
 
@@ -1462,17 +1462,17 @@ sites:
       Multimodal Big Image Data Exploration and Sharing [MoBIE](https://github.com/mobie-org/mobie)
     maintainers:
       - "[Christian Tischer](mailto:tischitischer@gmail.com)"
-      
+
   - name: "ModularImageAnalysis (MIA)"
     id: "ModularImageAnalysis"
     url: "https://sites.imagej.net/ModularImageAnalysis/"
     description: >-
-      MIA is a plugin which provides a modular framework for assembling image 
-      and object analysis workflows. Detected objects can be transformed, 
-      filtered, measured and related. Analysis workflows are batch-enabled by 
-      default, allowing easy processing of high-content datasets.  For more 
-      information please see the documentation at 
-      [mianalysis.github.io](https://mianalysis.github.io/) or on 
+      MIA is a plugin which provides a modular framework for assembling image
+      and object analysis workflows. Detected objects can be transformed,
+      filtered, measured and related. Analysis workflows are batch-enabled by
+      default, allowing easy processing of high-content datasets.  For more
+      information please see the documentation at
+      [mianalysis.github.io](https://mianalysis.github.io/) or on
       [imagej.net](https://imagej.net/plugins/modularimageanalysis/).
     maintainers:
       - "[Stephen Cross](https://imagej.net/people/sjcross)"
@@ -1565,10 +1565,10 @@ sites:
     url: "https://sites.imagej.net/MultiStackReg/"
     description: >-
       [MultiStackReg](https://imagej.net/plugins/multistackreg)
-      does registration of a stack based on the registration results of another stack. It uses Turboreg as the backend.  
+      does registration of a stack based on the registration results of another stack. It uses Turboreg as the backend.
     maintainers:
       - "[Kota Miura](https://imagej.net/people/miura)"
-      
+
   - name: "Multi-Template-Matching"
     id: "Multi-Template-Matching"
     url: "https://sites.imagej.net/Multi-Template-Matching/"
@@ -2259,7 +2259,7 @@ sites:
       [Inception](https://arxiv.org/abs/1512.00567) image classifier.
     maintainers:
       - "[Curtis Rueden](https://imagej.net/people/ctrueden)"
-      
+
   - name: "Timebar"
     id: "Timebar"
     url: "https://sites.imagej.net/Timebar/"
@@ -2299,7 +2299,6 @@ sites:
       [cellpose](https://cellpose.readthedocs.io/en/latest/).
     maintainers:
       - "[Jean-Yves Tinevez](https://imagej.net/people/tinevez)"
-      
 
   - name: "TrackMate-ExTrack"
     id: "TrackMate-ExTrack"
@@ -2307,11 +2306,11 @@ sites:
     description: >-
       This update site provides
       [TrackMate-ExTrack](https://imagej.net/plugins/trackmate/trackmate-extrack),
-      a track analysis module for TrackMate, that is a port of the ExTrack 
-      analysis tool written in Python. ExTrack can reveal diffusion 
-      and binding kinetics in live cells and beyond. It is made to be 
-      robust against noise, notably if displacements are small and state 
-      transitions are fast. 
+      a track analysis module for TrackMate, that is a port of the ExTrack
+      analysis tool written in Python. ExTrack can reveal diffusion
+      and binding kinetics in live cells and beyond. It is made to be
+      robust against noise, notably if displacements are small and state
+      transitions are fast.
     maintainers:
       - "[Jean-Yves Tinevez](https://imagej.net/people/tinevez)"
 
@@ -2321,11 +2320,11 @@ sites:
     description: >-
         The TrackMate-Helper is a plugin made to run parameter sweeps on
         an image to track. It allows a user to configure a very large batch
-        of tracking parameters to test with TrackMate, and will run them. 
+        of tracking parameters to test with TrackMate, and will run them.
         The Cell-Tracking-Challenge metrics are calculated for
         each parameter set tested, which allows to find the best tracking
-        configuration for a dataset with respect to a specific tracking 
-        metric. Check [here](https://imagej.net/plugins/trackmate/extensions/trackmate-helper) 
+        configuration for a dataset with respect to a specific tracking
+        metric. Check [here](https://imagej.net/plugins/trackmate/extensions/trackmate-helper)
         for documentation.
     maintainers:
       - "[Jean-Yves Tinevez](https://imagej.net/people/tinevez)"
@@ -2353,7 +2352,7 @@ sites:
       [MorphoLibJ](https://imagej.net/plugins/morpholibj) library.
     maintainers:
       - "[Jean-Yves Tinevez](https://imagej.net/people/tinevez)"
-      
+
   - name: "TrackMate-Oneat"
     id: "TrackMate-Oneat"
     url: "https://sites.imagej.net/TrackMate-Oneat/"
@@ -2363,8 +2362,7 @@ sites:
       a track corrector module for TrackMate that relies on
       [oneat](https://pypi.org/project/oneat/).
     maintainers:
-      - "[Varun Kapoor](https://imagej.net/people/kapoorlab)"    
-      
+      - "[Varun Kapoor](https://imagej.net/people/kapoorlab)"
 
   - name: "TrackMate-StarDist"
     id: "TrackMate-StarDist"
