@@ -2492,6 +2492,15 @@ sites:
       - "[Frank Morgan](mailto:frm@uchc.edu)"
       - "[Ion Moraru](mailto:moraru@uchc.edu)"
 
+  - name: "Visualization Toolset"
+    id: "kterretaz"
+    url: "https://sites.imagej.net/VisualizationToolset/"
+    description: >-
+      A [macro Toolset](https://github.com/kwolbachia/Visualization_toolset) 
+      helping daily handling and visualization of multichannel images and stacks.
+    maintainers:
+      - "[Kévin Terretaz](mailto:kevinterretaz@gmail.com)"
+
   - name: "Void Whizzard"
     id: "VezinaLab"
     url: "https://sites.imagej.net/VezinaLab/"
