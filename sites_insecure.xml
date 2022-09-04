@@ -1508,6 +1508,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Michael Blinov, Frank Morgan, Ion Moraru
 
 |- valign=&quot;top&quot;
+|'''Visualization Toolset'''
+|http://sites.imagej.net/VisualizationToolset/
+|A macro Toolset  helping daily handling and visualization of multichannel images and stacks.
+|Kévin Terretaz
+
+|- valign=&quot;top&quot;
 |'''Void Whizzard'''
 |http://sites.imagej.net/VezinaLab/
 |Void Whizzard is a tool for analyzing void spot assay (VSA) images.
