@@ -41,7 +41,7 @@ sites:
 
   - name: "ImageJ (Europe mirror)"
     id: "ImageJ-micron.ox.ac.uk"
-    url: "https://update.imagej.net/"
+    url: "https://downloads.micron.ox.ac.uk/fiji_update/mirrors/imagej/"
     description: >-
       European mirror for the ImageJ update site.  Replace the ImageJ
       update site with this one for faster updates in Europe.
@@ -50,7 +50,7 @@ sites:
 
   - name: "Fiji (Europe mirror)"
     id: "Fiji-micron.ox.ac.uk"
-    url: "https://update.fiji.sc/"
+    url: "https://downloads.micron.ox.ac.uk/fiji_update/mirrors/fiji/"
     description: >-
       European mirror for the Fiji update site.  Replace the Fiji
       update site with this one for faster updates in Europe.
@@ -59,7 +59,7 @@ sites:
 
   - name: "Java-8 (Europe mirror)"
     id: "Java-8-micron.ox.ac.uk"
-    url: "https://sites.imagej.net/Java-8/"
+    url: "https://downloads.micron.ox.ac.uk/fiji_update/mirrors/java-8/"
     description: >-
       European mirror for the Java-8 update site.  Replace the Java-8
       update site with this one for faster updates in Europe.
