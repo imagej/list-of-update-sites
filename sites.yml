@@ -39,6 +39,33 @@ sites:
     maintainers:
       - "[ImageJ2 and Fiji developers](https://imagej.net/people)"
 
+  - name: "ImageJ (Europe mirror)"
+    id: "ImageJ-micron.ox.ac.uk"
+    url: "https://update.imagej.net/"
+    description: >-
+      European mirror for the ImageJ update site.  Replace the ImageJ
+      update site with this one for faster updates in Europe.
+    maintainers:
+      - "[ImageJ2 developers](https://imagej.net/people#imagej2)"
+
+  - name: "Fiji (Europe mirror)"
+    id: "Fiji-micron.ox.ac.uk"
+    url: "https://update.fiji.sc/"
+    description: >-
+      European mirror for the Fiji update site.  Replace the Fiji
+      update site with this one for faster updates in Europe.
+    maintainers:
+      - "[Fiji developers](https://imagej.net/people#fiji)"
+
+  - name: "Java-8 (Europe mirror)"
+    id: "Java-8-micron.ox.ac.uk"
+    url: "https://sites.imagej.net/Java-8/"
+    description: >-
+      European mirror for the Java-8 update site.  Replace the Java-8
+      update site with this one for faster updates in Europe.
+    maintainers:
+      - "[ImageJ2 and Fiji developers](https://imagej.net/people)"
+
   - name: "2015-Conference"
     id: "2015-Conference"
     url: "https://sites.imagej.net/2015-Conference/"
