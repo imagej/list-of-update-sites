@@ -68,14 +68,6 @@ sites:
     maintainers:
     - "[Benjamin Schmid](https://imagej.net/User:Bene)"
 
-  - name: "ABBA (experimental)"
-    id: "ABBA"
-    url: "https://biop.epfl.ch/Fiji-ABBA/"
-    description: >-
-      [Allen Brain BIOP Aligner](https://biop.github.io/ijp-imagetoatlas/), a plugin for aligning mouse brain slices to the Allen Brain CCFv3.
-    maintainers:
-    - "[Nicolas Chiaruttini](mailto:nicolas.chiaruttini@epfl.ch)"
-
   - name: "ActogramJ"
     id: "ActogramJ"
     url: "https://romulus.oice.uni-erlangen.de/imagej/updatesites/ActogramJ/"
@@ -173,16 +165,6 @@ sites:
     maintainers:
       - "[Christian Tischer](mailto:christian.tischer@embl.de)"
       
-  - name: "BigDataViewer-Playground"
-    id: "BigDataViewer-Playground"
-    url: "https://biop.epfl.ch/Fiji-Bdv-Playground/"
-    description: >-
-      [BigDataViewer-Playground](https://imagej.github.io/Bigdataviewer_Playground) 
-      provides many additions for using and scripting BigDataViewer, and a lazy multiresolution BioFormats Image Loader.
-    maintainers:
-      - "[Nicolas Chiaruttini](mailto:nicolas.chiaruttini@epfl.ch)"
-      - "[Christian Tischer](mailto:christian.tischer@embl.de)"
-
   - name: "BIG-EPFL"
     id: "BIG-EPFL"
     url: "https://sites.imagej.net/BIG-EPFL/"
@@ -1498,20 +1480,6 @@ sites:
       (Open Access selective plane light sheet microscope).
     maintainers:
       - "UNSUPPORTED"
-
-  - name: "Operetta Importer"
-    id: "ijp-operetta-importer"
-    url: "https://biop.epfl.ch/update-sites/operetta/"
-    description: >-
-      The Operetta Importer includes an ImageJ 2 Command for importing iamges (measurements) generated from PerkinElmer
-      microscopes running Harmony (Exported from Harmony). 
-      Behind it, there is a full API to get ImageJ-fiendly images (Hyperstacks) out easily for on-the-fly processing in scripts.
-      Most importantly, depite the size of the datasets, processing is fast thanks to Bioformat's Memoization technology
-      and parallel processing. 
-    maintainers:
-      - "Olivier Burri, [EPFL-SV-BIOP](https://people.epfl.ch/olivier.burri)"
-      - "Romain Guiet, [EPFL-SV-BIOP](https://people.epfl.ch/romain.guiet)"
-      - "Nicolas Chiaruttini, [EPFL-SV-BIOP](https://people.epfl.ch/nicolas.chiaruttini)"
 
   - name: "OPTIMISME"
     id: "Dbenielli"
