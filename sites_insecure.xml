@@ -102,12 +102,6 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Benjamin Schmid
 
 |- valign=&quot;top&quot;
-|'''ABBA (experimental)'''
-|https://biop.epfl.ch/Fiji-ABBA/
-|Allen Brain BIOP Aligner, a plugin for aligning mouse brain slices to the Allen Brain CCFv3.
-|Nicolas Chiaruttini
-
-|- valign=&quot;top&quot;
 |'''ActogramJ'''
 |https://romulus.oice.uni-erlangen.de/imagej/updatesites/ActogramJ/
 |ActogramJ is a plugin for analyzing actograms.
@@ -202,12 +196,6 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |http://sites.imagej.net/BigDataProcessor/
 |BigDataProcessor2 is an Imglib2 and BigDataViewer based tool for inspection and processing of big (TB-sized) image data.
 |Christian Tischer
-
-|- valign=&quot;top&quot;
-|'''BigDataViewer-Playground'''
-|https://biop.epfl.ch/Fiji-Bdv-Playground/
-|BigDataViewer-Playground provides many additions for using and scripting BigDataViewer, and a lazy multiresolution BioFormats Image Loader.
-|Nicolas Chiaruttini, Christian Tischer
 
 |- valign=&quot;top&quot;
 |'''BIG-EPFL'''
@@ -1084,12 +1072,6 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |https://openspim.org/update/
 |The drivers and software to operate an OpenSPIM (Open Access selective plane light sheet microscope).
 |UNSUPPORTED
-
-|- valign=&quot;top&quot;
-|'''Operetta Importer'''
-|https://biop.epfl.ch/update-sites/operetta/
-|The Operetta Importer includes an ImageJ 2 Command for importing iamges (measurements) generated from PerkinElmer microscopes running Harmony (Exported from Harmony). Behind it, there is a full API to get ImageJ-fiendly images (Hyperstacks) out easily for on-the-fly processing in scripts. Most importantly, depite the size of the datasets, processing is fast thanks to Bioformat's Memoization technology and parallel processing.
-|Olivier Burri, EPFL-SV-BIOP, Romain Guiet, EPFL-SV-BIOP, Nicolas Chiaruttini, EPFL-SV-BIOP
 
 |- valign=&quot;top&quot;
 |'''OPTIMISME'''
