@@ -1508,6 +1508,16 @@ sites:
     maintainers:
       - "[MOSAIC Group, MPI-CBG, Dresden](https://mosaic.mpi-cbg.de)"
 
+  - name: "MotiQ"
+    id: "MotiQ"
+    url: "https://sites.imagej.net/MotiQ/"
+    description: >-
+      An set of ImageJ plugins to quantify dynamics, morphology, and fluorescence of microglial (or other) cells
+      in 2D and 3D (also time-lapse) images. 
+      For more details visit the MotiQ github pages: https://github.com/hansenjn/MotiQ.
+    maintainers:
+      - "[Jan Hansen](mailto:jan.hansen@uni-bonn.de)"
+
   - name: "MPIBPC"
     id: "MPIBPC"
     url: "https://sites.imagej.net/MPIBPC/"
