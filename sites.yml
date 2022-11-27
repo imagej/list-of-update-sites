@@ -80,9 +80,10 @@ sites:
     url: "https://sites.imagej.net/AdipoQ/"
     description: >-
       ImageJ plugins for quantifying adipocyte morphology and function in tissues and in vitro.
-      For more details visit the AdipoQ github page https://github.com/hansenjn/AdipoQ/
+      For more details, a link to the corresponding publication, and information on how 
+      to cite the plugins visit the AdipoQ github page https://github.com/hansenjn/AdipoQ/
     maintainers:
-      - "[Jan Hansen](mailto:jan.hansen@uni-bonn.de)"
+      - "[Jan Hansen](https://github.com/hansenjn/)"
 
   - name: "AIC Janelia - Course"
     id: "AICjanelia-course"
@@ -407,9 +408,10 @@ sites:
     url: "https://sites.imagej.net/CiliaQ/"
     description: >-
       An set of three ImageJ plugins to quantify ciliary shape, length, and fluorescence in 2D, 3D, and 4D images.
-      For more details see our github pages (including manual and wiki) at https://github.com/hansenjn/CiliaQ
+      For more details, a link to the corresponding publication, and information on how 
+      to cite the plugin visit the CiliaQ github pages (including manual and wiki) at https://github.com/hansenjn/CiliaQ
     maintainers:
-      - "[Jan Hansen](mailto:jan.hansen@uni-bonn.de)"
+      - "[Jan Hansen](https://github.com/hansenjn/)"
 
   - name: "CIP"
     id: "CIP"
@@ -815,6 +817,18 @@ sites:
       [citations](https://imagej.net/plugins/fraclac/FLHelp/FLCitations.htm).
     maintainers:
       - "[A. Karperien](https://imagej.net/User:Akarperien)"
+
+  - name: FreQ
+    id: "FreQ"
+    url: "https://sites.imagej.net/FreQ/"
+    description: >-
+      An ImageJ plugin to analyze pixel intensity oscillations in time-lapse 2D images. 
+      For example, this allows to characterize the ciliary beat of multi-ciliated cells
+      in time-lapse images acquired with a bright-field or phase-contrast microscope.
+      For more details, a link to the corresponding publication, and information on how 
+      to cite the plugin visit the FreQ github pages at https://github.com/hansenjn/FreQ
+    maintainers:
+      - "[Jan Hansen](https://github.com/hansenjn/)"
 
   - name: "FRET Imaging"
     id: "FRET-Imaging"
@@ -1523,9 +1537,10 @@ sites:
     description: >-
       An set of ImageJ plugins to quantify dynamics, morphology, and fluorescence of microglial (or other) cells
       in 2D and 3D (also time-lapse) images. 
-      For more details visit the MotiQ github pages at https://github.com/hansenjn/MotiQ
+      For more details, a link to the corresponding publication, and information on how 
+      to cite the plugins visit the MotiQ github pages at https://github.com/hansenjn/MotiQ
     maintainers:
-      - "[Jan Hansen](mailto:jan.hansen@uni-bonn.de)"
+      - "[Jan Hansen](https://github.com/hansenjn/)"
 
   - name: "MPIBPC"
     id: "MPIBPC"
