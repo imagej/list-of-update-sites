@@ -2185,6 +2185,20 @@ sites:
     maintainers:
       - "Chris Gell"
 
+  - name: "SpermQ"
+    id: "SpermQ"
+    url: "https://sites.imagej.net/SpermQ/"
+    description: >-
+      ImageJ plugins to analyze the flagellar beat and the swimming path of sperm from time-lapse
+      2D bright-field, dark-field, phase contrast, or fluorescence microscopy images. SpermQ
+      can analyze images from head-tethered or free swimming sperm of different species.
+      SpermQ can also analyze the beat of motile cilia if the analyzed cilium is clearly distinguishable
+      from / not close to neighboring cilia.      
+      For more details, a link to the corresponding publication, and information on how 
+      to cite the plugins, visit the SpermQ github page https://github.com/hansenjn/SpermQ/
+    maintainers:
+      - "[Jan Hansen](https://github.com/hansenjn/)"
+
   - name: "Spindle3D"
     id: "Spindle3D"
     url: "https://sites.imagej.net/Spindle3D/"
