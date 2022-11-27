@@ -392,6 +392,15 @@ sites:
       Fiji plugins developed in the Cellular Imaging - Lehmann Group of the FMP-Berlin.
     maintainers:
       - "[Christopher Schmied](mailto:christopher.schmied@fht.org)"
+      
+  - name: "CiliaQ"
+    id: "CiliaQ"
+    url: "https://sites.imagej.net/CiliaQ/"
+    description: >-
+      An set of three ImageJ plugins to quantify ciliary shape, length, and fluorescence in 2D, 3D, and 4D images.
+      For more details see our github pages (including manual and wiki): https://github.com/hansenjn/CiliaQ.
+    maintainers:
+      - "[Jan Hansen](mailto:jan.hansen@uni-bonn.de)"
 
   - name: "CIP"
     id: "CIP"
