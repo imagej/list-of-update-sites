@@ -75,6 +75,16 @@ sites:
     maintainers:
     - "[Benjamin Schmid](https://imagej.net/people/bene51)"
 
+  - name: "AdipoQ"
+    id: "AdipoQ"
+    url: "https://sites.imagej.net/AdipoQ/"
+    description: >-
+      ImageJ plugins for quantifying adipocyte morphology and function in tissues and in vitro.
+      For more details, a link to the corresponding publication, and information on how 
+      to cite the plugins visit the AdipoQ github page https://github.com/hansenjn/AdipoQ/
+    maintainers:
+      - "[Jan Hansen](https://github.com/hansenjn/)"
+
   - name: "AIC Janelia - Course"
     id: "AICjanelia-course"
     url: "https://sites.imagej.net/AICjanelia-course/"
@@ -392,6 +402,16 @@ sites:
       Fiji plugins developed in the Cellular Imaging - Lehmann Group of the FMP-Berlin.
     maintainers:
       - "[Christopher Schmied](mailto:christopher.schmied@fht.org)"
+      
+  - name: "CiliaQ"
+    id: "CiliaQ"
+    url: "https://sites.imagej.net/CiliaQ/"
+    description: >-
+      An set of three ImageJ plugins to quantify ciliary shape, length, and fluorescence in 2D, 3D, and 4D images.
+      For more details, a link to the corresponding publication, and information on how 
+      to cite the plugin visit the CiliaQ github pages (including manual and wiki) at https://github.com/hansenjn/CiliaQ
+    maintainers:
+      - "[Jan Hansen](https://github.com/hansenjn/)"
 
   - name: "CIP"
     id: "CIP"
@@ -797,6 +817,18 @@ sites:
       [citations](https://imagej.net/plugins/fraclac/FLHelp/FLCitations.htm).
     maintainers:
       - "[A. Karperien](https://imagej.net/User:Akarperien)"
+
+  - name: FreQ
+    id: "FreQ"
+    url: "https://sites.imagej.net/FreQ/"
+    description: >-
+      An ImageJ plugin to analyze pixel intensity oscillations in time-lapse 2D images. 
+      For example, this allows to characterize the ciliary beat of multi-ciliated cells
+      in time-lapse images acquired with a bright-field or phase-contrast microscope.
+      For more details, a link to the corresponding publication, and information on how 
+      to cite the plugin visit the FreQ github pages at https://github.com/hansenjn/FreQ
+    maintainers:
+      - "[Jan Hansen](https://github.com/hansenjn/)"
 
   - name: "FRET Imaging"
     id: "FRET-Imaging"
@@ -1499,6 +1531,17 @@ sites:
     maintainers:
       - "[MOSAIC Group, MPI-CBG, Dresden](https://mosaic.mpi-cbg.de)"
 
+  - name: "MotiQ"
+    id: "MotiQ"
+    url: "https://sites.imagej.net/MotiQ/"
+    description: >-
+      An set of ImageJ plugins to quantify dynamics, morphology, and fluorescence of microglial (or other) cells
+      in 2D and 3D (also time-lapse) images. 
+      For more details, a link to the corresponding publication, and information on how 
+      to cite the plugins visit the MotiQ github pages at https://github.com/hansenjn/MotiQ
+    maintainers:
+      - "[Jan Hansen](https://github.com/hansenjn/)"
+
   - name: "MPIBPC"
     id: "MPIBPC"
     url: "https://sites.imagej.net/MPIBPC/"
@@ -2141,6 +2184,20 @@ sites:
       University of Nottingham
     maintainers:
       - "Chris Gell"
+
+  - name: "SpermQ"
+    id: "SpermQ"
+    url: "https://sites.imagej.net/SpermQ/"
+    description: >-
+      ImageJ plugins to analyze the flagellar beat and the swimming path of sperm from time-lapse
+      2D bright-field, dark-field, phase contrast, or fluorescence microscopy images. SpermQ
+      can analyze images from head-tethered or free swimming sperm of different species.
+      SpermQ can also analyze the beat of motile cilia if the analyzed cilium is clearly distinguishable
+      from / not close to neighboring cilia.      
+      For more details, a link to the corresponding publication, and information on how 
+      to cite the plugins, visit the SpermQ github page https://github.com/hansenjn/SpermQ/
+    maintainers:
+      - "[Jan Hansen](https://github.com/hansenjn/)"
 
   - name: "Spindle3D"
     id: "Spindle3D"

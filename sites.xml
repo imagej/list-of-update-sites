@@ -108,6 +108,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Benjamin Schmid
 
 |- valign=&quot;top&quot;
+|'''AdipoQ'''
+|https://sites.imagej.net/AdipoQ/
+|ImageJ plugins for quantifying adipocyte morphology and function in tissues and in vitro. For more details, a link to the corresponding publication, and information on how  to cite the plugins visit the AdipoQ github page https://github.com/hansenjn/AdipoQ/
+|Jan Hansen
+
+|- valign=&quot;top&quot;
 |'''AIC Janelia - Course'''
 |https://sites.imagej.net/AICjanelia-course/
 |A collection of plugins and macros for students of the Advanced Imaging Center (AIC) Fiji Course.
@@ -292,6 +298,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |https://sites.imagej.net/Cellular-Imaging/
 |Fiji plugins developed in the Cellular Imaging - Lehmann Group of the FMP-Berlin.
 |Christopher Schmied
+
+|- valign=&quot;top&quot;
+|'''CiliaQ'''
+|https://sites.imagej.net/CiliaQ/
+|An set of three ImageJ plugins to quantify ciliary shape, length, and fluorescence in 2D, 3D, and 4D images. For more details, a link to the corresponding publication, and information on how  to cite the plugin visit the CiliaQ github pages (including manual and wiki) at https://github.com/hansenjn/CiliaQ
+|Jan Hansen
 
 |- valign=&quot;top&quot;
 |'''CIP'''
@@ -526,6 +538,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |https://sites.imagej.net/Akarperien/
 |Fractal Analysis and Modelling tools for neuroscience and other disciplines. Analysis: DB, lacunarity, multifractal spectra, DLC, DMvD, subscanning, and graphical wave analysis for binary and gray scale images, with inline and online theoretical and practical help. Outputs: detailed analyses, raw data, plots, colour-coding, and settings (*.fl) files. Modelling: benchmark fractals, natural structures (e.g., neurons), megadata to graphical wave images. Code in jar. See citations.
 |A. Karperien
+
+|- valign=&quot;top&quot;
+|'''FreQ'''
+|https://sites.imagej.net/FreQ/
+|An ImageJ plugin to analyze pixel intensity oscillations in time-lapse 2D images.  For example, this allows to characterize the ciliary beat of multi-ciliated cells in time-lapse images acquired with a bright-field or phase-contrast microscope. For more details, a link to the corresponding publication, and information on how  to cite the plugin visit the FreQ github pages at https://github.com/hansenjn/FreQ
+|Jan Hansen
 
 |- valign=&quot;top&quot;
 |'''FRET Imaging'''
@@ -924,6 +942,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |MOSAIC Group, MPI-CBG, Dresden
 
 |- valign=&quot;top&quot;
+|'''MotiQ'''
+|https://sites.imagej.net/MotiQ/
+|An set of ImageJ plugins to quantify dynamics, morphology, and fluorescence of microglial (or other) cells in 2D and 3D (also time-lapse) images.  For more details, a link to the corresponding publication, and information on how  to cite the plugins visit the MotiQ github pages at https://github.com/hansenjn/MotiQ
+|Jan Hansen
+
+|- valign=&quot;top&quot;
 |'''MPIBPC'''
 |https://sites.imagej.net/MPIBPC/
 |MPIBPC stands for Max Planck Institute for Biophysical Chemistry. We provide the Imspector OBF reader for the Bio-Formats plugin.
@@ -1308,6 +1332,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |https://sites.imagej.net/SLIM-Notts/
 |Plugins and macros from the School of Life Sciences Imaging (SLIM) at the University of Nottingham
 |Chris Gell
+
+|- valign=&quot;top&quot;
+|'''SpermQ'''
+|https://sites.imagej.net/SpermQ/
+|ImageJ plugins to analyze the flagellar beat and the swimming path of sperm from time-lapse 2D bright-field, dark-field, phase contrast, or fluorescence microscopy images. SpermQ can analyze images from head-tethered or free swimming sperm of different species. SpermQ can also analyze the beat of motile cilia if the analyzed cilium is clearly distinguishable from / not close to neighboring cilia.       For more details, a link to the corresponding publication, and information on how  to cite the plugins, visit the SpermQ github page https://github.com/hansenjn/SpermQ/
+|Jan Hansen
 
 |- valign=&quot;top&quot;
 |'''Spindle3D'''
