@@ -1514,6 +1514,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Taro Kiritani
 
 |- valign=&quot;top&quot;
+|'''WormBox'''
+|https://sites.imagej.net/WormBox/
+|WormBox is a plugin for measuring linear distances and counting structures based on landmarks.
+|Bruno C. Vellutini, Fernando P. L. Marques
+
+|- valign=&quot;top&quot;
 |'''WormSizer'''
 |https://sites.imagej.net/Bradtmoore/
 |The update site for WormSizer, a tool for measuring volume, length, and surface area of nematodes off of a dissection microscope.
