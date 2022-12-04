@@ -513,6 +513,15 @@ sites:
     maintainers:
       - "[Andrew McCall](https://imagej.net/people/andmccall)"
 
+  - name: "ColorBlindLUTs"
+    id: "ColorBlindLUTs"
+    url: "https://sites.imagej.net/ColorBlindLUTs/"
+    description: >-
+      [ColorBlindLUTs](https://github.com/bruvellu/color-blind-luts) is a set
+      of color blind friendly lookup tables for Fiji/ImageJ.
+    maintainers:
+      - "[Bruno C. Vellutini](https://brunovellutini.com/)"
+
   - name: "Colour Deconvolution2"
     id: "ColourDeconvolution2"
     url: "https://sites.imagej.net/ColourDeconvolution2/"
