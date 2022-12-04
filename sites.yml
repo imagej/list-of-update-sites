@@ -2566,7 +2566,7 @@ sites:
     id: "WormBox"
     url: "https://sites.imagej.net/WormBox/"
     description: >-
-      [WormBox](https://github.com/nelas/WormBox) is a plugin for measuring
+      [WormBox](https://github.com/bruvellu/WormBox) is a plugin for measuring
       linear distances and counting structures based on landmarks.
     maintainers:
       - "[Bruno C. Vellutini](https://brunovellutini.com/)"
