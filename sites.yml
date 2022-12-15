@@ -513,6 +513,16 @@ sites:
     maintainers:
       - "[Andrew McCall](https://imagej.net/people/andmccall)"
 
+ - name: "ColonyArea"
+    id: "ColonyArea"
+    url: "https://sites.imagej.net/ColonyArea/"
+    description: >-
+      ImageJ-plugin that is optimized to perform standard analysis of colony 
+      formation assays conducted in 6- to 24-well dishes.
+      [wiki page](https://imagej.net/plugins/ColonyArea).
+    maintainers:
+      - "[Turku BioImaging](https://github.com/Turku-BioImaging)"
+
   - name: "Colour Deconvolution2"
     id: "ColourDeconvolution2"
     url: "https://sites.imagej.net/ColourDeconvolution2/"
