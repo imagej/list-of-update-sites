@@ -513,6 +513,15 @@ sites:
     maintainers:
       - "[Andrew McCall](https://imagej.net/people/andmccall)"
 
+  - name: "ColonyArea"
+    id: "ColonyArea"
+    url: "https://sites.imagej.net/ColonyArea/"
+    description: >-
+      A plugin that is optimized to perform standard analysis of colony formation assays conducted in 6- to 24-well dishes. The plugin processes each well individually and determines not the colony number, but the area of the well covered with cells, also taking the intensity into account.
+    maintainers:
+      - "[Turku BioImaging](https://bioimaging.fi)"
+      - "[Junel Solis](https://github.com/junelsolis)"
+
   - name: "ColorBlindLUTs"
     id: "ColorBlindLUTs"
     url: "https://sites.imagej.net/ColorBlindLUTs/"
