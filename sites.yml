@@ -1,4 +1,5 @@
 sites:
+
   - name: "ImageJ"
     id: "ImageJ"
     url: "https://update.imagej.net/"
@@ -64,7 +65,7 @@ sites:
     description: >-
       [3Dscript](https://imagej.net/plugins/3dscript) is a plugin animating 3D/4D microscopy data using a natural-language-based syntax.
     maintainers:
-      - "[Benjamin Schmid](https://imagej.net/people/bene51)"
+    - "[Benjamin Schmid](https://imagej.net/people/bene51)"
 
   - name: "ActogramJ"
     id: "ActogramJ"
@@ -72,7 +73,7 @@ sites:
     description: >-
       [ActogramJ](https://bene51.github.io/ActogramJ) is a plugin for analyzing actograms.
     maintainers:
-      - "[Benjamin Schmid](https://imagej.net/people/bene51)"
+    - "[Benjamin Schmid](https://imagej.net/people/bene51)"
 
   - name: "AdipoQ"
     id: "AdipoQ"
@@ -125,11 +126,11 @@ sites:
     id: "Lindsey"
     url: "https://sites.imagej.net/Lindsey/"
     description: >-
-      A set of plugins that allow Fiji to be run in parallel on a cluster.
-      Currently,
-      [Trainable Weka Segmentation](https://imagej.net/plugins/tws)
-      and [Elastic Alignment](https://imagej.net/plugins/elastic-alignment-and-montage)
-      are accelerated in this way.
+       A set of plugins that allow Fiji to be run in parallel on a cluster.
+       Currently,
+       [Trainable Weka Segmentation](https://imagej.net/plugins/tws)
+       and [Elastic Alignment](https://imagej.net/plugins/elastic-alignment-and-montage)
+       are accelerated in this way.
     maintainers:
       - "[Larry Lindsey](https://imagej.net/people/larrylindsey)"
 
@@ -146,8 +147,8 @@ sites:
     id: "AxoNet"
     url: "https://sites.imagej.net/AxoNet/"
     description: >-
-      An implementation of the AxoNet tool which can be used to count axons in
-      light micrographs of optic nerves.
+       An implementation of the AxoNet tool which can be used to count axons in
+       light micrographs of optic nerves.
     maintainers:
       - "[Matthew Ritch](https://imagej.net/User:Mritch3)"
 
@@ -155,10 +156,10 @@ sites:
     id: "BACMMAN"
     url: "https://sites.imagej.net/BACMMAN/"
     description: >-
-      BACteria in Mother Machine ANalyzer: a plugin for high-throughput
-      analysis of multichannel mother machine data.
-      See [Sources](https://github.com/jeanollion/bacmman): https://github.com/jeanollion/bacmman
-      and [Wiki](https://github.com/jeanollion/bacmman/wiki): https://github.com/jeanollion/bacmman/wiki
+       BACteria in Mother Machine ANalyzer: a plugin for high-throughput
+       analysis of multichannel mother machine data.
+       See [Sources](https://github.com/jeanollion/bacmman): https://github.com/jeanollion/bacmman
+       and [Wiki](https://github.com/jeanollion/bacmman/wiki): https://github.com/jeanollion/bacmman/wiki
     maintainers:
       - "[Jean Ollion](https://www.sabilab.fr/)"
 
@@ -166,8 +167,8 @@ sites:
     id: "BACMMAN-DL"
     url: "https://sites.imagej.net/BACMMAN-DL/"
     description: >-
-      Enables deep learning for BACMMAN (CPU).
-      Currently using Tensorflow 2x
+       Enables deep learning for BACMMAN (CPU).
+       Currently using Tensorflow 2x
     maintainers:
       - "[Jean Ollion](https://www.sabilab.fr/)"
 
@@ -175,8 +176,8 @@ sites:
     id: "BACMMAN-DL-GPU"
     url: "https://sites.imagej.net/BACMMAN-DL-GPU/"
     description: >-
-      Enables deep learning for BACMMAN (GPU).
-      Currently using Tensorflow 2x
+       Enables deep learning for BACMMAN (GPU).
+       Currently using Tensorflow 2x
     maintainers:
       - "[Jean Ollion](https://www.sabilab.fr/)"
 
@@ -401,7 +402,7 @@ sites:
       Fiji plugins developed in the Cellular Imaging - Lehmann Group of the FMP-Berlin.
     maintainers:
       - "[Christopher Schmied](mailto:christopher.schmied@fht.org)"
-
+      
   - name: "CiliaQ"
     id: "CiliaQ"
     url: "https://sites.imagej.net/CiliaQ/"
@@ -511,15 +512,6 @@ sites:
       [wiki page](https://imagej.net/plugins/colocalization-by-cross-correlation).
     maintainers:
       - "[Andrew McCall](https://imagej.net/people/andmccall)"
-
-  - name: "ColonyArea"
-    id: "ColonyArea"
-    url: "https://sites.imagej.net/ColonyArea/"
-    description: >-
-      A plugin that is optimized to perform standard analysis of colony formation assays conducted in 6- to 24-well dishes. The plugin processes each well individually and determines not the colony number, but the area of the well covered with cells, also taking the intensity into account.
-    maintainers:
-      - "[Turku BioImaging](https://bioimaging.fi)"
-      - "[Junel Solis](https://github.com/junelsolis)"
 
   - name: "ColorBlindLUTs"
     id: "ColorBlindLUTs"
@@ -873,9 +865,9 @@ sites:
     id: "Astartes91"
     url: "https://sites.imagej.net/Astartes91/"
     description: >-
-      Toolbox includes fuzzy edge detection plugin, fuzzy contrast enhancement
-      plugin and ann edge detection plugin. Source code
-      [on GitHub](https://github.com/astartes91/imagej-neural-fuzzy-plugins).
+       Toolbox includes fuzzy edge detection plugin, fuzzy contrast enhancement
+       plugin and ann edge detection plugin. Source code
+       [on GitHub](https://github.com/astartes91/imagej-neural-fuzzy-plugins).
     maintainers:
       - "[Vladimir Nizamutdinov](mailto:astartes91@gmail.com)"
 
@@ -2361,14 +2353,14 @@ sites:
     id: "TrackMate-Helper"
     url: "https://sites.imagej.net/TrackMate-Helper"
     description: >-
-      The TrackMate-Helper is a plugin made to run parameter sweeps on
-      an image to track. It allows a user to configure a very large batch
-      of tracking parameters to test with TrackMate, and will run them.
-      The Cell-Tracking-Challenge metrics are calculated for
-      each parameter set tested, which allows to find the best tracking
-      configuration for a dataset with respect to a specific tracking
-      metric. Check [here](https://imagej.net/plugins/trackmate/extensions/trackmate-helper)
-      for documentation.
+        The TrackMate-Helper is a plugin made to run parameter sweeps on
+        an image to track. It allows a user to configure a very large batch
+        of tracking parameters to test with TrackMate, and will run them.
+        The Cell-Tracking-Challenge metrics are calculated for
+        each parameter set tested, which allows to find the best tracking
+        configuration for a dataset with respect to a specific tracking
+        metric. Check [here](https://imagej.net/plugins/trackmate/extensions/trackmate-helper)
+        for documentation.
     maintainers:
       - "[Jean-Yves Tinevez](https://imagej.net/people/tinevez)"
 

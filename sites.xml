@@ -372,12 +372,6 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Andrew McCall
 
 |- valign=&quot;top&quot;
-|'''ColonyArea'''
-|https://sites.imagej.net/ColonyArea/
-|A plugin that is optimized to perform standard analysis of colony formation assays conducted in 6- to 24-well dishes. The plugin processes each well individually and determines not the colony number, but the area of the well covered with cells, also taking the intensity into account.
-|Turku BioImaging, Junel Solis
-
-|- valign=&quot;top&quot;
 |'''ColorBlindLUTs'''
 |https://sites.imagej.net/ColorBlindLUTs/
 |ColorBlindLUTs is a set of color blind friendly lookup tables for Fiji/ImageJ.
