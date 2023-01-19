@@ -372,6 +372,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Andrew McCall
 
 |- valign=&quot;top&quot;
+|'''ColorBlindLUTs'''
+|http://sites.imagej.net/ColorBlindLUTs/
+|ColorBlindLUTs is a set of color blind friendly lookup tables for Fiji/ImageJ.
+|Bruno C. Vellutini
+
+|- valign=&quot;top&quot;
 |'''Colour Deconvolution2'''
 |http://sites.imagej.net/ColourDeconvolution2/
 |Update site for Colour Deconvolution2
