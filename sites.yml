@@ -1286,6 +1286,14 @@ sites:
     maintainers:
       - "[NIST ISG](https://isg.nist.gov/deepzoomweb/resources/csmet/pages/cell_tracking/cell_tracking.html)"
 
+  - name: "Live-Kymographer"
+    id: "Timebar"
+    url: "https://sites.imagej.net/Live-Kymographer/"
+    description: >-
+      Generate kymographs with a live preview.
+    maintainers:
+      - "[Rémi Berthoz](mailto:remi.berthoz+imagej@gmail.com)"
+      
   - name: "LLTT"
     id: "Alex-krull"
     url: "https://sites.imagej.net/Alex-krull/"
