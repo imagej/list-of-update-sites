@@ -1427,6 +1427,18 @@ sites:
       biodistribution in the sample.
     maintainers:
       - "[Research Group Applied Systems Biology, HKI, Jena](https://www.leibniz-hki.de/en/applied-systems-biology.html)"
+      
+  - name: "MiC mask comparator"
+    id: "MiC-mask-comparator"
+    url: "https://sites.imagej.net/MiC-mask-comparator/"
+    description: >-
+      [MiC](https://github.com/Multimodal-Imaging-Center/MiC) is a plugin to compare segmentation mask to a reference one.
+      the comparison is available at pixel or object's level. It computes the number of true positives, 
+      false positives and false negatives and provides metrics for quantitative estimation of segmentation quality.
+      It displays several result tables containing all information, plots and superposition of masks for visual inspection.
+      The plugins works on stacks (only 2D comparison) and is macro recordable.
+    maintainers:
+      - "[Cedric Messaoudi](https://institut-curie.org/platform/curiecoretech-multimodal-imaging-center-uar2016-us43)"
 
   - name: "Micro-Magellan"
     id: "Hpinkard"
