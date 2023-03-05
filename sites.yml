@@ -220,7 +220,7 @@ sites:
       ImageJ [Batch Tools](https://imagej.net/plugins/batch-tools) provides a toolbar 
       to support batch image processing and analysis, including batch merge channels, 
       composite conversion, Z-projection, channel B&C and colour adjustment, file 
-      export, and cell gray value & count.
+      export, and cell count, gray value & area.
     maintainers:
       - "[Neville S Ng](mailto:neville.ng@auxiliusfoundation.org)"
 
