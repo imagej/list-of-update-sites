@@ -222,7 +222,7 @@ sites:
       composite conversion, Z-projection, channel B&C and colour adjustment, file 
       export, and cell count, gray value & area.
     maintainers:
-      - "[Neville S Ng](https://github.com/neville-ng)"
+      - "[Neville S Ng](https://github.com/neville-s-ng)"
 
   - name: "BD-CellView"
     id: "BD-CellView"
