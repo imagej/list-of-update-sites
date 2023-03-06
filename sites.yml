@@ -213,7 +213,7 @@ sites:
     maintainers:
       - "[Kevin Fisher](mailto:kfish610@gmail.com)"
 
-- name: "Batch Tools"
+  - name: "Batch Tools"
     id: "BatchTools"
     url: "https://sites.imagej.net/BatchTools/"
     description: >-
