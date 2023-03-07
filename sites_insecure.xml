@@ -894,6 +894,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Research Group Applied Systems Biology, HKI, Jena
 
 |- valign=&quot;top&quot;
+|'''MiC mask comparator'''
+|http://sites.imagej.net/MiC-mask-comparator/
+|MiC is a plugin to compare segmentation mask to a reference one. the comparison is available at pixel or object's level. It computes the number of true positives,  false positives and false negatives and provides metrics for quantitative estimation of segmentation quality. It displays several result tables containing all information, plots and superposition of masks for visual inspection. The plugins works on stacks (only 2D comparison) and is macro recordable.
+|Cedric Messaoudi
+
+|- valign=&quot;top&quot;
 |'''Micro-Magellan'''
 |http://sites.imagej.net/Hpinkard/
 |Micro-Magellan is a plugin based on Micro-Manager for high throughput microscopy. This update site is used to enable reading of Micro-Magellan datasets by the BigDataViewer.
