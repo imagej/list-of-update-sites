@@ -217,7 +217,7 @@ sites:
     id: "BatchTools"
     url: "https://sites.imagej.net/BatchTools/"
     description: >-
-      ImageJ [Batch Tools](https://imagej.net/plugins/batch-tools) provides a toolbar 
+      [Batch Tools](https://imagej.net/plugins/batch-tools) provides a toolbar 
       to support batch image processing and analysis, including batch merge channels, 
       composite conversion, Z-projection, channel B&C and colour adjustment, file 
       export, and cell count, gray value & area.
