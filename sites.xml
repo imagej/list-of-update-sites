@@ -816,6 +816,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |NIST ISG
 
 |- valign=&quot;top&quot;
+|'''Live-Kymographer'''
+|https://sites.imagej.net/Live-Kymographer/
+|Generate kymographs with a live preview.
+|Rémi Berthoz
+
+|- valign=&quot;top&quot;
 |'''LLTT'''
 |https://sites.imagej.net/Alex-krull/
 |The Low Light Tracking Tool can be used to track low-light sub-resolution objects in microscopy images and other applications.
