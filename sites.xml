@@ -192,6 +192,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Kevin Fisher
 
 |- valign=&quot;top&quot;
+|'''Batch Tools'''
+|https://sites.imagej.net/BatchTools/
+|ImageJ Batch Tools provides a toolbar  to support batch image processing and analysis, including batch merge channels,  composite conversion, Z-projection, channel B&amp;C and colour adjustment, file  export, and cell count, gray value &amp; area.
+|Neville S Ng
+
+|- valign=&quot;top&quot;
 |'''BD-CellView'''
 |https://sites.imagej.net/BD-CellView/
 |BD-CellView enables inspection and batch processing of images generated with the BD-CellView imaging flow cytometer.
