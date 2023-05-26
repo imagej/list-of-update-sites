@@ -906,6 +906,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Cedric Messaoudi
 
 |- valign=&quot;top&quot;
+|'''MIC-MAQ'''
+|http://sites.imagej.net/MIC-MAQ/
+|[MIC-MAQ] (https://github.com/MultimodalImagingCenter/MIC-MAQ) is a plugin for automatic segmentation of nuclei and/or  cells for quantifications in other channels including foci detection.  MIC-MAQ automatically segments cells and/or nuclei on 2D microscopy images using thresholding or deep-learning approaches.  It takes Z-stack but works only on 2D projection. It provides intensity based and/or morphological measurements in nuclei and/or cells in multi channels experiment. The plugin propose the foci/spots detection inside nuclei/cells. the plugins works on all images present in working directory (any image format that can be read by bioformat).
+|Cedric Messaoudi
+
+|- valign=&quot;top&quot;
 |'''Micro-Magellan'''
 |http://sites.imagej.net/Hpinkard/
 |Micro-Magellan is a plugin based on Micro-Manager for high throughput microscopy. This update site is used to enable reading of Micro-Magellan datasets by the BigDataViewer.
