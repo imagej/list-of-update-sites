@@ -651,6 +651,14 @@ sites:
     maintainers:
       - "[Virginie Uhlmann](https://imagej.net/people/vuhlmann)"
 
+  - name: "DNA FISH"
+    id: "DNA-FISH"
+    url: "https://sites.imagej.net/DNA-FISH/"
+    description: >-
+      Plugin for semi-automated [analysis of DNA FISH spots](https://github.com/embl-cba/DNA-FISH#analyse-fish-spots---fiji-plugin). 
+    maintainers:
+      - "Christian Tischer"
+
   - name: "ELEPHANT"
     id: "KoSugawara"
     url: "https://sites.imagej.net/ELEPHANT/"
@@ -681,7 +689,7 @@ sites:
     description: >-
       Image registration using [elastix](http://elastix.isi.uu.nl/)
     maintainers:
-      - "[Christian Tischer](mailto:tischitischer@gmail.com)"
+      - "[Christian Tischer](mailto:christian.tischer@embl.de)"
 
   - name: "EM Tool"
     id: "IMBalENce"
@@ -2161,15 +2169,6 @@ sites:
     maintainers:
       - "[Kyle Harrington](https://imagej.net/people/kephale)"
       - "[Ulrik Günther](https://imagej.net/people/skalarproduktraum)"
-
-  - name: "SegmentationAnnotator"
-    id: "SegmentationAnnotator"
-    url: "https://sites.imagej.net/SegmentationAnnotator/"
-    description: >-
-      Explore and annotate label mask images with BigDataViewer. See source
-      [on GitHub](https://github.com/tischi/segmentation-annotator).
-    maintainers:
-      - "Christian Tischer"
 
   - name: "Server"
     id: "Server"
