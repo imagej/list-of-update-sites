@@ -450,6 +450,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Virginie Uhlmann
 
 |- valign=&quot;top&quot;
+|'''DNA FISH'''
+|http://sites.imagej.net/DNA-FISH/
+|Plugin for semi-automated analysis of DNA FISH spots.
+|Christian Tischer
+
+|- valign=&quot;top&quot;
 |'''ELEPHANT'''
 |http://sites.imagej.net/ELEPHANT/
 |ELEPHANT is a platform for 3D cell tracking, based on incremental and interactive deep learning. ELEPHANT is implemented as a plugin for Mastodon. Please not that users need to set up the ELEPHANT server in addition to this plugin. The detailed instructions can be found here.
@@ -1312,12 +1318,6 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |http://sites.imagej.net/sciview-buttercup/
 |sciview 3D/VR/AR visualization package for ImageJ. See the documentation here and source on GitHub.
 |Kyle Harrington, Ulrik Günther
-
-|- valign=&quot;top&quot;
-|'''SegmentationAnnotator'''
-|http://sites.imagej.net/SegmentationAnnotator/
-|Explore and annotate label mask images with BigDataViewer. See source on GitHub.
-|Christian Tischer
 
 |- valign=&quot;top&quot;
 |'''Server'''
