@@ -2679,6 +2679,18 @@ sites:
     maintainers:
       - "[Artur Yakimovich](mailto:a.yakimovich@ucl.ac.uk)"
 
+  - name: "Zellige"
+    id: "Zellige"
+    url: "https://sites.imagej.net/Zellige/"
+    description: >-
+      [Zellige](https://imagej.net/plugins/zellige) is a software tool allowing the 
+      automated extraction of a non-prescribed number of various surfaces from a 3D 
+      image acquired by fluorescence microscopy. The program is available through 
+      a Fiji plugin.
+    maintainers:
+      - "[Céline Trébeau](mailto:ctrebeau@pasteur.fr)"
+      - "[Jean-Yves Tinevez](mailto:tinevez@pasteur.fr)"
+
   - name: "ZFBONE"
     id: "ZFBONE"
     url: "https://sites.imagej.net/Zfmacros/"
