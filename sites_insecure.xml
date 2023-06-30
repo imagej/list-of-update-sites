@@ -1616,6 +1616,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Artur Yakimovich
 
 |- valign=&quot;top&quot;
+|'''Zellige'''
+|http://sites.imagej.net/Zellige/
+|Zellige is a software tool allowing the  automated extraction of a non-prescribed number of various surfaces from a 3D  image acquired by fluorescence microscopy. The program is available through  a Fiji plugin.
+|Céline Trébeau, Jean-Yves Tinevez
+
+|- valign=&quot;top&quot;
 |'''ZFBONE'''
 |http://sites.imagej.net/Zfmacros/
 |ZFBONE is a toolset that provides tools needed for a rapid, reliable and semi-automatized morphometric analysis of zebrafish bone structures such as operculum, caudal fin and scales.
