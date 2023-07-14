@@ -2679,6 +2679,15 @@ sites:
     maintainers:
       - "[Artur Yakimovich](mailto:a.yakimovich@ucl.ac.uk)"
 
+  - name: "Zeiss Quick Start Reader"
+    id: "zeiss-quick-start-reader"
+    url: "https://biop.epfl.ch/Fiji-CZI/"
+    description: >-
+      An alternative Bio-Formats Zeiss reader for big files.
+      Documentation: [Zeiss Quick Start Reader](https://imagej.net/plugins/zeiss-quick-start-reader).
+    maintainers:
+      - "[Nicolas Chiaruttini](mailto:nicolas.chiaruttini@epfl.ch)"
+
   - name: "Zellige"
     id: "Zellige"
     url: "https://sites.imagej.net/Zellige/"
