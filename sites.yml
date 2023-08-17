@@ -1988,9 +1988,9 @@ sites:
     url: "https://biop.epfl.ch/Fiji-Update"
     description: >-
       The [EPFL - PTBIOP](https://biop.epfl.ch/) (BioImaging & Optics Platform)
-      Update Site, with Fiji plugins and macros, including
-      [Action Bars](https://imagejdocu.tudor.lu/doku.php?id=plugin:utilities:action_bar:start)
-      (not the plugin) and HRM Manager.
+      Update Site, with Fiji plugins, macros and ActionBars. We recommend that you
+      also activate the **IBMP-CNRS** and **ImageScience** update sites. 
+      Update site contents at https://wiki-biop.epfl.ch/en/ipa/fiji/update-site#ptbiop-update-site-contents
     maintainers:
       - "[Olivier Burri](https://people.epfl.ch/olivier.burri?lang=en&cvlang=en)"
 

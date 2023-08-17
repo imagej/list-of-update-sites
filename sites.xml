@@ -1214,7 +1214,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''PTBIOP'''
 |https://biop.epfl.ch/Fiji-Update
-|The EPFL - PTBIOP (BioImaging &amp; Optics Platform) Update Site, with Fiji plugins and macros, including Action Bars (not the plugin) and HRM Manager.
+|The EPFL - PTBIOP (BioImaging &amp; Optics Platform) Update Site, with Fiji plugins, macros and ActionBars. We recommend that you also activate the IBMP-CNRS and ImageScience update sites.  Update site contents at https://wiki-biop.epfl.ch/en/ipa/fiji/update-site#ptbiop-update-site-contents
 |Olivier Burri
 
 |- valign=&quot;top&quot;
