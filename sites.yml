@@ -1990,7 +1990,7 @@ sites:
       The [EPFL - PTBIOP](https://biop.epfl.ch/) (BioImaging & Optics Platform)
       Update Site, with Fiji plugins, macros and ActionBars. We recommend that you
       also activate the **IBMP-CNRS** and **ImageScience** update sites. 
-      Update site contents at https://wiki-biop.epfl.ch/en/ipa/fiji/update-site#ptbiop-update-site-contents
+      Update site contents at [https://wiki-biop.epfl.ch/en/ipa/fiji/update-site#ptbiop-update-site-contents](https://wiki-biop.epfl.ch/en/ipa/fiji/update-site#ptbiop-update-site-contents)
     maintainers:
       - "[Olivier Burri](https://people.epfl.ch/olivier.burri?lang=en&cvlang=en)"
 
