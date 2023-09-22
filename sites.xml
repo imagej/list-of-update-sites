@@ -686,8 +686,8 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''ilastik'''
 |https://sites.imagej.net/Ilastik/
-|Provides interoperability between Fiji and ilastik workflows (pixel/object classification, tracking) as well as HDF5 file export/import.
-|Adrian Wolny
+|Provides interoperability between Fiji and ilastik workflows (pixel/object classification, autocontext, multicut, tracking) as well as HDF5 file export/import.
+|ilastik team
 
 |- valign=&quot;top&quot;
 |'''ImageJ Latex'''

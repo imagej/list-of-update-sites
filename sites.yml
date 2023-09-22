@@ -1070,10 +1070,10 @@ sites:
     url: "https://sites.imagej.net/Ilastik/"
     description: >-
       Provides interoperability between Fiji and ilastik workflows
-      (pixel/object classification, tracking) as well as HDF5 file
-      export/import.
+      (pixel/object classification, autocontext, multicut, tracking)
+      as well as HDF5 file export/import.
     maintainers:
-      - "[Adrian Wolny](mailto:adrian.wolny@iwr.uni-heidelberg.de)"
+      - "[ilastik team](mailto:team@ilastik.org)"
 
   - name: "ImageJ Latex"
     id: "Yul.liuyu"
