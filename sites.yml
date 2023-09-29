@@ -2451,6 +2451,18 @@ sites:
     maintainers:
       - "[Varun Kapoor](https://imagej.net/people/kapoorlab)"
 
+  - name: "TrackMate-Pairing"
+    id: "TrackMate-Pairing"
+    url: "https://sites.imagej.net/TrackMate-Pairing"
+    description: >-
+      Contains a tool that allows for pairing together two TrackMate files, based on
+      several distance metrics. It builds pairs taken from the tracks of one file 
+      and the tracks of a second file. 
+      This is used mainly to study how the distance of objects detected in two 
+      different channels evolve over time.
+    maintainers:
+      - "[Jean-Yves Tinevez](https://imagej.net/people/tinevez)"
+
   - name: "TrackMate-StarDist"
     id: "TrackMate-StarDist"
     url: "https://sites.imagej.net/TrackMate-StarDist"
