@@ -79,7 +79,7 @@ sites:
     url: "https://sites.imagej.net/AdipoQ/"
     description: >-
       ImageJ plugins for quantifying adipocyte morphology and function in tissues and in vitro.
-      For more details, a link to the corresponding publication, and information on how 
+      For more details, a link to the corresponding publication, and information on how
       to cite the plugins visit the AdipoQ github page https://github.com/hansenjn/AdipoQ/
     maintainers:
       - "[Jan Hansen](https://github.com/hansenjn/)"
@@ -121,6 +121,15 @@ sites:
     maintainers:
       - "[Jan Eglinger](https://imagej.net/people/imagejan)"
 
+  - name: "apoc"
+    id: "apoc"
+    url: "https://sites.imagej.net/apoc/"
+    description: >-
+      Accelerated pixel and object classifiers (APOC).
+      See [clijx-accelerated-pixel-and-object-classification](https://github.com/clij/clijx-accelerated-pixel-and-object-classification).
+    maintainers:
+      - "[Robert Haase](https://imagej.net/people/haesleinhuepf)"
+
   - name: "Archipelago"
     id: "Lindsey"
     url: "https://sites.imagej.net/Lindsey/"
@@ -132,15 +141,6 @@ sites:
       are accelerated in this way.
     maintainers:
       - "[Larry Lindsey](https://imagej.net/people/larrylindsey)"
-
-  - name: "apoc"
-    id: "apoc"
-    url: "https://sites.imagej.net/apoc/"
-    description: >-
-      Accelerated pixel and object classifiers (APOC).
-      See [clijx-accelerated-pixel-and-object-classification](https://github.com/clij/clijx-accelerated-pixel-and-object-classification).
-    maintainers:
-      - "[Robert Haase](https://imagej.net/people/haesleinhuepf)"
 
   - name: "AxoNet"
     id: "AxoNet"
@@ -217,9 +217,9 @@ sites:
     id: "BatchTools"
     url: "https://sites.imagej.net/BatchTools/"
     description: >-
-      [Batch Tools](https://imagej.net/plugins/batch-tools) provides a toolbar 
-      to support batch image processing and analysis, including batch merge channels, 
-      composite conversion, Z-projection, channel B&C and colour adjustment, file 
+      [Batch Tools](https://imagej.net/plugins/batch-tools) provides a toolbar
+      to support batch image processing and analysis, including batch merge channels,
+      composite conversion, Z-projection, channel B&C and colour adjustment, file
       export, and cell count, gray value & area.
     maintainers:
       - "[Neville S Ng](https://github.com/neville-s-ng)"
@@ -233,15 +233,6 @@ sites:
     maintainers:
       - "[Christian Tischer](mailto:christian.tischer@embl.de)"
 
-  - name: "BigDataProcessor"
-    id: "BigDataProcessor"
-    url: "https://sites.imagej.net/BigDataProcessor/"
-    description: >-
-      [BigDataProcessor2](https://github.com/embl-cba/bigDataProcessor2#bigdataprocessor2)
-      is an Imglib2 and BigDataViewer based tool for inspection and processing of big (TB-sized) image data.
-    maintainers:
-      - "[Christian Tischer](mailto:christian.tischer@embl.de)"
-
   - name: "BIG-EPFL"
     id: "BIG-EPFL"
     url: "https://sites.imagej.net/BIG-EPFL/"
@@ -251,6 +242,15 @@ sites:
       NOT OPEN SOURCE.
     maintainers:
       - "[Curtis Rueden](https://imagej.net/people/ctrueden)"
+
+  - name: "BigDataProcessor"
+    id: "BigDataProcessor"
+    url: "https://sites.imagej.net/BigDataProcessor/"
+    description: >-
+      [BigDataProcessor2](https://github.com/embl-cba/bigDataProcessor2#bigdataprocessor2)
+      is an Imglib2 and BigDataViewer based tool for inspection and processing of big (TB-sized) image data.
+    maintainers:
+      - "[Christian Tischer](mailto:christian.tischer@embl.de)"
 
   - name: "BigStitcher"
     id: "BigStitcher"
@@ -418,7 +418,7 @@ sites:
     url: "https://sites.imagej.net/CiliaQ/"
     description: >-
       An set of three ImageJ plugins to quantify ciliary shape, length, and fluorescence in 2D, 3D, and 4D images.
-      For more details, a link to the corresponding publication, and information on how 
+      For more details, a link to the corresponding publication, and information on how
       to cite the plugin visit the CiliaQ github pages (including manual and wiki) at https://github.com/hansenjn/CiliaQ
     maintainers:
       - "[Jan Hansen](https://github.com/hansenjn/)"
@@ -439,6 +439,15 @@ sites:
       structures in images.
     maintainers:
       - "[Jean-Yves Tinevez](https://imagej.net/people/tinevez)"
+
+  - name: "ClearVolume"
+    id: "ClearVolume"
+    url: "https://sites.imagej.net/ClearVolume/"
+    description: >-
+      ClearVolume is a fast 3D viewer, for more information see also the
+      [ClearVolume wiki](https://github.com/ClearVolume/ClearVolume/wiki).
+    maintainers:
+      - "[ClearVolume](https://imagej.net/User:ClearVolume)"
 
   - name: "clij"
     id: "clij"
@@ -475,15 +484,6 @@ sites:
       See [https://clij.github.io/assistant](https://clij.github.io/assistant)
     maintainers:
       - "[Robert Haase](https://imagej.net/people/haesleinhuepf)"
-
-  - name: "ClearVolume"
-    id: "ClearVolume"
-    url: "https://sites.imagej.net/ClearVolume/"
-    description: >-
-      ClearVolume is a fast 3D viewer, for more information see also the
-      [ClearVolume wiki](https://github.com/ClearVolume/ClearVolume/wiki).
-    maintainers:
-      - "[ClearVolume](https://imagej.net/User:ClearVolume)"
 
   - name: "CMCI-EMBL"
     id: "Miura"
@@ -655,9 +655,17 @@ sites:
     id: "DNA-FISH"
     url: "https://sites.imagej.net/DNA-FISH/"
     description: >-
-      Plugin for semi-automated [analysis of DNA FISH spots](https://github.com/embl-cba/DNA-FISH#analyse-fish-spots---fiji-plugin). 
+      Plugin for semi-automated [analysis of DNA FISH spots](https://github.com/embl-cba/DNA-FISH#analyse-fish-spots---fiji-plugin).
     maintainers:
       - "Christian Tischer"
+
+  - name: "ElastixWrapper"
+    id: "ElastixWrapper"
+    url: "https://sites.imagej.net/ElastixWrapper/"
+    description: >-
+      Image registration using [elastix](http://elastix.isi.uu.nl/)
+    maintainers:
+      - "[Christian Tischer](mailto:christian.tischer@embl.de)"
 
   - name: "ELEPHANT"
     id: "KoSugawara"
@@ -671,6 +679,14 @@ sites:
     maintainers:
       - "[Ko Sugawara](https://github.com/ksugar)"
 
+  - name: "EM Tool"
+    id: "IMBalENce"
+    url: "https://sites.imagej.net/IMBalENce/"
+    description: >-
+      [EM tool](https://imagej.net/plugins/imbalence) is a suite of simple tools for electron microscopist
+    maintainers:
+      - "[Zhou Xu](mailto:zhou.xu@monash.edu)"
+
   - name: "EpiGraph"
     id: "Pedgomgal1"
     url: "https://sites.imagej.net/Pedgomgal1/"
@@ -682,22 +698,6 @@ sites:
     maintainers:
       - "[Pedro J. Gómez Gálvez](mailto:pgomez-ibis@us.es)"
       - "[Pablo Vicente Munuera](https://github.com/Pablo1990)"
-
-  - name: "ElastixWrapper"
-    id: "ElastixWrapper"
-    url: "https://sites.imagej.net/ElastixWrapper/"
-    description: >-
-      Image registration using [elastix](http://elastix.isi.uu.nl/)
-    maintainers:
-      - "[Christian Tischer](mailto:christian.tischer@embl.de)"
-
-  - name: "EM Tool"
-    id: "IMBalENce"
-    url: "https://sites.imagej.net/IMBalENce/"
-    description: >-
-      [EM tool](https://imagej.net/plugins/imbalence) is a suite of simple tools for electron microscopist
-    maintainers:
-      - "[Zhou Xu](mailto:zhou.xu@monash.edu)"
 
   - name: "EVAnalyzer"
     id: "evanalyzer"
@@ -854,14 +854,14 @@ sites:
     maintainers:
       - "[A. Karperien](https://imagej.net/User:Akarperien)"
 
-  - name: FreQ
+  - name: "FreQ"
     id: "FreQ"
     url: "https://sites.imagej.net/FreQ/"
     description: >-
-      An ImageJ plugin to analyze pixel intensity oscillations in time-lapse 2D images. 
+      An ImageJ plugin to analyze pixel intensity oscillations in time-lapse 2D images.
       For example, this allows to characterize the ciliary beat of multi-ciliated cells
       in time-lapse images acquired with a bright-field or phase-contrast microscope.
-      For more details, a link to the corresponding publication, and information on how 
+      For more details, a link to the corresponding publication, and information on how
       to cite the plugin visit the FreQ github pages at https://github.com/hansenjn/FreQ
     maintainers:
       - "[Jan Hansen](https://github.com/hansenjn/)"
@@ -907,17 +907,6 @@ sites:
     maintainers:
       - "[Robert Erger](mailto:rerger@leomail.tamuc.edu)"
 
-  - name: "Gut Analysis Toolbox"
-    id: "GAT"
-    url: "https://sites.imagej.net/GutAnalysisToolbox/"
-    description: >-
-      [Gut Analysis Toolbox](https://imagej.net/plugins/gut-analysis-toolbox) enables semi-automated analysis of
-      the neuronal and glial distribution within the gut wall in 2D. It uses a combination of FIJI macros, StarDist
-      and deepImageJ for automated segmentation. The primary focus is on characterising the enteric nervous system.
-      The aim is to expand the analysis to other celltypes within the gut and enable 3D analysis.
-    maintainers:
-      - "[Pradeep Rajasekhar](https://imagej.net/people/pr4deepr)"
-
   - name: "GDSC"
     id: "GDSC"
     url: "https://sites.imagej.net/GDSC/"
@@ -939,6 +928,17 @@ sites:
       See the latest documentation on [ReadTheDocs](https://gdsc-smlm.readthedocs.io/).
     maintainers:
       - "[Alex Herbert](mailto:a.herbert@sussex.ac.uk)"
+
+  - name: "Gut Analysis Toolbox"
+    id: "GAT"
+    url: "https://sites.imagej.net/GutAnalysisToolbox/"
+    description: >-
+      [Gut Analysis Toolbox](https://imagej.net/plugins/gut-analysis-toolbox) enables semi-automated analysis of
+      the neuronal and glial distribution within the gut wall in 2D. It uses a combination of FIJI macros, StarDist
+      and deepImageJ for automated segmentation. The primary focus is on characterising the enteric nervous system.
+      The aim is to expand the analysis to other celltypes within the gut and enable 3D analysis.
+    maintainers:
+      - "[Pradeep Rajasekhar](https://imagej.net/people/pr4deepr)"
 
   - name: "Hadim"
     id: "Hadim"
@@ -983,19 +983,19 @@ sites:
       - "[Koen Martens](mailto:koen.martens@wur.nl)"
       - "[Johannes Hohlbein](mailto:johannes.hohlbein@wur.nl)"
 
-  - name: "HPC-ParallelTools"
-    id: "HPC-ParallelTools"
-    url: "https://sites.imagej.net/HPC-ParallelTools/"
-    description: >-
-      Plugins using parallelization and HPC.
-    maintainers:
-      - "[Jan Kožusznik](mailto:jan@kozusznik.cz)"
-
   - name: "HPC-Datastore"
     id: "HPC-Datastore"
     url: "https://sites.imagej.net/HPC-Datastore/"
     description: >-
       Plugins using HPC Datastore.
+    maintainers:
+      - "[Jan Kožusznik](mailto:jan@kozusznik.cz)"
+
+  - name: "HPC-ParallelTools"
+    id: "HPC-ParallelTools"
+    url: "https://sites.imagej.net/HPC-ParallelTools/"
+    description: >-
+      Plugins using parallelization and HPC.
     maintainers:
       - "[Jan Kožusznik](mailto:jan@kozusznik.cz)"
 
@@ -1312,7 +1312,16 @@ sites:
       Generate kymographs with a live preview.
     maintainers:
       - "[Rémi Berthoz](mailto:remi.berthoz+imagej@gmail.com)"
-      
+
+  - name: "liveim-tools"
+    id: "liveim-tools"
+    url: "https://sites.imagej.net/liveim-tools/"
+    description: >-
+      [liveim-tools](https://sites.imagej.net/liveim-tools/) Macros and plugins of the MPIBPC
+      live-cell imaging facility to process data generated by facility microscopes (e.g. Abberior, Zeiss, Visitron).
+    maintainers:
+      - "[Antonio Politi](mailto:apoliti@mpibpc.mpg.de)"
+
   - name: "LLTT"
     id: "Alex-krull"
     url: "https://sites.imagej.net/Alex-krull/"
@@ -1391,6 +1400,15 @@ sites:
     maintainers:
       - "[Diego Morone](mailto:diego.morone@irb.usi.ch)"
 
+  - name: "MaMuT"
+    id: "MaMuT"
+    url: "https://sites.imagej.net/MaMuT/"
+    description: >-
+      [MaMuT](https://imagej.net/plugins/mamut), a plugin for the annotation of
+      massive, multi-view data.
+    maintainers:
+      - "[Jean-Yves Tinevez](https://imagej.net/people/tinevez)"
+
   - name: "Mars"
     id: "Mars"
     url: "https://sites.imagej.net/Mars/"
@@ -1400,15 +1418,6 @@ sites:
       together with enhanced OME metadata.
     maintainers:
       - "[Karl Duderstadt](mailto:duderstadt@biochem.mpg.de)"
-
-  - name: "MaMuT"
-    id: "MaMuT"
-    url: "https://sites.imagej.net/MaMuT/"
-    description: >-
-      [MaMuT](https://imagej.net/plugins/mamut), a plugin for the annotation of
-      massive, multi-view data.
-    maintainers:
-      - "[Jean-Yves Tinevez](https://imagej.net/people/tinevez)"
 
   - name: "Maskflow"
     id: "Maskflow"
@@ -1454,13 +1463,13 @@ sites:
       biodistribution in the sample.
     maintainers:
       - "[Research Group Applied Systems Biology, HKI, Jena](https://www.leibniz-hki.de/en/applied-systems-biology.html)"
-      
+
   - name: "MiC mask comparator"
     id: "MiC-mask-comparator"
     url: "https://sites.imagej.net/MiC-mask-comparator/"
     description: >-
       [MiC](https://github.com/Multimodal-Imaging-Center/MiC) is a plugin to compare segmentation mask to a reference one.
-      the comparison is available at pixel or object's level. It computes the number of true positives, 
+      the comparison is available at pixel or object's level. It computes the number of true positives,
       false positives and false negatives and provides metrics for quantitative estimation of segmentation quality.
       It displays several result tables containing all information, plots and superposition of masks for visual inspection.
       The plugins works on stacks (only 2D comparison) and is macro recordable.
@@ -1471,9 +1480,9 @@ sites:
     id: "MIC-MAQ"
     url: "https://sites.imagej.net/MIC-MAQ/"
     description: >-
-      [MIC-MAQ] (https://github.com/MultimodalImagingCenter/MIC-MAQ) is a plugin for automatic segmentation of nuclei and/or 
-      cells for quantifications in other channels including foci detection. 
-      MIC-MAQ automatically segments cells and/or nuclei on 2D microscopy images using thresholding or deep-learning approaches. 
+      [MIC-MAQ] (https://github.com/MultimodalImagingCenter/MIC-MAQ) is a plugin for automatic segmentation of nuclei and/or
+      cells for quantifications in other channels including foci detection.
+      MIC-MAQ automatically segments cells and/or nuclei on 2D microscopy images using thresholding or deep-learning approaches.
       It takes Z-stack but works only on 2D projection.
       It provides intensity based and/or morphological measurements in nuclei and/or cells in multi channels experiment.
       The plugin propose the foci/spots detection inside nuclei/cells.
@@ -1606,8 +1615,8 @@ sites:
     url: "https://sites.imagej.net/MotiQ/"
     description: >-
       An set of ImageJ plugins to quantify dynamics, morphology, and fluorescence of microglial (or other) cells
-      in 2D and 3D (also time-lapse) images. 
-      For more details, a link to the corresponding publication, and information on how 
+      in 2D and 3D (also time-lapse) images.
+      For more details, a link to the corresponding publication, and information on how
       to cite the plugins visit the MotiQ github pages at https://github.com/hansenjn/MotiQ
     maintainers:
       - "[Jan Hansen](https://github.com/hansenjn/)"
@@ -1644,6 +1653,17 @@ sites:
     maintainers:
       - "[Varun Kapoor](https://imagej.net/people/kapoorlab)"
 
+  - name: "Multi-Template-Matching"
+    id: "Multi-Template-Matching"
+    url: "https://sites.imagej.net/Multi-Template-Matching/"
+    description: >-
+      [Multiple template matching](https://imagej.net/plugins/multi-template-matching)
+      allows to easily localize one or multiple objects in images using one or
+      a set of template images. The template images can be flipped and/or
+      rotated to increase the chance to find the objects.
+    maintainers:
+      - "[Laurent Thomas](https://imagej.net/people/LauLauThom)"
+
   - name: "Multifrac"
     id: "Multifrac"
     url: "https://sites.imagej.net/Multifrac/"
@@ -1664,17 +1684,6 @@ sites:
       does registration of a stack based on the registration results of another stack. It uses Turboreg as the backend.
     maintainers:
       - "[Kota Miura](https://imagej.net/people/miura)"
-
-  - name: "Multi-Template-Matching"
-    id: "Multi-Template-Matching"
-    url: "https://sites.imagej.net/Multi-Template-Matching/"
-    description: >-
-      [Multiple template matching](https://imagej.net/plugins/multi-template-matching)
-      allows to easily localize one or multiple objects in images using one or
-      a set of template images. The template images can be flipped and/or
-      rotated to increase the chance to find the objects.
-    maintainers:
-      - "[Laurent Thomas](https://imagej.net/people/LauLauThom)"
 
   - name: "N5"
     id: "N5"
@@ -1989,7 +1998,7 @@ sites:
     description: >-
       The [EPFL - PTBIOP](https://biop.epfl.ch/) (BioImaging & Optics Platform)
       Update Site, with Fiji plugins, macros and ActionBars. We recommend that you
-      also activate the **IBMP-CNRS**, **ImageScience** and *3D ImageJ Suite* update sites. 
+      also activate the **IBMP-CNRS**, **ImageScience** and *3D ImageJ Suite* update sites.
       Update site contents at [https://wiki-biop.epfl.ch/en/ipa/fiji/update-site#ptbiop-update-site-contents](https://wiki-biop.epfl.ch/en/ipa/fiji/update-site#ptbiop-update-site-contents)
     maintainers:
       - "[Olivier Burri](https://people.epfl.ch/olivier.burri?lang=en&cvlang=en)"
@@ -2189,6 +2198,16 @@ sites:
     maintainers:
       - "[Micron Oxford](https://www.micron.ox.ac.uk/home.php)"
 
+  - name: "SimonKlein"
+    id: "SimonKlein"
+    url: "https://sites.imagej.net/SimonKlein/"
+    description: >-
+      Provides the plugins
+      [LinearDistance](https://github.com/kleinsimon/LinearDistance) and
+      [PointAnalysis](https://github.com/kleinsimon/PointAnalysis)
+    maintainers:
+      - "[Simon Klein](https://imagej.net/User:SimonKlein)"
+
   - name: "SiMView"
     id: "SiMView"
     url: "https://sites.imagej.net/SiMView/"
@@ -2200,15 +2219,14 @@ sites:
     maintainers:
       - "[Burkhard Hoeckendorf](mailto:hoeckendorfb@janelia.hhmi.org)"
 
-  - name: "SimonKlein"
-    id: "SimonKlein"
-    url: "https://sites.imagej.net/SimonKlein/"
+  - name: "Slide Set"
+    id: "Slide-Set"
+    url: "https://b.nanes.org/slideset/update/"
     description: >-
-      Provides the plugins
-      [LinearDistance](https://github.com/kleinsimon/LinearDistance) and
-      [PointAnalysis](https://github.com/kleinsimon/PointAnalysis)
+      [Slide Set](https://b.nanes.org/slideset/): Reproducible image analysis
+      and batch processing.
     maintainers:
-      - "[Simon Klein](https://imagej.net/User:SimonKlein)"
+      - "[Benjamin Nanes](https://imagej.net/people/bnanes)"
 
   - name: "SlideBook"
     id: "SlideBook"
@@ -2218,15 +2236,6 @@ sites:
       [SlideBook](https://www.intelligent-imaging.com/slidebook) SLD files.
     maintainers:
       - "[3i Support](https://www.intelligent-imaging.com/contact)"
-
-  - name: "Slide Set"
-    id: "Slide-Set"
-    url: "https://b.nanes.org/slideset/update/"
-    description: >-
-      [Slide Set](https://b.nanes.org/slideset/): Reproducible image analysis
-      and batch processing.
-    maintainers:
-      - "[Benjamin Nanes](https://imagej.net/people/bnanes)"
 
   - name: "SLIM Curve"
     id: "SLIM-Curve"
@@ -2254,8 +2263,8 @@ sites:
       2D bright-field, dark-field, phase contrast, or fluorescence microscopy images. SpermQ
       can analyze images from head-tethered or free swimming sperm of different species.
       SpermQ can also analyze the beat of motile cilia if the analyzed cilium is clearly distinguishable
-      from / not close to neighboring cilia.      
-      For more details, a link to the corresponding publication, and information on how 
+      from / not close to neighboring cilia.
+      For more details, a link to the corresponding publication, and information on how
       to cite the plugins, visit the SpermQ github page https://github.com/hansenjn/SpermQ/
     maintainers:
       - "[Jan Hansen](https://github.com/hansenjn/)"
@@ -2376,6 +2385,14 @@ sites:
       - "[Vladimír Ulman](mailto:ulman@mpi-cbg.de)"
       - "[Matthias Arzt](https://imagej.net/people/maarzt)"
 
+  - name: "Tr2d"
+    id: "Tr2d"
+    url: "https://sites.imagej.net/Tr2d/"
+    description: >-
+      Tracking in 2d.
+    maintainers:
+      - "[Florian Jug](mailto:jug@mpi-cbg.de)"
+
   - name: "TrackMate-Cellpose"
     id: "TrackMate-Cellpose"
     url: "https://sites.imagej.net/TrackMate-Cellpose"
@@ -2456,9 +2473,9 @@ sites:
     url: "https://sites.imagej.net/TrackMate-Pairing"
     description: >-
       Contains a tool that allows for pairing together two TrackMate files, based on
-      several distance metrics. It builds pairs taken from the tracks of one file 
-      and the tracks of a second file. 
-      This is used mainly to study how the distance of objects detected in two 
+      several distance metrics. It builds pairs taken from the tracks of one file
+      and the tracks of a second file.
+      This is used mainly to study how the distance of objects detected in two
       different channels evolve over time.
     maintainers:
       - "[Jean-Yves Tinevez](https://imagej.net/people/tinevez)"
@@ -2512,18 +2529,10 @@ sites:
     id: "TreeJ"
     url: "https://sites.imagej.net/TreeJ/"
     description: >-
-      [TreeJ](https://imagej.net/plugins/treej) allows interactive cell lineage reconstruction 
+      [TreeJ](https://imagej.net/plugins/treej) allows interactive cell lineage reconstruction
       and annotation from a static labeled image.
     maintainers:
       - "[Elise Laruelle](https://www.slcu.cam.ac.uk/staff/elise-laruelle)"
-      
-  - name: "Tr2d"
-    id: "Tr2d"
-    url: "https://sites.imagej.net/Tr2d/"
-    description: >-
-      Tracking in 2d.
-    maintainers:
-      - "[Florian Jug](mailto:jug@mpi-cbg.de)"
 
   - name: "U-Net Segmentation"
     id: "Falk"
@@ -2603,7 +2612,7 @@ sites:
     id: "kterretaz"
     url: "https://sites.imagej.net/VisualizationToolset/"
     description: >-
-      A [macro Toolset](https://github.com/kwolbachia/Visualization_toolset) 
+      A [macro Toolset](https://github.com/kwolbachia/Visualization_toolset)
       helping daily handling and visualization of multichannel images and stacks.
     maintainers:
       - "[Kévin Terretaz](mailto:kevinterretaz@gmail.com)"
@@ -2680,17 +2689,6 @@ sites:
     maintainers:
       - "[Beat Münch](mailto:beat.muench@empa.ch)"
 
-  - name: "Zoom-in-movie"
-    id: "ZOOM-in-movie"
-    url: "https://sites.imagej.net/ZOOM-in-movie/"
-    description: >-
-      [Zoom-in-movie](https://imagej.net/FIXME) is a simple tool for
-      creating zoom-in movies with logarithmic approach and dynamic scalebar.
-      Simply select ROI on your image and select Plugins/Zoom-in movie to run
-      the plugin. Thanks to Eugene Katrukha for the initial implementation.
-    maintainers:
-      - "[Andrey Aristov](mailto:aaristov@pasteur.fr)"
-
   - name: "ZedMate Suite"
     id: "ZedMate"
     url: "https://sites.imagej.net/Ayakimovich/"
@@ -2713,9 +2711,9 @@ sites:
     id: "Zellige"
     url: "https://sites.imagej.net/Zellige/"
     description: >-
-      [Zellige](https://imagej.net/plugins/zellige) is a software tool allowing the 
-      automated extraction of a non-prescribed number of various surfaces from a 3D 
-      image acquired by fluorescence microscopy. The program is available through 
+      [Zellige](https://imagej.net/plugins/zellige) is a software tool allowing the
+      automated extraction of a non-prescribed number of various surfaces from a 3D
+      image acquired by fluorescence microscopy. The program is available through
       a Fiji plugin.
     maintainers:
       - "[Céline Trébeau](mailto:ctrebeau@pasteur.fr)"
@@ -2731,11 +2729,13 @@ sites:
     maintainers:
       - "[Marco Tarasco](mailto:mtarasco@ualg.pt)"
 
-  - name: "liveim-tools"
-    id: "liveim-tools"
-    url: "https://sites.imagej.net/liveim-tools/"
+  - name: "Zoom-in-movie"
+    id: "ZOOM-in-movie"
+    url: "https://sites.imagej.net/ZOOM-in-movie/"
     description: >-
-      [liveim-tools](https://sites.imagej.net/liveim-tools/) Macros and plugins of the MPIBPC
-      live-cell imaging facility to process data generated by facility microscopes (e.g. Abberior, Zeiss, Visitron).
+      [Zoom-in-movie](https://imagej.net/FIXME) is a simple tool for
+      creating zoom-in movies with logarithmic approach and dynamic scalebar.
+      Simply select ROI on your image and select Plugins/Zoom-in movie to run
+      the plugin. Thanks to Eugene Katrukha for the initial implementation.
     maintainers:
-      - "[Antonio Politi](mailto:apoliti@mpibpc.mpg.de)"
+      - "[Andrey Aristov](mailto:aaristov@pasteur.fr)"

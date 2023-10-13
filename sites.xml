@@ -110,7 +110,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''AdipoQ'''
 |https://sites.imagej.net/AdipoQ/
-|ImageJ plugins for quantifying adipocyte morphology and function in tissues and in vitro. For more details, a link to the corresponding publication, and information on how  to cite the plugins visit the AdipoQ github page https://github.com/hansenjn/AdipoQ/
+|ImageJ plugins for quantifying adipocyte morphology and function in tissues and in vitro. For more details, a link to the corresponding publication, and information on how to cite the plugins visit the AdipoQ github page https://github.com/hansenjn/AdipoQ/
 |Jan Hansen
 
 |- valign=&quot;top&quot;
@@ -138,16 +138,16 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Jan Eglinger
 
 |- valign=&quot;top&quot;
-|'''Archipelago'''
-|https://sites.imagej.net/Lindsey/
-|A set of plugins that allow Fiji to be run in parallel on a cluster. Currently, Trainable Weka Segmentation and Elastic Alignment are accelerated in this way.
-|Larry Lindsey
-
-|- valign=&quot;top&quot;
 |'''apoc'''
 |https://sites.imagej.net/apoc/
 |Accelerated pixel and object classifiers (APOC). See clijx-accelerated-pixel-and-object-classification.
 |Robert Haase
+
+|- valign=&quot;top&quot;
+|'''Archipelago'''
+|https://sites.imagej.net/Lindsey/
+|A set of plugins that allow Fiji to be run in parallel on a cluster. Currently, Trainable Weka Segmentation and Elastic Alignment are accelerated in this way.
+|Larry Lindsey
 
 |- valign=&quot;top&quot;
 |'''AxoNet'''
@@ -194,7 +194,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''Batch Tools'''
 |https://sites.imagej.net/BatchTools/
-|Batch Tools provides a toolbar  to support batch image processing and analysis, including batch merge channels,  composite conversion, Z-projection, channel B&amp;C and colour adjustment, file  export, and cell count, gray value &amp; area.
+|Batch Tools provides a toolbar to support batch image processing and analysis, including batch merge channels, composite conversion, Z-projection, channel B&amp;C and colour adjustment, file export, and cell count, gray value &amp; area.
 |Neville S Ng
 
 |- valign=&quot;top&quot;
@@ -204,16 +204,16 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Christian Tischer
 
 |- valign=&quot;top&quot;
-|'''BigDataProcessor'''
-|https://sites.imagej.net/BigDataProcessor/
-|BigDataProcessor2 is an Imglib2 and BigDataViewer based tool for inspection and processing of big (TB-sized) image data.
-|Christian Tischer
-
-|- valign=&quot;top&quot;
 |'''BIG-EPFL'''
 |https://sites.imagej.net/BIG-EPFL/
 |ImageJ plugins from EPFL's Biomedical Imaging Group (BIG). NOT OPEN SOURCE.
 |Curtis Rueden
+
+|- valign=&quot;top&quot;
+|'''BigDataProcessor'''
+|https://sites.imagej.net/BigDataProcessor/
+|BigDataProcessor2 is an Imglib2 and BigDataViewer based tool for inspection and processing of big (TB-sized) image data.
+|Christian Tischer
 
 |- valign=&quot;top&quot;
 |'''BigStitcher'''
@@ -308,7 +308,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''CiliaQ'''
 |https://sites.imagej.net/CiliaQ/
-|An set of three ImageJ plugins to quantify ciliary shape, length, and fluorescence in 2D, 3D, and 4D images. For more details, a link to the corresponding publication, and information on how  to cite the plugin visit the CiliaQ github pages (including manual and wiki) at https://github.com/hansenjn/CiliaQ
+|An set of three ImageJ plugins to quantify ciliary shape, length, and fluorescence in 2D, 3D, and 4D images. For more details, a link to the corresponding publication, and information on how to cite the plugin visit the CiliaQ github pages (including manual and wiki) at https://github.com/hansenjn/CiliaQ
 |Jan Hansen
 
 |- valign=&quot;top&quot;
@@ -322,6 +322,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |https://sites.imagej.net/CircleSkinner/
 |A Fiji plugin for the automated detection and quantification of circular structures in images.
 |Jean-Yves Tinevez
+
+|- valign=&quot;top&quot;
+|'''ClearVolume'''
+|https://sites.imagej.net/ClearVolume/
+|ClearVolume is a fast 3D viewer, for more information see also the ClearVolume wiki.
+|ClearVolume
 
 |- valign=&quot;top&quot;
 |'''clij'''
@@ -346,12 +352,6 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |https://sites.imagej.net/clijx-assistant-extensions/
 |Experimental update site for the future release of clij2. See https://clij.github.io/assistant
 |Robert Haase
-
-|- valign=&quot;top&quot;
-|'''ClearVolume'''
-|https://sites.imagej.net/ClearVolume/
-|ClearVolume is a fast 3D viewer, for more information see also the ClearVolume wiki.
-|ClearVolume
 
 |- valign=&quot;top&quot;
 |'''CMCI-EMBL'''
@@ -456,28 +456,28 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Christian Tischer
 
 |- valign=&quot;top&quot;
-|'''ELEPHANT'''
-|https://sites.imagej.net/ELEPHANT/
-|ELEPHANT is a platform for 3D cell tracking, based on incremental and interactive deep learning. ELEPHANT is implemented as a plugin for Mastodon. Please not that users need to set up the ELEPHANT server in addition to this plugin. The detailed instructions can be found here.
-|Ko Sugawara
-
-|- valign=&quot;top&quot;
-|'''EpiGraph'''
-|https://sites.imagej.net/Pedgomgal1/
-|EpiGraph: an open-source method to quantify epithelial organization. EpiGraph is a Fiji plugin that combines computational geometry and graph theory to measure organization in any computational or natural tessellation image.
-|Pedro J. Gómez Gálvez, Pablo Vicente Munuera
-
-|- valign=&quot;top&quot;
 |'''ElastixWrapper'''
 |https://sites.imagej.net/ElastixWrapper/
 |Image registration using elastix
 |Christian Tischer
 
 |- valign=&quot;top&quot;
+|'''ELEPHANT'''
+|https://sites.imagej.net/ELEPHANT/
+|ELEPHANT is a platform for 3D cell tracking, based on incremental and interactive deep learning. ELEPHANT is implemented as a plugin for Mastodon. Please not that users need to set up the ELEPHANT server in addition to this plugin. The detailed instructions can be found here.
+|Ko Sugawara
+
+|- valign=&quot;top&quot;
 |'''EM Tool'''
 |https://sites.imagej.net/IMBalENce/
 |EM tool is a suite of simple tools for electron microscopist
 |Zhou Xu
+
+|- valign=&quot;top&quot;
+|'''EpiGraph'''
+|https://sites.imagej.net/Pedgomgal1/
+|EpiGraph: an open-source method to quantify epithelial organization. EpiGraph is a Fiji plugin that combines computational geometry and graph theory to measure organization in any computational or natural tessellation image.
+|Pedro J. Gómez Gálvez, Pablo Vicente Munuera
 
 |- valign=&quot;top&quot;
 |'''EVAnalyzer'''
@@ -566,7 +566,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''FreQ'''
 |https://sites.imagej.net/FreQ/
-|An ImageJ plugin to analyze pixel intensity oscillations in time-lapse 2D images.  For example, this allows to characterize the ciliary beat of multi-ciliated cells in time-lapse images acquired with a bright-field or phase-contrast microscope. For more details, a link to the corresponding publication, and information on how  to cite the plugin visit the FreQ github pages at https://github.com/hansenjn/FreQ
+|An ImageJ plugin to analyze pixel intensity oscillations in time-lapse 2D images. For example, this allows to characterize the ciliary beat of multi-ciliated cells in time-lapse images acquired with a bright-field or phase-contrast microscope. For more details, a link to the corresponding publication, and information on how to cite the plugin visit the FreQ github pages at https://github.com/hansenjn/FreQ
 |Jan Hansen
 
 |- valign=&quot;top&quot;
@@ -594,12 +594,6 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Robert Erger
 
 |- valign=&quot;top&quot;
-|'''Gut Analysis Toolbox'''
-|https://sites.imagej.net/GutAnalysisToolbox/
-|Gut Analysis Toolbox enables semi-automated analysis of the neuronal and glial distribution within the gut wall in 2D. It uses a combination of FIJI macros, StarDist and deepImageJ for automated segmentation. The primary focus is on characterising the enteric nervous system. The aim is to expand the analysis to other celltypes within the gut and enable 3D analysis.
-|Pradeep Rajasekhar
-
-|- valign=&quot;top&quot;
 |'''GDSC'''
 |https://sites.imagej.net/GDSC/
 |The Genome Damage and Stability Centre (GDSC) plugins are a collection of analysis programs for microscopy images including colocalisation analysis and peak finding (FindFoci). See GDSC Plugins for details.
@@ -610,6 +604,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |https://sites.imagej.net/GDSC-SMLM2/
 |Tools for Single Molecule Light Microscopy (SMLM) including PALM, STORM and other single molecule microscopy methods. See the latest documentation on ReadTheDocs.
 |Alex Herbert
+
+|- valign=&quot;top&quot;
+|'''Gut Analysis Toolbox'''
+|https://sites.imagej.net/GutAnalysisToolbox/
+|Gut Analysis Toolbox enables semi-automated analysis of the neuronal and glial distribution within the gut wall in 2D. It uses a combination of FIJI macros, StarDist and deepImageJ for automated segmentation. The primary focus is on characterising the enteric nervous system. The aim is to expand the analysis to other celltypes within the gut and enable 3D analysis.
+|Pradeep Rajasekhar
 
 |- valign=&quot;top&quot;
 |'''Hadim'''
@@ -636,15 +636,15 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Koen Martens, Johannes Hohlbein
 
 |- valign=&quot;top&quot;
-|'''HPC-ParallelTools'''
-|https://sites.imagej.net/HPC-ParallelTools/
-|Plugins using parallelization and HPC.
-|Jan Kožusznik
-
-|- valign=&quot;top&quot;
 |'''HPC-Datastore'''
 |https://sites.imagej.net/HPC-Datastore/
 |Plugins using HPC Datastore.
+|Jan Kožusznik
+
+|- valign=&quot;top&quot;
+|'''HPC-ParallelTools'''
+|https://sites.imagej.net/HPC-ParallelTools/
+|Plugins using parallelization and HPC.
 |Jan Kožusznik
 
 |- valign=&quot;top&quot;
@@ -828,6 +828,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Rémi Berthoz
 
 |- valign=&quot;top&quot;
+|'''liveim-tools'''
+|https://sites.imagej.net/liveim-tools/
+|liveim-tools Macros and plugins of the MPIBPC live-cell imaging facility to process data generated by facility microscopes (e.g. Abberior, Zeiss, Visitron).
+|Antonio Politi
+
+|- valign=&quot;top&quot;
 |'''LLTT'''
 |https://sites.imagej.net/Alex-krull/
 |The Low Light Tracking Tool can be used to track low-light sub-resolution objects in microscopy images and other applications.
@@ -870,16 +876,16 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Diego Morone
 
 |- valign=&quot;top&quot;
-|'''Mars'''
-|https://sites.imagej.net/Mars/
-|Mars, a platform for storage, exploration, and processing of image-derived properties of biomolecules together with enhanced OME metadata.
-|Karl Duderstadt
-
-|- valign=&quot;top&quot;
 |'''MaMuT'''
 |https://sites.imagej.net/MaMuT/
 |MaMuT, a plugin for the annotation of massive, multi-view data.
 |Jean-Yves Tinevez
+
+|- valign=&quot;top&quot;
+|'''Mars'''
+|https://sites.imagej.net/Mars/
+|Mars, a platform for storage, exploration, and processing of image-derived properties of biomolecules together with enhanced OME metadata.
+|Karl Duderstadt
 
 |- valign=&quot;top&quot;
 |'''Maskflow'''
@@ -908,13 +914,13 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''MiC mask comparator'''
 |https://sites.imagej.net/MiC-mask-comparator/
-|MiC is a plugin to compare segmentation mask to a reference one. the comparison is available at pixel or object's level. It computes the number of true positives,  false positives and false negatives and provides metrics for quantitative estimation of segmentation quality. It displays several result tables containing all information, plots and superposition of masks for visual inspection. The plugins works on stacks (only 2D comparison) and is macro recordable.
+|MiC is a plugin to compare segmentation mask to a reference one. the comparison is available at pixel or object's level. It computes the number of true positives, false positives and false negatives and provides metrics for quantitative estimation of segmentation quality. It displays several result tables containing all information, plots and superposition of masks for visual inspection. The plugins works on stacks (only 2D comparison) and is macro recordable.
 |Cedric Messaoudi
 
 |- valign=&quot;top&quot;
 |'''MIC-MAQ'''
 |https://sites.imagej.net/MIC-MAQ/
-|[MIC-MAQ] (https://github.com/MultimodalImagingCenter/MIC-MAQ) is a plugin for automatic segmentation of nuclei and/or  cells for quantifications in other channels including foci detection.  MIC-MAQ automatically segments cells and/or nuclei on 2D microscopy images using thresholding or deep-learning approaches.  It takes Z-stack but works only on 2D projection. It provides intensity based and/or morphological measurements in nuclei and/or cells in multi channels experiment. The plugin propose the foci/spots detection inside nuclei/cells. the plugins works on all images present in working directory (any image format that can be read by bioformat).
+|[MIC-MAQ] (https://github.com/MultimodalImagingCenter/MIC-MAQ) is a plugin for automatic segmentation of nuclei and/or cells for quantifications in other channels including foci detection. MIC-MAQ automatically segments cells and/or nuclei on 2D microscopy images using thresholding or deep-learning approaches. It takes Z-stack but works only on 2D projection. It provides intensity based and/or morphological measurements in nuclei and/or cells in multi channels experiment. The plugin propose the foci/spots detection inside nuclei/cells. the plugins works on all images present in working directory (any image format that can be read by bioformat).
 |Cedric Messaoudi
 
 |- valign=&quot;top&quot;
@@ -986,7 +992,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''MotiQ'''
 |https://sites.imagej.net/MotiQ/
-|An set of ImageJ plugins to quantify dynamics, morphology, and fluorescence of microglial (or other) cells in 2D and 3D (also time-lapse) images.  For more details, a link to the corresponding publication, and information on how  to cite the plugins visit the MotiQ github pages at https://github.com/hansenjn/MotiQ
+|An set of ImageJ plugins to quantify dynamics, morphology, and fluorescence of microglial (or other) cells in 2D and 3D (also time-lapse) images. For more details, a link to the corresponding publication, and information on how to cite the plugins visit the MotiQ github pages at https://github.com/hansenjn/MotiQ
 |Jan Hansen
 
 |- valign=&quot;top&quot;
@@ -1008,6 +1014,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Varun Kapoor
 
 |- valign=&quot;top&quot;
+|'''Multi-Template-Matching'''
+|https://sites.imagej.net/Multi-Template-Matching/
+|Multiple template matching allows to easily localize one or multiple objects in images using one or a set of template images. The template images can be flipped and/or rotated to increase the chance to find the objects.
+|Laurent Thomas
+
+|- valign=&quot;top&quot;
 |'''Multifrac'''
 |https://sites.imagej.net/Multifrac/
 |Multifrac is a tool for multifractal and scaling analysis of 2D and 3D stack images, including lacunarity, configuration entropy, characteristic lenght and multifractal spectrum of gray and black and white images. This is particularly desginated and tested for addressing analysis on soil pore structre.
@@ -1018,12 +1030,6 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |https://sites.imagej.net/MultiStackReg/
 |MultiStackReg does registration of a stack based on the registration results of another stack. It uses Turboreg as the backend.
 |Kota Miura
-
-|- valign=&quot;top&quot;
-|'''Multi-Template-Matching'''
-|https://sites.imagej.net/Multi-Template-Matching/
-|Multiple template matching allows to easily localize one or multiple objects in images using one or a set of template images. The template images can be flipped and/or rotated to increase the chance to find the objects.
-|Laurent Thomas
 
 |- valign=&quot;top&quot;
 |'''N5'''
@@ -1214,7 +1220,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''PTBIOP'''
 |https://biop.epfl.ch/Fiji-Update
-|The EPFL - PTBIOP (BioImaging &amp; Optics Platform) Update Site, with Fiji plugins, macros and ActionBars. We recommend that you also activate the IBMP-CNRS, ImageScience and 3D ImageJ Suite update sites.  Update site contents at https://wiki-biop.epfl.ch/en/ipa/fiji/update-site#ptbiop-update-site-contents
+|The EPFL - PTBIOP (BioImaging &amp; Optics Platform) Update Site, with Fiji plugins, macros and ActionBars. We recommend that you also activate the IBMP-CNRS, ImageScience and 3D ImageJ Suite update sites. Update site contents at https://wiki-biop.epfl.ch/en/ipa/fiji/update-site#ptbiop-update-site-contents
 |Olivier Burri
 
 |- valign=&quot;top&quot;
@@ -1334,28 +1340,28 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Micron Oxford
 
 |- valign=&quot;top&quot;
-|'''SiMView'''
-|https://sites.imagej.net/SiMView/
-|Tools developed by the Keller Lab at the Janelia Research Campus, most notably the KLB file format.
-|Burkhard Hoeckendorf
-
-|- valign=&quot;top&quot;
 |'''SimonKlein'''
 |https://sites.imagej.net/SimonKlein/
 |Provides the plugins LinearDistance and PointAnalysis
 |Simon Klein
 
 |- valign=&quot;top&quot;
-|'''SlideBook'''
-|https://sites.imagej.net/SlideBook/
-|This Bio-Formats plugin enables the import of SlideBook SLD files.
-|3i Support
+|'''SiMView'''
+|https://sites.imagej.net/SiMView/
+|Tools developed by the Keller Lab at the Janelia Research Campus, most notably the KLB file format.
+|Burkhard Hoeckendorf
 
 |- valign=&quot;top&quot;
 |'''Slide Set'''
 |https://b.nanes.org/slideset/update/
 |Slide Set: Reproducible image analysis and batch processing.
 |Benjamin Nanes
+
+|- valign=&quot;top&quot;
+|'''SlideBook'''
+|https://sites.imagej.net/SlideBook/
+|This Bio-Formats plugin enables the import of SlideBook SLD files.
+|3i Support
 
 |- valign=&quot;top&quot;
 |'''SLIM Curve'''
@@ -1372,7 +1378,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''SpermQ'''
 |https://sites.imagej.net/SpermQ/
-|ImageJ plugins to analyze the flagellar beat and the swimming path of sperm from time-lapse 2D bright-field, dark-field, phase contrast, or fluorescence microscopy images. SpermQ can analyze images from head-tethered or free swimming sperm of different species. SpermQ can also analyze the beat of motile cilia if the analyzed cilium is clearly distinguishable from / not close to neighboring cilia.       For more details, a link to the corresponding publication, and information on how  to cite the plugins, visit the SpermQ github page https://github.com/hansenjn/SpermQ/
+|ImageJ plugins to analyze the flagellar beat and the swimming path of sperm from time-lapse 2D bright-field, dark-field, phase contrast, or fluorescence microscopy images. SpermQ can analyze images from head-tethered or free swimming sperm of different species. SpermQ can also analyze the beat of motile cilia if the analyzed cilium is clearly distinguishable from / not close to neighboring cilia. For more details, a link to the corresponding publication, and information on how to cite the plugins, visit the SpermQ github page https://github.com/hansenjn/SpermQ/
 |Jan Hansen
 
 |- valign=&quot;top&quot;
@@ -1448,6 +1454,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Vladimír Ulman, Matthias Arzt
 
 |- valign=&quot;top&quot;
+|'''Tr2d'''
+|https://sites.imagej.net/Tr2d/
+|Tracking in 2d.
+|Florian Jug
+
+|- valign=&quot;top&quot;
 |'''TrackMate-Cellpose'''
 |https://sites.imagej.net/TrackMate-Cellpose
 |This update site provides TrackMate-Cellpose, a detector module for TrackMate that relies on cellpose.
@@ -1486,7 +1498,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''TrackMate-Pairing'''
 |https://sites.imagej.net/TrackMate-Pairing
-|Contains a tool that allows for pairing together two TrackMate files, based on several distance metrics. It builds pairs taken from the tracks of one file  and the tracks of a second file.  This is used mainly to study how the distance of objects detected in two  different channels evolve over time.
+|Contains a tool that allows for pairing together two TrackMate files, based on several distance metrics. It builds pairs taken from the tracks of one file and the tracks of a second file. This is used mainly to study how the distance of objects detected in two different channels evolve over time.
 |Jean-Yves Tinevez
 
 |- valign=&quot;top&quot;
@@ -1516,14 +1528,8 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''TreeJ'''
 |https://sites.imagej.net/TreeJ/
-|TreeJ allows interactive cell lineage reconstruction  and annotation from a static labeled image.
+|TreeJ allows interactive cell lineage reconstruction and annotation from a static labeled image.
 |Elise Laruelle
-
-|- valign=&quot;top&quot;
-|'''Tr2d'''
-|https://sites.imagej.net/Tr2d/
-|Tracking in 2d.
-|Florian Jug
 
 |- valign=&quot;top&quot;
 |'''U-Net Segmentation'''
@@ -1570,7 +1576,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''Visualization Toolset'''
 |https://sites.imagej.net/VisualizationToolset/
-|A macro Toolset  helping daily handling and visualization of multichannel images and stacks.
+|A macro Toolset helping daily handling and visualization of multichannel images and stacks.
 |Kévin Terretaz
 
 |- valign=&quot;top&quot;
@@ -1616,12 +1622,6 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Beat Münch
 
 |- valign=&quot;top&quot;
-|'''Zoom-in-movie'''
-|https://sites.imagej.net/ZOOM-in-movie/
-|Zoom-in-movie is a simple tool for creating zoom-in movies with logarithmic approach and dynamic scalebar. Simply select ROI on your image and select Plugins/Zoom-in movie to run the plugin. Thanks to Eugene Katrukha for the initial implementation.
-|Andrey Aristov
-
-|- valign=&quot;top&quot;
 |'''ZedMate Suite'''
 |https://sites.imagej.net/Ayakimovich/
 |ZedMate is a TrackMate-based plugin for 3D particles detection and measurement.
@@ -1636,7 +1636,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''Zellige'''
 |https://sites.imagej.net/Zellige/
-|Zellige is a software tool allowing the  automated extraction of a non-prescribed number of various surfaces from a 3D  image acquired by fluorescence microscopy. The program is available through  a Fiji plugin.
+|Zellige is a software tool allowing the automated extraction of a non-prescribed number of various surfaces from a 3D image acquired by fluorescence microscopy. The program is available through a Fiji plugin.
 |Céline Trébeau, Jean-Yves Tinevez
 
 |- valign=&quot;top&quot;
@@ -1646,10 +1646,10 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Marco Tarasco
 
 |- valign=&quot;top&quot;
-|'''liveim-tools'''
-|https://sites.imagej.net/liveim-tools/
-|liveim-tools Macros and plugins of the MPIBPC live-cell imaging facility to process data generated by facility microscopes (e.g. Abberior, Zeiss, Visitron).
-|Antonio Politi
+|'''Zoom-in-movie'''
+|https://sites.imagej.net/ZOOM-in-movie/
+|Zoom-in-movie is a simple tool for creating zoom-in movies with logarithmic approach and dynamic scalebar. Simply select ROI on your image and select Plugins/Zoom-in movie to run the plugin. Thanks to Eugene Katrukha for the initial implementation.
+|Andrey Aristov
 
 }</text>
       <sha1>beaqwm8xeaoo2kusu15tfly02pxlcxk</sha1>
