@@ -1,7 +1,7 @@
-name: build
+name: check-pr
 
 on:
-  push:
+  pull_request:
     branches:
       - main
 
@@ -11,10 +11,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: webfactory/ssh-agent@v0.5.3
-        with:
-            ssh-private-key: ${{ secrets.DEPLOY_KEY }}
-
       - name: Set up Python 3.10
         uses: actions/setup-python@v2
         with:
@@ -23,5 +19,3 @@ jobs:
         run: pip install -r requirements.txt
       - name: Execute the build
         run: ./.github/build.sh
-        env:
-          GITHUB_BUILD_NUMBER: ${{ github.run_number }}
