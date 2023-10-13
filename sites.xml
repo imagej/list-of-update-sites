@@ -1514,6 +1514,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Thorsten Wagner
 
 |- valign=&quot;top&quot;
+|'''TreeJ'''
+|https://sites.imagej.net/TreeJ/
+|TreeJ allows interactive cell lineage reconstruction  and annotation from a static labeled image.
+|Elise Laruelle
+
+|- valign=&quot;top&quot;
 |'''Tr2d'''
 |https://sites.imagej.net/Tr2d/
 |Tracking in 2d.

@@ -2508,6 +2508,15 @@ sites:
     maintainers:
       - "[Thorsten Wagner](https://imagej.net/people/thorstenwagner)"
 
+  - name: "TreeJ"
+    id: "TreeJ"
+    url: "https://sites.imagej.net/TreeJ/"
+    description: >-
+      [TreeJ](https://imagej.net/plugins/treej) allows interactive cell lineage reconstruction 
+      and annotation from a static labeled image.
+    maintainers:
+      - "[Elise Laruelle](https://www.slcu.cam.ac.uk/staff/elise-laruelle)"
+      
   - name: "Tr2d"
     id: "Tr2d"
     url: "https://sites.imagej.net/Tr2d/"
