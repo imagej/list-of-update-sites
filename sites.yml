@@ -616,6 +616,16 @@ sites:
       - "[Daniel Sage](mailto:daniel.sage@epfl.ch)"
       - "[Arrate Muñoz-Barrutia](mailto:mamunozb@ing.uc3m.es)"
 
+  - name: "Dendrite Dynamics Tracker"
+    id: "DendriteDynamicsTracker"
+    url: "https://sites.imagej.net/DendriteDynamicsTracker/"
+    description: >-
+      Dendrite-Dynamics-Tracker is a plugin based on [TrackMate](https://imagej.net/plugins/trackmate/) 
+      and [AnalyzeSkeleton](https://imagej.net/plugins/analyze-skeleton/index) that can measure 
+      the dynamics of dendrites by tracking their tip over time.
+    maintainers:
+      - "[Jean-Yves Tinevez](https://imagej.net/people/tinevez)"
+
   - name: "DHM Utilities"
     id: "Sudgy"
     url: "https://sites.imagej.net/Sudgy/"
