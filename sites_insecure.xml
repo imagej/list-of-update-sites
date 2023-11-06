@@ -432,6 +432,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Estibaliz Gómez de Mariscal, Daniel Sage, Arrate Muñoz-Barrutia
 
 |- valign=&quot;top&quot;
+|'''Dendrite Dynamics Tracker'''
+|http://sites.imagej.net/DendriteDynamicsTracker/
+|Dendrite-Dynamics-Tracker is a plugin based on TrackMate  and AnalyzeSkeleton that can measure  the dynamics of dendrites by tracking their tip over time.
+|Jean-Yves Tinevez
+
+|- valign=&quot;top&quot;
 |'''DHM Utilities'''
 |http://sites.imagej.net/Sudgy/
 |Collection of plugins for use in digital holographic microscopy, such as hologram reconstruction, numerical propagation, and phase unwrapping.
