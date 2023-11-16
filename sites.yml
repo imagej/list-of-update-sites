@@ -1800,6 +1800,17 @@ sites:
     maintainers:
       - "[Niko Ehrenfeuchter](https://imagej.net/people/ehrenfeu)"
 
+  - name: "Nscale-segmentation"
+    id: "Nscale-segmentation"
+    url: "https://sites.imagej.net/Nscale_segmentation/"
+    description: >-
+      A customizable segmentation tool for fluorescence cell microscopy
+      analysis used to separate clustered/touching nuclei. See the
+      [Nscale-segmentation](https://imagej.net/plugins/nscale-segmentation)
+      page for more information.
+    maintainers:
+      - "[Eden Tamrat](edentamrat@gmail.com)"
+
   - name: "Nuclear-Medicine"
     id: "Nuclear-Medicine"
     url: "https://sites.imagej.net/Nuclear-Medicine/"
