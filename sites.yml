@@ -1252,7 +1252,7 @@ sites:
       - "[Hadrien Mary](https://imagej.net/people/hadim)"
 
   - name: "KTZ-LUTs"
-    id: "kterretaz"
+    id: "KTZ-LUTs"
     url: "https://sites.imagej.net/KTZ-LUTs/"
     description: >-
       Handmade collection of [LUTs](https://github.com/kwolbachia/KTZ-LUTs) for microscopy, scientific visualization and art.
@@ -2627,7 +2627,7 @@ sites:
       - "[Ion Moraru](mailto:moraru@uchc.edu)"
 
   - name: "Visualization Toolset"
-    id: "kterretaz"
+    id: "VisualizationToolset"
     url: "https://sites.imagej.net/VisualizationToolset/"
     description: >-
       A [macro Toolset](https://kwolby.notion.site/kwolby/Visualization-Toolset-4e0a4f2834494ba5a4865a99c6913323)
