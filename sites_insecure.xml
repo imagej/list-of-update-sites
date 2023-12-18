@@ -792,6 +792,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Hadrien Mary
 
 |- valign=&quot;top&quot;
+|'''KTZ-LUTs'''
+|http://sites.imagej.net/KTZ-LUTs/
+|Handmade collection of LUTs for microscopy, scientific visualization and art.
+|Kevin Terretaz
+
+|- valign=&quot;top&quot;
 |'''Lab-utility-plugins'''
 |http://sites.imagej.net/Georgenm/
 |A collection of plugins for file blinding, batch image conversion of proprietary formats to tif, and other common helper functions. Source and docs on GitHub.
@@ -1582,7 +1588,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''Visualization Toolset'''
 |http://sites.imagej.net/VisualizationToolset/
-|A macro Toolset helping daily handling and visualization of multichannel images and stacks.
+|A macro Toolset helping daily handling and visualization of multichannel images and stacks. Feedback always welcome!
 |Kévin Terretaz
 
 |- valign=&quot;top&quot;
