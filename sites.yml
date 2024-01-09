@@ -2191,7 +2191,7 @@ sites:
     id: "scijava-ops"
     url: "https://sites.imagej.net/scijava-ops/"
     description: >-
-      A framework for extensible algorithm execution. See source
+      A framework for extensible algorithm execution. REQUIRES JAVA 11+. See source
       [on GitHub](https://github.com/scijava/scijava).
     maintainers:
       - "[Gabriel Selzer](https://imagej.net/people/gselzer)"
