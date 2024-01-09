@@ -2187,7 +2187,7 @@ sites:
     maintainers:
       - "[Hadrien Mary](https://imagej.net/people/hadim)"
 
-  - name: "Scijava Ops"
+  - name: "SciJava Ops"
     id: "scijava-ops"
     url: "https://sites.imagej.net/scijava-ops/"
     description: >-
