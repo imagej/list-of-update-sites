@@ -1496,6 +1496,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Jean-Yves Tinevez
 
 |- valign=&quot;top&quot;
+|'''TrackMate-Lacss'''
+|http://sites.imagej.net/TrackMate-Lacss
+|This update site provides [TrackMate-Lacss]((https://imagej.net/plugins/trackmate/trackmate-lacss), a pretrained deep-learning library called Lacss to detect and segment cells serving as a detector to the popular cell/object tracker plugin  TrackMate. This plugin REQUIRES a python enviorment setup. See the lacss github or documentation. This plugin is overall is thin Java Wrapper around the Lacss python module,  which runs as a seperate process. Java communicates with the python process via anonymous pipe - sending messages encoded in protobuf.
+|Ji Yu, Nicholas Kuang
+
+|- valign=&quot;top&quot;
 |'''TrackMate-MorphoLibJ'''
 |http://sites.imagej.net/TrackMate-MorphoLibJ
 |This update site provides TrackMate-MorphoLibJ, a detector module for TrackMate that relies on the Morphological Segmentation plugin shipped with the MorphoLibJ library.
