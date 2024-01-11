@@ -2467,7 +2467,7 @@ sites:
     url: "https://sites.imagej.net/TrackMate-Lacss"
     description: >-
       This update site provides
-      [TrackMate-Lacss]((https://imagej.net/plugins/trackmate/trackmate-lacss),
+      [TrackMate-Lacss](https://imagej.net/plugins/trackmate/trackmate-lacss),
       a pretrained deep-learning library called
       [Lacss](https://github.com/jiyuuchc/lacss)
       to detect and segment cells serving as
