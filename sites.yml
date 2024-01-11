@@ -2462,6 +2462,26 @@ sites:
     maintainers:
       - "[Jean-Yves Tinevez](https://imagej.net/people/tinevez)"
 
+  - name: "TrackMate-Lacss"
+    id: "TrackMate-Lacss"
+    url: "https://sites.imagej.net/TrackMate-Lacss"
+    description: >-
+      This update site provides
+      [TrackMate-Lacss]((https://imagej.net/plugins/trackmate/trackmate-lacss),
+      a pretrained deep-learning library called
+      [Lacss](https://github.com/jiyuuchc/lacss)
+      to detect and segment cells serving as
+      a detector to the popular cell/object tracker plugin 
+      [TrackMate](https://imagej.net/plugins/trackmate/index).
+      This plugin REQUIRES a python enviorment setup. See the lacss github
+      or [documentation](https://jiyuuchc.github.io/lacss/install/).
+      This plugin is overall is thin Java Wrapper around the Lacss python module, 
+      which runs as a seperate process. Java communicates with the python
+      process via anonymous pipe - sending messages encoded in protobuf. 
+    maintainers:
+      - "[Ji Yu](https://github.com/jiyuuchc)"
+      - "[Nicholas Kuang](https://github.com/Nick-Kuang)"
+
   - name: "TrackMate-MorphoLibJ"
     id: "TrackMate-MorphoLibJ"
     url: "https://sites.imagej.net/TrackMate-MorphoLibJ"
