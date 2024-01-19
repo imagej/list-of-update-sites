@@ -1332,8 +1332,8 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Hadrien Mary
 
 |- valign=&quot;top&quot;
-|'''SciView'''
-|http://sites.imagej.net/sciview-buttercup/
+|'''sciview'''
+|http://sites.imagej.net/sciview/
 |sciview 3D/VR/AR visualization package for ImageJ. See the documentation here and source on GitHub.
 |Kyle Harrington, Ulrik Günther
 
