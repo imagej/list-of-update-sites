@@ -194,7 +194,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''Batch Tools'''
 |https://sites.imagej.net/BatchTools/
-|Batch Tools provides a toolbar to support batch image processing and analysis, including batch merge channels, composite conversion, Z-projection, channel B&amp;C and colour adjustment, file export, and cell count, gray value &amp; area.
+|Batch Tools provides a toolbar to support batch image processing and analysis, including batch extract,  merge channels, composite conversion, Z-projection, channel B&amp;C and colour  adjustment, file export, and cell count, gray value &amp; area measurement.
 |Neville S Ng
 
 |- valign=&quot;top&quot;
