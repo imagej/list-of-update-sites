@@ -1332,6 +1332,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Hadrien Mary
 
 |- valign=&quot;top&quot;
+|'''SciJava Ops'''
+|http://sites.imagej.net/scijava-ops/
+|A framework for extensible algorithm execution. REQUIRES JAVA 11+. See source on GitHub.
+|Gabriel Selzer, Curtis Rueden, Mark Hiner
+
+|- valign=&quot;top&quot;
 |'''sciview'''
 |http://sites.imagej.net/sciview/
 |sciview 3D/VR/AR visualization package for ImageJ. See the documentation here and source on GitHub.
