@@ -2020,6 +2020,20 @@ sites:
       Update site contents at [https://wiki-biop.epfl.ch/en/ipa/fiji/update-site#ptbiop-update-site-contents](https://wiki-biop.epfl.ch/en/ipa/fiji/update-site#ptbiop-update-site-contents)
     maintainers:
       - "[Olivier Burri](https://people.epfl.ch/olivier.burri?lang=en&cvlang=en)"
+      
+- name: "Puncta Process"
+    id: "process-puncta"
+    url: "https://imagej.net/plugins/process-puncta/"
+    description: >-
+    The Puncta Process PlugIn is a practical analysis tool for counting puncta in 3D image data.
+    The process uses single-channel data to produce three specific values: - **Puncta Volume** An average number 
+    of voxels (volume picture elements) of the object times z,y, and z calibrations. - **Puncta Number** The 
+    average number of puncta counts within a given ROI (Region of Interest) - **ROI Intensity** The measures the 
+    overall pixel intensity over the Region of Interest - The results are summarized in MS Excel format.
+    maintainers:
+      - "[Dan Higgins](https://github.com/DanHUMassMed)"
+
+
 
   - name: "Qualitative Annotations"
     id: "Qualitative-Annotations"
