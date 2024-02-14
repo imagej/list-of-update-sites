@@ -218,8 +218,8 @@ sites:
     url: "https://sites.imagej.net/BatchTools/"
     description: >-
       [Batch Tools](https://imagej.net/plugins/batch-tools) provides a toolbar
-      to support batch image processing and analysis, including batch extract, 
-      merge channels, composite conversion, Z-projection, channel B&C and colour 
+      to support batch image processing and analysis, including batch extract,
+      merge channels, composite conversion, Z-projection, channel B&C and colour
       adjustment, file export, and cell count, gray value & area measurement.
     maintainers:
       - "[Neville S Ng](https://github.com/neville-s-ng)"
@@ -620,8 +620,8 @@ sites:
     id: "DendriteDynamicsTracker"
     url: "https://sites.imagej.net/DendriteDynamicsTracker/"
     description: >-
-      Dendrite-Dynamics-Tracker is a plugin based on [TrackMate](https://imagej.net/plugins/trackmate/) 
-      and [AnalyzeSkeleton](https://imagej.net/plugins/analyze-skeleton/index) that can measure 
+      Dendrite-Dynamics-Tracker is a plugin based on [TrackMate](https://imagej.net/plugins/trackmate/)
+      and [AnalyzeSkeleton](https://imagej.net/plugins/analyze-skeleton/index) that can measure
       the dynamics of dendrites by tracking their tip over time.
     maintainers:
       - "[Jean-Yves Tinevez](https://imagej.net/people/tinevez)"
@@ -1800,6 +1800,17 @@ sites:
     maintainers:
       - "[Niko Ehrenfeuchter](https://imagej.net/people/ehrenfeu)"
 
+  - name: "Nscale-segmentation"
+    id: "Nscale-segmentation"
+    url: "https://sites.imagej.net/Nscale_segmentation/"
+    description: >-
+      A customizable segmentation tool for fluorescence cell microscopy
+      analysis used to separate clustered/touching nuclei. See the
+      [Nscale-segmentation](https://imagej.net/plugins/nscale-segmentation)
+      page for more information.
+    maintainers:
+      - "[Eden Tamrat](edentamrat@gmail.com)"
+
   - name: "Nuclear-Medicine"
     id: "Nuclear-Medicine"
     url: "https://sites.imagej.net/Nuclear-Medicine/"
@@ -2020,6 +2031,18 @@ sites:
       Update site contents at [https://wiki-biop.epfl.ch/en/ipa/fiji/update-site#ptbiop-update-site-contents](https://wiki-biop.epfl.ch/en/ipa/fiji/update-site#ptbiop-update-site-contents)
     maintainers:
       - "[Olivier Burri](https://people.epfl.ch/olivier.burri?lang=en&cvlang=en)"
+
+  - name: "Puncta Process"
+    id: "process-puncta"
+    url: "https://sites.imagej.net/puncta_process/"
+    description: >-
+      The [Puncta Process PlugIn](https://imagej.net/plugins/process-puncta/) is a practical analysis tool for counting puncta in 3D image data.
+      The process uses single-channel data to produce three specific values: - **Puncta Volume** An average number 
+      of voxels (volume picture elements) of the object times z,y, and z calibrations. - **Puncta Number** The 
+      average number of puncta counts within a given ROI (Region of Interest) - **ROI Intensity** The measures the 
+      overall pixel intensity over the Region of Interest - The results are summarized in MS Excel format.
+    maintainers:
+      - "[Dan Higgins](https://github.com/DanHUMassMed)"
 
   - name: "Qualitative Annotations"
     id: "Qualitative-Annotations"
@@ -2482,13 +2505,13 @@ sites:
       a pretrained deep-learning library called
       [Lacss](https://github.com/jiyuuchc/lacss)
       to detect and segment cells serving as
-      a detector to the popular cell/object tracker plugin 
+      a detector to the popular cell/object tracker plugin
       [TrackMate](https://imagej.net/plugins/trackmate/index).
       This plugin REQUIRES a python enviorment setup. See the lacss github
       or [documentation](https://jiyuuchc.github.io/lacss/install/).
-      This plugin is overall is thin Java Wrapper around the Lacss python module, 
+      This plugin is overall is thin Java Wrapper around the Lacss python module,
       which runs as a seperate process. Java communicates with the python
-      process via anonymous pipe - sending messages encoded in protobuf. 
+      process via anonymous pipe - sending messages encoded in protobuf.
     maintainers:
       - "[Ji Yu](https://github.com/jiyuuchc)"
       - "[Nicholas Kuang](https://github.com/Nick-Kuang)"
