@@ -2032,7 +2032,7 @@ sites:
     maintainers:
       - "[Olivier Burri](https://people.epfl.ch/olivier.burri?lang=en&cvlang=en)"
 
-- name: "Puncta Process"
+  - name: "Puncta Process"
     id: "process-puncta"
     url: "https://sites.imagej.net/puncta_process/"
     description: >-
