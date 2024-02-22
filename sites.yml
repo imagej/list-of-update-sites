@@ -332,6 +332,17 @@ sites:
     maintainers:
       - "[Jan Brocher](https://imagej.net/people/biovoxxel)"
 
+  - name: "BioVoxxel Figure Tools"
+    id: "biovoxxel_figure_tools"
+    url: "https://sites.imagej.net/biovoxxel_figure_tools/"
+    description: >-
+     The figure tools are meant to connect Fiji with Inkscape to flexibly prepare images for and create
+     publication figures with the highest possible data quality.
+     An introduction video to version 2.2.0 can be found [here](https://youtu.be/F6ll37NOgXc?si=SOICjiqGzw4RCUDR)
+    maintainers:
+      - "[Jan Brocher](https://imagej.net/people/biovoxxel)"
+
+
   - name: "Blind Analysis Tools"
     id: "Astja"
     url: "https://sites.imagej.net/Astja/"
