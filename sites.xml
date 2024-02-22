@@ -258,6 +258,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Jan Brocher
 
 |- valign=&quot;top&quot;
+|'''BioVoxxel Figure Tools'''
+|https://sites.imagej.net/biovoxxelfiguretools/
+|The figure tools are meant to connect Fiji with Inkscape to flexibly prepare images for and create publication figures with the highest possible data quality. An introduction video to version 2.2.0 can be found here
+|Jan Brocher
+
+|- valign=&quot;top&quot;
 |'''Blind Analysis Tools'''
 |https://sites.imagej.net/Astja/
 |Tools to facilitate blind i.e., unbiased analysis of (image) data. For more information visit the documentation page.
