@@ -335,8 +335,8 @@ sites:
       - "[Jan Brocher](https://imagej.net/people/biovoxxel)"
 
   - name: "BioVoxxel Figure Tools"
-    id: "biovoxxel_figure_tools"
-    url: "https://sites.imagej.net/biovoxxel_figure_tools/"
+    id: "bvft"
+    url: "https://sites.imagej.net/bvft/"
     description: >-
      The figure tools are meant to connect Fiji with Inkscape to flexibly prepare images for and create
      publication figures with the highest possible data quality.
