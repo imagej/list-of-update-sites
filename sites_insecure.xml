@@ -1320,6 +1320,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Benjamin Schmid
 
 |- valign=&quot;top&quot;
+|'''SAMJ'''
+|http://sites.imagej.net/SAMJ/
+|SAMJ is a Fiji plugin for annotating microscopy images using various versions of the Segment Anything Model (SAM). See the GitHub organization for details.
+|Carlos Garcia, Daniel Sage, Arrate Muñoz-Barrutia, Vladimír Ulman, Curtis Rueden
+
+|- valign=&quot;top&quot;
 |'''Sceptical Physiologist'''
 |http://sites.imagej.net/Scepticalphysiologist/
 |FFT (spectra + filtering); ROI class management; Image Linker; Tight Montage; Ca2+ imaging tools; etc.

@@ -2171,6 +2171,20 @@ sites:
     maintainers:
       - "[Benjamin Schmid](https://imagej.net/people/bene51)"
 
+  - name: "SAMJ"
+    id: "SAMJ"
+    url: "https://sites.imagej.net/SAMJ/"
+    description: >-
+      SAMJ is a Fiji plugin for annotating microscopy images using
+      various versions of the Segment Anything Model (SAM).
+      See the [GitHub organization](https://github.io/deepimagej/) for details.
+    maintainers:
+      - "[Carlos Garcia](https://imagej.net/people/carlosuc3m)"
+      - "[Daniel Sage](mailto:daniel.sage@epfl.ch)"
+      - "[Arrate Muñoz-Barrutia](mailto:mamunozb@ing.uc3m.es)"
+      - "[Vladimír Ulman](https://imagej.net/people/xulman)"
+      - "[Curtis Rueden](https://imagej.net/people/ctrueden)"
+
   - name: "Sceptical Physiologist"
     id: "Scepticalphysiologist"
     url: "https://sites.imagej.net/Scepticalphysiologist/"
