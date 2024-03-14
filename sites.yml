@@ -2176,8 +2176,9 @@ sites:
     url: "https://sites.imagej.net/SAMJ/"
     description: >-
       SAMJ is a Fiji plugin for annotating microscopy images using
-      various versions of the Segment Anything Model (SAM).
-      See the [GitHub organization](https://github.io/deepimagej/) for details.
+      various versions of the Segment Anything Model (SAM). See the
+      [GitHub organization](https://github.com/segment-anything-models-java/)
+      for details.
     maintainers:
       - "[Carlos Garcia](https://imagej.net/people/carlosuc3m)"
       - "[Daniel Sage](mailto:daniel.sage@epfl.ch)"
