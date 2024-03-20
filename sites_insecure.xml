@@ -924,6 +924,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Tobias Pietzsch, Jean-Yves Tinevez
 
 |- valign=&quot;top&quot;
+|'''Mastodon-DeepLineage'''
+|http://sites.imagej.net/Mastodon-DeepLineage/
+|Mastodon-DeepLineage is an extension for the Mastodon plugin and can only be used in conjunction with it. Mastodon allows track cell lineages in 3D+t images.  Mastodon-DeepLineage extends this with a collection of tools to analyse  lineages of tracked objects.
+|Stefan Hahmann
+
+|- valign=&quot;top&quot;
 |'''Mcat'''
 |http://sites.imagej.net/Mcat/
 |The MSOT cluster analysis toolkit Mcat is a software for objective and quantitative analysis of multispectral optoacoustic tomography (MSOT) image data. It is based on a signal-oriented analysis approach, i.e. the entire sample is analysed regarding the signal kinetics of the molecule of interest and pixel-wise kinetic clustering is performed to extract quantitative information about the pharmacokinetics of the investigated molecule and its biodistribution in the sample.
