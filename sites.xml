@@ -120,6 +120,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |AIC Janelia
 
 |- valign=&quot;top&quot;
+|'''ALPACA'''
+|https://sites.imagej.net/ALPACA/
+|A collection of macros to study cilia.
+|Torsten Schmenger
+
+|- valign=&quot;top&quot;
 |'''AMPT'''
 |https://sites.imagej.net/AMPT/
 |The Aquatic Mammal Photogrammetry Tool (AMPT) is an ImageJ plug-in that simplifies the process of measuring aquatic mammals from aerial imagery. The tool may be configured to support different guided measurements.
