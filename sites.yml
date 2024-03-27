@@ -92,7 +92,15 @@ sites:
       Center (AIC) Fiji Course.
     maintainers:
       - "[AIC Janelia](https://imagej.net/orgs/janelia#advanced-imaging-center)"
-
+      
+  - name: "ALPACA"
+    id: "ALPACA"
+    url: "https://sites.imagej.net/ALPACA/"
+    description: >-
+      A collection of macros to study cilia.
+    maintainers:
+      - "[Torsten Schmenger](https://github.com/tschmenger/)"
+      
   - name: "AMPT"
     id: "AMPT"
     url: "https://sites.imagej.net/AMPT/"
