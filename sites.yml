@@ -2728,7 +2728,7 @@ sites:
       
   - name: "Virtual-Orientation-Tools-VOTj"
     id: "VOTj"
-    url: "https://sites.imagej.net/Zellige/"
+    url: "https://sites.imagej.net/Virtual-Orientation-Tool-VOTj/"
     description: >-
       [Virtual-Orientation-Tools-VOTj](https://github.com/sankeert1999/Virtual-Orientation-Tools-VOTj) is a set of Fiji plugins designed to center and align objects of interest 
       both horizontally and vertically from their base orientation. The program is available through
