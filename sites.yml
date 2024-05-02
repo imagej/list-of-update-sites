@@ -2725,7 +2725,17 @@ sites:
       - "[Michael Blinov](mailto:blinov@uchc.edu)"
       - "[Frank Morgan](mailto:frm@uchc.edu)"
       - "[Ion Moraru](mailto:moraru@uchc.edu)"
-
+      
+  - name: "Virtual-Orientation-Tools-VOTj"
+    id: "VOTj"
+    url: "https://sites.imagej.net/Zellige/"
+    description: >-
+      [Virtual-Orientation-Tools-VOTj](https://github.com/sankeert1999/Virtual-Orientation-Tools-VOTj) is a set of Fiji plugins designed to center and align objects of interest 
+      both horizontally and vertically from their base orientation. The program is available through
+      a Fiji plugin.
+    maintainers:
+      - "[Sankeert Satheesan](mailto:sankeert1999@gmail.com)"
+      
   - name: "Visualization Toolset"
     id: "VisualizationToolset"
     url: "https://sites.imagej.net/VisualizationToolset/"
