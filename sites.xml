@@ -1652,6 +1652,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Michael Blinov, Frank Morgan, Ion Moraru
 
 |- valign=&quot;top&quot;
+|'''Virtual-Orientation-Tools-VOTj'''
+|https://sites.imagej.net/Virtual-Orientation-Tool-VOTj/
+|Virtual-Orientation-Tools-VOTj is a set of Fiji plugins designed to center and align objects of interest  both horizontally and vertically from their base orientation. The program is available through a Fiji plugin.
+|Sankeert Satheesan
+
+|- valign=&quot;top&quot;
 |'''Visualization Toolset'''
 |https://sites.imagej.net/VisualizationToolset/
 |A macro Toolset helping daily handling and visualization of multichannel images and stacks. Feedback always welcome!
