@@ -2702,6 +2702,20 @@ sites:
     maintainers:
       - "[Ben Smith](mailto:benjamin.smith@berkeley.edu)"
 
+  - name: "Ultrack"
+    id: "ultrack"
+    url: "https://sites.imagej.net/ultrack/"
+    description: >-/
+      [Ultrack](https://github.com/royerlab/ultrack) is a large-scale cell 
+      tracking under segmentation uncertainty. 
+      Capable of managing millions of segmentation instances, it provides 
+      competitive results with or without deep learning. The method optimizes
+      tracking by using a hierarchy of segmentation hypotheses to select segments
+      across frames.
+    maintainers:
+      - "[Ilan Theodoro](mailto:ilan.silva@czbiohub.org)
+      - "[Jordao Bragantini](mailto:jordao.bragantini@czbiohub.org)
+
   - name: "Vale lab plugins"
     id: "Nico"
     url: "https://sites.imagej.net/Nico/"
