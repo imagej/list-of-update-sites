@@ -950,7 +950,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''Mastodon-DeepLineage'''
 |http://sites.imagej.net/Mastodon-DeepLineage/
-|Mastodon-DeepLineage is an extension for the Mastodon plugin and can only be used in conjunction with it. Mastodon allows track cell lineages in 3D+t images.  Mastodon-DeepLineage extends this with a collection of tools to analyse  lineages of tracked objects.
+|Mastodon-DeepLineage is an extension for the Mastodon plugin and can only be used in conjunction with it. Mastodon allows track cell lineages in 3D+t images. Mastodon-DeepLineage extends this with a collection of tools to analyse lineages of tracked objects.
 |Stefan Hahmann
 
 |- valign=&quot;top&quot;
@@ -1280,7 +1280,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''Puncta Process'''
 |http://sites.imagej.net/puncta_process/
-|The Puncta Process PlugIn is a practical analysis tool for counting puncta in 3D image data. The process uses single-channel data to produce three specific values: - Puncta Volume An average number  of voxels (volume picture elements) of the object times z,y, and z calibrations. - Puncta Number The  average number of puncta counts within a given ROI (Region of Interest) - ROI Intensity The measures the  overall pixel intensity over the Region of Interest - The results are summarized in MS Excel format.
+|The Puncta Process PlugIn is a practical analysis tool for counting puncta in 3D image data. The process uses single-channel data to produce three specific values: - Puncta Volume An average number of voxels (volume picture elements) of the object times z,y, and z calibrations. - Puncta Number The average number of puncta counts within a given ROI (Region of Interest) - ROI Intensity The measures the overall pixel intensity over the Region of Interest - The results are summarized in MS Excel format.
 |Dan Higgins
 
 |- valign=&quot;top&quot;
@@ -1622,6 +1622,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Ben Smith
 
 |- valign=&quot;top&quot;
+|'''Ultrack'''
+|http://sites.imagej.net/ultrack/
+|Ultrack is a large-scale cell tracking under segmentation uncertainty. Capable of managing millions of segmentation instances, it provides competitive results with or without deep learning. The method optimizes tracking by using a hierarchy of segmentation hypotheses to select segments across frames.
+|Ilan Theodoro, Jordao Bragantini
+
+|- valign=&quot;top&quot;
 |'''Vale lab plugins'''
 |http://sites.imagej.net/Nico/
 |Plugins useful to the Vale lab: Saim, spot intensity analysis, spot counter.
@@ -1654,7 +1660,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''Virtual-Orientation-Tools-VOTj'''
 |http://sites.imagej.net/Virtual-Orientation-Tool-VOTj/
-|Virtual-Orientation-Tools-VOTj is a set of Fiji plugins designed to center and align objects of interest  both horizontally and vertically from their base orientation. The program is available through a Fiji plugin.
+|Virtual-Orientation-Tools-VOTj is a set of Fiji plugins designed to center and align objects of interest both horizontally and vertically from their base orientation. The program is available through a Fiji plugin.
 |Sankeert Satheesan
 
 |- valign=&quot;top&quot;
