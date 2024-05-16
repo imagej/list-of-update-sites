@@ -2710,8 +2710,8 @@ sites:
       tracking under segmentation uncertainty.
       Capable of managing millions of segmentation instances, it provides
       competitive results with or without deep learning. The method optimizes
-      tracking by using a hierarchy of segmentation hypotheses to select segments
-      across frames.
+      tracking by using a hierarchy of segmentation hypotheses to select
+      segments across frames.
     maintainers:
       - "[Ilan Theodoro](mailto:ilan.silva@czbiohub.org)"
       - "[Jordao Bragantini](mailto:jordao.bragantini@czbiohub.org)"
@@ -2771,9 +2771,10 @@ sites:
     id: "VOTj"
     url: "https://sites.imagej.net/Virtual-Orientation-Tool-VOTj/"
     description: >-
-      [Virtual-Orientation-Tools-VOTj](https://github.com/sankeert1999/Virtual-Orientation-Tools-VOTj) is a set of Fiji plugins designed to center and align objects of interest 
-      both horizontally and vertically from their base orientation. The program is available through
-      a Fiji plugin.
+      [Virtual-Orientation-Tools-VOTj](https://github.com/sankeert1999/Virtual-Orientation-Tools-VOTj)
+      is a set of Fiji plugins designed to center and align objects of interest
+      both horizontally and vertically from their base orientation. The program
+      is available through a Fiji plugin.
     maintainers:
       - "[Sankeert Satheesan](mailto:sankeert1999@gmail.com)"
 
