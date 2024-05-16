@@ -2706,7 +2706,7 @@ sites:
     id: "ultrack"
     url: "https://sites.imagej.net/ultrack/"
     description: >-
-      [Ultrack](https://github.com/royerlab/ultrack) is a large-scale cell
+      [Ultrack](https://imagej.net/plugins/ultrack) is a large-scale cell
       tracking under segmentation uncertainty.
       Capable of managing millions of segmentation instances, it provides
       competitive results with or without deep learning. The method optimizes
