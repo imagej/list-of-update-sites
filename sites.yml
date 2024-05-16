@@ -119,7 +119,7 @@ sites:
       Center (AIC) Fiji Course.
     maintainers:
       - "[AIC Janelia](https://imagej.net/orgs/janelia#advanced-imaging-center)"
-      
+
   - name: "ALPACA"
     id: "ALPACA"
     url: "https://sites.imagej.net/ALPACA/"
@@ -127,7 +127,7 @@ sites:
       A collection of macros to study cilia.
     maintainers:
       - "[Torsten Schmenger](https://github.com/tschmenger/)"
-      
+
   - name: "AMPT"
     id: "AMPT"
     url: "https://sites.imagej.net/AMPT/"
@@ -1520,8 +1520,8 @@ sites:
     description: >-
       [Mastodon-DeepLineage](https://github.com/mastodon-sc/mastodon-deep-lineage)
       is an extension for the Mastodon plugin and can only be used in conjunction
-      with it. Mastodon allows track cell lineages in 3D+t images. 
-      Mastodon-DeepLineage extends this with a collection of tools to analyse 
+      with it. Mastodon allows track cell lineages in 3D+t images.
+      Mastodon-DeepLineage extends this with a collection of tools to analyse
       lineages of tracked objects.
     maintainers:
       - "[Stefan Hahmann](https://imagej.net/people/stefanhahmann)"
@@ -2095,9 +2095,9 @@ sites:
     url: "https://sites.imagej.net/puncta_process/"
     description: >-
       The [Puncta Process PlugIn](https://imagej.net/plugins/process-puncta/) is a practical analysis tool for counting puncta in 3D image data.
-      The process uses single-channel data to produce three specific values: - **Puncta Volume** An average number 
-      of voxels (volume picture elements) of the object times z,y, and z calibrations. - **Puncta Number** The 
-      average number of puncta counts within a given ROI (Region of Interest) - **ROI Intensity** The measures the 
+      The process uses single-channel data to produce three specific values: - **Puncta Volume** An average number
+      of voxels (volume picture elements) of the object times z,y, and z calibrations. - **Puncta Number** The
+      average number of puncta counts within a given ROI (Region of Interest) - **ROI Intensity** The measures the
       overall pixel intensity over the Region of Interest - The results are summarized in MS Excel format.
     maintainers:
       - "[Dan Higgins](https://github.com/DanHUMassMed)"
@@ -2706,9 +2706,9 @@ sites:
     id: "ultrack"
     url: "https://sites.imagej.net/ultrack/"
     description: >-
-      [Ultrack](https://github.com/royerlab/ultrack) is a large-scale cell 
-      tracking under segmentation uncertainty. 
-      Capable of managing millions of segmentation instances, it provides 
+      [Ultrack](https://github.com/royerlab/ultrack) is a large-scale cell
+      tracking under segmentation uncertainty.
+      Capable of managing millions of segmentation instances, it provides
       competitive results with or without deep learning. The method optimizes
       tracking by using a hierarchy of segmentation hypotheses to select segments
       across frames.
@@ -2766,7 +2766,7 @@ sites:
       - "[Michael Blinov](mailto:blinov@uchc.edu)"
       - "[Frank Morgan](mailto:frm@uchc.edu)"
       - "[Ion Moraru](mailto:moraru@uchc.edu)"
-      
+
   - name: "Virtual-Orientation-Tools-VOTj"
     id: "VOTj"
     url: "https://sites.imagej.net/Virtual-Orientation-Tool-VOTj/"
@@ -2776,7 +2776,7 @@ sites:
       a Fiji plugin.
     maintainers:
       - "[Sankeert Satheesan](mailto:sankeert1999@gmail.com)"
-      
+
   - name: "Visualization Toolset"
     id: "VisualizationToolset"
     url: "https://sites.imagej.net/VisualizationToolset/"
