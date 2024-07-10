@@ -2679,6 +2679,16 @@ sites:
     maintainers:
       - "[Elise Laruelle](https://www.slcu.cam.ac.uk/staff/elise-laruelle)"
 
+  - name: "TWOMBLI"
+    id: "TWOMBLI"
+    url: "https://sites.imagej.net/TWOMBLI/"
+    description: >-
+      Plugin implementation of [TWOMBLI](https://dx.doi.org/10.26508/lsa.202000880), for the
+      analysis of network structures such as extra-cellular matrix, vascular or cytoskeletal
+      components.
+    maintainers:
+      - "[David Barry](mailto:david.barry@crick.ac.uk)"
+
   - name: "U-Net Segmentation"
     id: "Falk"
     url: "https://sites.imagej.net/Falk/"
