@@ -2569,6 +2569,17 @@ sites:
     maintainers:
       - "[Jean-Yves Tinevez](https://imagej.net/people/tinevez)"
 
+  - name: "TrackMate-Kymograph"
+    id: "TrackMate-Kymograph"
+    url: "https://sites.imagej.net/TrackMate-Kymograph"
+    description: >-
+      This update site provides the 
+      [TrackMate-Kymograph](https://imagej.net/plugins/trackmate/extensions/trackmate-kymograph) 
+      extension. This module integrates into TrackMate, and let users trace and analyze
+      *moving* kympgraphs, using TrackMate tracks as moving landmarks. 
+    maintainers:
+      - "[Jean-Yves Tinevez](https://imagej.net/people/tinevez)"
+
   - name: "TrackMate-Lacss"
     id: "TrackMate-Lacss"
     url: "https://sites.imagej.net/TrackMate-Lacss"
