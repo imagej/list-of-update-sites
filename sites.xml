@@ -1118,7 +1118,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''Neuroanatomy'''
 |https://sites.imagej.net/Neuroanatomy/
-|Image Processing Tools for Neuroanatomy and Tree-like structures (list).
+|Installs SNT, the ImageJ framework for quantification of neuronal anatomy
 |Tiago Ferreira
 
 |- valign=&quot;top&quot;
