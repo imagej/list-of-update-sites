@@ -1824,8 +1824,8 @@ sites:
     id: "Neuroanatomy"
     url: "https://sites.imagej.net/Neuroanatomy/"
     description: >-
-      Image Processing Tools for Neuroanatomy and Tree-like structures
-      ([list](https://imagej.net/update-sites/neuroanatomy)).
+      Installs [SNT](https://imagej.net/plugins/snt/), the ImageJ framework
+      for quantification of neuronal anatomy
     maintainers:
       - "[Tiago Ferreira](https://imagej.net/people/tferr)"
 
