@@ -2134,7 +2134,7 @@ sites:
 
   - name: "QuimP"
     id: "QuimP"
-    url: "https://pilip.lnx.warwick.ac.uk/quimp-update-site/"
+    url: "https://quimp.warwick.ac.uk/quimp-update-site/"
     description: >-
       [QuimP](https://warwick.ac.uk/quimp) is software for tracking cellular
       shape changes and dynamic distributions of fluorescent reporters at the
