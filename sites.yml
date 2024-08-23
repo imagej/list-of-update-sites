@@ -881,6 +881,14 @@ sites:
     maintainers:
       - "Christian Tischer"
 
+  - name: "FOCUST"
+    id: "FOCUST"
+    url: "https://sites.imagej.net/FOCUST/"
+    description: >-
+      [FOCUST](https://sebastianamos.github.io/FOCUST-Plugin-Site/g) is the Fluorescent Object and Cell gpU-accelerated Segmentation Toolbox.
+    maintainers:
+      - "[Sebastian Amos](https://github.com/SebastianAmos)"
+
   - name: "FPBioimage"
     id: "Fpbioimage"
     url: "https://sites.imagej.net/Fpbioimage/"
