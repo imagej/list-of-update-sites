@@ -588,6 +588,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Christian Tischer
 
 |- valign=&quot;top&quot;
+|'''FOCUST'''
+|http://sites.imagej.net/FOCUST/
+|FOCUST is the Fluorescent Object and Cell gpU-accelerated Segmentation Toolbox.
+|Sebastian Amos
+
+|- valign=&quot;top&quot;
 |'''FPBioimage'''
 |http://sites.imagej.net/Fpbioimage/
 |A plugin to prepare and upload data for Fpbioimage.
