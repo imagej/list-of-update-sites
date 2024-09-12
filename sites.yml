@@ -2754,6 +2754,15 @@ sites:
     maintainers:
       - "[Wilson R Adams](mailto:wilson.adams@vanderbilt.edu) Vanderbilt Biophotonics Center, Nashville, TN, USA"
 
+  - name: "VCell Simulation Results Viewer"
+    id: "VCellSimulationResultsViewer"
+    url: "https://sites.imagej.net/VCell-Simulations-Result-Viewer/"
+    description: >-
+      Plugin for accesing spatial simulation results exported in the N5 file format from VCell.
+    maintainers:
+      - "[Ezequiel Valencia](mailto:evalencia@uchc.edu)"
+      - "[Jim Schaff](mailto:schaff.jim@gmail.com)"
+
   - name: "VerciniAnalysisJ"
     id: "HoldenLabBiophys"
     url: "https://sites.imagej.net/VerciniAnalysisJ/"
@@ -2773,18 +2782,7 @@ sites:
       [on GitHub](https://github.com/Sweeneyian/VersiLab_Plugin).
     maintainers:
       - "[Ian Sweeney](https://imagej.net/people/sweeneyian)"
-
-  - name: "Virtual Cell"
-    id: "VCell"
-    url: "https://sites.imagej.net/VCell/"
-    description: >-
-      Plugins for using [Virtual Cell](https://imagej.net/software/virtual-cell) with
-      ImageJ.
-    maintainers:
-      - "[Michael Blinov](mailto:blinov@uchc.edu)"
-      - "[Frank Morgan](mailto:frm@uchc.edu)"
-      - "[Ion Moraru](mailto:moraru@uchc.edu)"
-
+  
   - name: "Virtual-Orientation-Tools-VOTj"
     id: "VOTj"
     url: "https://sites.imagej.net/Virtual-Orientation-Tool-VOTj/"

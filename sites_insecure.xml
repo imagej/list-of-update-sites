@@ -1652,6 +1652,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Wilson R Adams Vanderbilt Biophotonics Center, Nashville, TN, USA
 
 |- valign=&quot;top&quot;
+|'''VCell Simulation Results Viewer'''
+|http://sites.imagej.net/VCell-Simulations-Result-Viewer/
+|Plugin for accesing spatial simulation results exported in the N5 file format from VCell.
+|Ezequiel Valencia, Jim Schaff
+
+|- valign=&quot;top&quot;
 |'''VerciniAnalysisJ'''
 |http://sites.imagej.net/VerciniAnalysisJ/
 |A set of ImageJ scripts for analysis of VerCINI (Vertical Cell Imaging by Nanostructured Immobilization) microscopy data of vertically oriented bacteria. See https://github.com/HoldenLab/VerciniAnalysisJ for documentation.
@@ -1662,12 +1668,6 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |http://sites.imagej.net/Sweeneyian/
 |VersiLab_Plugin, aiming to do real-time image acquisition and processing for Optical Endo-Microscopy (OEM), development phase, code available on GitHub.
 |Ian Sweeney
-
-|- valign=&quot;top&quot;
-|'''Virtual Cell'''
-|http://sites.imagej.net/VCell/
-|Plugins for using Virtual Cell with ImageJ.
-|Michael Blinov, Frank Morgan, Ion Moraru
 
 |- valign=&quot;top&quot;
 |'''Virtual-Orientation-Tools-VOTj'''
