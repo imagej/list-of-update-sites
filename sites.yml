@@ -2123,10 +2123,10 @@ sites:
     id: "Quantixed"
     url: "https://sites.imagej.net/Quantixed/"
     description: >-
-      ImageJ macros for making figures, blind analysis and more. Maintenance
-      and issues [here](https://github.com/quantixed/imagej-macros/).
+      ImageJ macros for making figures, annotating movies, blind analysis and more.
+      Maintenance and issues [here](https://github.com/quantixed/imagej-macros/).
     maintainers:
-      - "[Stephen Royle](https://mechanochemistry.org/royle)"
+      - "[Stephen Royle](https://github.com/quantixed)"
 
   - name: "QuickFigures"
     id: "QuickFigures"
