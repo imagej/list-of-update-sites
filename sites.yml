@@ -8,6 +8,15 @@ sites:
     maintainers:
       - "[ImageJ2 developers](https://imagej.net/people#imagej2)"
 
+  - name: "ImageJ (Europe mirror)"
+    id: "ImageJ-micron.ox.ac.uk"
+    url: "https://downloads.micron.ox.ac.uk/fiji_update/mirrors/imagej/"
+    description: >-
+      European mirror for the ImageJ update site.  Replace the ImageJ
+      update site with this one for faster updates in Europe.
+    maintainers:
+      - "[ImageJ2 developers](https://imagej.net/people#imagej2)"
+
   - name: "Fiji"
     id: "Fiji"
     url: "https://update.fiji.sc/"
@@ -15,6 +24,15 @@ sites:
       Base update site for [Fiji](https://imagej.net/software/fiji) and
       [core Fiji plugins](https://imagej.net/list-of-extensions).
       If you downloaded Fiji directly, it is already included.
+    maintainers:
+      - "[Fiji developers](https://imagej.net/people#fiji)"
+
+  - name: "Fiji (Europe mirror)"
+    id: "Fiji-micron.ox.ac.uk"
+    url: "https://downloads.micron.ox.ac.uk/fiji_update/mirrors/fiji/"
+    description: >-
+      European mirror for the Fiji update site.  Replace the Fiji
+      update site with this one for faster updates in Europe.
     maintainers:
       - "[Fiji developers](https://imagej.net/people#fiji)"
 
@@ -37,24 +55,6 @@ sites:
       See [this page](https://imagej.net/news/2016-05-10-imagej-howto-java-8-java-6-java-3d) for details.
     maintainers:
       - "[ImageJ2 and Fiji developers](https://imagej.net/people)"
-
-  - name: "ImageJ (Europe mirror)"
-    id: "ImageJ-micron.ox.ac.uk"
-    url: "https://downloads.micron.ox.ac.uk/fiji_update/mirrors/imagej/"
-    description: >-
-      European mirror for the ImageJ update site.  Replace the ImageJ
-      update site with this one for faster updates in Europe.
-    maintainers:
-      - "[ImageJ2 developers](https://imagej.net/people#imagej2)"
-
-  - name: "Fiji (Europe mirror)"
-    id: "Fiji-micron.ox.ac.uk"
-    url: "https://downloads.micron.ox.ac.uk/fiji_update/mirrors/fiji/"
-    description: >-
-      European mirror for the Fiji update site.  Replace the Fiji
-      update site with this one for faster updates in Europe.
-    maintainers:
-      - "[Fiji developers](https://imagej.net/people#fiji)"
 
   - name: "Java-8 (Europe mirror)"
     id: "Java-8-micron.ox.ac.uk"
