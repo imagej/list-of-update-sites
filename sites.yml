@@ -8,15 +8,6 @@ sites:
     maintainers:
       - "[ImageJ2 developers](https://imagej.net/people#imagej2)"
 
-  - name: "ImageJ (Europe mirror)"
-    id: "ImageJ-micron.ox.ac.uk"
-    url: "https://downloads.micron.ox.ac.uk/fiji_update/mirrors/imagej/"
-    description: >-
-      European mirror for the ImageJ update site.  Replace the ImageJ
-      update site with this one for faster updates in Europe.
-    maintainers:
-      - "[ImageJ2 developers](https://imagej.net/people#imagej2)"
-
   - name: "Fiji"
     id: "Fiji"
     url: "https://update.fiji.sc/"
@@ -26,6 +17,15 @@ sites:
       If you downloaded Fiji directly, it is already included.
     maintainers:
       - "[Fiji developers](https://imagej.net/people#fiji)"
+
+  - name: "ImageJ (Europe mirror)"
+    id: "ImageJ-micron.ox.ac.uk"
+    url: "https://downloads.micron.ox.ac.uk/fiji_update/mirrors/imagej/"
+    description: >-
+      European mirror for the ImageJ update site.  Replace the ImageJ
+      update site with this one for faster updates in Europe.
+    maintainers:
+      - "[ImageJ2 developers](https://imagej.net/people#imagej2)"
 
   - name: "Fiji (Europe mirror)"
     id: "Fiji-micron.ox.ac.uk"
