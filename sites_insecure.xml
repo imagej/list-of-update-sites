@@ -66,16 +66,16 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |ImageJ2 developers
 
 |- valign=&quot;top&quot;
-|'''ImageJ (Europe mirror)'''
-|https://downloads.micron.ox.ac.uk/fiji_update/mirrors/imagej/
-|European mirror for the ImageJ update site.  Replace the ImageJ update site with this one for faster updates in Europe.
-|ImageJ2 developers
-
-|- valign=&quot;top&quot;
 |'''Fiji'''
 |http://update.fiji.sc/
 |Base update site for Fiji and core Fiji plugins. If you downloaded Fiji directly, it is already included.
 |Fiji developers
+
+|- valign=&quot;top&quot;
+|'''ImageJ (Europe mirror)'''
+|https://downloads.micron.ox.ac.uk/fiji_update/mirrors/imagej/
+|European mirror for the ImageJ update site.  Replace the ImageJ update site with this one for faster updates in Europe.
+|ImageJ2 developers
 
 |- valign=&quot;top&quot;
 |'''Fiji (Europe mirror)'''
