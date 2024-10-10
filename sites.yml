@@ -1520,7 +1520,20 @@ sites:
       on steroids.
     maintainers:
       - "[Tobias Pietzsch](https://imagej.net/people/tpietzsch)"
-      - "[Jean-Yves Tinevez](https://imagej.net/people/tinevez)"
+      - "[Jean-Yves Tinevez](https://imagej.net/people/tinevez)"      
+
+  - name: "Mastodon-DeepLineage"
+    id: "Mastodon-DeepLineage"
+    url: "https://sites.imagej.net/Mastodon-DeepLineage/"
+    description: >-
+      [Mastodon-DeepLineage](https://github.com/mastodon-sc/mastodon-deep-lineage)
+      provides an extension for the Mastodon plugin and can only be used in conjunction
+      with it. Mastodon allows tracking cell lineages in 3D+t images.
+      Mastodon-DeepLineage extends this with a collection of tools to analyse
+      lineages of tracked objects.
+    maintainers: 
+      - "[Stefan Hahmann](https://imagej.net/people/stefanhahmann)"
+      - "[Matthias Arzt](https://imagej.net/people/maarzt)"
 
   - name: "Mastodon-Tomancak"
     id: "Mastodon-Tomancak"
@@ -1535,20 +1548,6 @@ sites:
       - "[Matthias Arzt](https://imagej.net/people/maarzt)"
       - "[Stefan Hahmann](https://imagej.net/people/stefanhahmann)"
       - "[Vladimír Ulman](https://imagej.net/people/xulman)"
-      
-
-  - name: "Mastodon-DeepLineage"
-    id: "Mastodon-DeepLineage"
-    url: "https://sites.imagej.net/Mastodon-DeepLineage/"
-    description: >-
-      [Mastodon-DeepLineage](https://github.com/mastodon-sc/mastodon-deep-lineage)
-      provides an extension for the Mastodon plugin and can only be used in conjunction
-      with it. Mastodon allows tracking cell lineages in 3D+t images.
-      Mastodon-DeepLineage extends this with a collection of tools to analyse
-      lineages of tracked objects.
-    maintainers: 
-      - "[Stefan Hahmann](https://imagej.net/people/stefanhahmann)"
-      - "[Matthias Arzt](https://imagej.net/people/maarzt)"
 
   - name: "Mcat"
     id: "Mcat"
