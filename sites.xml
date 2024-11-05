@@ -1266,6 +1266,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |XU Xiaochun, Felix Martin Margadant
 
 |- valign=&quot;top&quot;
+|'''PIM-IBIS'''
+|https://sites.imagej.net/Abastien/
+|Update site for the IBIS Microscopy &amp; Imaging Platform at ULaval.
+|Alexandre Bastien
+
+|- valign=&quot;top&quot;
 |'''PixFRET'''
 |https://sites.imagej.net/PixFRET/
 |PixFRET - an ImageJ plug-in for FRET calculation which can accommodate variations in spectral bleed-throughs
