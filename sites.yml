@@ -2075,6 +2075,15 @@ sites:
       - "[XU Xiaochun](mailto:mbixxc@nus.edu.sg)"
       - "[Felix Martin Margadant](mailto:mbifmm@nus.edu.sg)"
 
+  - name: "PIM-IBIS"
+    id: "Abastien"
+    url: "https://sites.imagej.net/Abastien/"
+    description: >-
+      Update site for the [IBIS Microscopy & Imaging Platform](https://microscopie.ibis.ulaval.ca/)
+      at [ULaval](https://www.ulaval.ca/).
+    maintainers:
+      - "[Alexandre Bastien](https://imagej.net/people/alexandrebastien)"
+
   - name: "PixFRET"
     id: "PixFRET"
     url: "https://sites.imagej.net/PixFRET/"
