@@ -18,11 +18,12 @@ git grep name: sites.yml |
 	grep -A999999 'name: "[0-9]' |
 	sed 's;.*name: "\([^"]*\)"$;\1;' >actual
 cat actual | LC_ALL=C sort --ignore-case >expected
-if diff actual expected
+if diff -q actual expected
 then
 	echo "Update sites are ordered correctly."
 else
 	echo "Please list sites in alphabetical order!"
+	git diff --no-index actual expected
 	exit 5
 fi
 echo "== Generating legacy pages ==" &&
