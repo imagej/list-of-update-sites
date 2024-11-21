@@ -326,7 +326,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''CellTrackingChallenge'''
 |https://sites.imagej.net/Ulman/
-|Implementation of measures and front-end plugins used in and related to the Cell Tracking Challenge.
+|Implementation of measures and front-end Fiji plugins used in and related to the Cell Tracking Challenge. It also provides an extension for importing, editing and exporting  the results of the CellTrackingChallenge, which can be used in  conjunction with the Mastodon plugin.
 |Vladimír Ulman
 
 |- valign=&quot;top&quot;
@@ -650,7 +650,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''Gut Analysis Toolbox'''
 |https://sites.imagej.net/GutAnalysisToolbox/
-|Gut Analysis Toolbox enables semi-automated analysis of the neuronal and glial distribution within the gut wall in 2D. It uses a combination of FIJI macros, StarDist and deepImageJ for automated segmentation. The primary focus is on characterising the enteric nervous system. The aim is to expand the analysis to other celltypes within the gut and enable 3D analysis.
+|Gut Analysis Toolbox enables semi-automated analysis of the neuronal and glial distribution within the gut wall in 2D. It uses a combination of Fiji macros, StarDist and deepImageJ for automated segmentation. The primary focus is on characterising the enteric nervous system. The aim is to expand the analysis to other celltypes within the gut and enable 3D analysis.
 |Pradeep Rajasekhar
 
 |- valign=&quot;top&quot;
@@ -758,7 +758,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''ImagingFCS'''
 |https://sites.imagej.net/ImagingFCS/
-|ImagingFCS 1.491 is a basic ImageJ plugin to calculate and view spatio-temporal correlation functions from 16 bit gray tiff stack files. It was written under FIJI (ImageJ 1.51f; Java 1.8.0102) and requires Imagescience for statistics (simulator) and Apache Poi for file reading and writing.
+|ImagingFCS 1.491 is a basic ImageJ plugin to calculate and view spatio-temporal correlation functions from 16 bit gray tiff stack files. It was written under Fiji (ImageJ 1.51f; Java 1.8.0102) and requires Imagescience for statistics (simulator) and Apache Poi for file reading and writing.
 |Thorsten Wohland
 
 |- valign=&quot;top&quot;
@@ -1394,7 +1394,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''Scientifig-deprecated'''
 |https://sites.imagej.net/SF-Deprecated-Legacy/
-|ScientiFig is a tool to build publication-ready scientific figures similar to FigureJ from the IBMP-CNRS site. This version of SF is deprecated. It must be used in combination with the 'Fiji-Legacy' update site (on old FIJI systems still using java 6). Note also that this version of SF is not compatible with 'Tissue Analyser'.
+|ScientiFig is a tool to build publication-ready scientific figures similar to FigureJ from the IBMP-CNRS site. This version of SF is deprecated. It must be used in combination with the 'Fiji-Legacy' update site (on old Fiji systems still using java 6). Note also that this version of SF is not compatible with 'Tissue Analyser'.
 |Benoit Aigouy
 
 |- valign=&quot;top&quot;
