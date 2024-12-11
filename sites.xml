@@ -492,6 +492,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Christian Tischer
 
 |- valign=&quot;top&quot;
+|'''Draw 3D ROI'''
+|https://sites.imagej.net/Draw3DROI/
+|A Fiji plugin to create 3D masks from hand-drawn 2D ROIs.
+|Andrew McCall
+
+|- valign=&quot;top&quot;
 |'''ElastixWrapper'''
 |https://sites.imagej.net/ElastixWrapper/
 |Image registration using elastix
