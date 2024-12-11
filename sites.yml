@@ -718,6 +718,14 @@ sites:
     maintainers:
       - "Christian Tischer"
 
+  - name: "Draw 3D ROI"
+    id: "Draw3DROI"
+    url: "https://sites.imagej.net/Draw3DROI/"
+    description: >-
+      A Fiji plugin to create 3D masks from hand-drawn 2D ROIs. 
+    maintainers:
+      - "[Andrew McCall](https://imagej.net/people/andmccall)"
+
   - name: "ElastixWrapper"
     id: "ElastixWrapper"
     url: "https://sites.imagej.net/ElastixWrapper/"
