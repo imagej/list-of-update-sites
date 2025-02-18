@@ -2317,6 +2317,14 @@ sites:
     maintainers:
       - "[Benoit Aigouy](mailto:scientifig@gmail.com)"
 
+  - name: "SCiF Confocal Simulator"
+    id: "SCIF-Confocal-Simulator"
+    url: "https://sites.imagej.net/SCiF_ConfocalSimulator/"
+    description: >-
+      A laser scanning confocal simulator.
+    maintainers:
+      - "[Gert-Jan Kremers](mailto:g.kremers@erasmusmc.nl)"
+
   - name: "Scijava Jupyter Kernel"
     id: "Scijava-jupyter-kernel"
     url: "https://sites.imagej.net/Scijava-jupyter-kernel/"
