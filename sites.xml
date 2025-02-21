@@ -1404,6 +1404,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Benoit Aigouy
 
 |- valign=&quot;top&quot;
+|'''SCiF Confocal Simulator'''
+|https://sites.imagej.net/SCiF_ConfocalSimulator/
+|A laser scanning confocal simulator.
+|Gert-Jan Kremers
+
+|- valign=&quot;top&quot;
 |'''Scijava Jupyter Kernel'''
 |https://sites.imagej.net/Scijava-jupyter-kernel/
 |A Java kernel for Jupyter. See source on GitHub.
