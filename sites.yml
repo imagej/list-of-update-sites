@@ -2050,7 +2050,7 @@ sites:
       - "[Nicolas Jaccard](http://www.nicjac.net)"
 
   - name: "PhotoBend"
-    id: "Anotherche"
+    id: "PhotoBend"
     url: "https://sites.imagej.net/PhotoBend/"
     description: >-
       The [PhotoBend](https://imagej.net/plugins/photobend) is a collection of
@@ -2063,7 +2063,7 @@ sites:
       - "[Stanislav Chizhik](https://imagej.net/people/anotherche)"
 
   - name: "JavaCVInstaller"
-    id: "Anotherche"
+    id: "JavaCVInstaller"
     url: "https://sites.imagej.net/JavaCVInstaller/"
     description: >-
       The [JavaCV Installer](https://imagej.net/plugins/javacv-installer) is a 
@@ -2072,7 +2072,7 @@ sites:
       - "[Stanislav Chizhik](https://imagej.net/people/anotherche)"
 
   - name: "FFmpegVideoImportExport"
-    id: "Anotherche"
+    id: "FFmpegVideoImportExport"
     url: "https://sites.imagej.net/VideoImportExport/"
     description: >-
       The [FFmpegVideoImportExport](https://imagej.net/plugins/ffmpeg-video-import-export) 
