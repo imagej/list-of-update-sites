@@ -2051,7 +2051,7 @@ sites:
 
   - name: "PhotoBend"
     id: "Anotherche"
-    url: "https://sites.imagej.net/Anotherche/"
+    url: "https://sites.imagej.net/PhotoBend/"
     description: >-
       The [PhotoBend](https://imagej.net/plugins/photobend) is a collection of
       specialized plugins providing tracking a needle-like crystal
@@ -2059,8 +2059,25 @@ sites:
       1. tracking the curvature of uniformly curved rods changing with time;
       2. tracking a laser spot movement used in the laser beam deflection
       technique.
-      Additionally, two auxiliary plugins for reading and writing compressed
-      video using FFmpeg are included, which can be used standalone.
+    maintainers:
+      - "[Stanislav Chizhik](https://imagej.net/people/anotherche)"
+
+  - name: "JavaCVInstaller"
+    id: "Anotherche"
+    url: "https://sites.imagej.net/JavaCVInstaller/"
+    description: >-
+      The [JavaCV Installer](https://imagej.net/plugins/javacv-installer) is a 
+      plugin for managing the installation of JavaCV components in ImageJ.
+    maintainers:
+      - "[Stanislav Chizhik](https://imagej.net/people/anotherche)"
+
+  - name: "FFmpegVideoImportExport"
+    id: "Anotherche"
+    url: "https://sites.imagej.net/VideoImportExport/"
+    description: >-
+      The [FFmpegVideoImportExport](https://imagej.net/plugins/ffmpeg-video-import-export) 
+      allows to import compressed video files into a virtual stack or hyperstack and
+      export a stack as compressed video file using JavaCV interface to FFmpeg.
     maintainers:
       - "[Stanislav Chizhik](https://imagej.net/people/anotherche)"
 
