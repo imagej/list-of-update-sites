@@ -558,6 +558,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Curtis Rueden
 
 |- valign=&quot;top&quot;
+|'''FFmpegVideoImportExport'''
+|https://sites.imagej.net/VideoImportExport/
+|The FFmpegVideoImportExport  allows to import compressed video files into a virtual stack or hyperstack and export a stack as compressed video file using JavaCV interface to FFmpeg.
+|Stanislav Chizhik
+
+|- valign=&quot;top&quot;
 |'''FibrilJ'''
 |https://sites.imagej.net/FibrilJ/
 |Macros developed to measure the diameters and persistence lengths if amyloids fibrils by AFM, EM, STM etc. iamges. It provides histogram distribution of the average fibril diameter and average fibril persistence length. Was validated for AFM, SEM and TEM images of Sup35NM fibrils on mica, silicon, gold surfaces and formvar film.
@@ -802,6 +808,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |https://sites.imagej.net/IsletJ/
 |Plugin for evaluation of microscopy images of Langerhans islets. Provides estimate of area and count of islets, and an estimate of purity (endocrine-to-exocrine tissue ratio).
 |Jan Schier, Jan Švihlík
+
+|- valign=&quot;top&quot;
+|'''JavaCVInstaller'''
+|https://sites.imagej.net/JavaCVInstaller/
+|The JavaCV Installer is a  plugin for managing the installation of JavaCV components in ImageJ.
+|Stanislav Chizhik
 
 |- valign=&quot;top&quot;
 |'''JAX Eye'''
@@ -1255,8 +1267,8 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 
 |- valign=&quot;top&quot;
 |'''PhotoBend'''
-|https://sites.imagej.net/Anotherche/
-|The PhotoBend is a collection of specialized plugins providing tracking a needle-like crystal shape changing during photoinduced bending process. 1. tracking the curvature of uniformly curved rods changing with time; 2. tracking a laser spot movement used in the laser beam deflection technique. Additionally, two auxiliary plugins for reading and writing compressed video using FFmpeg are included, which can be used standalone.
+|https://sites.imagej.net/PhotoBend/
+|The PhotoBend is a collection of specialized plugins providing tracking a needle-like crystal shape changing during photoinduced bending process. 1. tracking the curvature of uniformly curved rods changing with time; 2. tracking a laser spot movement used in the laser beam deflection technique.
 |Stanislav Chizhik
 
 |- valign=&quot;top&quot;
