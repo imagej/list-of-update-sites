@@ -829,6 +829,16 @@ sites:
     maintainers:
       - "[Curtis Rueden](https://imagej.net/people/ctrueden)"
 
+  - name: "FFmpegVideoImportExport"
+    id: "FFmpegVideoImportExport"
+    url: "https://sites.imagej.net/VideoImportExport/"
+    description: >-
+      The [FFmpegVideoImportExport](https://imagej.net/plugins/ffmpeg-video-import-export) 
+      allows to import compressed video files into a virtual stack or hyperstack and
+      export a stack as compressed video file using JavaCV interface to FFmpeg.
+    maintainers:
+      - "[Stanislav Chizhik](https://imagej.net/people/anotherche)"
+
   - name: "FibrilJ"
     id: "FibrilJ"
     url: "https://sites.imagej.net/FibrilJ/"
@@ -1266,6 +1276,15 @@ sites:
       - "[Jan Schier](mailto:schier@utia.cas.cz)"
       - "[Jan Švihlík](mailto:Jan.Svihlik@vscht.cz)"
 
+  - name: "JavaCVInstaller"
+    id: "JavaCVInstaller"
+    url: "https://sites.imagej.net/JavaCVInstaller/"
+    description: >-
+      The [JavaCV Installer](https://imagej.net/plugins/javacv-installer) is a 
+      plugin for managing the installation of JavaCV components in ImageJ.
+    maintainers:
+      - "[Stanislav Chizhik](https://imagej.net/people/anotherche)"
+  
   - name: "JAX Eye"
     id: "MarkKrebs"
     url: "https://sites.imagej.net/MarkKrebs/"
@@ -2061,26 +2080,7 @@ sites:
       technique.
     maintainers:
       - "[Stanislav Chizhik](https://imagej.net/people/anotherche)"
-
-  - name: "JavaCVInstaller"
-    id: "JavaCVInstaller"
-    url: "https://sites.imagej.net/JavaCVInstaller/"
-    description: >-
-      The [JavaCV Installer](https://imagej.net/plugins/javacv-installer) is a 
-      plugin for managing the installation of JavaCV components in ImageJ.
-    maintainers:
-      - "[Stanislav Chizhik](https://imagej.net/people/anotherche)"
-
-  - name: "FFmpegVideoImportExport"
-    id: "FFmpegVideoImportExport"
-    url: "https://sites.imagej.net/VideoImportExport/"
-    description: >-
-      The [FFmpegVideoImportExport](https://imagej.net/plugins/ffmpeg-video-import-export) 
-      allows to import compressed video files into a virtual stack or hyperstack and
-      export a stack as compressed video file using JavaCV interface to FFmpeg.
-    maintainers:
-      - "[Stanislav Chizhik](https://imagej.net/people/anotherche)"
-
+  
   - name: "PhotonImaging"
     id: "PhotonImaging"
     url: "https://sites.imagej.net/PhotonImaging/"
