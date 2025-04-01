@@ -684,6 +684,18 @@ sites:
     maintainers:
       - "[David Cohoe](mailto:dcohoe@pdx.edu)"
 
+  - name: "DHPSFU"
+    id: "DHPSFU"
+    url: "https://sites.imagej.net/DHPSFU/"
+    description: >-
+      [DHPSFU](https://github.com/TheLaueLab/DHPSFU_Fiji_Plugin)
+      provides a suite of tools for analysing 3D SMLM/SPT data obtained
+      using Double Helix (DH) PSF microscopy based on unmixing (DHPSFU)
+      of fitted localisation data using distance pairing.
+    maintainers:
+      - "[Ziwei Zhang](mailto:zz409@cam.ac.uk)"
+      - "[The Laue Lab](https://github.com/TheLaueLab)"
+
   - name: "DiameterJ"
     id: "DiameterJ"
     url: "https://sites.imagej.net/DiameterJ/"
