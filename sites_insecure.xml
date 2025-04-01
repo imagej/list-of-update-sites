@@ -474,6 +474,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |David Cohoe
 
 |- valign=&quot;top&quot;
+|'''DHPSFU'''
+|http://sites.imagej.net/DHPSFU/
+|DHPSFU provides a suite of tools for analysing 3D SMLM/SPT data obtained using Double Helix (DH) PSF microscopy based on unmixing (DHPSFU) of fitted localisation data using distance pairing.
+|Ziwei Zhang, The Laue Lab
+
+|- valign=&quot;top&quot;
 |'''DiameterJ'''
 |http://sites.imagej.net/DiameterJ/
 |Macros for quantitative analysis of nanofiber images. DiameterJ is able to analyze any network of connecting lines (validated for SEM micrographs of micro- and nanofibers) and produce metrics such as mean diameter, histograms of fiber diameter, mean pore size, histogram of all pore areas, percent porosity, etc. See soon for more information and the publication describing how DiameterJ works and its limitations.
