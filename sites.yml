@@ -3,8 +3,9 @@ sites:
     id: "ImageJ"
     url: "https://update.imagej.net/"
     description: >-
-      Base update site for [ImageJ2](https://imagej.net/software/imagej2). No need
-      to add this to your list of update sites; it is already included.
+      Base update site for Fiji-Stable (along with Fiji and Java-8).
+      No need to add this to your list of update sites;
+      it is already included with Fiji-Stable.
     maintainers:
       - "[ImageJ2 developers](https://imagej.net/people#imagej2)"
 
@@ -12,9 +13,9 @@ sites:
     id: "Fiji"
     url: "https://update.fiji.sc/"
     description: >-
-      Base update site for [Fiji](https://imagej.net/software/fiji) and
-      [core Fiji plugins](https://imagej.net/list-of-extensions).
-      If you downloaded Fiji directly, it is already included.
+      Base update site for Fiji-Stable (along with ImageJ and Java-8).
+      No need to add this to your list of update sites;
+      it is already included with Fiji-Stable.
     maintainers:
       - "[Fiji developers](https://imagej.net/people#fiji)"
 
@@ -22,7 +23,7 @@ sites:
     id: "ImageJ-micron.ox.ac.uk"
     url: "https://downloads.micron.ox.ac.uk/fiji_update/mirrors/imagej/"
     description: >-
-      European mirror for the ImageJ update site.  Replace the ImageJ
+      European mirror for the ImageJ update site. Replace the ImageJ
       update site with this one for faster updates in Europe.
     maintainers:
       - "[ImageJ2 developers](https://imagej.net/people#imagej2)"
@@ -31,7 +32,7 @@ sites:
     id: "Fiji-micron.ox.ac.uk"
     url: "https://downloads.micron.ox.ac.uk/fiji_update/mirrors/fiji/"
     description: >-
-      European mirror for the Fiji update site.  Replace the Fiji
+      European mirror for the Fiji update site. Replace the Fiji
       update site with this one for faster updates in Europe.
     maintainers:
       - "[Fiji developers](https://imagej.net/people#fiji)"
@@ -49,21 +50,30 @@ sites:
     id: "Java-8"
     url: "https://sites.imagej.net/Java-8/"
     description: >-
-      Temporary base update site for [ImageJ2](https://imagej.net/software/imagej2) and
-      [Fiji](https://imagej.net/software/fiji) components as everything migrates to Java
-      8. __Will not work with Java 6 or 7.__
-      See [this page](https://imagej.net/news/2016-05-10-imagej-howto-java-8-java-6-java-3d) for details.
+      Base update site for Fiji-Stable (along with ImageJ and Fiji).
+      No need to add this to your list of update sites;
+      it is already included with Fiji-Stable.
     maintainers:
-      - "[ImageJ2 and Fiji developers](https://imagej.net/people)"
+      - "[Fiji developers](https://imagej.net/people)"
 
   - name: "Java-8 (Europe mirror)"
     id: "Java-8-micron.ox.ac.uk"
     url: "https://downloads.micron.ox.ac.uk/fiji_update/mirrors/java-8/"
     description: >-
-      European mirror for the Java-8 update site.  Replace the Java-8
+      European mirror for the Java-8 update site. Replace the Java-8
       update site with this one for faster updates in Europe.
     maintainers:
-      - "[ImageJ2 and Fiji developers](https://imagej.net/people)"
+      - "[Fiji developers](https://imagej.net/people)"
+
+  - name: "Fiji-Latest"
+    id: "Fiji-Latest"
+    url: "https://sites.imagej.net/Fiji/"
+    description: >-
+      Base update site for Fiji-Latest.
+      No need to add this to your list of update sites;
+      it is already included with Fiji-Latest.
+    maintainers:
+      - "[Fiji developers](https://imagej.net/people)"
 
   - name: "2015-Conference"
     id: "2015-Conference"

@@ -62,25 +62,25 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''ImageJ'''
 |https://update.imagej.net/
-|Base update site for ImageJ2. No need to add this to your list of update sites; it is already included.
+|Base update site for Fiji-Stable (along with Fiji and Java-8). No need to add this to your list of update sites; it is already included with Fiji-Stable.
 |ImageJ2 developers
 
 |- valign=&quot;top&quot;
 |'''Fiji'''
 |https://update.fiji.sc/
-|Base update site for Fiji and core Fiji plugins. If you downloaded Fiji directly, it is already included.
+|Base update site for Fiji-Stable (along with ImageJ and Java-8). No need to add this to your list of update sites; it is already included with Fiji-Stable.
 |Fiji developers
 
 |- valign=&quot;top&quot;
 |'''ImageJ (Europe mirror)'''
 |https://downloads.micron.ox.ac.uk/fiji_update/mirrors/imagej/
-|European mirror for the ImageJ update site.  Replace the ImageJ update site with this one for faster updates in Europe.
+|European mirror for the ImageJ update site. Replace the ImageJ update site with this one for faster updates in Europe.
 |ImageJ2 developers
 
 |- valign=&quot;top&quot;
 |'''Fiji (Europe mirror)'''
 |https://downloads.micron.ox.ac.uk/fiji_update/mirrors/fiji/
-|European mirror for the Fiji update site.  Replace the Fiji update site with this one for faster updates in Europe.
+|European mirror for the Fiji update site. Replace the Fiji update site with this one for faster updates in Europe.
 |Fiji developers
 
 |- valign=&quot;top&quot;
@@ -92,14 +92,20 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''Java-8'''
 |https://sites.imagej.net/Java-8/
-|Temporary base update site for ImageJ2 and Fiji components as everything migrates to Java 8. Will not work with Java 6 or 7. See this page for details.
-|ImageJ2 and Fiji developers
+|Base update site for Fiji-Stable (along with ImageJ and Fiji). No need to add this to your list of update sites; it is already included with Fiji-Stable.
+|Fiji developers
 
 |- valign=&quot;top&quot;
 |'''Java-8 (Europe mirror)'''
 |https://downloads.micron.ox.ac.uk/fiji_update/mirrors/java-8/
-|European mirror for the Java-8 update site.  Replace the Java-8 update site with this one for faster updates in Europe.
-|ImageJ2 and Fiji developers
+|European mirror for the Java-8 update site. Replace the Java-8 update site with this one for faster updates in Europe.
+|Fiji developers
+
+|- valign=&quot;top&quot;
+|'''Fiji-Latest'''
+|https://sites.imagej.net/Fiji/
+|Base update site for Fiji-Latest. No need to add this to your list of update sites; it is already included with Fiji-Latest.
+|Fiji developers
 
 |- valign=&quot;top&quot;
 |'''2015-Conference'''
