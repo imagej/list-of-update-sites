@@ -606,6 +606,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Christian Tischer
 
 |- valign=&quot;top&quot;
+|'''Foci Analyzer'''
+|http://sites.imagej.net/Foci-Analyzer/
+|Foci Analyzer is a user-friendly and extensive Fiji macro  designed to detect, analyze and visualize foci in 2D and 3D fluorescence microscopy images of cells and tissue.  The script utilizes deep-learning tools StarDist and  Cellpose for accurate 2D/3D segmentation of cells or nuclei.  Advanced libraries like CLIJ2 and MorpholobJ  are employed for efficient and reliable foci detection across different imaging modalities (confocal, widefield)  and resolutions, with minimal user input.
+|Bram van den Broek
+
+|- valign=&quot;top&quot;
 |'''FOCUST'''
 |http://sites.imagej.net/FOCUST/
 |FOCUST is the Fluorescent Object and Cell gpU-accelerated Segmentation Toolbox.
