@@ -1616,6 +1616,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Jean-Yves Tinevez
 
 |- valign=&quot;top&quot;
+|'''TrackMate-Kymograph'''
+|https://sites.imagej.net/TrackMate-Kymograph
+|This update site provides the TrackMate-Kymograph extension. This module integrates into TrackMate, and let users trace and analyze moving kymographs, using TrackMate tracks as moving landmarks.
+|Jean-Yves Tinevez
+
+|- valign=&quot;top&quot;
 |'''TrackMate-Lacss'''
 |https://sites.imagej.net/TrackMate-Lacss
 |This update site provides TrackMate-Lacss, a pretrained deep-learning library called Lacss to detect and segment cells serving as a detector to the popular cell/object tracker plugin TrackMate. This plugin REQUIRES a python enviorment setup. See the lacss github or documentation. This plugin is overall is thin Java Wrapper around the Lacss python module, which runs as a seperate process. Java communicates with the python process via anonymous pipe - sending messages encoded in protobuf.
