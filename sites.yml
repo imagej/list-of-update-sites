@@ -928,12 +928,12 @@ sites:
     id: "Foci-Analyzer"
     url: "https://sites.imagej.net/Foci-Analyzer/"
     description: >-
-      [Foci Analyzer](https://sites.imagej.net/Foci-Analyzer/) is a user-friendly and extensive Fiji macro 
-      designed to detect, analyze and visualize foci in 2D and 3D fluorescence microscopy images of cells and tissue. 
-      The script utilizes deep-learning tools [StarDist](https://imagej.net/plugins/stardist) and 
-      [Cellpose](https://github.com/MouseLand/cellpose) for accurate 2D/3D segmentation of cells or nuclei. 
-      Advanced libraries like [CLIJ2](https://clij.github.io/) and [MorpholobJ](https://imagej.net/plugins/morpholibj) 
-      are employed for efficient and reliable foci detection across different imaging modalities (confocal, widefield) 
+      [Foci Analyzer](https://imagej.net/plugins/foci-analyzer) is a user-friendly and extensive Fiji macro
+      designed to detect, analyze and visualize foci in 2D and 3D fluorescence microscopy images of cells and tissue.
+      The script utilizes deep-learning tools [StarDist](https://imagej.net/plugins/stardist) and
+      [Cellpose](https://github.com/MouseLand/cellpose) for accurate 2D/3D segmentation of cells or nuclei.
+      Advanced libraries like [CLIJ2](https://clij.github.io/) and [MorpholobJ](https://imagej.net/plugins/morpholibj)
+      are employed for efficient and reliable foci detection across different imaging modalities (confocal, widefield)
       and resolutions, with minimal user input.
     maintainers:
       - "Bram van den Broek"
