@@ -1551,11 +1551,21 @@ sites:
     id: "Mars"
     url: "https://sites.imagej.net/Mars/"
     description: >-
-      [Mars](https://duderstadt-lab.github.io/mars-docs/), a platform for storage,
+      (Supports Fiji-Stable Java-8) [Mars](https://duderstadt-lab.github.io/mars-docs/), a platform for storage,
       exploration, and processing of image-derived properties of biomolecules
       together with enhanced OME metadata.
     maintainers:
-      - "[Karl Duderstadt](mailto:duderstadt@biochem.mpg.de)"
+      - "[Karl Duderstadt](mailto:karl.duderstadt@tum.de)"
+
+  - name: "Mars-Latest"
+    id: "Mars-Latest"
+    url: "https://sites.imagej.net/Mars-Latest/"
+    description: >-
+      (Supports Fiji-Latest Java-21+) [Mars](https://duderstadt-lab.github.io/mars-docs/), a platform for storage,
+      exploration, and processing of image-derived properties of biomolecules
+      together with enhanced OME metadata.
+    maintainers:
+      - "[Karl Duderstadt](mailto:karl.duderstadt@tum.de)"
 
   - name: "Maskflow"
     id: "Maskflow"
