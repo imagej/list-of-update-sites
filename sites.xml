@@ -968,7 +968,13 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''Mars'''
 |https://sites.imagej.net/Mars/
-|Mars, a platform for storage, exploration, and processing of image-derived properties of biomolecules together with enhanced OME metadata.
+|(Supports Fiji-Stable Java-8) Mars, a platform for storage, exploration, and processing of image-derived properties of biomolecules together with enhanced OME metadata.
+|Karl Duderstadt
+
+|- valign=&quot;top&quot;
+|'''Mars-Latest'''
+|https://sites.imagej.net/Mars-Latest/
+|(Supports Fiji-Latest Java-21+) Mars, a platform for storage, exploration, and processing of image-derived properties of biomolecules together with enhanced OME metadata.
 |Karl Duderstadt
 
 |- valign=&quot;top&quot;
