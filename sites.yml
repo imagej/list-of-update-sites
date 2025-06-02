@@ -76,7 +76,7 @@ sites:
       - "[Fiji developers](https://imagej.net/people)"
 
   - name: "Fiji-Latest (Europe mirror)"
-    id: "Fiji-Latest"
+    id: "Fiji-Latest-micron.ox.ac.uk"
     url: "https://downloads.micron.ox.ac.uk/fiji_update/mirrors/sites-fiji/"
     description: >-
       European mirror for the Fiji-Latest update site. Replace the
