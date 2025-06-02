@@ -108,6 +108,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Fiji developers
 
 |- valign=&quot;top&quot;
+|'''Fiji-Latest (Europe mirror)'''
+|https://downloads.micron.ox.ac.uk/fiji_update/mirrors/sites-fiji/
+|European mirror for the Fiji-Latest update site. Replace the Fiji-Latest update site with this one for faster updates in Europe.
+|Fiji developers
+
+|- valign=&quot;top&quot;
 |'''2015-Conference'''
 |http://sites.imagej.net/2015-Conference/
 |A collection of plugins highlighting the latest features of ImageJ. As seen in Wayne Rasband's opening talk at the 2015 conference!

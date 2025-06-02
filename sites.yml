@@ -75,6 +75,15 @@ sites:
     maintainers:
       - "[Fiji developers](https://imagej.net/people)"
 
+  - name: "Fiji-Latest (Europe mirror)"
+    id: "Fiji-Latest-micron.ox.ac.uk"
+    url: "https://downloads.micron.ox.ac.uk/fiji_update/mirrors/sites-fiji/"
+    description: >-
+      European mirror for the Fiji-Latest update site. Replace the
+      Fiji-Latest update site with this one for faster updates in Europe.
+    maintainers:
+      - "[Fiji developers](https://imagej.net/people)"
+
   - name: "2015-Conference"
     id: "2015-Conference"
     url: "https://sites.imagej.net/2015-Conference/"
