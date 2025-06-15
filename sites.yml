@@ -920,9 +920,9 @@ sites:
     description: >-
       [FLIMJ](https://imagej.net/plugins/flimj) is a plugin for analyzing FLIM
       data in ImageJ, using the [FLIMLib](https://flimlib.github.io/)
-      library.
+      library. ***Requires Fiji-Latest.***
     maintainers:
-      - "Dasong Gao"
+      - "Edward Evans"
       - "Curtis Rueden"
 
   - name: "FlyReg"
