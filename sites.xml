@@ -608,8 +608,8 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''FLIMJ'''
 |https://sites.imagej.net/FLIMJ/
-|FLIMJ is a plugin for analyzing FLIM data in ImageJ, using the FLIMLib library.
-|Dasong Gao, Curtis Rueden
+|FLIMJ is a plugin for analyzing FLIM data in ImageJ, using the FLIMLib library. Requires Fiji-Latest.
+|Edward Evans, Curtis Rueden
 
 |- valign=&quot;top&quot;
 |'''FlyReg'''
