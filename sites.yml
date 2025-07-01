@@ -840,6 +840,18 @@ sites:
     maintainers:
       - "[C.TURIÈS](https://imagej.net/people/cyrilturies)"
 
+  - name: "FAST-HIPPOS"
+    id: "FAST-HIPPOS"
+    url: "https://sites.imagej.net/FAST-HIPPOS/"
+    description: >-
+      [FAST-HIPPOS](https://imagej.net/plugins/FAST-HIPPOS) (FLIM Analysis of
+      Single-cell Traces for Hit Identification of Phenotypes in Pooled Optical
+      Screening) is a collection of macros to analyze time-lapse live-cell (FLIM)
+      data, and to automatically identify hit cells and save their microscope stage
+      coordinates to a file readable by Leica LAS X Navigator.
+    maintainers:
+      - "Bram van den Broek"
+
   - name: "Fast4DReg"
     id: "Fast4DReg"
     url: "https://sites.imagej.net/Fast4DReg/"

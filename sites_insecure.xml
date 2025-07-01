@@ -564,6 +564,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |C.TURIÈS
 
 |- valign=&quot;top&quot;
+|'''FAST-HIPPOS'''
+|http://sites.imagej.net/FAST-HIPPOS/
+|FAST-HIPPOS (FLIM Analysis of Single-cell Traces for Hit Identification of Phenotypes in Pooled Optical Screening) is a collection of macros to analyze time-lapse live-cell (FLIM) data, and to automatically identify hit cells and save their microscope stage coordinates to a file readable by Leica LAS X Navigator.
+|Bram van den Broek
+
+|- valign=&quot;top&quot;
 |'''Fast4DReg'''
 |http://sites.imagej.net/Fast4DReg/
 |Fast4DReg is a Fiji macro for drift correction of 3D videos or channel alignment in 3D multichannel image stacks. Drift or misalignment can be corrected in all x-, y- and/or z-directions.
