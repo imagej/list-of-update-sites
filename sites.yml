@@ -840,17 +840,6 @@ sites:
     maintainers:
       - "[C.TURIÈS](https://imagej.net/people/cyrilturies)"
 
-  - name: "Fast4DReg"
-    id: "Fast4DReg"
-    url: "https://sites.imagej.net/Fast4DReg/"
-    description: >-
-      [Fast4DReg](https://imagej.net/plugins/fast4dreg) is a Fiji macro for
-      drift correction of 3D videos or channel alignment in 3D multichannel
-      image stacks. Drift or misalignment can be corrected in all x-, y- and/or
-      z-directions.
-    maintainers:
-      - "[Joanna Pylvänäinen](https://imagej.net/people/jpylvanainen)"
-
   - name: "FAST-HIPPOS"
     id: "FAST-HIPPOS"
     url: "https://sites.imagej.net/FAST-HIPPOS/"
@@ -862,6 +851,17 @@ sites:
       coordinates to a file readable by Leica LAS X Navigator.
     maintainers:
       - "Bram van den Broek"
+
+  - name: "Fast4DReg"
+    id: "Fast4DReg"
+    url: "https://sites.imagej.net/Fast4DReg/"
+    description: >-
+      [Fast4DReg](https://imagej.net/plugins/fast4dreg) is a Fiji macro for
+      drift correction of 3D videos or channel alignment in 3D multichannel
+      image stacks. Drift or misalignment can be corrected in all x-, y- and/or
+      z-directions.
+    maintainers:
+      - "[Joanna Pylvänäinen](https://imagej.net/people/jpylvanainen)"
 
   - name: "FFMPEG"
     id: "FFMPEG"
