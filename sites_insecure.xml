@@ -510,6 +510,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Christian Tischer
 
 |- valign=&quot;top&quot;
+|'''Dorsal Horn Mapping'''
+|https://imagej.net/plugins/dorsal-horn-mapping
+|Plugin for mapping of cells on epifluorescence images of murine dorsal horns.
+|Lucas Röttger
+
+|- valign=&quot;top&quot;
 |'''Draw 3D ROI'''
 |http://sites.imagej.net/Draw3DROI/
 |A Fiji plugin to create 3D masks from hand-drawn 2D ROIs.
