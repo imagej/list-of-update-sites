@@ -749,6 +749,14 @@ sites:
     maintainers:
       - "Christian Tischer"
 
+  - name: "Dorsal Horn Mapping"
+    id: "Dorsal-Horn-Mapping"
+    url: "https://imagej.net/plugins/dorsal-horn-mapping"
+    description: >-
+      Plugin for mapping of cells on epifluorescence images of murine dorsal horns.
+    maintainers:
+      - "Lucas Röttger"
+      
   - name: "Draw 3D ROI"
     id: "Draw3DROI"
     url: "https://sites.imagej.net/Draw3DROI/"
