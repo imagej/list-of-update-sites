@@ -751,9 +751,9 @@ sites:
 
   - name: "Dorsal Horn Mapping"
     id: "Dorsal-Horn-Mapping"
-    url: "https://imagej.net/plugins/dorsal-horn-mapping"
+    url: "https://sites.imagej.net/ReferenceFrameToolkit/"
     description: >-
-      Plugin for mapping of cells on epifluorescence images of murine dorsal horns.
+      Plugin for [mapping of cells on epifluorescence images of murine dorsal horns](https://imagej.net/plugins/dorsal-horn-mapping).
     maintainers:
       - "Lucas Röttger"
       
