@@ -2686,6 +2686,17 @@ sites:
     maintainers:
       - "[Jean-Yves Tinevez](https://imagej.net/people/tinevez)"
 
+  - name: "TrackMate-GEFF"
+    id: "TrackMate-GEFF"
+    url: "https://sites.imagej.net/TrackMate-GEFF"
+    description: >-
+      This update site provides exporter and importer to and from
+      [GEFF files](https://live-image-tracking-tools.github.io/geff/),
+      a tracking file format made to exchange data bewtween tracking 
+      software.
+    maintainers:
+      - "[Jean-Yves Tinevez](https://imagej.net/people/tinevez)"
+
   - name: "TrackMate-Helper"
     id: "TrackMate-Helper"
     url: "https://sites.imagej.net/TrackMate-Helper"
