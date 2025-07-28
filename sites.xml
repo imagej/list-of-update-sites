@@ -132,6 +132,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Benjamin Schmid
 
 |- valign=&quot;top&quot;
+|'''4d-Tools'''
+|https://sites.imagej.net/4d-Tools
+|4d-Tools is a set of macros for importing legacy 4D microscopy data and Imaris and Micro-Manager datasets. Importing .MP4 and .MOV requires Stanislav Chizhik's FFmpegVideoImportExport plugins. Also includes a highly experimental Hyperstack Projector plugin.
+|Jeff Hardin
+
+|- valign=&quot;top&quot;
 |'''ActogramJ'''
 |https://romulus.oice.uni-erlangen.de/imagej/updatesites/ActogramJ/
 |ActogramJ is a plugin for analyzing actograms.

@@ -112,6 +112,18 @@ sites:
     maintainers:
       - "[Benjamin Schmid](https://imagej.net/people/bene51)"
 
+  - name: "4d-Tools"
+    id: "4d-Tools"
+    url: "https://sites.imagej.net/4d-Tools"
+    description: >-
+      [4d-Tools](https://imagej.net/plugins/4d-tools) is a set of macros for
+      importing legacy 4D microscopy data and Imaris and Micro-Manager datasets.
+      Importing .MP4 and .MOV requires Stanislav Chizhik's
+      FFmpegVideoImportExport plugins. Also includes a highly experimental
+      Hyperstack Projector plugin.
+    maintainers:
+      - "[Jeff Hardin](https://github.com/jdhardin)"
+
   - name: "ActogramJ"
     id: "ActogramJ"
     url: "https://romulus.oice.uni-erlangen.de/imagej/updatesites/ActogramJ/"
