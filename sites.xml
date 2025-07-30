@@ -1636,7 +1636,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''TrackMate-GEFF'''
 |https://sites.imagej.net/TrackMate-GEFF
-|This update site provides exporter and importer to and from GEFF files, a tracking file format made to exchange data bewtween tracking  software.
+|This update site provides exporter and importer to and from GEFF files, a tracking file format made to exchange data bewtween tracking  software. See this page  for information.
 |Jean-Yves Tinevez
 
 |- valign=&quot;top&quot;
@@ -1650,6 +1650,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |https://sites.imagej.net/TrackMate-Ilastik
 |This update site provides TrackMate-Ilastik, a detector module for TrackMate that relies on Ilastik to segment objects in 2D or 3D.
 |Jean-Yves Tinevez
+
+|- valign=&quot;top&quot;
+|'''TrackMate-InTRACKtive'''
+|https://sites.imagej.net/TrackMate-InTRACKtive
+|This update site provides TrackMate with an action to open the current  tracking data in  InTRACKtive, a application for visualization and sharing of cell tracking data in the browser. This update site requires the TrackMate-GEFF update site to be installed as well. See this page  for installation instructions and information.
+|Jean-Yves Tinevez, Teun Huijben
 
 |- valign=&quot;top&quot;
 |'''TrackMate-Kymograph'''
