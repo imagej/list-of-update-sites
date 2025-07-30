@@ -2706,6 +2706,8 @@ sites:
       [GEFF files](https://live-image-tracking-tools.github.io/geff/),
       a tracking file format made to exchange data bewtween tracking 
       software.
+      See [this page](https://imagej.net/plugins/trackmate/actions/geff_exporter) 
+      for information.
     maintainers:
       - "[Jean-Yves Tinevez](https://imagej.net/people/tinevez)"
 
@@ -2734,6 +2736,21 @@ sites:
       in 2D or 3D.
     maintainers:
       - "[Jean-Yves Tinevez](https://imagej.net/people/tinevez)"
+
+  - name: "TrackMate-InTRACKtive"
+    id: "TrackMate-InTRACKtive"
+    url: "https://sites.imagej.net/TrackMate-InTRACKtive"
+    description: >-
+      This update site provides TrackMate with an action to open the current 
+      tracking data in 
+      [InTRACKtive](https://github.com/royerlab/inTRACKtive/blob/main/README.md),
+      a application for visualization and sharing of cell tracking data in the browser.
+      This update site requires the TrackMate-GEFF update site to be installed as well.
+      See [this page](https://imagej.net/plugins/trackmate/actions/trackmate-intracktive) 
+      for installation instructions and information.
+    maintainers:
+      - "[Jean-Yves Tinevez](https://imagej.net/people/tinevez)"
+      - "Teun Huijben"
 
   - name: "TrackMate-Kymograph"
     id: "TrackMate-Kymograph"
