@@ -482,7 +482,7 @@ sites:
       It also provides an extension for importing, editing and exporting 
       the results of the CellTrackingChallenge directly in the Mastodon plugin.
     maintainers:
-      - "[Vladimír Ulman](mailto:ulman@mpi-cbg.de)"
+      - "[Vladimír Ulman](https://imagej.net/people/xulman)"
 
   - name: "Cellular Imaging"
     id: "CellularImaging"
@@ -2661,7 +2661,7 @@ sites:
       A couple of Fiji scripts to ease daily evo-devo image analysis life, from
       Tomancak lab.
     maintainers:
-      - "[Vladimír Ulman](mailto:ulman@mpi-cbg.de)"
+      - "[Vladimír Ulman](https://imagej.net/people/xulman)"
       - "[Matthias Arzt](https://imagej.net/people/maarzt)"
 
   - name: "Tr2d"
