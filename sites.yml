@@ -480,8 +480,7 @@ sites:
       Implementation of measures and front-end Fiji plugins used in and related to
       the [Cell Tracking Challenge](http://www.celltrackingchallenge.net).
       It also provides an extension for importing, editing and exporting 
-      the results of the CellTrackingChallenge, which can be used in 
-      conjunction with the Mastodon plugin.
+      the results of the CellTrackingChallenge directly in the Mastodon plugin.
     maintainers:
       - "[Vladimír Ulman](mailto:ulman@mpi-cbg.de)"
 
