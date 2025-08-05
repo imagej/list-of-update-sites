@@ -660,6 +660,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |A. Karperien
 
 |- valign=&quot;top&quot;
+|'''FRAP-Tools'''
+|https://sites.imagej.net/FRAP-Tools
+|FRAP-Tools is a set of scripts for generating, displaying, and analyzing fluorescence recovery after photobleaching (FRAP) datasets.
+|Jeff Hardin
+
+|- valign=&quot;top&quot;
 |'''FreQ'''
 |https://sites.imagej.net/FreQ/
 |An ImageJ plugin to analyze pixel intensity oscillations in time-lapse 2D images. For example, this allows to characterize the ciliary beat of multi-ciliated cells in time-lapse images acquired with a bright-field or phase-contrast microscope. For more details, a link to the corresponding publication, and information on how to cite the plugin visit the FreQ github pages at https://github.com/hansenjn/FreQ

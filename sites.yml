@@ -1016,6 +1016,16 @@ sites:
     maintainers:
       - "[A. Karperien](https://imagej.net/User:Akarperien)"
 
+  - name: "FRAP-Tools"
+    id: "FRAP-Tools"
+    url: "https://sites.imagej.net/FRAP-Tools"
+    description: >-
+      [FRAP-Tools](https://imagej.net/plugins/frap-tools) is a set of scripts for
+      generating, displaying, and analyzing fluorescence recovery after photobleaching
+      (FRAP) datasets.
+    maintainers:
+      - "[Jeff Hardin](https://github.com/jdhardin)"
+
   - name: "FreQ"
     id: "FreQ"
     url: "https://sites.imagej.net/FreQ/"
