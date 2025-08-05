@@ -480,10 +480,9 @@ sites:
       Implementation of measures and front-end Fiji plugins used in and related to
       the [Cell Tracking Challenge](http://www.celltrackingchallenge.net).
       It also provides an extension for importing, editing and exporting 
-      the results of the CellTrackingChallenge, which can be used in 
-      conjunction with the Mastodon plugin.
+      the results of the CellTrackingChallenge directly in the Mastodon plugin.
     maintainers:
-      - "[Vladimír Ulman](mailto:ulman@mpi-cbg.de)"
+      - "[Vladimír Ulman](https://imagej.net/people/xulman)"
 
   - name: "Cellular Imaging"
     id: "CellularImaging"
@@ -1649,6 +1648,17 @@ sites:
       - "[Tobias Pietzsch](https://imagej.net/people/tpietzsch)"
       - "[Jean-Yves Tinevez](https://imagej.net/people/tinevez)"      
 
+  - name: "Mastodon-Benchmark"
+    id: "Mastodon-Benchmark"
+    url: "https://sites.imagej.net/Mastodon-Benchmark/"
+    description: >-
+      Language and framework for [reproducible benchmarking](https://github.com/mastodon-sc/mastodon-benchmark)
+      of Mastodon main displays. It measures reaction times of BigDataViewer
+      and Trackscheme windows after they are requested to change their views.
+      The changing of the views is flexibly described with the language.
+    maintainers:
+      - "[Vladimír Ulman](https://imagej.net/people/xulman)"
+
   - name: "Mastodon-DeepLineage"
     id: "Mastodon-DeepLineage"
     url: "https://sites.imagej.net/Mastodon-DeepLineage/"
@@ -1661,6 +1671,16 @@ sites:
     maintainers: 
       - "[Stefan Hahmann](https://imagej.net/people/stefanhahmann)"
       - "[Matthias Arzt](https://imagej.net/people/maarzt)"
+
+  - name: "Mastodon-Simulator"
+    id: "Mastodon-Simulator"
+    url: "https://sites.imagej.net/Mastodon-Simulator/"
+    description: >-
+      [Cell population growth simulator](https://github.com/mastodon-sc/mastodon-simulator)
+      implemented in Mastodon. The project was initially meant to provide test datasets for
+      Mastodon-Benchmark.
+    maintainers:
+      - "[Vladimír Ulman](https://imagej.net/people/xulman)"
 
   - name: "Mastodon-Tomancak"
     id: "Mastodon-Tomancak"
@@ -2672,7 +2692,7 @@ sites:
       A couple of Fiji scripts to ease daily evo-devo image analysis life, from
       Tomancak lab.
     maintainers:
-      - "[Vladimír Ulman](mailto:ulman@mpi-cbg.de)"
+      - "[Vladimír Ulman](https://imagej.net/people/xulman)"
       - "[Matthias Arzt](https://imagej.net/people/maarzt)"
 
   - name: "Tr2d"
