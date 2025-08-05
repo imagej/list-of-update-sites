@@ -344,7 +344,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''CellTrackingChallenge'''
 |https://sites.imagej.net/Ulman/
-|Implementation of measures and front-end Fiji plugins used in and related to the Cell Tracking Challenge. It also provides an extension for importing, editing and exporting  the results of the CellTrackingChallenge, which can be used in  conjunction with the Mastodon plugin.
+|Implementation of measures and front-end Fiji plugins used in and related to the Cell Tracking Challenge. It also provides an extension for importing, editing and exporting  the results of the CellTrackingChallenge directly in the Mastodon plugin.
 |Vladimír Ulman
 
 |- valign=&quot;top&quot;
@@ -1026,10 +1026,22 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Tobias Pietzsch, Jean-Yves Tinevez
 
 |- valign=&quot;top&quot;
+|'''Mastodon-Benchmark'''
+|https://sites.imagej.net/Mastodon-Benchmark/
+|Language and framework for reproducible benchmarking of Mastodon main displays. It measures reaction times of BigDataViewer and Trackscheme windows after they are requested to change their views. The changing of the views is flexibly described with the language.
+|Vladimír Ulman
+
+|- valign=&quot;top&quot;
 |'''Mastodon-DeepLineage'''
 |https://sites.imagej.net/Mastodon-DeepLineage/
 |Mastodon-DeepLineage provides an extension for the Mastodon plugin and can only be used in conjunction with it. Mastodon allows tracking cell lineages in 3D+t images. Mastodon-DeepLineage extends this with a collection of tools to analyse lineages of tracked objects.
 |Stefan Hahmann, Matthias Arzt
+
+|- valign=&quot;top&quot;
+|'''Mastodon-Simulator'''
+|https://sites.imagej.net/Mastodon-Simulator/
+|Cell population growth simulator implemented in Mastodon. The project was initially meant to provide test datasets for Mastodon-Benchmark.
+|Vladimír Ulman
 
 |- valign=&quot;top&quot;
 |'''Mastodon-Tomancak'''
