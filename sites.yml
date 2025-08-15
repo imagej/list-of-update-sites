@@ -1110,6 +1110,16 @@ sites:
       The aim is to expand the analysis to other celltypes within the gut and enable 3D analysis.
     maintainers:
       - "[Pradeep Rajasekhar](https://imagej.net/people/pr4deepr)"
+  
+  - name: "H5FFmpeg"
+    id: "CailabUM-H5FFMPEG"
+    url: "https://sites.imagej.net/CailabUM-H5FFMPEG/"
+    description: >-
+      Plugins allows video compression and decompression in HDF5 file format.
+      From the Cai Lab at
+      [Michigan Medicine](https://www.cai-lab.org/).
+    maintainers:
+      - "[Bin Duan](mailto:duanb@umich.edu)"
 
   - name: "Hadim"
     id: "Hadim"
