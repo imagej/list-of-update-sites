@@ -714,6 +714,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Pradeep Rajasekhar
 
 |- valign=&quot;top&quot;
+|'''H5FFmpeg'''
+|https://sites.imagej.net/CailabUM-H5FFMPEG/
+|Plugins allows video compression and decompression in HDF5 file format. From the Cai Lab at Michigan Medicine.
+|Bin Duan
+
+|- valign=&quot;top&quot;
 |'''Hadim'''
 |https://sites.imagej.net/Hadim/
 |Contains the ij2-python-lib package.
