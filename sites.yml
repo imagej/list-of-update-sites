@@ -2517,6 +2517,14 @@ sites:
         Structured Illumination Microscopy (SIM) data.
     maintainers:
       - "[Micron Oxford](https://www.micron.ox.ac.uk/home.php)"
+  
+ - name: "SIMworks"
+    id: "SIMworks"
+    url: "https://sites.imagej.net/SIMworks/"
+    description: >-
+      SIMworks – an integrated software suite for quality-controlled augmented quantitative structured illumination microscopy.
+    maintainers:
+      - "Lior Pytowski"
 
   - name: "SimonKlein"
     id: "SimonKlein"
