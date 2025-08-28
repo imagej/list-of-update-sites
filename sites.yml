@@ -2539,6 +2539,14 @@ sites:
     maintainers:
       - "[Burkhard Hoeckendorf](mailto:hoeckendorfb@janelia.hhmi.org)"
 
+  - name: "SIMworks"
+    id: "SIMworks"
+    url: "https://sites.imagej.net/SIMworks/"
+    description: >-
+      SIMworks – an integrated software suite for quality-controlled augmented quantitative structured illumination microscopy.
+    maintainers:
+      - "Lior Pytowski"
+
   - name: "Slide Set"
     id: "Slide-Set"
     url: "https://b.nanes.org/slideset/update/"
