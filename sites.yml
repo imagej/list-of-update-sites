@@ -84,6 +84,15 @@ sites:
     maintainers:
       - "[Fiji developers](https://imagej.net/people)"
 
+  - name: "Fiji-Hotfixes"
+    id: "Fiji-Hotfixes"
+    url: "https://sites.imagej.net/Fiji-Hotfixes/"
+    description: >-
+      **Experimental** bug-fixes addressing specific user issues.
+      Might break other existing workflows; use at your own risk!
+    maintainers:
+      - "[Fiji developers](https://imagej.net/people#fiji)"
+
   - name: "2015-Conference"
     id: "2015-Conference"
     url: "https://sites.imagej.net/2015-Conference/"
