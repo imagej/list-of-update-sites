@@ -785,6 +785,17 @@ sites:
     maintainers:
       - "[Andrew McCall](https://imagej.net/people/andmccall)"
 
+  - name: "EasyFiji"
+    id: "EasyFiji"
+    url: "https://sites.imagej.net/EasyFiji/"
+    description: >-
+      EasyFiji is a graphical user interface for Fiji that provides access
+      to a curated suite of fluorescence image visualization and processing
+      tools commonly needed by life scientists.
+    maintainers:
+      - "[Chen Li](mailto:chen.li@stjude.org)"
+      - "[Aaron Taylor](mailto:aaron.taylor@stjude.org)"
+
   - name: "ElastixWrapper"
     id: "ElastixWrapper"
     url: "https://sites.imagej.net/ElastixWrapper/"
