@@ -534,6 +534,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Andrew McCall
 
 |- valign=&quot;top&quot;
+|'''EasyFiji'''
+|http://sites.imagej.net/EasyFiji/
+|EasyFiji is a graphical user interface for Fiji that provides access to a curated suite of fluorescence image visualization and processing tools commonly needed by life scientists.
+|Chen Li, Aaron Taylor
+
+|- valign=&quot;top&quot;
 |'''ElastixWrapper'''
 |http://sites.imagej.net/ElastixWrapper/
 |Image registration using elastix
