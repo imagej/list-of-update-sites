@@ -810,6 +810,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |ilastik team
 
 |- valign=&quot;top&quot;
+|'''Image Viewer'''
+|http://sites.imagej.net/Image_Viewer/
+|Collection of plugins and macros to help with handling and visualizing microscopy images. Contain, Plugins to control image contrast and LUTs, A neutral Multi Tool for moving image windows and accessory functions Easy opening of images from thumbnail montages Utility macros for multichannel montages and auto-generated scale bars.
+|Kevin Terretaz
+
+|- valign=&quot;top&quot;
 |'''ImageJ Latex'''
 |http://sites.imagej.net/Yul.liuyu/
 |Add math equations to an image using Latex.

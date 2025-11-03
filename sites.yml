@@ -1276,6 +1276,19 @@ sites:
     maintainers:
       - "[ilastik team](mailto:team@ilastik.org)"
 
+  - name: "Image Viewer"
+    id: "Image_Viewer"
+    url: "https://sites.imagej.net/Image_Viewer/"
+    description: >-
+       Collection of [plugins and macros](https://imagej.net/plugins/image-viewer)
+       to help with handling and visualizing microscopy images.
+       Contain, Plugins to control image contrast and LUTs,
+       A neutral Multi Tool for moving image windows and accessory functions
+       Easy opening of images from thumbnail montages
+       Utility macros for multichannel montages and auto-generated scale bars.
+    maintainers:
+      - "[Kevin Terretaz](mailto:kevinterretaz@gmail.com)"
+
   - name: "ImageJ Latex"
     id: "Yul.liuyu"
     url: "https://sites.imagej.net/Yul.liuyu/"
