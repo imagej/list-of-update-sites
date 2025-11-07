@@ -1278,6 +1278,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Axel Poulet, Genetic Reproduction and Development lab, Clermont-Ferrand, France
 
 |- valign=&quot;top&quot;
+|'''OME-Zarr PREVIEW'''
+|https://github.com/BioImageTools/ome-zarr-fiji-java
+|This update site brings some more access patterns to create, read and write NGFF OME-Zarr files in Fiji. In particularly, support is provided for the drag-and-drop into Fiji, scripting in Fiji (especially reading-out and writing-in portions of large datasets), and for Labkit.
+|Stefan Hahmann, Vladimír Ulman
+
+|- valign=&quot;top&quot;
 |'''OMERO 5.0'''
 |https://sites.imagej.net/OMERO-5.0/
 |The OMERO update site for bidirectional integration between ImageJ and OMERO 5.0.x.
