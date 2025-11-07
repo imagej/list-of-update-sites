@@ -2103,6 +2103,20 @@ sites:
     maintainers:
       - "Axel Poulet, Genetic Reproduction and Development lab, Clermont-Ferrand, France"
 
+  - name: "OME-Zarr PREVIEW"
+    id: "OME-Zarr-PREVIEW"
+    url: "https://github.com/BioImageTools/ome-zarr-fiji-java"
+    description: >-
+      This update site brings some more access patterns to create, read and write
+      [NGFF OME-Zarr](https://ngff.openmicroscopy.org/latest/) files in Fiji.
+      In particularly, support is provided for the drag-and-drop into Fiji,
+      [scripting in Fiji](https://imagej.net/scripting/) (especially reading-out
+      and writing-in portions of large datasets), and for
+      [Labkit](https://imagej.net/plugins/labkit/).
+    maintainers:
+      - "[Stefan Hahmann](https://imagej.net/people/stefanhahmann)"
+      - "[Vladimír Ulman](https://imagej.net/people/xulman)"
+
   - name: "OMERO 5.0"
     id: "OMERO-5.0"
     url: "https://sites.imagej.net/OMERO-5.0/"
