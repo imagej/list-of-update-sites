@@ -1279,7 +1279,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 
 |- valign=&quot;top&quot;
 |'''OME-Zarr PREVIEW'''
-|https://github.com/BioImageTools/ome-zarr-fiji-java
+|http://sites.imagej.net/OME-Zarr-PREVIEW/
 |This update site brings some more access patterns to create, read and write NGFF OME-Zarr files in Fiji. In particularly, support is provided for the drag-and-drop into Fiji, scripting in Fiji (especially reading-out and writing-in portions of large datasets), and for Labkit.
 |Stefan Hahmann, Vladimír Ulman
 
