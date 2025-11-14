@@ -2105,7 +2105,7 @@ sites:
 
   - name: "OME-Zarr PREVIEW"
     id: "OME-Zarr-PREVIEW"
-    url: "https://github.com/BioImageTools/ome-zarr-fiji-java"
+    url: "https://sites.imagej.net/OME-Zarr-PREVIEW/"
     description: >-
       This update site brings some more access patterns to create, read and write
       [NGFF OME-Zarr](https://ngff.openmicroscopy.org/latest/) files in Fiji.
