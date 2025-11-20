@@ -2936,6 +2936,18 @@ sites:
     maintainers:
       - "[Jean-Yves Tinevez](https://imagej.net/people/tinevez)"
 
+  - name: "TrackMate-Trackastra"
+    id: "TrackMate-Trackastra"
+    url: "https://sites.imagej.net/TrackMate-Trackastra"
+    description: >-
+      Trackastra integration as a tracker module in TrackMate.
+      [Trackastra](https://github.com/weigertlab/trackastra) is a cell tracking approach 
+      that perform object linking by predicting 
+      associations with a transformer model. It comes with pretrained models that perform 
+      well out of the box for many types of live-cell imaging data.
+    maintainers:
+      - "[Jean-Yves Tinevez](https://imagej.net/people/tinevez)"
+
   - name: "TrackMate-Weka"
     id: "TrackMate-Weka"
     url: "https://sites.imagej.net/TrackMate-Weka"
