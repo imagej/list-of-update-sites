@@ -2960,6 +2960,20 @@ sites:
     maintainers:
       - "[Jean-Yves Tinevez](https://imagej.net/people/tinevez)"
 
+  - name: "TrackMate-YOLO"
+    id: "TrackMate-YOLO"
+    url: "https://sites.imagej.net/TrackMate-YOLO"
+    description: >-
+      [YOLO](https://docs.ultralytics.com/) integration as a spot detector 
+      in TrackMate.
+      Here we integrated the [object detection](https://docs.ultralytics.com/tasks/detect/) 
+      routine of YOLO, so objects 
+      are detected as boxes and add in TrackMate as circular spots. YOLO 
+      does not ship pretrained model for microscopy, so you will have to 
+      provide or train one yourself.
+    maintainers:
+      - "[Jean-Yves Tinevez](https://imagej.net/people/tinevez)"
+      
   - name: "TrackMateCSVImporter"
     id: "TrackMateCSVImporter"
     url: "https://sites.imagej.net/TrackMateCSVImporter/"
