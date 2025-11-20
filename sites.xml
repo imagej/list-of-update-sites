@@ -1766,6 +1766,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Jean-Yves Tinevez
 
 |- valign=&quot;top&quot;
+|'''TrackMate-YOLO'''
+|https://sites.imagej.net/TrackMate-YOLO
+|YOLO integration as a spot detector  in TrackMate. Here we integrated the object detection  routine of YOLO, so objects  are detected as boxes and add in TrackMate as circular spots. YOLO  does not ship pretrained model for microscopy, so you will have to  provide or train one yourself.
+|Jean-Yves Tinevez
+
+|- valign=&quot;top&quot;
 |'''TrackMateCSVImporter'''
 |https://sites.imagej.net/TrackMateCSVImporter/
 |The TrackMateCSVImporter is a Fiji plugin that can import CSV files into TrackMate. It can create TrackMate files out of a csv file and an image. A script also permits its use in headless mode.
