@@ -1754,6 +1754,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Jean-Yves Tinevez
 
 |- valign=&quot;top&quot;
+|'''TrackMate-Trackastra'''
+|http://sites.imagej.net/TrackMate-Trackastra
+|Trackastra integration as a tracker module in TrackMate. Trackastra is a cell tracking approach  that perform object linking by predicting  associations with a transformer model. It comes with pretrained models that perform  well out of the box for many types of live-cell imaging data.
+|Jean-Yves Tinevez
+
+|- valign=&quot;top&quot;
 |'''TrackMate-Weka'''
 |http://sites.imagej.net/TrackMate-Weka
 |This update site provides TrackMate-Weka, a detector module for TrackMate that relies on the Trainable Weka Segmentation plugin to segment objects in 2D or 3D.
