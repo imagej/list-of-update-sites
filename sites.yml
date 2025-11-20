@@ -2914,6 +2914,17 @@ sites:
     maintainers:
       - "[Jean-Yves Tinevez](https://imagej.net/people/tinevez)"
 
+  - name: "TrackMate-Spotiflow"
+    id: "TrackMate-Spotiflow"
+    url: "https://sites.imagej.net/TrackMate-Spotiflow"
+    description: >-
+      Spotiflow spot detection algorithm integration in TrackMate. 
+      [Spotiflow](https://github.com/weigertlab/spotiflow)
+      is a deep learning-based, threshold-agnostic, subpixel-accurate 2D and 3D spot 
+      detection method for fluorescence microscopy.
+    maintainers:
+      - "[Jean-Yves Tinevez](https://imagej.net/people/tinevez)"
+      
   - name: "TrackMate-StarDist"
     id: "TrackMate-StarDist"
     url: "https://sites.imagej.net/TrackMate-StarDist"

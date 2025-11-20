@@ -1742,6 +1742,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Jean-Yves Tinevez
 
 |- valign=&quot;top&quot;
+|'''TrackMate-Spotiflow'''
+|https://sites.imagej.net/TrackMate-Spotiflow
+|Spotiflow spot detection algorithm integration in TrackMate.  Spotiflow is a deep learning-based, threshold-agnostic, subpixel-accurate 2D and 3D spot  detection method for fluorescence microscopy.
+|Jean-Yves Tinevez
+
+|- valign=&quot;top&quot;
 |'''TrackMate-StarDist'''
 |https://sites.imagej.net/TrackMate-StarDist
 |This update site provides TrackMate-StarDist, a detector module for TrackMate that relies on StarDist to segment objects in 2D.
