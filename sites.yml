@@ -340,6 +340,16 @@ sites:
       - "[Stephan Preibisch](https://imagej.net/people/StephanPreibisch)"
       - "[David Hörl](https://imagej.net/people/hoerldavid)"
 
+  - name: "BigVolumeBrowser"
+    id: "BigVolumeBrowser"
+    url: "https://sites.imagej.net/BigVolumeBrowser/"
+    description: >-
+      FIJI plugin for interactive 3D exploration of multiple large
+      (and small) volumetric datasets and geometric shapes, built on BigVolumeViewer.
+      For documentation, see [wiki](https://github.com/UU-cellbiology/bigvolumebrowser/wiki).
+    maintainers:
+      - "[Eugene Katrukha](https://imagej.net/people/ekatrukha)"
+
   - name: "BigVolumeViewer Demo"
     id: "BigVolumeViewer"
     url: "https://sites.imagej.net/BigVolumeViewer/"
