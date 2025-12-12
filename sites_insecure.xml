@@ -270,6 +270,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Stephan Preibisch, David Hörl
 
 |- valign=&quot;top&quot;
+|'''BigVolumeBrowser'''
+|http://sites.imagej.net/BigVolumeBrowser/
+|FIJI plugin for interactive 3D exploration of multiple large (and small) volumetric datasets and geometric shapes, built on BigVolumeViewer. For documentation, see wiki.
+|Eugene Katrukha
+
+|- valign=&quot;top&quot;
 |'''BigVolumeViewer Demo'''
 |http://sites.imagej.net/BigVolumeViewer/
 |Demo of BDV volume rendering. See this forum post for getting started.
