@@ -186,6 +186,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Jan Eglinger
 
 |- valign=&quot;top&quot;
+|'''Animove'''
+|https://sites.imagej.net/Animove/
+|A plugin that enables users to process large amounts of video data with low-spec hardware, specifically to quantify and analyze zebrafish kinetic activity with a diversity of parameters and outputs.
+|Murilo Nespolo Spineli
+
+|- valign=&quot;top&quot;
 |'''apoc'''
 |https://sites.imagej.net/apoc/
 |Accelerated pixel and object classifiers (APOC). See clijx-accelerated-pixel-and-object-classification.
