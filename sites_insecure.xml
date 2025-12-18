@@ -420,6 +420,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Robert Haase
 
 |- valign=&quot;top&quot;
+|'''clijx-deconvolution'''
+|http://sites.imagej.net/clijx-deconvolution/
+|GPU-accelerated deconvolution for ImageJ. Please also activate "clij" and "clij2". See https://imagej.net/plugins/clijx-deconvolution
+|Brian Northan, Nicolas Chiaruttini
+
+|- valign=&quot;top&quot;
 |'''CMCI-EMBL'''
 |http://sites.imagej.net/Miura/
 |A plugin for loading sample images and misc functionality for CMCI ImageJ course. See CMCI course. Eventually more plugins will be added.
