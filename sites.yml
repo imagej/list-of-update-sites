@@ -573,6 +573,16 @@ sites:
     maintainers:
       - "[Robert Haase](https://imagej.net/people/haesleinhuepf)"
 
+  - name: "clijx-deconvolution"
+    id: "clijx-deconvolution"
+    url: "https://sites.imagej.net/clijx-deconvolution/"
+    description: >-
+      GPU-accelerated deconvolution for ImageJ. Please also activate "clij" and "clij2".
+      See [https://imagej.net/plugins/clijx-deconvolution](https://imagej.net/plugins/clijx-deconvolution)
+    maintainers:
+      - "[Brian Northan](http://truenorth-ia.com)"
+      - "[Nicolas Chiaruttini](https://imagej.net/people/NicoKiaru)"
+
   - name: "clijx-assistant"
     id: "clijx-assistant"
     url: "https://sites.imagej.net/clijx-assistant/"
