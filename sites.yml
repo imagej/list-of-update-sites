@@ -401,6 +401,16 @@ sites:
     maintainers:
       - "[Thorsten Wagner](https://imagej.net/people/thorstenwagner)"
 
+  - name: "Biosensor Tools"
+    id: "Biosensor-Tools"
+    url: "https://sites.imagej.net/Biosensor-Tools/"
+    description: >-
+      A comprehensive ImageJ/Fiji toolkit designed for fluorescence time-lapse analysis.
+      Biosensor Tools integrates essential utilities for motion alignment, AI denoising, and workflow management,
+      with a specific focus on high-precision ratiometric data processing for genetically encoded indicators.
+    maintainers:
+      - "[Kui Wang](https://imagej.net/people/Epivitae)"
+
   - name: "BioVoxxel"
     id: "BioVoxxel"
     url: "https://sites.imagej.net/BioVoxxel/"
