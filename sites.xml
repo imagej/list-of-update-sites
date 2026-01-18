@@ -306,6 +306,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Thorsten Wagner
 
 |- valign=&quot;top&quot;
+|'''Biosensor Tools'''
+|https://sites.imagej.net/Biosensor-Tools/
+|A comprehensive ImageJ/Fiji toolkit designed for fluorescence time-lapse analysis. Biosensor Tools integrates essential utilities for motion alignment, AI denoising, and workflow management, with a specific focus on high-precision ratiometric data processing for genetically encoded indicators.
+|Kui Wang
+
+|- valign=&quot;top&quot;
 |'''BioVoxxel'''
 |https://sites.imagej.net/BioVoxxel/
 |A toolset providing a plugins and macros for flat-field background corrections, image filters, color coding of shape descriptors and several tools to process and analyze binary images such as the 'Speckle Inspector', 'Binary Feature Extractor' and an 'Extended Particle Analyzer' and a qualitative and quantitative evaluation tool for Fijis' Auto Threshold methods. More information at the BioVoxxel Toolbox page and the BioVoxxel web site.
