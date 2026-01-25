@@ -1136,6 +1136,18 @@ sites:
     maintainers:
       - "[Robert Erger](mailto:rerger@leomail.tamuc.edu)"
 
+    - name: "Gamma_LUT_Toggle"
+    id: "Gamma_LUT_Toggle"
+    url: "https://sites.imagej.net/Gamma_LUT_Toggle/"
+    description: >-
+      Makes a  button in the Fiji toolbar with a greek gamma symbol. 
+      When you click the button, it will apply a nondestructive gamma of 0.45 by 
+      remapping the LUT while maintaining the underlying pixel values. Clicking 
+      the button a second time will toggle the image back to the original linear LUT. 
+      Works with grayscale as well as single-color LUTs. [Gamma_LUT_Toggle](https://github.com/samjlord/Gamma_LUT_Toggle/)
+    maintainers:
+      - "[Sam Lord](mailto:samjlord@gmail.com)"
+
   - name: "GDSC"
     id: "GDSC"
     url: "https://sites.imagej.net/GDSC/"
