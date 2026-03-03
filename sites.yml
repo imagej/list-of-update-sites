@@ -2510,7 +2510,7 @@ sites:
 
   - name: "SIMcheck"
     id: "SIMcheck"
-    url: "https://downloads.micron.ox.ac.uk/fiji_update/SIMcheck/"
+    url: "https://sites.imagej.net/SIMcheck/"
     description: >-
       [SIMcheck](https://www.micron.ox.ac.uk/microngroup/software/SIMCheck.php):
         a package of ImageJ tools for assessing the quality and reliability of
