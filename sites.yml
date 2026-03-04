@@ -2336,6 +2336,14 @@ sites:
     maintainers:
       - "[Alexandre Bastien](https://imagej.net/people/alexandrebastien)"
 
+  - name: "PixelBiology"
+    id: "PixelBiology"
+    url: "https://sites.imagej.net/PixelBiology/"
+    description: >-
+      Tools for channel registration, denoising, etc.
+    maintainers:
+      - "Lior Pytowski"
+
   - name: "PixFRET"
     id: "PixFRET"
     url: "https://sites.imagej.net/PixFRET/"
