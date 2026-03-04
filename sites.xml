@@ -1416,6 +1416,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Alexandre Bastien
 
 |- valign=&quot;top&quot;
+|'''PixelBiology'''
+|https://sites.imagej.net/PixelBiology/
+|Tools for channel registration, denoising, etc.
+|Lior Pytowski
+
+|- valign=&quot;top&quot;
 |'''PixFRET'''
 |https://sites.imagej.net/PixFRET/
 |PixFRET - an ImageJ plug-in for FRET calculation which can accommodate variations in spectral bleed-throughs
