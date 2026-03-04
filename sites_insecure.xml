@@ -1573,7 +1573,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 
 |- valign=&quot;top&quot;
 |'''SIMcheck'''
-|https://downloads.micron.ox.ac.uk/fiji_update/SIMcheck/
+|http://sites.imagej.net/SIMcheck/
 |SIMcheck:
   a package of ImageJ tools for assessing the quality and reliability of
   Structured Illumination Microscopy (SIM) data.
