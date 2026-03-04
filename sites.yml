@@ -2512,7 +2512,7 @@ sites:
     id: "SIMcheck"
     url: "https://sites.imagej.net/SIMcheck/"
     description: >-
-      [SIMcheck](https://www.micron.ox.ac.uk/microngroup/software/SIMCheck.php):
+      [SIMcheck](https://www.micron.ox.ac.uk/software/SIMcheck/):
         a package of ImageJ tools for assessing the quality and reliability of
         Structured Illumination Microscopy (SIM) data.
     maintainers:
