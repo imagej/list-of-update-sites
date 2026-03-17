@@ -216,15 +216,15 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Jean Ollion
 
 |- valign=&quot;top&quot;
-|'''BACMMAN-DL'''
-|http://sites.imagej.net/BACMMAN-DL/
+|'''BACMMAN-TF2'''
+|http://sites.imagej.net/BACMMAN-TF2/
 |Enables deep learning for BACMMAN (CPU). Currently using Tensorflow 2x
 |Jean Ollion
 
 |- valign=&quot;top&quot;
-|'''BACMMAN-DL-GPU'''
-|http://sites.imagej.net/BACMMAN-DL-GPU/
-|Enables deep learning for BACMMAN (GPU). Currently using Tensorflow 2x
+|'''BACMMAN-TF2-GPU'''
+|http://sites.imagej.net/BACMMAN-TF2-GPU/
+|Enables deep learning for BACMMAN with GPU support for linux only. Currently using Tensorflow 2x
 |Jean Ollion
 
 |- valign=&quot;top&quot;
