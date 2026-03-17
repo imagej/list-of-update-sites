@@ -5,13 +5,14 @@ from xml.sax.saxutils import escape
 
 # NB: Avoid annoying BeautifulSoup warnings of the following kind:
 #
-# UserWarning: "https://.../" looks like a URL. Beautiful Soup is not an
-# HTTP client. You should probably use an HTTP client like requests to get
-# the document behind the URL, and feed that document to Beautiful Soup.
+# MarkupResemblesLocatorWarning: The input looks more like a URL than markup.
+# You may want to use an HTTP client like requests to get the document behind
+# the URL, and feed that document to Beautiful Soup.
 #
 # See: https://stackoverflow.com/a/41496131/1207769
 import warnings
-warnings.filterwarnings("ignore", category=UserWarning, module='bs4')
+from bs4 import MarkupResemblesLocatorWarning
+warnings.filterwarnings("ignore", category=MarkupResemblesLocatorWarning)
 
 def html(markdown_string):
     s = markdown2.markdown(markdown_string).rstrip()
@@ -39,8 +40,9 @@ xml_template = template_env.get_template('sites.xml.template')
 
 # Render sites.xml from the sites data structure.
 xml_data = xml_template.render(sites=[{
-    'name': escape(plain(html(site['name']))),
-    'url': escape(plain(html(site['url']))),
+    # NB: No Markdown or HTML allowed in name or url!
+    'name': site['name'],
+    'url': site['url'],
     'description': escape(plain(html(site['description']))),
     'maintainer': escape(', '.join([plain(html(m)) for m in site['maintainers']]))
 } for site in sites['sites']], date=date, time=time)
@@ -65,8 +67,9 @@ html_template = template_env.get_template('sites.html.template')
 
 # Render sites.html from the sites data structure.
 result = html_template.render(sites=[{
-    'name': html(site['name']),
-    'url': html(site['url']),
+    # NB: No Markdown or HTML allowed in name or url!
+    'name': site['name'],
+    'url': site['url'],
     'description': html(site['description']),
     'maintainer': ', '.join([html(m) for m in site['maintainers']])
 } for site in sites['sites']], date=date, time=time)

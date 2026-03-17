@@ -13,12 +13,30 @@ then
 else
 	echo "No duplicate IDs."
 fi
-
+# Check that update sites are in sorted order.
+git grep name: sites.yml |
+	grep -A999999 'name: "[0-9]' |
+	sed 's;.*name: "\([^"]*\)"$;\1;' >actual
+cat actual | LC_ALL=C sort --ignore-case >expected
+if diff -q actual expected
+then
+	echo "Update sites are ordered correctly."
+else
+	echo "Please list sites in alphabetical order!"
+	git diff --no-index actual expected
+	exit 5
+fi
 echo "== Generating legacy pages ==" &&
 python generate-legacy-pages.py &&
 
 echo "== Validating updater URLs ==" &&
 cram tests &&
+
+# Stop here if this is not a build of the main branch.
+if [ -z "$GITHUB_BUILD_NUMBER" ]; then
+	echo "PR build complete."
+	exit 0
+fi &&
 
 echo "== Configuring environment ==" &&
 
