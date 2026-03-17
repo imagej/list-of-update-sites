@@ -245,20 +245,20 @@ sites:
     maintainers:
       - "[Jean Ollion](https://www.sabilab.fr/)"
 
-  - name: "BACMMAN-DL"
-    id: "BACMMAN-DL"
-    url: "https://sites.imagej.net/BACMMAN-DL/"
+  - name: "BACMMAN-TF2"
+    id: "BACMMAN-TF2"
+    url: "https://sites.imagej.net/BACMMAN-TF2/"
     description: >-
       Enables deep learning for BACMMAN (CPU).
       Currently using Tensorflow 2x
     maintainers:
       - "[Jean Ollion](https://www.sabilab.fr/)"
 
-  - name: "BACMMAN-DL-GPU"
-    id: "BACMMAN-DL-GPU"
-    url: "https://sites.imagej.net/BACMMAN-DL-GPU/"
+  - name: "BACMMAN-TF2-GPU"
+    id: "BACMMAN-TF2-GPU"
+    url: "https://sites.imagej.net/BACMMAN-TF2-GPU/"
     description: >-
-      Enables deep learning for BACMMAN (GPU).
+      Enables deep learning for BACMMAN with GPU support for linux only.
       Currently using Tensorflow 2x
     maintainers:
       - "[Jean Ollion](https://www.sabilab.fr/)"
