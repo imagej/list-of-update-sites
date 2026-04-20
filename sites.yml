@@ -785,7 +785,15 @@ sites:
       and the publication describing how DiameterJ works and its limitations.
     maintainers:
       - "[Nathan Hotaling](https://imagej.net/people/NHotaling)"
-
+      
+  - name: "DistanceAnalysis"
+    id: "DistanceAnalysis"
+    url: "https://sites.imagej.net/DistanceAnalysis/"
+    description: >-
+     An ImageJ plugin for distance analysis of objects in 2D and 3D between two channels.
+    maintainers:
+      - "[Jean-François Gilles]"
+      
   - name: "DiversePathsJ"
     id: "Vuhlmann"
     url: "https://sites.imagej.net/Vuhlmann/"
