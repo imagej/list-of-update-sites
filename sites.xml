@@ -534,6 +534,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Nathan Hotaling
 
 |- valign=&quot;top&quot;
+|'''DistanceAnalysis'''
+|https://sites.imagej.net/DistanceAnalysis/
+|An ImageJ plugin for distance analysis of objects in 2D and 3D between two channels.
+|Jean-François Gilles
+
+|- valign=&quot;top&quot;
 |'''DiversePathsJ'''
 |https://sites.imagej.net/Vuhlmann/
 |DiversePathsJ implements a dynamic programming approach for the general task of finding diverse shortest paths between two end-points. It is not linked to a specific biological problem and can be applied to a large variety of images. See the DiversePathsJ web page for more information.
