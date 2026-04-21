@@ -792,7 +792,7 @@ sites:
     description: >-
      An ImageJ plugin for distance analysis of objects in 2D and 3D between two channels.
     maintainers:
-      - "[Jean-François Gilles]"
+      - "[Jean-François Gilles](https://forum.image.sc/tag/diana)"
       
   - name: "DiversePathsJ"
     id: "Vuhlmann"
