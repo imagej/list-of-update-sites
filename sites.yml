@@ -348,6 +348,15 @@ sites:
       - "[Stephan Preibisch](https://imagej.net/people/StephanPreibisch)"
       - "[David Hörl](https://imagej.net/people/hoerldavid)"
 
+  - name: "BigTrace"
+    id: "BigTrace"
+    url: "https://sites.imagej.net/BigTrace/"
+    description: >-
+      FIJI plugin for tracing of curvilinear structures in volumetric microscopy datasets.
+      For documentation, see [wiki](https://github.com/UU-cellbiology/BigTrace/wiki).
+    maintainers:
+      - "[Eugene Katrukha](https://imagej.net/people/ekatrukha)"
+
   - name: "BigVolumeBrowser"
     id: "BigVolumeBrowser"
     url: "https://sites.imagej.net/BigVolumeBrowser/"
