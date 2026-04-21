@@ -276,6 +276,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Stephan Preibisch, David Hörl
 
 |- valign=&quot;top&quot;
+|'''BigTrace'''
+|https://sites.imagej.net/BigTrace/
+|FIJI plugin for tracing of curvilinear structures in volumetric microscopy datasets. For documentation, see wiki.
+|Eugene Katrukha
+
+|- valign=&quot;top&quot;
 |'''BigVolumeBrowser'''
 |https://sites.imagej.net/BigVolumeBrowser/
 |FIJI plugin for interactive 3D exploration of multiple large (and small) volumetric datasets and geometric shapes, built on BigVolumeViewer. For documentation, see wiki.
