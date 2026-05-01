@@ -104,6 +104,16 @@ sites:
     maintainers:
       - "[Curtis Rueden](https://imagej.net/people/ctrueden)"
 
+  - name: "3D cyclorama"
+    id: "3Dcyclorama"
+    url: "https://sites.imagej.net/3Dcyclorama/"
+    description: >-
+      Digital unrolling of deformed tubes and digital flattening of deformed
+      sheets and scrolls in 3D image stacks. See
+      [Rossides et al., Sci. Rep. 2021](https://doi.org/10.1038/s41598-021-93184-x).
+    maintainers:
+      - "[Charalambos Rossides](/people/HarryRos)"
+
   - name: "3D ImageJ Suite"
     id: "Tboudier"
     url: "https://sites.imagej.net/Tboudier/"
