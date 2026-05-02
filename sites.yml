@@ -525,7 +525,7 @@ sites:
     description: >-
       Implementation of measures and front-end Fiji plugins used in and related to
       the [Cell Tracking Challenge](http://www.celltrackingchallenge.net).
-      It also provides an extension for importing, editing and exporting 
+      It also provides an extension for importing, editing and exporting
       the results of the CellTrackingChallenge directly in the Mastodon plugin.
     maintainers:
       - "[Vladimír Ulman](https://imagej.net/people/xulman)"
@@ -794,7 +794,7 @@ sites:
       and the publication describing how DiameterJ works and its limitations.
     maintainers:
       - "[Nathan Hotaling](https://imagej.net/people/NHotaling)"
-      
+
   - name: "DistanceAnalysis"
     id: "DistanceAnalysis"
     url: "https://sites.imagej.net/DistanceAnalysis/"
@@ -802,7 +802,7 @@ sites:
      An ImageJ plugin for distance analysis of objects in 2D and 3D between two channels.
     maintainers:
       - "[Jean-François Gilles](https://forum.image.sc/tag/diana)"
-      
+
   - name: "DiversePathsJ"
     id: "Vuhlmann"
     url: "https://sites.imagej.net/Vuhlmann/"
@@ -831,12 +831,12 @@ sites:
       Plugin for [mapping of cells on epifluorescence images of murine dorsal horns](https://imagej.net/plugins/dorsal-horn-mapping).
     maintainers:
       - "Lucas Röttger"
-      
+
   - name: "Draw 3D ROI"
     id: "Draw3DROI"
     url: "https://sites.imagej.net/Draw3DROI/"
     description: >-
-      A Fiji plugin to create 3D masks from hand-drawn 2D ROIs. 
+      A Fiji plugin to create 3D masks from hand-drawn 2D ROIs.
     maintainers:
       - "[Andrew McCall](https://imagej.net/people/andmccall)"
 
@@ -970,7 +970,7 @@ sites:
     id: "FFmpegVideoImportExport"
     url: "https://sites.imagej.net/VideoImportExport/"
     description: >-
-      The [FFmpegVideoImportExport](https://imagej.net/plugins/ffmpeg-video-import-export) 
+      The [FFmpegVideoImportExport](https://imagej.net/plugins/ffmpeg-video-import-export)
       allows to import compressed video files into a virtual stack or hyperstack and
       export a stack as compressed video file using JavaCV interface to FFmpeg.
     maintainers:
@@ -1038,7 +1038,7 @@ sites:
       [FlyReg](https://github.com/tischi/fly-reg) is a plugin for the 3D registration of fly (drosophila) embryos.
     maintainers:
       - "Christian Tischer"
-  
+
   - name: "Foci Analyzer"
     id: "Foci-Analyzer"
     url: "https://sites.imagej.net/Foci-Analyzer/"
@@ -1157,10 +1157,10 @@ sites:
     id: "Gamma_LUT_Toggle"
     url: "https://sites.imagej.net/Gamma_LUT_Toggle/"
     description: >-
-      Makes a  button in the Fiji toolbar with a greek gamma symbol. 
-      When you click the button, it will apply a nondestructive gamma of 0.45 by 
-      remapping the LUT while maintaining the underlying pixel values. Clicking 
-      the button a second time will toggle the image back to the original linear LUT. 
+      Makes a  button in the Fiji toolbar with a greek gamma symbol.
+      When you click the button, it will apply a nondestructive gamma of 0.45 by
+      remapping the LUT while maintaining the underlying pixel values. Clicking
+      the button a second time will toggle the image back to the original linear LUT.
       Works with grayscale as well as single-color LUTs. [Gamma_LUT_Toggle on GitHub](https://github.com/samjlord/Gamma_LUT_Toggle/)
     maintainers:
       - "[Sam Lord](mailto:samjlord@gmail.com)"
@@ -1197,7 +1197,7 @@ sites:
       The aim is to expand the analysis to other celltypes within the gut and enable 3D analysis.
     maintainers:
       - "[Pradeep Rajasekhar](https://imagej.net/people/pr4deepr)"
-  
+
   - name: "H5FFmpeg"
     id: "CailabUM-H5FFMPEG"
     url: "https://sites.imagej.net/CailabUM-H5FFMPEG/"
@@ -1476,11 +1476,11 @@ sites:
     id: "JavaCVInstaller"
     url: "https://sites.imagej.net/JavaCVInstaller/"
     description: >-
-      The [JavaCV Installer](https://imagej.net/plugins/javacv-installer) is a 
+      The [JavaCV Installer](https://imagej.net/plugins/javacv-installer) is a
       plugin for managing the installation of JavaCV components in ImageJ.
     maintainers:
       - "[Stanislav Chizhik](https://imagej.net/people/anotherche)"
-  
+
   - name: "JAX Eye"
     id: "MarkKrebs"
     url: "https://sites.imagej.net/MarkKrebs/"
@@ -1756,7 +1756,7 @@ sites:
       on steroids.
     maintainers:
       - "[Tobias Pietzsch](https://imagej.net/people/tpietzsch)"
-      - "[Jean-Yves Tinevez](https://imagej.net/people/tinevez)"      
+      - "[Jean-Yves Tinevez](https://imagej.net/people/tinevez)"
 
   - name: "Mastodon-Benchmark"
     id: "Mastodon-Benchmark"
@@ -1778,7 +1778,7 @@ sites:
       with it. Mastodon allows tracking cell lineages in 3D+t images.
       Mastodon-DeepLineage extends this with a collection of tools to analyse
       lineages of tracked objects.
-    maintainers: 
+    maintainers:
       - "[Stefan Hahmann](https://imagej.net/people/stefanhahmann)"
       - "[Matthias Arzt](https://imagej.net/people/maarzt)"
 
@@ -1796,7 +1796,7 @@ sites:
     id: "Mastodon-Tomancak"
     url: "https://sites.imagej.net/Mastodon-Tomancak/"
     description: >-
-      [Mastodon-Tomancak](https://github.com/mastodon-sc/mastodon) provides extensions 
+      [Mastodon-Tomancak](https://github.com/mastodon-sc/mastodon) provides extensions
       for the Mastodon plugin and can only be used in conjunction with it.
       Mastodon allows tracking cell lineages in 3D+t images.
       Mastodon-Tomancak extends this with a collection of tools to edit, analyse and visualise
@@ -2321,7 +2321,7 @@ sites:
       technique.
     maintainers:
       - "[Stanislav Chizhik](https://imagej.net/people/anotherche)"
-  
+
   - name: "PhotonImaging"
     id: "PhotonImaging"
     url: "https://sites.imagej.net/PhotonImaging/"
@@ -2874,9 +2874,9 @@ sites:
     description: >-
       This update site provides exporter and importer to and from
       [GEFF files](https://live-image-tracking-tools.github.io/geff/),
-      a tracking file format made to exchange data bewtween tracking 
+      a tracking file format made to exchange data bewtween tracking
       software.
-      See [this page](https://imagej.net/plugins/trackmate/actions/geff_exporter) 
+      See [this page](https://imagej.net/plugins/trackmate/actions/geff_exporter)
       for information.
     maintainers:
       - "[Jean-Yves Tinevez](https://imagej.net/people/tinevez)"
@@ -2911,12 +2911,12 @@ sites:
     id: "TrackMate-InTRACKtive"
     url: "https://sites.imagej.net/TrackMate-InTRACKtive"
     description: >-
-      This update site provides TrackMate with an action to open the current 
-      tracking data in 
+      This update site provides TrackMate with an action to open the current
+      tracking data in
       [InTRACKtive](https://github.com/royerlab/inTRACKtive/blob/main/README.md),
       a application for visualization and sharing of cell tracking data in the browser.
       This update site requires the TrackMate-GEFF update site to be installed as well.
-      See [this page](https://imagej.net/plugins/trackmate/actions/trackmate-intracktive) 
+      See [this page](https://imagej.net/plugins/trackmate/actions/trackmate-intracktive)
       for installation instructions and information.
     maintainers:
       - "[Jean-Yves Tinevez](https://imagej.net/people/tinevez)"
@@ -2993,13 +2993,13 @@ sites:
     id: "TrackMate-Spotiflow"
     url: "https://sites.imagej.net/TrackMate-Spotiflow"
     description: >-
-      Spotiflow spot detection algorithm integration in TrackMate. 
+      Spotiflow spot detection algorithm integration in TrackMate.
       [Spotiflow](https://github.com/weigertlab/spotiflow)
-      is a deep learning-based, threshold-agnostic, subpixel-accurate 2D and 3D spot 
+      is a deep learning-based, threshold-agnostic, subpixel-accurate 2D and 3D spot
       detection method for fluorescence microscopy.
     maintainers:
       - "[Jean-Yves Tinevez](https://imagej.net/people/tinevez)"
-      
+
   - name: "TrackMate-StarDist"
     id: "TrackMate-StarDist"
     url: "https://sites.imagej.net/TrackMate-StarDist"
@@ -3016,9 +3016,9 @@ sites:
     url: "https://sites.imagej.net/TrackMate-Trackastra"
     description: >-
       Trackastra integration as a tracker module in TrackMate.
-      [Trackastra](https://github.com/weigertlab/trackastra) is a cell tracking approach 
-      that perform object linking by predicting 
-      associations with a transformer model. It comes with pretrained models that perform 
+      [Trackastra](https://github.com/weigertlab/trackastra) is a cell tracking approach
+      that perform object linking by predicting
+      associations with a transformer model. It comes with pretrained models that perform
       well out of the box for many types of live-cell imaging data.
     maintainers:
       - "[Jean-Yves Tinevez](https://imagej.net/people/tinevez)"
@@ -3039,16 +3039,16 @@ sites:
     id: "TrackMate-YOLO"
     url: "https://sites.imagej.net/TrackMate-YOLO"
     description: >-
-      [YOLO](https://docs.ultralytics.com/) integration as a spot detector 
+      [YOLO](https://docs.ultralytics.com/) integration as a spot detector
       in TrackMate.
-      Here we integrated the [object detection](https://docs.ultralytics.com/tasks/detect/) 
-      routine of YOLO, so objects 
-      are detected as boxes and add in TrackMate as circular spots. YOLO 
-      does not ship pretrained model for microscopy, so you will have to 
+      Here we integrated the [object detection](https://docs.ultralytics.com/tasks/detect/)
+      routine of YOLO, so objects
+      are detected as boxes and add in TrackMate as circular spots. YOLO
+      does not ship pretrained model for microscopy, so you will have to
       provide or train one yourself.
     maintainers:
       - "[Jean-Yves Tinevez](https://imagej.net/people/tinevez)"
-      
+
   - name: "TrackMateCSVImporter"
     id: "TrackMateCSVImporter"
     url: "https://sites.imagej.net/TrackMateCSVImporter/"
@@ -3175,7 +3175,7 @@ sites:
       [on GitHub](https://github.com/Sweeneyian/VersiLab_Plugin).
     maintainers:
       - "[Ian Sweeney](https://imagej.net/people/sweeneyian)"
-  
+
   - name: "Virtual-Orientation-Tools-VOTj"
     id: "VOTj"
     url: "https://sites.imagej.net/Virtual-Orientation-Tool-VOTj/"
