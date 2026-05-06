@@ -390,6 +390,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Christopher Schmied
 
 |- valign=&quot;top&quot;
+|'''Centre-Particle Coincidence (CPC)'''
+|https://sites.imagej.net/Center-Particle-Coincidence/
+|Centre-Particle Coincidence is an ImageJ/Fiji plugin for object-based colocalization of segmented objects. It classifies objects as coincident when their centroid falls inside a segmented object in another channel, and reports the reciprocal 'contains' relationship for matched objects. CPC works with label images or ROI sets from any segmentation workflow, supports 2-5 channels, uses regex-based image search and grouping for batch operations, and produces pairwise, bidirectional, multi-target colocalization, and batch summaries.
+|Jamie Malcolm
+
+|- valign=&quot;top&quot;
 |'''CiliaQ'''
 |https://sites.imagej.net/CiliaQ/
 |An set of three ImageJ plugins to quantify ciliary shape, length, and fluorescence in 2D, 3D, and 4D images. For more details, a link to the corresponding publication, and information on how to cite the plugin visit the CiliaQ github pages (including manual and wiki) at https://github.com/hansenjn/CiliaQ

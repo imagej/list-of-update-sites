@@ -548,6 +548,21 @@ sites:
     maintainers:
       - "[Christopher Schmied](mailto:christopher.schmied@fht.org)"
 
+  - name: "Centre-Particle Coincidence (CPC)"
+    id: "Center-Particle-Coincidence"
+    url: "https://sites.imagej.net/Center-Particle-Coincidence/"
+    description: >-
+      [Centre-Particle Coincidence](https://github.com/Jay2owe/CPC) is an
+      ImageJ/Fiji plugin for object-based colocalization of segmented objects.
+      It classifies objects as coincident when their centroid falls inside a
+      segmented object in another channel, and reports the reciprocal
+      'contains' relationship for matched objects. CPC works with label images
+      or ROI sets from any segmentation workflow, supports 2-5 channels, uses
+      regex-based image search and grouping for batch operations, and produces
+      pairwise, bidirectional, multi-target colocalization, and batch summaries.
+    maintainers:
+      - "[Jamie Malcolm](https://github.com/Jay2owe)"
+
   - name: "CiliaQ"
     id: "CiliaQ"
     url: "https://sites.imagej.net/CiliaQ/"
