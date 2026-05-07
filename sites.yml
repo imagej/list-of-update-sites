@@ -1147,6 +1147,16 @@ sites:
     maintainers:
       - "[Cameron Lloyd](https://imagej.net/people/camlloyd)"
 
+  - name: "FRETENATOR"
+    id: "FRETENATOR"
+    url: "https://sites.imagej.net/FRETENATOR/"
+    description: >-
+      Fiji plugins for segmentation, quantification and ratiometric analysis of FRET 
+      biosensors. Includes a live updating GUI interface, a headless mode, a batch mode, 
+      object labelling, object classifier training and application and Trackmate 7 integration.
+    maintainers:
+      - "[Jim Rowe](https://github.com/JimageJ)"
+
   - name: "FunImageJ"
     id: "FunImageJ"
     url: "https://sites.imagej.net/FunImageJ/"
