@@ -1222,6 +1222,17 @@ sites:
     maintainers:
       - "[Alex Herbert](mailto:a.herbert@sussex.ac.uk)"
 
+  - name: "GreenLeafVI"
+    id: "GreenLeafVI"
+    url: "https://sites.imagej.net/GreenLeafVI/"
+    description: >-
+      Tools for estimating leaf chlorophyll content based on RGB values. Images can be colour calibrated using a white
+      reference surface. The plugin contains an automated background segmentation tool and can calculate different 
+      vegetation or visbile indices that correlate to chlorophyll content. For a complete description 
+      (https://github.com/jelmervanlieshout/GreenLeafVI).
+    maintainers:
+      - "[Jelmer van Lieshout](mailto:j.van.lieshout@biology.leidenuniv.nl)"
+
   - name: "Gut Analysis Toolbox"
     id: "GAT"
     url: "https://sites.imagej.net/GutAnalysisToolbox/"
