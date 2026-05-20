@@ -1086,6 +1086,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Diego Morone
 
 |- valign=&quot;top&quot;
+|'''Macro Builder'''
+|http://sites.imagej.net/Macro-Builder/
+|Macro Builder is a Fiji/ImageJ plugin for building and tuning ImageJ macro filters on real microscopy data. It gives researchers a visual pipeline editor with original and filtered previews side by side, including preview to any selected step or the full filter, then generates parameter sweeps and compatible filter variations so subtle changes can be compared and promoted instead of guessed. Validated macros run on folders or selected Bio-Formats series, with TIFF outputs, threshold shootouts, object counts, reusable batch-count macros, and CSV summaries.
+|Jamie Malcolm
+
+|- valign=&quot;top&quot;
 |'''MaMuT'''
 |http://sites.imagej.net/MaMuT/
 |MaMuT, a plugin for the annotation of massive, multi-view data.
