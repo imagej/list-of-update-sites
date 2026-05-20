@@ -1758,6 +1758,22 @@ sites:
     maintainers:
       - "[Diego Morone](mailto:diego.morone@irb.usi.ch)"
 
+  - name: "Macro Builder"
+    id: "Macro-Builder"
+    url: "https://sites.imagej.net/Macro-Builder/"
+    description: >-
+      [Macro Builder](https://github.com/Jay2owe/Macro-Builder) is a Fiji/ImageJ
+      plugin for building and tuning ImageJ macro filters on real microscopy data.
+      It gives researchers a visual pipeline editor with original and filtered
+      previews side by side, including preview to any selected step or the full
+      filter, then generates parameter sweeps and compatible filter variations so
+      subtle changes can be compared and promoted instead of guessed. Validated
+      macros run on folders or selected Bio-Formats series, with TIFF outputs,
+      threshold shootouts, object counts, reusable batch-count macros, and CSV
+      summaries.
+    maintainers:
+      - "[Jamie Malcolm](https://github.com/Jay2owe)"
+
   - name: "MaMuT"
     id: "MaMuT"
     url: "https://sites.imagej.net/MaMuT/"
