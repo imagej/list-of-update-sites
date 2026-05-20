@@ -123,6 +123,20 @@ sites:
     maintainers:
       - "[Thomas Boudier](https://imagej.net/people/mcib3d)"
 
+  - name: "3D Objects Counter+"
+    id: "3DObjectsCounterPlus"
+    url: "https://sites.imagej.net/3DObjectsCounterPlus/"
+    description: >-
+      [3D Objects Counter+](https://github.com/Jay2owe/3DObjectsCounterPlus)
+      is a Fiji/ImageJ plugin for counting and measuring thresholded 3D
+      objects in image stacks. It extends the native 3D Objects Counter
+      workflow with fixed min/max filters for volume, sphericity, compactness,
+      elongation, surface area, Feret diameter, and intensity, while keeping
+      familiar threshold, size, map, statistics, measurement redirect, macro,
+      and Java API workflows.
+    maintainers:
+      - "[Jamie Malcolm](https://github.com/Jay2owe)"
+
   - name: "3Dscript"
     id: "3Dscript"
     url: "https://romulus.oice.uni-erlangen.de/updatesite/"
