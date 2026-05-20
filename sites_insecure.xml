@@ -786,6 +786,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Alex Herbert
 
 |- valign=&quot;top&quot;
+|'''GreenLeafVI'''
+|http://sites.imagej.net/GreenLeafVI/
+|Tools for estimating leaf chlorophyll content based on RGB values. Images can be colour calibrated using a white reference surface. The plugin contains an automated background segmentation tool and can calculate different  vegetation or visbile indices that correlate to chlorophyll content. For a complete description  (https://github.com/jelmervanlieshout/GreenLeafVI).
+|Jelmer van Lieshout
+
+|- valign=&quot;top&quot;
 |'''Gut Analysis Toolbox'''
 |http://sites.imagej.net/GutAnalysisToolbox/
 |Gut Analysis Toolbox enables semi-automated analysis of the neuronal and glial distribution within the gut wall in 2D. It uses a combination of Fiji macros, StarDist and deepImageJ for automated segmentation. The primary focus is on characterising the enteric nervous system. The aim is to expand the analysis to other celltypes within the gut and enable 3D analysis.
