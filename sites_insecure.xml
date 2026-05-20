@@ -138,6 +138,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Thomas Boudier
 
 |- valign=&quot;top&quot;
+|'''3D Objects Counter+'''
+|http://sites.imagej.net/3DObjectsCounterPlus/
+|3D Objects Counter+ is a Fiji/ImageJ plugin for counting and measuring thresholded 3D objects in image stacks. It extends the native 3D Objects Counter workflow with fixed min/max filters for volume, sphericity, compactness, elongation, surface area, Feret diameter, and intensity, while keeping familiar threshold, size, map, statistics, measurement redirect, macro, and Java API workflows.
+|Jamie Malcolm
+
+|- valign=&quot;top&quot;
 |'''3Dscript'''
 |https://romulus.oice.uni-erlangen.de/updatesite/
 |3Dscript is a plugin animating 3D/4D microscopy data using a natural-language-based syntax.
