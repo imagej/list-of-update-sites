@@ -3203,6 +3203,16 @@ sites:
       - "[Ilan Theodoro](mailto:ilan.silva@czbiohub.org)"
       - "[Jordao Bragantini](mailto:jordao.bragantini@czbiohub.org)"
 
+  - name: "UNIGE-Biochem"
+    id: "unige-biochem"
+    url: "https://sites.imagej.net/UNIGE-Biochem/"
+    description: >-
+      [UNIGE-Biochem](https://imagej.net/update-sites/unige-biochem) contains
+      a set of plugins developed and maintained at the University of Geneva - 
+      ABBA, Warpy, BDV-Playground...
+    maintainers:
+      - "[Nicolas Chiaruttini](mailto:nicolas.chiaruttini@unige.ch)"
+
   - name: "Vale lab plugins"
     id: "Nico"
     url: "https://sites.imagej.net/Nico/"
