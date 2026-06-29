@@ -1898,6 +1898,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Ilan Theodoro, Jordao Bragantini
 
 |- valign=&quot;top&quot;
+|'''UNIGE-Biochem'''
+|http://sites.imagej.net/UNIGE-Biochem/
+|UNIGE-Biochem contains a set of plugins developed and maintained at the University of Geneva -  ABBA, Warpy, BDV-Playground...
+|Nicolas Chiaruttini
+
+|- valign=&quot;top&quot;
 |'''Vale lab plugins'''
 |http://sites.imagej.net/Nico/
 |Plugins useful to the Vale lab: Saim, spot intensity analysis, spot counter.
