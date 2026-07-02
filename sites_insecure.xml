@@ -504,6 +504,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Cookbook Team
 
 |- valign=&quot;top&quot;
+|'''CopilotJ'''
+|http://sites.imagej.net/CopilotJ/
+|A Conversational Multi-agent System for Intelligent and Efficient Bioimage Analysis
+|Zexin Yuan, Zhaoqi Lu
+
+|- valign=&quot;top&quot;
 |'''CSBDeep'''
 |http://sites.imagej.net/CSBDeep/
 |Plugins for executing pretrained CARE networks.

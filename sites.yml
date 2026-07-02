@@ -732,6 +732,16 @@ sites:
     maintainers:
       - "[Cookbook Team](https://imagej.net/imaging#Credits)"
 
+  - name: "CopilotJ"
+    id: "CopilotJ"
+    url: "https://sites.imagej.net/CopilotJ/"
+    description: >-
+      A Conversational Multi-agent System for Intelligent and Efficient
+      Bioimage Analysis
+    maintainers:
+      - "[Zexin Yuan](https://github.com/yzx9)"
+      - "[Zhaoqi Lu](https://github.com/00JackLu)"
+
   - name: "CSBDeep"
     id: "CSBDeep"
     url: "https://sites.imagej.net/CSBDeep/"
