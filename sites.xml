@@ -1170,6 +1170,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Cedric Messaoudi
 
 |- valign=&quot;top&quot;
+|'''MIC-Learning'''
+|https://sites.imagej.net/MIC-Learning/
+|[MIC-Learning] (https://github.com/MultimodalImagingCenter/MIC-Learning) is a plugin designed to run deep learning models  on microscopy images. Built on top of DJL and Appose libraries, it supports a wide range of model formats.  The plugin provides dedicated modules for popular architectures such as YOLO, DETR, and SAM2,  and is also compatible with U-Net-based models (including some from BioImageZoo), as well as custom CNN and MLP models. The repository includes example models and datasets for easy testing and validation.  MIC-Learning allows users to apply these models to both image stacks and individual frames,  offering a flexible and powerful tool for integrating AI into microscopy analysis workflows.  The GUI MIC-Learner provides sample images, models, and usage examples to help users get started quickly.
+|Cedric Messaoudi
+
+|- valign=&quot;top&quot;
 |'''MIC-MAQ'''
 |https://sites.imagej.net/MIC-MAQ/
 |[MIC-MAQ] (https://github.com/MultimodalImagingCenter/MIC-MAQ) is a plugin for automatic segmentation of nuclei and/or cells for quantifications in other channels including foci detection. MIC-MAQ automatically segments cells and/or nuclei on 2D microscopy images using thresholding or deep-learning approaches. It takes Z-stack but works only on 2D projection. It provides intensity based and/or morphological measurements in nuclei and/or cells in multi channels experiment. The plugin propose the foci/spots detection inside nuclei/cells. the plugins works on all images present in working directory (any image format that can be read by bioformat).
