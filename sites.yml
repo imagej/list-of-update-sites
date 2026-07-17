@@ -1037,6 +1037,16 @@ sites:
     maintainers:
       - "Petr Sokolov"
 
+  - name: "Fiji-Cellpose"
+    id: "Fiji-Cellpose"
+    url: "https://sites.imagej.net/Fiji-Cellpose/"
+    description: >-
+      Running [Cellpose](https://www.cellpose.org/) in Fiji through [Appose](https://github.com/apposed/appose).
+    maintainers:
+      - "Gaelle Letort"
+      - "Stephane Rigaud"
+      - "Jean-Yves Tinevez"
+
   - name: "Filopodyan"
     id: "Rb7777"
     url: "https://sites.imagej.net/Rb7777/"
