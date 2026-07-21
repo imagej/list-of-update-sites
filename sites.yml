@@ -1069,6 +1069,21 @@ sites:
       - "[Julian Ferres](mailto:jferres@fi.uba.ar)"
       - "[Franco Giordano](mailto:fgiordano@fi.uba.ar)"
 
+  - name: "FLASH"
+    id: "FLASH"
+    url: "https://sites.imagej.net/FLASH/"
+    description: >-
+      [FLASH](https://github.com/Jay2owe/FLASH) is an ImageJ/Fiji pipeline for
+      batch analysis of multichannel fluorescence microscopy, covering channel
+      setup and ROIs, preprocessing, fluorescence intensity, 3D object
+      segmentation, spatial statistics, and morphometry. It accepts
+      Bio-Formats-readable microscopy files and TIFF stacks, provides
+      interactive parameter previews for thresholding, filtering, StarDist,
+      and Cellpose, and exports quality-control images, per-object and project
+      tables, statistics, run records, and Excel summaries.
+    maintainers:
+      - "[Jamie Malcolm](https://github.com/Jay2owe)"
+
   - name: "FLIMJ"
     id: "FLIMJ"
     url: "https://sites.imagej.net/FLIMJ/"
