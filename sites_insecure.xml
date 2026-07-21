@@ -678,6 +678,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Petr Sokolov
 
 |- valign=&quot;top&quot;
+|'''Fiji-Cellpose'''
+|http://sites.imagej.net/Fiji-Cellpose/
+|Running Cellpose in Fiji through Appose.
+|Gaelle Letort, Stephane Rigaud, Jean-Yves Tinevez
+
+|- valign=&quot;top&quot;
 |'''Filopodyan'''
 |http://sites.imagej.net/Rb7777/
 |Filopodia dynamics analysis. See GitHub for the user guide, source code and R scripts for downstream analysis.
