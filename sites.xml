@@ -696,6 +696,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Julian Ferres, Franco Giordano
 
 |- valign=&quot;top&quot;
+|'''FLASH'''
+|https://sites.imagej.net/FLASH/
+|FLASH is an ImageJ/Fiji pipeline for batch analysis of multichannel fluorescence microscopy, covering channel setup and ROIs, preprocessing, fluorescence intensity, 3D object segmentation, spatial statistics, and morphometry. It accepts Bio-Formats-readable microscopy files and TIFF stacks, provides interactive parameter previews for thresholding, filtering, StarDist, and Cellpose, and exports quality-control images, per-object and project tables, statistics, run records, and Excel summaries.
+|Jamie Malcolm
+
+|- valign=&quot;top&quot;
 |'''FLIMJ'''
 |https://sites.imagej.net/FLIMJ/
 |FLIMJ is a plugin for analyzing FLIM data in ImageJ, using the FLIMLib library. Requires Fiji-Latest.
