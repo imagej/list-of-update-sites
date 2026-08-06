@@ -571,9 +571,9 @@ sites:
       It classifies objects as coincident when their centroid falls inside a
       segmented object in another channel, and reports the reciprocal
       'contains' relationship for matched objects. CPC works with label images
-      or ROI sets from any segmentation workflow, supports 2-5 channels, uses
-      regex-based image search and grouping for batch operations, and produces
-      pairwise, bidirectional, multi-target colocalization, and batch summaries.
+      or ROI sets from any segmentation workflow, uses regex-based image search
+      and grouping for batch operations, and produces pairwise, bidirectional,
+      multi-target colocalization, and batch summaries.
     maintainers:
       - "[Jamie Malcolm](https://github.com/Jay2owe)"
 
