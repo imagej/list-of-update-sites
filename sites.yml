@@ -1041,7 +1041,7 @@ sites:
     id: "FigurePanelBuilder"
     url: "https://sites.imagej.net/FigurePanelBuilder/"
     description: >-
-      [Figure Panel Builder](https://github.com/Jay2owe/FigurePanelBuilder) is a
+      [Figure Panel Builder](https://imagej.net/plugins/figure-panel-builder) is a
       visual ImageJ/Fiji workflow for assembling publication figures from
       folders and multi-series LIF containers while keeping channel appearance
       comparable across groups. Representative-section guidance and an
