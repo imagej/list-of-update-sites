@@ -2598,16 +2598,14 @@ sites:
 
   - name: "ReadPlate"
     id: "ReadPlate"
-    url: "https://sites.imagej.net/ReadPlate/"
+    url: "https://ghanerka.github.io/ReadPlate/"
     description: >-
-      This macro measures absorbance values from an image of a multi-well
-      plate. ReadPlate 3.0 version incorporates the capability of reading
-      multi-well plates of 6 (3x2), 12 (4x3), 24 (6x4), 48 (8x6) and 96 (12x8)
-      wells. An new user-friendly interface facilitates image analysis. This
-      version allows new user-defined features to optimize blank correction.
-      Multiple readings of the same plate has also considerably been
-      facilitated, appending the full parameter file to the results and log
-      file.
+      [ReadPlate 3.0](https://github.com/ghanerka/ReadPlate) measures absorbance
+      values from an image of a multi-well plate. It supports 6 (3x2), 12
+      (4x3), 24 (6x4), 48 (8x6), and 96 (12x8) well plates. A user-friendly
+      interface facilitates image analysis, including user-defined features to
+      optimize blank correction and repeated readings of the same plate. The
+      full parameter record is appended to the results and log.
     maintainers:
       - "José María Delfino (delfino@qb.ffyb.uba.ar)"
 
