@@ -2852,7 +2852,16 @@ sites:
       3D segmentation and morphometry of mitotic spindles
     maintainers:
       - "Christian Tischer"
-
+      
+  - name: "SPOOL"
+    id: "SPOOL"
+    url: "https://sites.imagej.net/SPOOL/"
+    description: >-
+      SPOOL enables photon-efficient quantitative imaging through spatial
+      pooling of PSF-distributed photon information.
+    maintainers:
+      - "[Wonsang Hwang](https://github.com/Wonsang7)"
+      
   - name: "StarDist"
     id: "StarDist"
     url: "https://sites.imagej.net/StarDist/"

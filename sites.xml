@@ -1712,6 +1712,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Christian Tischer
 
 |- valign=&quot;top&quot;
+|'''SPOOL'''
+|https://sites.imagej.net/SPOOL/
+|SPOOL enables photon-efficient quantitative imaging through spatial pooling of PSF-distributed photon information.
+|Wonsang Hwang
+
+|- valign=&quot;top&quot;
 |'''StarDist'''
 |https://sites.imagej.net/StarDist/
 |Object Detection with Star-convex Shapes
