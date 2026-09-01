@@ -127,7 +127,7 @@ sites:
     id: "3DObjectsCounter-StarDist"
     url: "https://sites.imagej.net/3DObjectsCounter-StarDist/"
     description: >-
-      [3D Objects Counter - StarDist](https://github.com/Jay2owe/3DObjectsCounter-StarDist)
+      [3D Objects Counter - StarDist](https://imagej.net/plugins/3d-objects-counter-stardist)
       offers StarDist-powered 3D object analysis for images where conventional
       thresholding can merge touching objects. StarDist detects objects
       independently on each Z slice, TrackMate links them into complete 3D
