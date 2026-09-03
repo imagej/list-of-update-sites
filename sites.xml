@@ -714,6 +714,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Edward Evans, Curtis Rueden
 
 |- valign=&quot;top&quot;
+|'''FLIMKit-Bridge'''
+|https://sites.imagej.net/FLIMKit-Bridge/
+|Direct image and ROI exchange between FLIMKit and Fiji (ImageJ). Requires the flimkit-bridge local HTTP server to be running alongside the Fiji plugin. Provides commands to connect to FLIMKit, open FLIM files, fetch images and ROIs, fit lifetime data, and create phasor plots.
+|Alex Hunt
+
+|- valign=&quot;top&quot;
 |'''FlyReg'''
 |https://sites.imagej.net/FlyReg/
 |FlyReg is a plugin for the 3D registration of fly (drosophila) embryos.
