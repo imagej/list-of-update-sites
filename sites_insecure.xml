@@ -138,6 +138,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Thomas Boudier
 
 |- valign=&quot;top&quot;
+|'''3D Objects Counter - StarDist'''
+|http://sites.imagej.net/3DObjectsCounter-StarDist/
+|3D Objects Counter - StarDist offers StarDist-powered 3D object analysis for images where conventional thresholding can merge touching objects. StarDist detects objects independently on each Z slice, TrackMate links them into complete 3D objects, and the plugin generates measurements, label images, visual maps, and reproducible batch outputs.
+|Jamie Malcolm
+
+|- valign=&quot;top&quot;
 |'''3D Objects Counter+'''
 |http://sites.imagej.net/3DObjectsCounterPlus/
 |3D Objects Counter+ is a Fiji/ImageJ plugin for counting and measuring thresholded 3D objects in image stacks. It extends the native 3D Objects Counter workflow with fixed min/max filters for volume, sphericity, compactness, elongation, surface area, Feret diameter, and intensity, while keeping familiar threshold, size, map, statistics, measurement redirect, macro, and Java API workflows.
@@ -398,7 +404,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''Centre-Particle Coincidence (CPC)'''
 |http://sites.imagej.net/Center-Particle-Coincidence/
-|Centre-Particle Coincidence is an ImageJ/Fiji plugin for object-based colocalization of segmented objects. It classifies objects as coincident when their centroid falls inside a segmented object in another channel, and reports the reciprocal 'contains' relationship for matched objects. CPC works with label images or ROI sets from any segmentation workflow, supports 2-5 channels, uses regex-based image search and grouping for batch operations, and produces pairwise, bidirectional, multi-target colocalization, and batch summaries.
+|Centre-Particle Coincidence is an ImageJ/Fiji plugin for object-based colocalization of segmented objects. It classifies objects as coincident when their centroid falls inside a segmented object in another channel, and reports the reciprocal 'contains' relationship for matched objects. CPC works with label images or ROI sets from any segmentation workflow, uses regex-based image search and grouping for batch operations, and produces pairwise, bidirectional, multi-target colocalization, and batch summaries.
 |Jamie Malcolm
 
 |- valign=&quot;top&quot;
@@ -676,6 +682,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |http://sites.imagej.net/FibrilJ/
 |Macros developed to measure the diameters and persistence lengths if amyloids fibrils by AFM, EM, STM etc. iamges. It provides histogram distribution of the average fibril diameter and average fibril persistence length. Was validated for AFM, SEM and TEM images of Sup35NM fibrils on mica, silicon, gold surfaces and formvar film.
 |Petr Sokolov
+
+|- valign=&quot;top&quot;
+|'''Figure Panel Builder'''
+|http://sites.imagej.net/FigurePanelBuilder/
+|Figure Panel Builder is a visual ImageJ/Fiji workflow for assembling publication figures from folders and multi-series LIF containers while keeping channel appearance comparable across groups. Representative-section guidance and an all-channel, section-level quantification view support image choice, while a zoomable canvas lets users rotate and flip images and directly edit labels, scale bars, and annotations. It exports PNG, TIFF, editable SVG, full-resolution panels, and auditable metadata and methods records.
+|Jamie Malcolm
 
 |- valign=&quot;top&quot;
 |'''Fiji-Cellpose'''
