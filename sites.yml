@@ -2336,19 +2336,21 @@ sites:
     maintainers:
       - "Axel Poulet, Genetic Reproduction and Development lab, Clermont-Ferrand, France"
 
-  - name: "OME-Zarr PREVIEW"
-    id: "OME-Zarr-PREVIEW"
-    url: "https://sites.imagej.net/OME-Zarr-PREVIEW/"
-    description: >-
-      This update site brings some more access patterns to create, read and write
-      [NGFF OME-Zarr](https://ngff.openmicroscopy.org/latest/) files in Fiji.
-      In particularly, support is provided for the drag-and-drop into Fiji,
-      [scripting in Fiji](https://imagej.net/scripting/) (especially reading-out
-      and writing-in portions of large datasets), and for
-      [Labkit](https://imagej.net/plugins/labkit/).
-    maintainers:
-      - "[Stefan Hahmann](https://imagej.net/people/stefanhahmann)"
-      - "[Vladimír Ulman](https://imagej.net/people/xulman)"
+   - name: "OME-Zarr"                                                                                                                                                                                              
+      id: "OME-Zarr"                                                                                                                                                                                                
+      url: "https://sites.imagej.net/OME-Zarr/"                                                                                                                                                                     
+      description: >-                                                                                                                                                                                               
+        Opens [NGFF OME-Zarr](https://ngff.openmicroscopy.org/latest/) v0.3–v0.5 datasets                                                                                                                           
+        in Fiji by drag & drop, by pasting a URI (local path, http(s) or `s3://`),                                                                                                                                  
+        via `File > Import > OME-Zarr...`, or through a `fiji://` link. Images can be                                                                                                                               
+        shown in ImageJ at a chosen resolution level or as a multi-resolution source in                                                                                                                             
+        [BigDataViewer](https://imagej.net/plugins/bdv/), with channel names, colors and                                                                                                                            
+        contrast limits taken from the OME-Zarr metadata. Datasets stay switchable between                                                                                                                          
+        the two views without re-opening, and are also available to macros and scripts.                                                                                                                             
+        See the [documentation](https://github.com/BioImageTools/ome-zarr-fiji-java).                                                                                                                               
+      maintainers:                                                                                                                                                                                                  
+        - "[Stefan Hahmann](https://imagej.net/people/stefanhahmann)"                                                                                                                                               
+        - "[Vladimír Ulman](https://imagej.net/people/xulman)" 
 
   - name: "OMERO 5.0"
     id: "OMERO-5.0"
