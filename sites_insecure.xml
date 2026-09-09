@@ -1398,9 +1398,9 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Axel Poulet, Genetic Reproduction and Development lab, Clermont-Ferrand, France
 
 |- valign=&quot;top&quot;
-|'''OME-Zarr PREVIEW'''
-|http://sites.imagej.net/OME-Zarr-PREVIEW/
-|This update site brings some more access patterns to create, read and write NGFF OME-Zarr files in Fiji. In particularly, support is provided for the drag-and-drop into Fiji, scripting in Fiji (especially reading-out and writing-in portions of large datasets), and for Labkit.
+|'''OME-Zarr'''
+|http://sites.imagej.net/OME-Zarr/
+|Opens NGFF OME-Zarr v0.3–v0.5 datasets in Fiji by drag &amp; drop, by pasting a URI (local path, http(s) or s3://), via File &gt; Import &gt; OME-Zarr..., or through a fiji:// link. Images can be shown in ImageJ at a chosen resolution level or as a multi-resolution source in BigDataViewer, with channel names, colors and contrast limits taken from the OME-Zarr metadata. Datasets stay switchable between the two views without re-opening, and are also available to macros and scripts. See the documentation.
 |Stefan Hahmann, Vladimír Ulman
 
 |- valign=&quot;top&quot;
