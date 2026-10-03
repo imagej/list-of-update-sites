@@ -216,6 +216,14 @@ sites:
     maintainers:
       - "[AMPT Developers](mailto:ampt-dev@allenai.org)"
 
+  - name: "AnDi-J"
+    id: "AnDi.J"
+    url: "https://sites.imagej.net/AnDi-J/"
+    description: >-
+      [ANDi-J](https://github.com/gorkamunoz/andi-j/wiki) is a plugin for diffusion trajectory analysis and segmentation.
+    maintainers:
+      - "[Gorka Muñoz-Gil](mailto:munoz.gil.gorka@gmail.com)"
+
   - name: "Angiogenesis"
     id: "Angiogenesis"
     url: "https://sites.imagej.net/Angiogenesis/"
