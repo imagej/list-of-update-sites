@@ -192,6 +192,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |AMPT Developers
 
 |- valign=&quot;top&quot;
+|'''AnDi-J'''
+|http://sites.imagej.net/AnDi-J/
+|ANDi-J is a plugin for diffusion trajectory analysis and segmentation.
+|Gorka Muñoz-Gil
+
+|- valign=&quot;top&quot;
 |'''Angiogenesis'''
 |http://sites.imagej.net/Angiogenesis/
 |A plugin to quantify angiogenic sprout morphology.
