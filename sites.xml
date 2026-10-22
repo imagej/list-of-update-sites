@@ -510,6 +510,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Gabriel Landini
 
 |- valign=&quot;top&quot;
+|'''Confocal-Workflows'''
+|https://sites.imagej.net/Confocal-Workflows/
+|Guided workflows for confocal image analysis: deconvolution, cell intensity, mitochondria, protein import, aggregates and organelle contacts. Source and documentation.
+|Vishal Sah
+
+|- valign=&quot;top&quot;
 |'''Cookbook'''
 |https://sites.imagej.net/Cookbook/
 |Plugins from the Cookbook.

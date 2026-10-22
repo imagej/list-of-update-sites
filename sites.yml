@@ -746,6 +746,16 @@ sites:
     maintainers:
       - "[Gabriel Landini](https://imagej.net/people/landinig)"
 
+  - name: "Confocal-Workflows"
+    id: "Confocal-Workflows"
+    url: "https://sites.imagej.net/Confocal-Workflows/"
+    description: >-
+      Guided workflows for confocal image analysis: deconvolution, cell
+      intensity, mitochondria, protein import, aggregates and organelle
+      contacts. [Source and documentation](https://github.com/vishal9045/fiji-confocal-workflows).
+    maintainers:
+      - "[Vishal Sah](https://github.com/vishal9045)"
+
   - name: "Cookbook"
     id: "Cookbook"
     url: "https://sites.imagej.net/Cookbook/"
