@@ -1470,6 +1470,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Rhodri Wilson
 
 |- valign=&quot;top&quot;
+|'''Panamage'''
+|https://sites.imagej.net/Panamage/
+|Opens and saves JPEG XL files (.jxl) with File &gt; Open, drag &amp; drop and File &gt; Save As &gt; JPEG XL..., lossless (bit-exact) or lossy. Keeps channels, slices and time points, calibration, LUTs, display ranges, slice labels and the info text. Needs Fiji with Java 21 (Fiji "latest"). See the documentation.
+|Stefan Zobel
+
+|- valign=&quot;top&quot;
 |'''ParticleSizer'''
 |https://sites.imagej.net/Ndef-psizer/
 |A plugin to derive number based size distributions from TEM images.

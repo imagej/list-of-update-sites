@@ -2458,6 +2458,19 @@ sites:
     maintainers:
       - "[Rhodri Wilson](mailto:rhodri.wilson@oncology.ox.ac.uk)"
 
+  - name: "Panamage"
+    id: "Panamage"
+    url: "https://sites.imagej.net/Panamage/"
+    description: >-
+      Opens and saves [JPEG XL](https://jpeg.org/jpegxl/) files (`.jxl`) with
+      File > Open, drag & drop and `File > Save As > JPEG XL...`, lossless
+      (bit-exact) or lossy. Keeps channels, slices and time points, calibration,
+      LUTs, display ranges, slice labels and the info text. Needs Fiji with
+      Java 21 (Fiji "latest"). See the
+      [documentation](https://github.com/stefan-zobel/panamage#imagej-and-fiji).
+    maintainers:
+      - "[Stefan Zobel](https://github.com/stefan-zobel)"
+
   - name: "ParticleSizer"
     id: "Ndef-psizer"
     url: "https://sites.imagej.net/Ndef-psizer/"
