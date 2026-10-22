@@ -1500,6 +1500,18 @@ sites:
     maintainers:
       - "[Yu Liu](https://imagej.net/people/ohliumliu)"
 
+  - name: "ImageJ-AI"
+    id: "ImageJ-AI"
+    url: "https://sites.imagej.net/ImageJ-AI/"
+    description: >-
+      [ImageJ-AI](https://github.com/Jay2owe/ImageJAI) lets Fiji users describe
+      image analysis in plain language, choose cloud or local AI models, and
+      supervise the results. Its embedded assistant and standalone console
+      provide direct Fiji tools, live image state, dialog interaction and
+      reusable session macros.
+    maintainers:
+      - "[Jamie Malcolm](https://github.com/Jay2owe)"
+
   - name: "ImageJ-ITK"
     id: "ImageJ-ITK"
     url: "https://sites.imagej.net/ImageJ-ITK/"
@@ -1522,18 +1534,6 @@ sites:
       [scripting tutorial](https://imagej.net/scripting/matlab) for more information.
     maintainers:
       - "[Mark Hiner](https://imagej.net/people/hinerm)"
-
-  - name: "ImageJAI"
-    id: "ImageJ-AI"
-    url: "https://sites.imagej.net/ImageJ-AI/"
-    description: >-
-      [ImageJAI](https://github.com/Jay2owe/ImageJAI) lets Fiji users describe
-      image analysis in plain language, choose cloud or local AI models, and
-      supervise the results. Its embedded assistant and standalone console
-      provide direct Fiji tools, live image state, dialog interaction and
-      reusable session macros.
-    maintainers:
-      - "[Jamie Malcolm](https://github.com/Jay2owe)"
 
   - name: "ImageScience"
     id: "ImageScience"
