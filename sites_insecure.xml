@@ -942,6 +942,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Yu Liu
 
 |- valign=&quot;top&quot;
+|'''ImageJ-AI'''
+|http://sites.imagej.net/ImageJ-AI/
+|ImageJ-AI lets Fiji users describe image analysis in plain language, choose cloud or local AI models, and supervise the results. Its embedded assistant and standalone console provide direct Fiji tools, live image state, dialog interaction and reusable session macros.
+|Jamie Malcolm
+
+|- valign=&quot;top&quot;
 |'''ImageJ-ITK'''
 |http://sites.imagej.net/ImageJ-ITK/
 |Adds ITK integration including conversion between ITK and ImageJ images. See the ITK page for more information.
