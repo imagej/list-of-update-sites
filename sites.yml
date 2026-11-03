@@ -1084,16 +1084,6 @@ sites:
     maintainers:
       - "[Jamie Malcolm](https://github.com/Jay2owe)"
 
-  - name: "Fiji-Cellpose"
-    id: "Fiji-Cellpose"
-    url: "https://sites.imagej.net/Fiji-Cellpose/"
-    description: >-
-      Running [Cellpose](https://www.cellpose.org/) in Fiji through [Appose](https://github.com/apposed/appose).
-    maintainers:
-      - "Gaelle Letort"
-      - "Stephane Rigaud"
-      - "Jean-Yves Tinevez"
-
   - name: "Fiji AI Connect (Preview)"
     id: "fiji-ai-connect"
     url: "https://sites.imagej.net/Fiji-chat/"
@@ -1104,6 +1094,16 @@ sites:
       Fiji](https://fiji.sc/).
     maintainers:
       - "[Mark Hiner-Weir](https://imagej.net/people/hinerm)"
+
+  - name: "Fiji-Cellpose"
+    id: "Fiji-Cellpose"
+    url: "https://sites.imagej.net/Fiji-Cellpose/"
+    description: >-
+      Running [Cellpose](https://www.cellpose.org/) in Fiji through [Appose](https://github.com/apposed/appose).
+    maintainers:
+      - "Gaelle Letort"
+      - "Stephane Rigaud"
+      - "Jean-Yves Tinevez"
 
   - name: "Filopodyan"
     id: "Rb7777"
