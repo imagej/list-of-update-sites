@@ -702,16 +702,16 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Jamie Malcolm
 
 |- valign=&quot;top&quot;
+|'''Fiji AI Connect (Preview)'''
+|http://sites.imagej.net/Fiji-chat/
+|Connect Fiji with your choice of AI assistant through in-app chat or external MCP client. See GitHub for current documentation. Requires Latest distribution of Fiji.
+|Mark Hiner-Weir
+
+|- valign=&quot;top&quot;
 |'''Fiji-Cellpose'''
 |http://sites.imagej.net/Fiji-Cellpose/
 |Running Cellpose in Fiji through Appose.
 |Gaelle Letort, Stephane Rigaud, Jean-Yves Tinevez
-
-|- valign=&quot;top&quot;
-|'''Fiji-chat'''
-|http://sites.imagej.net/Fiji-chat/
-|Fiji AI integration, including in-app chat and MCP server. Requires Latest distribution of Fiji.
-|Mark Hiner-Weir
 
 |- valign=&quot;top&quot;
 |'''Filopodyan'''
