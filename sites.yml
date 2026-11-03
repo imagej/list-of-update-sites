@@ -1094,6 +1094,16 @@ sites:
       - "Stephane Rigaud"
       - "Jean-Yves Tinevez"
 
+  - name: "Fiji-chat"
+    id: "Fiji-chat"
+    url: "https://sites.imagej.net/Fiji-chat/"
+    description: >-
+      [Fiji AI integration](https://github.com/fiji/fiji-llm), including in-app
+      chat and MCP server. Requires [**Latest** distribution of
+      Fiji](https://fiji.sc/).
+    maintainers:
+      - "[Mark Hiner-Weir](https://imagej.net/people/hinerm)"
+
   - name: "Filopodyan"
     id: "Rb7777"
     url: "https://sites.imagej.net/Rb7777/"
