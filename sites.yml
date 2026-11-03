@@ -1551,7 +1551,7 @@ sites:
       [ImageJ](https://github.com/imagej/imagej-matlab) components. See the
       [scripting tutorial](https://imagej.net/scripting/matlab) for more information.
     maintainers:
-      - "[Mark Hiner](https://imagej.net/people/hinerm)"
+      - "[Mark Hiner-Weir](https://imagej.net/people/hinerm)"
 
   - name: "ImageScience"
     id: "ImageScience"
@@ -2426,7 +2426,7 @@ sites:
       The [OMERO](https://openmicroscopy.org/info/omero) update site for
       [bidirectional integration between ImageJ and OMERO 5.5.x and 5.6.x](https://github.com/imagej/imagej-omero).
     maintainers:
-      - "[Mark Hiner](https://imagej.net/people/hinerm)"
+      - "[Mark Hiner-Weir](https://imagej.net/people/hinerm)"
       - "[Curtis Rueden](https://imagej.net/people/ctrueden)"
 
   - name: "OpenMIMS"
@@ -2822,7 +2822,7 @@ sites:
     maintainers:
       - "[Gabriel Selzer](https://imagej.net/people/gselzer)"
       - "[Curtis Rueden](https://imagej.net/people/ctrueden)"
-      - "[Mark Hiner](https://imagej.net/people/hinerm)"
+      - "[Mark Hiner-Weir](https://imagej.net/people/hinerm)"
 
   - name: "sciview"
     id: "sciview"
