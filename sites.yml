@@ -361,6 +361,16 @@ sites:
     maintainers:
       - "[Christian Tischer](mailto:christian.tischer@embl.de)"
 
+  - name: "BiaPy"
+    id: "BiaPyX"
+    url: "https://sites.imagej.net/BiaPyX/"
+    description: >-
+      [BiaPy](https://imagej.net/plugins/biapy) brings deep-learning
+      bioimage analysis (segmentation, detection, denoising, super-resolution,
+      classification...) to Fiji, including BioImage Model Zoo models.
+    maintainers:
+      - "[BiaPy team](https://github.com/BiaPyX)"
+
   - name: "BIG-EPFL"
     id: "BIG-EPFL"
     url: "https://sites.imagej.net/BIG-EPFL/"
