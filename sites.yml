@@ -567,6 +567,16 @@ sites:
     maintainers:
       - "[Erick Martins Ratamero](mailto:e.martins-ratamero.1@warwick.ac.uk)"
 
+  - name: "Canon CR3 Sensor Importer"
+    id: "Canon-CR3-Sensor-Importer"
+    url: "https://carstenartur.github.io/Photographer/fiji/cr3/"
+    description: >-
+      [Canon CR3 Sensor Importer](https://imagej.net/plugins/canon-cr3-sensor-importer)
+      imports native Bayer sensor values from supported Canon RAW and C-RAW files into Fiji.
+      Requires Java 21 or later.
+    maintainers:
+      - "[Carsten Hammer](https://github.com/carstenartur)"
+
   - name: "CATS"
     id: "CATS"
     url: "https://sites.imagej.net/CATS/"
