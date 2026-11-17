@@ -396,6 +396,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Erick Martins Ratamero
 
 |- valign=&quot;top&quot;
+|'''Canon CR3 Sensor Importer'''
+|https://carstenartur.github.io/Photographer/fiji/cr3/
+|Canon CR3 Sensor Importer imports native Bayer sensor values from supported Canon RAW and C-RAW files into Fiji. Requires Java 21 or later.
+|Carsten Hammer
+
+|- valign=&quot;top&quot;
 |'''CATS'''
 |http://sites.imagej.net/CATS/
 |Context Aware Trainable Segmentation CATS
