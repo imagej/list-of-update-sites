@@ -784,6 +784,18 @@ sites:
       - "[Zexin Yuan](https://github.com/yzx9)"
       - "[Zhaoqi Lu](https://github.com/00JackLu)"
 
+  - name: "CPMM"
+    id: "CPMM"
+    url: "https://sites.imagej.net/CPMM/"
+    description: >-
+      Plugins and image analysis tools developed by CPMM for microscopy and
+      mechanobiology workflows. Currently provides
+      [MechanoQuant](https://imagej.net/plugins/mechano-quant), a Fiji plugin
+      for semi-automated cell segmentation in RICM images and ROI-based
+      measurements in RICM or paired fluorescence images.
+    maintainers:
+      - "[Will Dean](https://github.com/will-f-dean-36)"
+
   - name: "CSBDeep"
     id: "CSBDeep"
     url: "https://sites.imagej.net/CSBDeep/"
