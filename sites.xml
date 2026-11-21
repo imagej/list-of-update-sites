@@ -818,7 +818,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''FRETENATOR'''
 |https://sites.imagej.net/FRETENATOR/
-|Fiji plugins for segmentation, quantification and ratiometric analysis of FRET  biosensors. Includes a live updating GUI interface, a headless mode, a batch mode,  object labelling, object classifier training and application and Trackmate 7 integration.
+|Fiji plugins for segmentation, quantification and ratiometric analysis of FRET biosensors. Includes a live updating GUI interface, a headless mode, a batch mode, object labelling, object classifier training and application and Trackmate 7 integration.
 |Jim Rowe
 
 |- valign=&quot;top&quot;
@@ -860,7 +860,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''GreenLeafVI'''
 |https://sites.imagej.net/GreenLeafVI/
-|Tools for estimating leaf chlorophyll content based on RGB values. Images can be colour calibrated using a white reference surface. The plugin contains an automated background segmentation tool and can calculate different  vegetation or visbile indices that correlate to chlorophyll content. For a complete description  (https://github.com/jelmervanlieshout/GreenLeafVI).
+|Tools for estimating leaf chlorophyll content based on RGB values. Images can be colour calibrated using a white reference surface. The plugin contains an automated background segmentation tool and can calculate different vegetation or visbile indices that correlate to chlorophyll content. For a complete description (https://github.com/jelmervanlieshout/GreenLeafVI).
 |Jelmer van Lieshout
 
 |- valign=&quot;top&quot;
@@ -1244,7 +1244,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''MIC-Learning'''
 |https://sites.imagej.net/MIC-Learning/
-|[MIC-Learning] (https://github.com/MultimodalImagingCenter/MIC-Learning) is a plugin designed to run deep learning models  on microscopy images. Built on top of DJL and Appose libraries, it supports a wide range of model formats.  The plugin provides dedicated modules for popular architectures such as YOLO, DETR, and SAM2,  and is also compatible with U-Net-based models (including some from BioImageZoo), as well as custom CNN and MLP models. The repository includes example models and datasets for easy testing and validation.  MIC-Learning allows users to apply these models to both image stacks and individual frames,  offering a flexible and powerful tool for integrating AI into microscopy analysis workflows.  The GUI MIC-Learner provides sample images, models, and usage examples to help users get started quickly.
+|[MIC-Learning] (https://github.com/MultimodalImagingCenter/MIC-Learning) is a plugin designed to run deep learning models on microscopy images. Built on top of DJL and Appose libraries, it supports a wide range of model formats. The plugin provides dedicated modules for popular architectures such as YOLO, DETR, and SAM2, and is also compatible with U-Net-based models (including some from BioImageZoo), as well as custom CNN and MLP models. The repository includes example models and datasets for easy testing and validation. MIC-Learning allows users to apply these models to both image stacks and individual frames, offering a flexible and powerful tool for integrating AI into microscopy analysis workflows. The GUI MIC-Learner provides sample images, models, and usage examples to help users get started quickly.
 |Cedric Messaoudi
 
 |- valign=&quot;top&quot;
@@ -2002,7 +2002,7 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |- valign=&quot;top&quot;
 |'''UNIGE-Biochem'''
 |https://sites.imagej.net/UNIGE-Biochem/
-|UNIGE-Biochem contains a set of plugins developed and maintained at the University of Geneva -  ABBA, Warpy, BDV-Playground...
+|UNIGE-Biochem contains a set of plugins developed and maintained at the University of Geneva - ABBA, Warpy, BDV-Playground...
 |Nicolas Chiaruttini
 
 |- valign=&quot;top&quot;
