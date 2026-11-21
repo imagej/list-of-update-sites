@@ -1,4 +1,4 @@
-[![](https://github.com/imagej/list-of-update-sites/actions/workflows/build-main.yml/badge.svg)](https://github.com/imagej/list-of-update-sites/actions/workflows/build-main.yml)
+[![Deploy Status](https://github.com/imagej/list-of-update-sites/actions/workflows/deploy.yml/badge.svg)](https://github.com/imagej/list-of-update-sites/actions/workflows/deploy.yml)
 
 # List of Update Sites
 
