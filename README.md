@@ -10,7 +10,8 @@ If you want to add, edit, or remove an update site from this list, please create
 
 1. Fork this repository
 2. Modify `sites.yml` in your fork
-3. Create a pull request containing your changes
+3. Optionally, check your changes locally with `.github/lint.sh` (requires `yamllint`)
+4. Create a pull request containing your changes
 
 Before adding a new site, please [create a wiki page](https://imagej.net/editing/):
 
