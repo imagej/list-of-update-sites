@@ -2982,6 +2982,15 @@ sites:
       3D segmentation and morphometry of mitotic spindles
     maintainers:
       - "Christian Tischer"
+
+  - name: "Split Image to Tiles (destitcher)"
+    id: "SplitImagetoTiles"
+    url: "https://sites.imagej.net/SplitImageToTiles/"
+    description: >-
+      Divide an image or stack into a grid of tiles by dimension or quantity
+      with optional overlap.
+    maintainers:
+      - "[Michael La Roche](https://github.com/m-laroche/)"
       
   - name: "SPOOL"
     id: "SPOOL"

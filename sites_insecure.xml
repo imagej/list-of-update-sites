@@ -1778,6 +1778,12 @@ The [[Updater]] has a convenient ''Manage update sites'' dialog that is populate
 |Christian Tischer
 
 |- valign=&quot;top&quot;
+|'''Split Image to Tiles (destitcher)'''
+|http://sites.imagej.net/SplitImageToTiles/
+|Divide an image or stack into a grid of tiles by dimension or quantity with optional overlap.
+|Michael La Roche
+
+|- valign=&quot;top&quot;
 |'''SPOOL'''
 |http://sites.imagej.net/SPOOL/
 |SPOOL enables photon-efficient quantitative imaging through spatial pooling of PSF-distributed photon information.
