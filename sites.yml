@@ -1302,8 +1302,8 @@ sites:
     id: "FRETENATOR"
     url: "https://sites.imagej.net/FRETENATOR/"
     description: >-
-      Fiji plugins for segmentation, quantification and ratiometric analysis of FRET 
-      biosensors. Includes a live updating GUI interface, a headless mode, a batch mode, 
+      Fiji plugins for segmentation, quantification and ratiometric analysis of FRET
+      biosensors. Includes a live updating GUI interface, a headless mode, a batch mode,
       object labelling, object classifier training and application and Trackmate 7 integration.
     maintainers:
       - "[Jim Rowe](https://github.com/JimageJ)"
@@ -1378,8 +1378,8 @@ sites:
     url: "https://sites.imagej.net/GreenLeafVI/"
     description: >-
       Tools for estimating leaf chlorophyll content based on RGB values. Images can be colour calibrated using a white
-      reference surface. The plugin contains an automated background segmentation tool and can calculate different 
-      vegetation or visbile indices that correlate to chlorophyll content. For a complete description 
+      reference surface. The plugin contains an automated background segmentation tool and can calculate different
+      vegetation or visbile indices that correlate to chlorophyll content. For a complete description
       (https://github.com/jelmervanlieshout/GreenLeafVI).
     maintainers:
       - "[Jelmer van Lieshout](mailto:j.van.lieshout@biology.leidenuniv.nl)"
@@ -2061,13 +2061,13 @@ sites:
     id: "MIC-Learning"
     url: "https://sites.imagej.net/MIC-Learning/"
     description: >-
-      [MIC-Learning] (https://github.com/MultimodalImagingCenter/MIC-Learning) is a plugin designed to run deep learning models 
-      on microscopy images. Built on top of DJL and Appose libraries, it supports a wide range of model formats. 
-      The plugin provides dedicated modules for popular architectures such as YOLO, DETR, and SAM2, 
+      [MIC-Learning] (https://github.com/MultimodalImagingCenter/MIC-Learning) is a plugin designed to run deep learning models
+      on microscopy images. Built on top of DJL and Appose libraries, it supports a wide range of model formats.
+      The plugin provides dedicated modules for popular architectures such as YOLO, DETR, and SAM2,
       and is also compatible with U-Net-based models (including some from BioImageZoo), as well as custom CNN and MLP models.
-      The repository includes example models and datasets for easy testing and validation. 
-      MIC-Learning allows users to apply these models to both image stacks and individual frames, 
-      offering a flexible and powerful tool for integrating AI into microscopy analysis workflows. 
+      The repository includes example models and datasets for easy testing and validation.
+      MIC-Learning allows users to apply these models to both image stacks and individual frames,
+      offering a flexible and powerful tool for integrating AI into microscopy analysis workflows.
       The GUI MIC-Learner provides sample images, models, and usage examples to help users get started quickly.
     maintainers:
       - "[Cedric Messaoudi](https://institut-curie.org/platform/curiecoretech-multimodal-imaging-center-uar2016-us43)"
@@ -2991,7 +2991,7 @@ sites:
       with optional overlap.
     maintainers:
       - "[Michael La Roche](https://github.com/m-laroche/)"
-      
+
   - name: "SPOOL"
     id: "SPOOL"
     url: "https://sites.imagej.net/SPOOL/"
@@ -3000,7 +3000,7 @@ sites:
       pooling of PSF-distributed photon information.
     maintainers:
       - "[Wonsang Hwang](https://github.com/Wonsang7)"
-      
+
   - name: "StarDist"
     id: "StarDist"
     url: "https://sites.imagej.net/StarDist/"
@@ -3406,7 +3406,7 @@ sites:
     url: "https://sites.imagej.net/UNIGE-Biochem/"
     description: >-
       [UNIGE-Biochem](https://imagej.net/update-sites/unige-biochem) contains
-      a set of plugins developed and maintained at the University of Geneva - 
+      a set of plugins developed and maintained at the University of Geneva -
       ABBA, Warpy, BDV-Playground...
     maintainers:
       - "[Nicolas Chiaruttini](mailto:nicolas.chiaruttini@unige.ch)"
